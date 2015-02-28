@@ -1,0 +1,56 @@
+/*
+    Copied from:
+    http://type-scale.com/?size=22&scale=1.250&text=A%20Visual%20Type%20Scale&webfont=Alegreya%2BSans%3A300&font-family=%27Alegreya%20Sans%27%2C%20serif&font-weight=300&font-family-headers=&font-weight-headers=inherit&background-color=white&font-color=%23333
+*/
+
+$wanted-font-size: 20px;
+$h1-font-size: 2.441em;
+$h2-font-size: 1.953em;
+$h3-font-size: 1.563em;
+$h4-font-size: 1.25em;
+$small-font-size: 0.8em;
+
+$normal-font-family: "Alegreya Sans", serif;
+$header-font-family: "Miso Regular", "Helvetica Neue", "Arial Light", "Arial", sans-serif;
+
+html {
+    font-size: ($wanted-font-size / 16px) * 1em; // 16px is the base font size
+}
+
+body {
+    font-family: $normal-font-family;
+    font-weight: 300;
+    line-height: 1.45;
+}
+
+p {
+    margin-bottom: 1.3em;
+}
+
+h1, h2, h3, h4 {
+    font-family: $header-font-family;
+    margin: 1.414em 0 0.5em;
+    font-weight: inherit;
+    line-height: 1.2;
+}
+
+h1 {
+    margin-top: 0;
+    font-size: $h1-font-size;
+}
+
+h2 {
+    font-size: $h2-font-size;
+}
+
+h3 {
+    font-size: $h3-font-size;
+}
+
+h4 {
+    font-size: $h4-font-size;
+}
+
+small, .font_small {
+    font-size: $small-font-size;
+}
