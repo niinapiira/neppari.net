@@ -38,7 +38,10 @@ prose:
     - /_sass
     - /assets
     - /css
+    - /fonts
+    - /public
     - .gitignore
+    - 404.html
     - CNAME
     - LICENCE
     - README.md
