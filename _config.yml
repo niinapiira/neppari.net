@@ -30,3 +30,17 @@ github:
 
 sass:
   sass_dir:       css
+
+prose:
+  ignore:
+    - /_includes
+    - /_layouts
+    - /_sass
+    - /assets
+    - /css
+    - .gitignore
+    - CNAME
+    - LICENCE
+    - README.md
+    - _config.yml
+    - neppari.sublime-project
