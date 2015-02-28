@@ -8,16 +8,19 @@ relative_permalinks: true
 
 # Setup
 title:            Neppari
-tagline:          'A Jekyll theme'
-description:      'Neuropsykiatrista valmennusta Tampereella'
+tagline:          'Neuropsykiatrista valmennusta ja ammatillista tukihenkilötoimintaa Tampereella'
+description:      'Neuropsykiatrista valmennusta ja ammatillista tukihenkilötoimintaa Tampereella'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
+  name:           'Niina Piira'
   url:            https://twitter.com/mdo
 
-paginate:         5
+contact:
+  address:        Foobar 1, Tampere
+  phone:          040 555 6666
+  email:          foo@bar.com
 
 # Custom vars
 version:          2.1.0

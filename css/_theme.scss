@@ -1,9 +1,13 @@
-$accent-color: #5e9822;
+$accent-color: #F2CB52;
 
 .sidebar {
   background-color: $accent-color;
 }
 .content a,
 .related-posts li a:hover {
-  color: $accent-color;
+  color: darken($accent-color, 18%);
+}
+
+.sidebar {
+	color: darken($accent-color, 28%);
 }

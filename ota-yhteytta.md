@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: Ota yhteyttä
+navigation-order: 10
 ---
 
 <p class="message">
