@@ -45,5 +45,4 @@ prose:
     - CNAME
     - LICENCE
     - README.md
-    - _config.yml
     - neppari.sublime-project
