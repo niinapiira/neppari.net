@@ -10,7 +10,6 @@ relative_permalinks: true
 title:            Neppari
 tagline:          'Neuropsykiatrista valmennusta ja ammatillista tukihenkilötoimintaa Tampereella'
 description:      'Neuropsykiatrista valmennusta ja ammatillista tukihenkilötoimintaa Tampereella'
-url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
