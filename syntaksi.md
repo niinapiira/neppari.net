@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tietoja valmennuksesta
-navigation-order: 2
+title: Syntaksi
+navigation-order: 100
 ---
 
 ## Otsikko
