@@ -19,6 +19,7 @@ Neppari on paikka, jossa neuropsykiatrisia haasteita kohdanneet nuoret ja aikuis
 ESIMERKKEJÄ VALMENNUKSESTA
 
 Itsenäisyyttä vahvistetaan
+
 * etsimällä yhdessä suuntaa elämälle sekä omaa paikkaa yhteiskunnassa
 * auttamalla tavoitteenasettelussa
 * poistamalla tavoitteen saavuttamisen tieltä rajoitteita
@@ -28,6 +29,7 @@ Itsenäisyyttä vahvistetaan
 * helpottamalla stressiä ja vapauttamalla näin energiaa ongelmien vatvomisen sijaan niiden ratkaisemiseen.
 
 Haasteiden kanssa selviytymistä autetaan
+
 * avaamalla ja ratkaisemalla lamauttavia ongelmavyyhtejä
 * luomalla arkea helpottavaa struktuuria ja rutiinia
 * suunnittelemalla yhdessä ajankäyttöä ja tuomalla elämään ennakointia
@@ -36,6 +38,7 @@ Haasteiden kanssa selviytymistä autetaan
 * osallistamalla asiakkaita omaan elämäänsä, sitä koskevaan päätöksentekoon ja asioiden toimeenpanoon.
 
 Arkeen ja elämään haetaan tarvittaessa tukea mm.
+
 * erilaisista kuntoutusmuodoista
 * terveydenhuollon palveluista
 * työllisyyspalveluista
