@@ -15,8 +15,7 @@ Tarjoan Tampereelta käsin neuropsykiatrista valmennusta nuorille ja aikuisille 
 
 Neppari on paikka, jossa neuropsykiatrisia haasteita kohdanneet nuoret ja aikuiset voivat löytää mielekkään tavan elää omanlaistansa arkea ja toteuttaa itseään. Nepparissa vahvistetaan itsenäistä selviytymistä, autetaan haasteissa joita ei pystytä poistamaan, sekä selvitetään erilaisia vaihtoehtoja arjen ja elämän tueksi. Nepparin tuella voidaan helpottaa vaikeita elämäntilanteita sekä tarjota pitkäaikaista ja kokonaisvaltaista tukea arjen ja konkreettisten asioiden sujumiseen.
 
-
-ESIMERKKEJÄ VALMENNUKSESTA
+## Esimerkkejä valmennuksesta
 
 Itsenäisyyttä vahvistetaan
 
