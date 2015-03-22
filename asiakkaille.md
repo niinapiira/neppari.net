@@ -1,21 +1,28 @@
 ---
 layout: page
 title: Asiakkaille
-navigation-order: 2
+"navigation-order": 2
+published: true
 ---
 
-Neppari tarjoaa neuropsykiatrista valmennusta Tampereelta käsin sekä nuorille että aikuisille nepsy-henkilöille. Nepparin valmennukseen voi hakeutua jokainen nepsy-haasteiden kanssa painiskeleva henkilö, joka haluaa löytää helpotusta elämään ja arkeen, ja joka on valmis työskentelemään paremman elämän puolesta.
+Painiskeletko sinä nepsy-piirteiden mukanaan tuomien haasteiden kanssa?
 
-Nepparin tarkoituksena on tarjota nepsy-haasteiden kanssa elävälle nuorelle ja aikuiselle vahvaa tukea arjessa selviytymiseen ja omanlaisen elämänpolun toteuttamiseen.
-Nepparin tavoitteena on auttaa jokaista löytämään ainekset oman näköiseen ja hyvään elämään, saamaan ymmärrystä sekä hyväksymään itsensä ainutlaatuisena ja arvokkaana yksilönä.
-Nepparissa jokainen kohdataan nepsy-tuntemuksen ja -ymmärryksen kautta, ottaen huomioon erityispiirteet, erityistarpeet sekä niiden luomat haasteet.
-Nepparissa ihminen on ennen kaikkea persoona, joten käytän aikaani ja taitoani tutustuakseni valmennettavan tapaan hahmottaa maailmaa ja elämää.
+Koetko että tarvitset helpotusta jokapäiväiseen elämääsi?
 
-Nepparissa valmennettavan käytössä ovat ratkaisu- ja voimavarakeskeinen työskentelytapani, monipuolinen menetelmäosaamiseni, laaja kokemukseni ja tuntemukseni sosiaalialasta sekä sen palveluista ja tuista, loppumattoman intoni sekä aito haluni voida vaikuttaa ihmisten elämään ja yhteiskuntaan positiivisesti ja kehittävästi.
+Kaipaatko osaavaa ja ymmärtävää tukea?
 
-Nepparin avulla voi tutustua itseesi syvällisemmin ja rakentaa vahvempaa pohjaa itsetunnolle ja itsetuntemukselle sekä koko elämälle ja sen hallinnalle.
-Autan löytämään tarvittavat etuudet, tukipalvelut, apuvälineet ja verkostot sekä sopivat tavat toteuttaa itseä (harrastukset, kiinnostuksenkohteet, opinnot, työura, jne.).
+Silloin Neppari on oikea paikka sinulle!
 
-Työni kautta pyrin siihen, että nepsy-henkilöiden voimavaroja osattaisiin huomata ja uskallettaisiin hyödyntää tulevaisuudessa enemmän niin kuntoutuksessa, opinnoissa kuin työelämässäkin.
+Nepparissa minä, Niina Piira, tarjoan neuropsykiatrista valmennusta Tampereelta käsin sekä nuorille että aikuisille nepsy-henkilöille. Voit hakeutua valmennukseeni esimerkiksi keskustelemalla asiasta lääkärin/sosiaalityöntekijän kanssa tai ottamalla suoraan minuun yhteyttä. Yhdessä voimme miettiä minkälainen tuki sopii parhaiten sinulle ja mistä voisit saada taloudellista tukea esimerkiksi juuri neuropsykiatrisen valmennuksen kustantamiseen.
 
-Enemmistön arvot ja elämän ihanteet eivät ole kaikille yhteiskuntamme jäsenille oikea tapa elää ja toteuttaa itseään. Työlläni pyrin auttamaan nepsy-henkilöitä saavuttamaan yhteiskunnassamme kunnioittavaa kohtelua, hyvää palvelua, sopivaa tukea ja yksilöllisiä ratkaisuja selvitäkseen haasteidensa kanssa sekä voidakseen elää hyvää ja mielekästä elämää omana itsenään.
+Nepparin valmennuksessa sinulla on käytössäsi vahva ammattitaitoni sekä moninainen osaamiseni koko laajuudessaan; ratkaisu- ja voimavarakeskeinen työskentelytapani, monipuolinen menetelmäosaamiseni, laaja kokemukseni sekä tuntemukseni sosiaalialasta ja sen palveluista/tuista yms.
+
+Tarkoituksenani on tarjota sinulle vahvaa tukea arkeesi ja omanlaisen elämänpolkusi toteuttamiseen Tavoitteenani on auttaa sinua löytämään ainekset itsesi näköiseen ja hyvään elämään sekä saamaan ymmärrystä ja hyväksymään itsesi ainutlaatuisena ja arvokkaana yksilönä.
+
+Nepparissa jokainen ihminen on ennen kaikkea persoona, joten käytän aikaani ja taitoani tutustuakseni jokaisen yksilölliseen tapaan hahmottaa maailmaa ja elämää. Nepparissa tulet kohdatuksi nepsy-tuntemukseni ja -ymmärrykseni kautta, jolloin otan huomioon kaikki erityispiirteesi, tarpeesi ja niiden luomat vaatimukset.
+
+Nepparin valmennuksessa saat mahdollisuuden tutustua itseesi syvällisemmin ja rakentaa uutta/vahvempaa pohjaa itsetunnolle ja itsetuntemukselle sekä sen myötä koko elämälle ja arjen hallinnalle.
+
+Autan sinua löytämään tarvitsemasi etuudet, tukipalvelut, apuvälineet ja verkostot sekä sopivat tavat toteuttaa itseäsi niin harrastusten, kiinnostustenkohteiden, opintojen että työuran muodossa.
+
+Työlläni pyrin myös auttamaan jokaista saavuttamaan yhteiskunnassamme kunnioittavaa kohtelua, hyvää palvelua, sopivaa tukea ja yksilöllisiä ratkaisuja selvitäkseen haasteidensa kanssa sekä voidakseen elää hyvää ja mielekästä elämää omana itsenään.
