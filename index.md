@@ -45,6 +45,7 @@ Arkeen ja elämään haetaan tarvittaessa tukea mm.
 * etuuksien ja tukien muodossa.
 
 Vaikeita elämäntilanteita pyritään helpottamaan
+
 * henkisellä ja terapeuttisella tuella
 * verkostoitumalla ja yhteistyöllä
 * palveluohjauksella eli palveluiden ja tukien koordinoinnilla
