@@ -1,17 +1,24 @@
 ---
 layout: page
-front-page: true
-title: Nepsy-valmentaja Niina Piira
-link-title: Esittely
-navigation-order: 1
+"front-page": true
+title: "Nepsy-valmentaja Niina Piira"
+"link-title": Esittely
+"navigation-order": 1
+published: true
 ---
 
-Koska jokainen nepsy-piirteinen henkilö kohtaa elämässään omanlaisia haasteitaan, on tarjottavan tuen oltava yksilöllistä. Joillain elämän osa-alueilla tuen tarve voi olla pitkäaikaista, ehkä jopa loppuelämän kestävää tukea. Joihinkin haasteisiin voi riittää lyhytaikaisempi tiivis tuki, jonka jälkeen kyseisen haasteen kanssa pärjää pääasiassa itsenäisesti tai läheisten tuella. Nepparin neuropsykiatrinen valmennus tarjoaa tukea, joka ulottuu kaikille niille elämänaluille, joilla haasteita kohdataan.  Valmennuksella tuetaan uusien toimintatapojen harjoitteluprosessia ja samalla voidaan motivoida vaikeidenkin asioiden kohtaamiseen.
+Tervetuloa Neppariin, neuropsykiatrisen valmennuksen paikkaan.
 
-Nepparin neuropsykiatrisella valmennuksella vahvistetaan itsenäistä selviytymistä, tuetaan haasteissa joita ei pystytä poistamaan, sekä selvitetään erilaisia vaihtoehtoja arjen ja elämän tueksi. Valmennuksella helpotetaan vaikeita elämäntilanteita sekä tarjotaan pitkäaikaista ja kokonaisvaltaista tukea arjen konkreettisten asioiden sujumiseen.
+Minä olen Niina Piira, ratkaisukeskeinen neuropsykiatrinen valmentaja ja sosiaalialan ammattilainen.
 
-Valmennettavan itsenäisyyttä tuetaan
+Tarjoan Tampereelta käsin neuropsykiatrista valmennusta nuorille ja aikuisille nepsy-henkilöille, jotka tarvitsevat tukea arjessaan ja jaksamisessaan. Valmennukseni ulottuu kaikille niille elämänaluille, joilla haasteita kohdataan. Minulle mikään haaste ei ole mahdoton eikä kukaan ihminen toivoton.
 
+Neppari on paikka, jossa neuropsykiatrisia haasteita kohdanneet nuoret ja aikuiset voivat löytää mielekkään tavan elää omanlaistansa arkea ja toteuttaa itseään. Nepparissa vahvistetaan itsenäistä selviytymistä, autetaan haasteissa joita ei pystytä poistamaan, sekä selvitetään erilaisia vaihtoehtoja arjen ja elämän tueksi. Nepparin tuella voidaan helpottaa vaikeita elämäntilanteita sekä tarjota pitkäaikaista ja kokonaisvaltaista tukea arjen ja konkreettisten asioiden sujumiseen.
+
+
+ESIMERKKEJÄ VALMENNUKSESTA
+
+Itsenäisyyttä vahvistetaan
 * etsimällä yhdessä suuntaa elämälle sekä omaa paikkaa yhteiskunnassa
 * auttamalla tavoitteenasettelussa
 * poistamalla tavoitteen saavuttamisen tieltä rajoitteita
@@ -20,8 +27,7 @@ Valmennettavan itsenäisyyttä tuetaan
 * voimauttamalla henkilöitä sekä
 * helpottamalla stressiä ja vapauttamalla näin energiaa ongelmien vatvomisen sijaan niiden ratkaisemiseen.
 
-Haasteiden kanssa selviytymistä voidaan tukea
-
+Haasteiden kanssa selviytymistä autetaan
 * avaamalla ja ratkaisemalla lamauttavia ongelmavyyhtejä
 * luomalla arkea helpottavaa struktuuria ja rutiinia
 * suunnittelemalla yhdessä ajankäyttöä ja tuomalla elämään ennakointia
@@ -30,7 +36,6 @@ Haasteiden kanssa selviytymistä voidaan tukea
 * osallistamalla asiakkaita omaan elämäänsä, sitä koskevaan päätöksentekoon ja asioiden toimeenpanoon.
 
 Arkeen ja elämään haetaan tarvittaessa tukea mm.
-
 * erilaisista kuntoutusmuodoista
 * terveydenhuollon palveluista
 * työllisyyspalveluista
@@ -38,7 +43,6 @@ Arkeen ja elämään haetaan tarvittaessa tukea mm.
 * etuuksien ja tukien muodossa.
 
 Vaikeita elämäntilanteita pyritään helpottamaan
-
 * henkisellä ja terapeuttisella tuella
 * verkostoitumalla ja yhteistyöllä
 * palveluohjauksella eli palveluiden ja tukien koordinoinnilla
