@@ -9,5 +9,9 @@ $accent-color: #F2CB52;
 }
 
 .sidebar {
+	color: white;
+}
+
+.sidebar .faded {
 	color: darken($accent-color, 28%);
 }

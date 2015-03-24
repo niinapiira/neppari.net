@@ -8,8 +8,9 @@ relative_permalinks: true
 
 # Setup
 title:            Neppari
-tagline:          'Neuropsykiatrista valmennusta ja ammatillista tukihenkilötoimintaa Tampereella'
-description:      'Neuropsykiatrista valmennusta ja ammatillista tukihenkilötoimintaa Tampereella'
+tagline:          'Neuropsykiatrista valmennusta Tampereella'
+description:      'Neuropsykiatrista valmennusta Tampereella'
+tagline-short:    'Neuropsykiatrisen valmennuksen paikka'
 baseurl:          /
 
 author:
