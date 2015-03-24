@@ -5,6 +5,7 @@ title: "Nepsy-valmentaja Niina Piira"
 "link-title": Esittely
 "navigation-order": 1
 published: true
+polaroid: "niina-ja-riksu-polaroid.jpg"
 ---
 
 Tervetuloa Neppariin, neuropsykiatrisen valmennuksen paikkaan.

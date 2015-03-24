@@ -1,0 +1,30 @@
+.polaroid {
+
+	-webkit-transform: rotate(3deg);
+	-moz-transform: rotate(3deg);
+	-ms-transform: rotate(3deg);
+	-o-transform: rotate(3deg);
+	transform: rotate(3deg);
+
+	padding: 0.3em 0.3em 1em 0.3em;
+	border: 1px solid #e0e0e0;
+
+	-webkit-box-shadow: 0.3em 0.3em 0.5em #c0c0c0;
+	-moz-box-shadow: 0.3em 0.3em 0.5em #c0c0c0;
+	-ms-box-shadow: 0.3em 0.3em 0.5em #c0c0c0;
+	-o-box-shadow: 0.3em 0.3em 0.5em #c0c0c0;
+	box-shadow: 0.3em 0.3em 0.5em #c0c0c0;
+
+	max-width: 50%;
+	margin: 0 auto 1em auto;
+}
+
+@media (min-width: 28em) {
+  .polaroid {
+
+  	float: right;
+	max-width: 40%;
+	margin: 0 0 0 1em;
+
+  }
+}
