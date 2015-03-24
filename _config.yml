@@ -18,9 +18,9 @@ author:
   url:            https://twitter.com/mdo
 
 contact:
-  address:        Foobar 1, Tampere
-  phone:          040 555 6666
-  email:          foo@bar.com
+  address:        'Oravanpolku 5 A, Tampere'
+  phone:          '040 934 9954'
+  email:          'foo@bar.com'
 
 # Custom vars
 version:          2.1.0
