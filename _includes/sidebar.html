@@ -12,9 +12,9 @@
       </p>
       <p class="faded">
         {{ site.author.name }}<br/>
-        {{ site.contact.address }}<br/>
-        {{ site.contact.phone }}<br/>
-        {{ site.contact.email }}
+        <i class="icon-address"></i> {{ site.contact.address }}<br/>
+        <i class="icon-phone"></i> {{ site.contact.phone }}<br/>
+        <i class="icon-email"></i> {{ site.contact.email | replace:'(miuku)','<i class="icon-at"></i>' }}
       </p>
     </div>
   </div>
