@@ -11,7 +11,7 @@
         {{ site.tagline-short }}
       </p>
       <p class="faded">
-        {{ site.author.name }}<br/>
+        {{ site.contact.name }}<br/>
         <i class="icon-address"></i> {{ site.contact.address }}<br/>
         <i class="icon-phone"></i> {{ site.contact.phone }}<br/>
         <i class="icon-email"></i> {{ site.contact.email | replace:'(miuku)','<i class="icon-at"></i>' }}
@@ -23,7 +23,7 @@
     <nav class="sidebar-nav">
       {% assign pages_list = (site.pages | sort: 'navigation-order') %}
       {% for node in pages_list %}
-        {% if node.layout == "page" %}
+        {% if node.layout == "page" and node.navigation-order %}
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">
             {% if node.link-title %}
               {{ node.link-title }}

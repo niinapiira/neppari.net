@@ -12,15 +12,14 @@ tagline:          'Neuropsykiatrista valmennusta Tampereella'
 description:      'Neuropsykiatrista valmennusta Tampereella'
 tagline-short:    'Neuropsykiatrisen valmennuksen paikka'
 baseurl:          /
-
-author:
-  name:           'Niina Piira'
-  url:            https://twitter.com/mdo
+siteurl:          http://neppari.net
 
 contact:
+  name:           'Niina Piira'
   address:        'Oravanpolku 5 A, Tampere'
   phone:          '040 934 9954'
   email:          'niina(miuku)neppari.net'
+  email4form:     'nepparinet+yhteydenottosivuilta@gmail.com'
 
 # Custom vars
 version:          2.1.0
