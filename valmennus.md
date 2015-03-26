@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Maksajille
+title: Valmennus
 "navigation-order": 3
 published: true
 ---
 
-Koska jokainen nepsy-piirteinen henkilö kohtaa elämässään omanlaisia haasteitaan, on tarjottavan tuen oltava yksilöllistä. Joillain elämän osa-alueilla tuen tarve voi olla pitkäaikaista, ehkä jopa loppuelämän kestävää tukea. Joihinkin haasteisiin voi riittää lyhytaikaisempi tiivis tuki, jonka jälkeen kyseisen haasteen kanssa pärjää pääasiassa itsenäisesti tai läheisten ja verkoston tuella. 
+Koska jokainen nepsy-piirteinen henkilö kohtaa elämässään omanlaisia haasteitaan, on tarjottavan tuen oltava yksilöllistä. Joillain elämän osa-alueilla tuen tarve voi olla pitkäaikaista, ehkä jopa loppuelämän kestävää tukea. Joihinkin haasteisiin voi riittää lyhytaikaisempi tiivis tuki, jonka jälkeen kyseisen haasteen kanssa pärjää pääasiassa itsenäisesti tai läheisten ja verkoston tuella.
 
 Neuropsykiatrinen valmennus on selkeästi kohdennettu ja yksilöllinen tukimuoto, joka on edullinen ja tehokas keino toteuttaa sosiaalista kuntoutusta. Valmennus on tavoitteellinen prosessi, jossa työskennellä asiakaslähtöisesti ja tarvittaessa jalkautuen asiakkaan luonnollisiin elämänpiireihin. Työskentely tapahtuu yhteistyössä, kumppanuus-suhteessa, jossa sekä valmentaja että valmennettava hyödyntävät omaa asiantuntijuuttaan. Valmennus on hyvin terapeuttinen tukimuoto, jossa hyödynnetään ratkaisu- ja voimavarakeskeistä näkökulmaa. Valmennuksella tuetaan uusien toimintatapojen harjoitteluprosessia sekä ihmisen voimaantumista oman elämänsä päähenkilöksi.
 
-## Tarkemmin
 
+## Tarkemmin
 
 Valmennus tarjoaa nepsy-henkilöille selkeästi heille **kohdennetun** tukimuodon, jossa he tulevat ymmärretyksi ja hyväksytyksi nepsy-piirteineen ja haasteineen. Tämä monipuolinen ja moniulotteinen ohjaus- ja tukimenetelmä pitää sisältää mm. tukikeskusteluita, harjoituksia, palautetta, rohkaisua, tavoitteita ja etenemisen seuraamista, sekä muita yksilöllisesti valittuja tukimenetelmiä.
 
@@ -20,7 +20,7 @@ Neuropsykiatrinen valmennus voidaan nähdä yhtenä **sosiaalisen kuntoutuksen**
 
 **Tavoitteellisuus** on valmennuksen onnistumisen tärkein lähtökohta ja se vaatii asiakkaalta motivaatiota, tahtotilaa sekä valmiutta kehittää itseään ja muuttaa elämäänsä. Motivaation kannalta onkin ensiarvoisen tärkeää, että tavoitteet ovat asiakkaasta itsestään lähteviä ja hänelle merkityksellisiä. Tavoitteellisuuden tarkoituksena on paitsi paloitella ja selkeyttää tulevaisuuden suuntaa ja siihen tähtäävää toimintaa, myös tuoda esille pienetkin onnistumiset, askeleet ja muutokset kohti päämäärää. Valmennuksen avulla asiakas saa tukea tavoitteidensa pohtimiseen, löytämiseen, suunnittelemiseen, fokusointiin, priorisointiin sekä niiden saavuttamiseen. Tavoitteellisuus tarkoittaa myös sitä, että valmennusprosessia arvioidaan ja tarkastellaan jatkuvasti valmennuksen edetessä ja erityisesti loppuvaiheessa.
 
-Neuropsykiatrisessa valmennuksessa **asiakaslähtöisyys** näkyy selkeimmin siinä, että valmennuksen tavoitteet syntyvät aina asiakkaasta itsestään ja hänen tarpeistaan, ja ne ovat hänen kanssaan yhdessä päätettyjä. Työskentelyssä asiakas nähdään oman elämänsä asiantuntijana, joka itse määrittelee tavoitteensa ja riittävän hyvän tason elämänsä eri osa-alueille. Apua ei tule tuputtaa, vaan selvitetään millä elämän alueilla asiakas kaipaa tukea ja missä apua tarvitaan kaikkein kiireisimmin. Asiakaslähtöisyys näkyy myös esimerkiksi tapaamisten organisoimisena asiakkaan kannalta parhaalla tavalla. Tämä voi tarkoittaa asiakkaan jaksamisen, aistiherkkyyksien ja muiden erityispiirteiden huomioimista tapaamisajoissa, paikassa ja tiiviydessä. Se tarkoittaa käytännössä myös työmenetelmien hyödyntämistä tarve- ja tilannekohtaisesti asiakkaan parhaaksi. 
+Neuropsykiatrisessa valmennuksessa **asiakaslähtöisyys** näkyy selkeimmin siinä, että valmennuksen tavoitteet syntyvät aina asiakkaasta itsestään ja hänen tarpeistaan, ja ne ovat hänen kanssaan yhdessä päätettyjä. Työskentelyssä asiakas nähdään oman elämänsä asiantuntijana, joka itse määrittelee tavoitteensa ja riittävän hyvän tason elämänsä eri osa-alueille. Apua ei tule tuputtaa, vaan selvitetään millä elämän alueilla asiakas kaipaa tukea ja missä apua tarvitaan kaikkein kiireisimmin. Asiakaslähtöisyys näkyy myös esimerkiksi tapaamisten organisoimisena asiakkaan kannalta parhaalla tavalla. Tämä voi tarkoittaa asiakkaan jaksamisen, aistiherkkyyksien ja muiden erityispiirteiden huomioimista tapaamisajoissa, paikassa ja tiiviydessä. Se tarkoittaa käytännössä myös työmenetelmien hyödyntämistä tarve- ja tilannekohtaisesti asiakkaan parhaaksi.
 
 **Jalkautuminen** on yksi valmennuksessa käytetty työmenetelmä, jolla tarkoitetaan asiakkaan elinympäristöihin menemistä. Koska nepsy-henkilöiden kohtaamat haasteet syntyvät ja näkyvät usein vahvasti heidän arjessaan ja käytännön elämässä, on jalkautuminen näihin toimintaympäristöihin yksi neuropsykiatrisen valmennuksen vahvuuksista. Henkilön havainnointi hänen luonnollisissa elinympäristöissään antaa todellisemman kuvan haasteista ja arjen sujumisesta. Erityisesti nuorten kanssa työskennellessä valmennukseen otetaan usein mukaan myös koko perhe, jolloin valmennus on helpompaa viedä perheen luokse, kuin tuoda koko perhe valmentajan luokse. Myös aikuisilla nepsy-piirteet luovat valmennukselle haasteita, joita ei aina voida ratkaista irti kontekstistaan, vaan uudet toimintamallit tulee opetella siellä missä niitä tarvitaan. Näin ollen valmennusta voidaan toteuttaa esimerkiksi asiakkaan kotona, koulussa ja työpaikalla, sekä muissa toimintaympäristöissä, kuten virastoissa, kaupoissa ja harrastuspaikoissa
 
