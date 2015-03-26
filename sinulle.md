@@ -13,7 +13,7 @@ Kaipaatko osaavaa ja ymmärtävää tukea?
 
 Silloin Neppari on oikea paikka sinulle!
 
-Nepparissa minä, Niina Piira, tarjoan neuropsykiatrista valmennusta Tampereelta käsin sekä nuorille että aikuisille nepsy-henkilöille. Voit hakeutua valmennukseeni esimerkiksi keskustelemalla asiasta lääkärin/sosiaalityöntekijän kanssa tai ottamalla suoraan minuun yhteyttä. Yhdessä voimme miettiä minkälainen tuki sopii parhaiten sinulle ja mistä voisit saada taloudellista tukea esimerkiksi juuri neuropsykiatrisen valmennuksen kustantamiseen.
+Nepparissa minä tarjoan neuropsykiatrista valmennusta Tampereelta käsin sekä nuorille että aikuisille nepsy-henkilöille. Voit hakeutua valmennukseeni esimerkiksi keskustelemalla asiasta lääkärin/sosiaalityöntekijän kanssa tai ottamalla suoraan minuun yhteyttä. Yhdessä voimme miettiä minkälainen tuki sopii parhaiten sinulle ja mistä voisit saada taloudellista tukea esimerkiksi juuri neuropsykiatrisen valmennuksen kustantamiseen.
 
 ## Mitä Nepparissa on tarjolla?
 
