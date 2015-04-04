@@ -1,7 +1,7 @@
 ---
 layout: page
 "front-page": true
-title: "Nepsy-valmentaja Niina Piira"
+title: "Nepsy-valmentaja Niina&nbsp;Piira"
 "link-title": Esittely
 "navigation-order": 1
 published: true
