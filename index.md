@@ -1,7 +1,7 @@
 ---
 layout: page
 "front-page": true
-title: "Nepsy-valmentaja Niina&nbsp;Piira"
+title: "Elämän haasteena ADHD, ADD, Asperger, Tourette, lievä autismi?"
 "link-title": Esittely
 "navigation-order": 1
 published: true
