@@ -10,8 +10,6 @@ polaroid: "niina-ja-riksu-polaroid.jpg"
 
 Tukea elämään valmennuksella!
 
-Tervetuloa Neppariin, neuropsykiatrisen valmennuksen paikkaan!
-
 Minä olen Niina Piira, ratkaisukeskeinen neuropsykiatrinen valmentaja ja sosiaalialan ammattilainen.
 Tarjoan Tampereelta käsin neuropsykiatrista valmennusta nuorille ja aikuisille nepsy-henkilöille, jotka tarvitsevat tukea arjessaan ja jaksamisessaan. Valmennukseni ulottuu kaikille niille elämänaluille, joilla haasteita kohdataan. Minulle mikään haaste ei ole mahdoton eikä kukaan ihminen toivoton.
 
