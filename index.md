@@ -8,7 +8,9 @@ published: true
 polaroid: "niina-ja-riksu-polaroid.jpg"
 ---
 
-Tervetuloa Neppariin, neuropsykiatrisen valmennuksen paikkaan.
+Tukea elämään valmennuksella!
+
+Tervetuloa Neppariin, neuropsykiatrisen valmennuksen paikkaan!
 
 Minä olen Niina Piira, ratkaisukeskeinen neuropsykiatrinen valmentaja ja sosiaalialan ammattilainen.
 
