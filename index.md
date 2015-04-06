@@ -44,7 +44,7 @@ Arkeen ja elämään haetaan tarvittaessa tukea mm.
 * järjestötahoilta sekä
 * etuuksien ja tukien muodossa.
 
-Vaikeita elämäntilanteita pyritään helpottamaan
+Vaikeita elämäntilanteita helpotetaan
 
 * henkisellä ja terapeuttisella tuella
 * verkostoitumalla ja yhteistyöllä
