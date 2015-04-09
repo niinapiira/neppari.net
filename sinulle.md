@@ -5,11 +5,11 @@ title: Sinulle
 published: true
 ---
 
-Painiskeletko sinä nepsy-piirteiden mukanaan tuomien haasteiden kanssa?
+*Painiskeletko sinä nepsy-piirteiden mukanaan tuomien haasteiden kanssa?*
 
-Koetko että tarvitset helpotusta jokapäiväiseen elämääsi?
+*Koetko että tarvitset helpotusta jokapäiväiseen elämääsi?*
 
-Kaipaatko osaavaa ja ymmärtävää tukea?
+*Kaipaatko osaavaa ja ymmärtävää tukea?*
 
 Silloin Neppari on oikea paikka sinulle!
 
