@@ -20,6 +20,7 @@ contact:
   phone:          '040 934 9954'
   email:          'niina@neppari.net'
   email4form:     'nepparinet+yhteydenottosivuilta@gmail.com'
+  page:           '/ota-yhteytta'
 
 # Custom vars
 version:          2.1.0

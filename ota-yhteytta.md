@@ -5,6 +5,15 @@ title: Ota yhteyttä
 navigation-order: 99
 ---
 
+<!--
+    Jos muutat tämän tiedoston nimeä (ota-yhteytta.md),
+    muista muuttaa se myös _config.yml -tiedostoon
+-->
+
+Tällä lomakkeella voit lähettää minulle helposti yhteydenottopyynnön tai muun viestin. Halutessasi voit myös lähettää minulle itse sähköpostia osoitteeseen <a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a>.
+
+---
+
 <script>
     function toggleInput(id) {
         var checkbox = document.getElementById("show-" + id),

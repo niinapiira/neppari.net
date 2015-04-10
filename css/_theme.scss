@@ -13,5 +13,10 @@ $accent-color: #F2CB52;
 }
 
 .sidebar .faded {
-	color: darken($accent-color, 28%);
+	&, a:link, a:visited {
+		color: darken($accent-color, 28%);
+	}
+	a:hover, a:active {
+		color: white;
+	}
 }
