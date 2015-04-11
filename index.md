@@ -35,7 +35,7 @@ Haasteiden kanssa selviytymistä autetaan
 * tarjoamalla henkistä tukea sekä
 * osallistamalla asiakkaita omaan elämäänsä, sitä koskevaan päätöksentekoon ja asioiden toimeenpanoon.
 
-Arkeen ja elämään haetaan tarvittaessa tukea mm.
+Arkeen ja elämään etsitään tarvittaessa tukea mm.
 
 * erilaisista kuntoutusmuodoista
 * terveydenhuollon palveluista
