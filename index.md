@@ -12,7 +12,7 @@ Tukea elämään valmennuksella!
 
 Minä olen Niina Piira, ratkaisukeskeinen neuropsykiatrinen valmentaja ja sosiaalialan ammattilainen. Tarjoan Tampereelta käsin neuropsykiatrista valmennusta nuorille ja aikuisille nepsy-henkilöille, jotka tarvitsevat tukea arjessaan ja jaksamisessaan. Valmennukseni ulottuu kaikille niille elämänaluille, joilla haasteita kohdataan. Minulle mikään haaste ei ole mahdoton eikä kukaan ihminen toivoton.
 
-Neppari on paikka, jossa neuropsykiatrisia haasteita kohdanneet nuoret ja aikuiset voivat löytää mielekkään tavan elää omanlaistansa arkea ja toteuttaa itseään. Nepparissa vahvistetaan itsenäistä selviytymistä, autetaan haasteiden kanssa selviytymisessä, sekä selvitetään erilaisia vaihtoehtoja arjen ja elämän tueksi. Nepparin tuella voidaan helpottaa vaikeita elämäntilanteita sekä tarjota pitkäaikaista ja kokonaisvaltaista tukea arjen ja konkreettisten asioiden sujumiseen.
+Neppari on paikka, jossa neuropsykiatrisia haasteita kohdanneet nuoret ja aikuiset voivat löytää mielekkään tavan elää omanlaistansa arkea ja toteuttaa itseään. Nepparissa vahvistetaan itsenäistä selviytymistä, autetaan haasteiden kanssa selviytymisessä, sekä etsitään erilaisia vaihtoehtoja arjen ja elämän tueksi. Nepparin tuella voidaan helpottaa vaikeita elämäntilanteita sekä tarjota pitkäaikaista ja kokonaisvaltaista tukea arjen ja konkreettisten asioiden sujumiseen.
 
 ## Esimerkkejä valmennuksesta
 
