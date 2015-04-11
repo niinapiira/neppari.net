@@ -13,7 +13,7 @@ published: true
 
 Silloin Neppari on oikea paikka sinulle!
 
-Nepparissa minä tarjoan neuropsykiatrista valmennusta Tampereelta käsin sekä nuorille että aikuisille nepsy-henkilöille. Nepparin valmennukseen voi hakeutua joko ottamalla suoraan minuun yhteyttä, tai keskustelemalla asiasta lääkärin tai sosiaalityöntekijän kanssa.
+Nepparissa minä tarjoan neuropsykiatrista valmennusta Tampereelta käsin sekä nuorille että aikuisille nepsy-henkilöille. Voit hakeutua valmennukseeni esimerkiksi keskustelemalla asiasta lääkärin/sosiaalityöntekijän kanssa tai ottamalla suoraan minuun yhteyttä.
 
 ## Mitä Nepparissa on tarjolla?
 
