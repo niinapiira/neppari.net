@@ -26,5 +26,3 @@ Nepparissa jokainen ihminen on ennen kaikkea persoona, joten käytän aikaani ja
 Nepparin valmennuksessa saat mahdollisuuden tutustua itseesi syvällisemmin ja rakentaa uutta/vahvempaa pohjaa itsetunnolle ja itsetuntemukselle sekä sen myötä koko elämälle ja arjen hallinnalle.
 
 Autan sinua löytämään tarvitsemasi etuudet, tukipalvelut, apuvälineet ja verkostot sekä sopivat tavat toteuttaa itseäsi niin harrastusten, kiinnostustenkohteiden, opintojen että työuran muodossa.
-
-Työlläni pyrin myös auttamaan jokaista saavuttamaan yhteiskunnassamme kunnioittavaa kohtelua, hyvää palvelua, sopivaa tukea ja yksilöllisiä ratkaisuja selvitäkseen haasteidensa kanssa sekä voidakseen elää hyvää ja mielekästä elämää omana itsenään.
