@@ -5,9 +5,9 @@ title: Valmennus
 published: true
 ---
 
-Koska jokainen nepsy-piirteinen henkilö kohtaa elämässään omanlaisia haasteitaan, on tarjottavan tuen oltava yksilöllistä. Joillain elämän osa-alueilla tuen tarve voi olla pitkäaikaista, ehkä jopa loppuelämän kestävää tukea. Joihinkin haasteisiin voi riittää lyhytaikaisempi tiivis tuki, jonka jälkeen kyseisen haasteen kanssa pärjää pääasiassa itsenäisesti tai läheisten ja verkoston tuella.
+Koska jokainen nepsy-piirteinen henkilö kohtaa elämässään omanlaisia haasteitaan, on tarjottavan tuen oltava yksilöllistä. Neuropsykiatrinen valmennus on selkeästi kohdennettu ja yksilöllinen tukimuoto, joka on edullinen ja tehokas keino toteuttaa sosiaalista kuntoutusta.
 
-Neuropsykiatrinen valmennus on selkeästi kohdennettu ja yksilöllinen tukimuoto, joka on edullinen ja tehokas keino toteuttaa sosiaalista kuntoutusta. Valmennus on tavoitteellinen prosessi, jossa työskennellä asiakaslähtöisesti ja tarvittaessa jalkautuen asiakkaan luonnollisiin elämänpiireihin. Työskentely tapahtuu yhteistyössä, kumppanuus-suhteessa, jossa sekä valmentaja että valmennettava hyödyntävät omaa asiantuntijuuttaan. Valmennus on hyvin terapeuttinen tukimuoto, jossa hyödynnetään ratkaisu- ja voimavarakeskeistä näkökulmaa. Valmennuksella tuetaan uusien toimintatapojen harjoitteluprosessia sekä ihmisen voimaantumista oman elämänsä päähenkilöksi.
+Valmennus on tavoitteellinen prosessi, jossa työskennellä asiakaslähtöisesti ja tarvittaessa jalkautuen asiakkaan luonnollisiin elämänpiireihin. Työskentely tapahtuu yhteistyössä, kumppanuus-suhteessa, jossa sekä valmentaja että valmennettava hyödyntävät omaa asiantuntijuuttaan. Valmennus on hyvin terapeuttinen tukimuoto, jossa hyödynnetään ratkaisu- ja voimavarakeskeistä näkökulmaa. Valmennuksella tuetaan uusien toimintatapojen harjoitteluprosessia sekä ihmisen voimaantumista oman elämänsä päähenkilöksi.
 
 
 ## Tarkemmin
