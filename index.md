@@ -47,5 +47,5 @@ Vaikeita elämäntilanteita helpotetaan
 * henkisellä ja terapeuttisella tuella
 * verkostoitumalla ja yhteistyöllä
 * palveluohjauksella eli palveluiden, tukien ja etuuksien koordinoinnilla
-* yhdessä tekemällä sekä
-* selkeyttämällä arkea.
+* arkea selkeyttämällä sekä
+* yhdessä tekemällä.
