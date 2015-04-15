@@ -26,3 +26,5 @@ Nepparissa jokainen ihminen on ennen kaikkea persoona, joten käytän aikaani ja
 Nepparin valmennuksessa saat mahdollisuuden tutustua itseesi syvällisemmin ja rakentaa uutta/vahvempaa pohjaa itsetunnolle ja itsetuntemukselle sekä sen myötä koko elämälle ja arjen hallinnalle.
 
 Autan sinua löytämään tarvitsemasi etuudet, tukipalvelut, apuvälineet ja verkostot sekä sopivat tavat toteuttaa itseäsi niin harrastusten, kiinnostustenkohteiden, opintojen että työuran muodossa.
+
+Tavoitteellisuus on valmennuksen onnistumisen tärkein lähtökohta ja se vaatii motivaatiota, tahtotilaa sekä valmiutta kehittää itseään. Valmennuksen avulla saat tukea tavoitteittesi pohtimiseen, löytämiseen, suunnittelemiseen, fokusointiin, priorisointiin sekä niiden saavuttamiseen.
