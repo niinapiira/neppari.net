@@ -7,7 +7,7 @@ published: true
 
 Valmentajan ja valmennettavan hyvää työskentelysuhdetta voidaan jatkaa varsinaisen valmennusjakson jälkeenkin **ammatillisella tukihenkilötoiminnalla**, jolloin valmentaja toimii enemmän taustatukena, ollen läsnä ja varalla, toimien mallintamisesimerkkinä ja tarjoten henkistä tukea sekä rakentavaa ihmissuhdetta. Tässä tukimuodossa toimitaan entistä enemmän valmennettavan omissa ympäristöissä, kuten kotona, harrastuksissa, työssä tai vapaa-ajanviettopaikoissa. Ammatillinen tukihenkilötoiminta voi näkyä arjessa esim. yhdessä kokkailuna, yhdessä harrastamisena, tukikeskusteluina ja vaikka asioidenhoitotukena.
 
-Ammatilliselle tukihenkilötoiminnalle ei tarvitse luoda selkeitä tavoitteita eikä yhdessä toimimista tarvitse jatkuvasti arvioida. Tämä rennompi tukimuoto on hyvä keino saatella asiakas intensiivisen valmennuksen jälkeen kohti itsenäisyytt, samalla varmistaen ettei valmennettava tipu pois tukitoimien piiristä. 
+Ammatilliselle tukihenkilötoiminnalle ei tarvitse luoda selkeitä tavoitteita eikä yhdessä toimimista tarvitse jatkuvasti arvioida. Tämä rennompi tukimuoto on hyvä keino saatella asiakas intensiivisen valmennuksen jälkeen kohti itsenäisyyttä, samalla varmistaen ettei valmennettava tipu pois tukitoimien piiristä. 
 
 Ammatillisella tukihenkilötoiminnalla valmennettava saa tukea myös valmennuksessa opittujen toimintatapojen harjoitteluun, jolloin yhdessä toimimisella voidaan juurruttaa ja syventää valmennuksessa syntyneitä tuloksia samalla kun harjoitellaan uusia taitoja yhdessä tekemisen kautta.
 
