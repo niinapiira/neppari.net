@@ -11,7 +11,7 @@ Valmennus on tavoitteellinen prosessi, jossa työskennellä valmennettavan tarpe
 
 Työskentely tapahtuu aina yhteistyössä, jolloin sekä valmentaja että valmennettava hyödyntävät omaa asiantuntijuuttaan. Valmennus on hyvin terapeuttinen tukimuoto, jossa hyödynnetään ratkaisu- ja voimavarakeskeistä näkökulmaa sekä positiivista psykologiaa.
 
-Valmennuksella tuetaan sekä olemassaolevia vahvuuksia että uusien toimintatapojen harjoitteluprosessia. Valmennuksella harjaannutetaan taitoja arjen ja elämän hallintaan, ongelmanratkaisuun, vuorovaikutussuhteisiin sekä omassa toimintaympäristössä selviytymiseen.
+Valmennuksella tuetaan sekä olemassa olevia vahvuuksia että uusien toimintatapojen harjoitteluprosessia. Valmennuksella harjaannutetaan taitoja arjen ja elämän hallintaan, ongelmanratkaisuun, vuorovaikutussuhteisiin sekä omassa toimintaympäristössä selviytymiseen.
 
 Valmennus on hyvin kokonaisvaltainen tukimuoto, joka kattaa koko elämän kirjon. Valmennuksessa huomioidaan aina henkilön muutkin tukiverkostot, kuten perhe, sosiaalityö, asumisen ja työllistymisen tuki, lääkäri, yms. Valmennus täydentää hyvin muita yhteiskunnan tarjoamia palveluita ja sillä pyritään ehkäisemään kaikenikäisten henkilöiden syrjäytymistä opinnoista, työelämästä, yhteiskunnasta sekä omasta elämästään.
 
