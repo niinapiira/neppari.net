@@ -20,7 +20,7 @@ Itsenäisyyttä vahvistetaan
 
 * etsimällä yhdessä suuntaa elämälle sekä omaa paikkaa yhteiskunnassa
 * auttamalla tavoitteenasettelussa
-* poistamalla tavoitteen saavuttamisen tieltä rajoitteita
+* poistamalla tavoitteiden tieltä esteitä ja rajoitteita
 * jäsentämällä ongelmia ja ratkaisuvaihtoehtoja
 * vahvistamalla ongelmanratkaisu- ja arjenhallinnan taitoja
 * voimauttamalla henkilöitä sekä
@@ -28,10 +28,10 @@ Itsenäisyyttä vahvistetaan
 
 Haasteiden kanssa selviytymistä autetaan
 
-* avaamalla ja ratkaisemalla lamauttavia ongelmavyyhtejä
+* avaamalla ja ratkaisemalla ongelmavyyhtejä
 * luomalla arkea helpottavaa struktuuria ja rutiinia
 * suunnittelemalla yhdessä ajankäyttöä ja tuomalla elämään ennakointia
-* kompensoimalla vaikeuksia erilaisilla taidoilla tai mahdollisuuksilla
+* helpottamalla vaikeuksia erilaisilla taidoilla tai mahdollisuuksilla
 * tarjoamalla henkistä tukea sekä
 * osallistamalla asiakkaita omaan elämäänsä, sitä koskevaan päätöksentekoon ja asioiden toimeenpanoon.
 
@@ -49,4 +49,4 @@ Vaikeita elämäntilanteita helpotetaan
 * verkostoitumalla ja yhteistyöllä
 * palveluohjauksella eli palveluiden, tukien ja etuuksien koordinoinnilla
 * yhdessä tekemällä sekä
-* selkeyttämällä ja jäsentämällä arkea
+* selkeyttämällä ja jäsentämällä arkea.
