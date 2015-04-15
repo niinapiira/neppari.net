@@ -48,4 +48,4 @@ Vaikeita elämäntilanteita helpotetaan
 * verkostoitumalla ja yhteistyöllä
 * palveluohjauksella eli palveluiden, tukien ja etuuksien koordinoinnilla
 * yhdessä tekemällä sekä
-* selkeyttämällä ja jäsentämällä arkea.
+* selkeyttämällä arkea.
