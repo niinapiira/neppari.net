@@ -31,8 +31,7 @@ Haasteiden kanssa selviytymistä autetaan
 * avaamalla ja ratkaisemalla ongelmavyyhtejä
 * luomalla arkea helpottavaa struktuuria ja rutiinia
 * suunnittelemalla yhdessä ajankäyttöä ja tuomalla elämään ennakointia
-* helpottamalla vaikeuksia erilaisilla taidoilla tai mahdollisuuksilla
-* tarjoamalla henkistä tukea sekä
+* helpottamalla vaikeuksia erilaisilla taidoilla tai mahdollisuuksilla sekä
 * osallistamalla asiakkaita omaan elämäänsä, sitä koskevaan päätöksentekoon ja asioiden toimeenpanoon.
 
 Arkeen ja elämään etsitään tarvittaessa tukea mm.
