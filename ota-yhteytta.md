@@ -2,7 +2,8 @@
 layout: page
 forms: true
 title: Ota yhteyttä
-navigation-order: 99
+"navigation-order": 99
+published: true
 ---
 
 <!--
@@ -10,7 +11,7 @@ navigation-order: 99
     muista muuttaa se myös _config.yml -tiedostoon
 -->
 
-Tällä lomakkeella voit lähettää minulle helposti yhteydenottopyynnön tai muun viestin. Halutessasi voit myös lähettää minulle itse sähköpostia osoitteeseen <a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a>.
+Tällä lomakkeella voit lähettää minulle helposti yhteydenottopyynnön tai muun viestin. Halutessasi voit myös soittaa tai lähettää minulle itse sähköpostia osoitteeseen <a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a>.
 
 ---
 
