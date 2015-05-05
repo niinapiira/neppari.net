@@ -1,3 +1,8 @@
-## A New Post
+---
+layout: page
+title: Konsultointi ja luennot
+"navigation-order": 5
+published: true
+---
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+TBD
