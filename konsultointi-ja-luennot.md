@@ -5,4 +5,4 @@ title: Konsultointi ja luennot
 published: true
 ---
 
-TBD
+(Tulossa)
