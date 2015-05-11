@@ -5,4 +5,10 @@ title: Konsultointi ja luennointi
 published: true
 ---
 
-Tarjoan Nepparin kautta myös konsultointi- ja luennointipalveluja. Lisään lähiaikoina tälle sivulle tietoja näistä. Jos olet nyt jo kiinnostunut, voit tällä välin kysyä minulta lisätietoja [sähköpostilla](/ota-yhteytta).
+Tarjoan Nepparin kautta myös konsultointi- ja luennointipalveluja neuropsykiatrisen valmentajan koulutuksella ja kokemuksella.
+
+Osaamiseni aiheesta on hyvin käytännön läheinen, sillä olen oppinut aiheesta ennen kaikkea käytännön työssä asiakkaitteni kautta. Olen kuitenkin tehnyt ammattikorkeakoulututkintoni päättötyön neuropsykiatrisen yksilövalmennuksen vaikutuksista yksilöiden toimijuuteen, joten tietotaitoakin aiheesta löytyy.
+
+Nautin luennoinnista ja osallistun mielelläni myös erilaisiin tilaisuuksiin myös esimerkiksi työpajan merkeissä. Lähinnä sydäntäni olevat aiheet ovat yksilöllisyys ja asiakaslähtöisyys nepsy-henkilöiden kohtaamisessa, tavoitteellisuus voimaantumisprosessissa sekä ohjaamisessa huomioitavat asiat nepsy-henkilöiden kanssa työskennellessä. Käytän itse valmennustyössä luovasti ja rohkeasti erilaisia välineitä ja menetelmiä ja ohjaan mielelläni muitakin ammattilaisia leikkisään menetelmäkokeiluun.
+
+Jos olet kiinnostunut, voit kysyä minulta lisätietoja [sähköpostilla](/ota-yhteytta).
