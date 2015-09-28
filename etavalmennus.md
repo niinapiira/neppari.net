@@ -2,7 +2,7 @@
 layout: page
 "page-title": Etävalmennus
 "link-title": ""
-"navigation-order": 5
+"navigation-order": 4
 polaroid: ""
 "front-page": false
 forms: false
