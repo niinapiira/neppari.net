@@ -2,7 +2,7 @@
 layout: page
 forms: true
 page-title: Ota yhteyttä
-"page-type": "form"
+"page-type": form
 "navigation-order": 99
 published: true
 ---
