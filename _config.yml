@@ -49,3 +49,40 @@ prose:
     - LICENCE
     - README.md
     - neppari.sublime-project
+  metadata:
+    "":
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Sivun otsikko"
+          placeholder: "Kirjoita otsikko tähän"
+      - name: "link-title"
+        field:
+          element: "text"
+          label: "Valikkolinkin teksti"
+          placeholder: "Tätä ei ole pakko täyttää"
+      - name: "navigation-order"
+        field:
+          element: "number"
+          label: "Järjestys linkkilistassa"
+          help: "Pienempi numero tarkoittaa, että linkki nousee korkeammalle vasemman reunan listalla"
+          value: 50
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Onko sivu julkaistu?"
+          value: false
+      - name: "polaroid"
+        field:
+          element: "text"
+          label: "Polaroid-pikkukuvan osoite"
+          placeholder: "Tätä ei ole pakko täyttää"
+      - name: "forms"
+        field:
+          element: "checkbox"
+          label: "Onko tämä lomakesivu?"
+          value: false
