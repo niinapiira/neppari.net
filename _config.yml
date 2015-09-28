@@ -40,7 +40,6 @@ prose:
     - /css
     - /fonts
     - /public
-    - _config.yml
     - .gitignore
     - 404.html
     - CNAME
