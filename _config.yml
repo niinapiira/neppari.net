@@ -40,9 +40,12 @@ prose:
     - /css
     - /fonts
     - /public
+    - _config.yml
     - .gitignore
     - 404.html
     - CNAME
+    - Gemfile
+    - Gemfile.lock
     - LICENCE
     - README.md
     - neppari.sublime-project
