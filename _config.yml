@@ -69,7 +69,6 @@ prose:
         field:
           element: "select"
           label: "Sivun tyyppi"
-          value: "normal"
           options:
             - name: "Tavallinen alisivu"
               value: "normal"

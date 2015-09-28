@@ -1,6 +1,5 @@
 ---
 layout: page
-"front-page": true
 page-title: "Elämän haasteena ADHD, ADD, Asperger, Tourette, lievä autismi?"
 "page-type": "front-page"
 "link-title": Esittely
