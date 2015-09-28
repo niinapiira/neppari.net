@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lyhytvalmennus
+page-title: Lyhytvalmennus
 "navigation-order": 4
 published: true
 ---

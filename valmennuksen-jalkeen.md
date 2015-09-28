@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Valmennuksen jälkeen
+page-title: Valmennuksen jälkeen
 "navigation-order": 5
 published: true
 ---

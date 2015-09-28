@@ -54,7 +54,7 @@ prose:
         field:
           element: "hidden"
           value: "page"
-      - name: "title"
+      - name: "page-title"
         field:
           element: "text"
           label: "Sivun otsikko"

@@ -1,7 +1,7 @@
 ---
 layout: page
 forms: true
-title: Ota yhteyttä
+page-title: Ota yhteyttä
 "navigation-order": 99
 published: true
 ---

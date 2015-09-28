@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kiitos viestistäsi!
+page-title: Kiitos viestistäsi!
 ---
 
 Otan sinuun yhteyttä niin pian kuin mahdollista!

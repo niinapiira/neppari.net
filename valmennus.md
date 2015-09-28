@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Valmennus
+page-title: Valmennus
 "navigation-order": 3
 published: true
 ---
