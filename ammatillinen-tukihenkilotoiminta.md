@@ -4,7 +4,7 @@ layout: page
 "page-type": normal
 "navigation-order": 6
 published: true
-"link-title": ""
+"link-title": Tukihenkilötoiminta
 polaroid: ""
 ---
 
