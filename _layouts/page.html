@@ -4,7 +4,7 @@ layout: default
 
 <div class="page">
 
-  {% if page.polaroid %}
+  {% if page.polaroid and page.polaroid != empty %}
     <img src="{{ site.baseurl }}public/{{ page.polaroid }}" class="polaroid" />
   {% endif %}
   <h1 class="page-title">{{ page.page-title }}</h1>

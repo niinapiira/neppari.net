@@ -25,7 +25,7 @@
       {% for node in pages_list %}
         {% if node.layout == "page" and node.navigation-order %}
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">
-            {% if node.link-title %}
+            {% if node.link-title and node.link-title != empty %}
               {{ node.link-title }}
             {% else %}
               {{ node.page-title }}
