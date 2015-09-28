@@ -1,11 +1,14 @@
 ---
 layout: page
 forms: true
-page-title: Ota yhteyttä
+"page-title": Ota yhteyttä
 "page-type": form
 "navigation-order": 99
 published: true
+"link-title": ""
+polaroid: ""
 ---
+
 
 <!--
     Jos muutat tämän tiedoston nimeä (ota-yhteytta.md),
