@@ -1,12 +1,13 @@
 ---
 layout: page
-page-title: "Elämän haasteena ADHD, ADD, Asperger, Tourette, lievä autismi?"
-"page-type": front-page
+"page-title": "Elämän haasteena ADHD, ADD, Asperger, Tourette, lievä autismi?"
+"page-type": "front-page"
 "link-title": Esittely
 "navigation-order": 1
 published: true
 polaroid: "niina-ja-riksu-polaroid.jpg"
 ---
+
 
 Tukea elämään valmennuksella!
 
