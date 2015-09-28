@@ -1,7 +1,7 @@
 ---
 layout: page
 page-title: Valmennuksen jälkeen
-"navigation-order": 5
+"navigation-order": 6
 published: true
 ---
 

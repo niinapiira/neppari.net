@@ -1,7 +1,7 @@
 ---
 layout: page
 page-title: Konsultointi ja luennointi
-"navigation-order": 6
+"navigation-order": 7
 published: true
 ---
 
