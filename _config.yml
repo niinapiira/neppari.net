@@ -65,6 +65,18 @@ prose:
           label: "Linkin teksti, joka näytetään sivupalkissa"
           help: "Mikäli sivun otsikko on liian pitkä mahtuakseen sivupalkkiin, voit kirjoittaa tähän lyhyemmän linkin"
           placeholder: "Tätä ei ole pakko täyttää"
+      - name: "page-type"
+        field:
+          element: "select"
+          label: "Sivun tyyppi"
+          value: "normal"
+          options:
+            - name: "Tavallinen alisivu"
+              value: "normal"
+            - name: "Etusivu"
+              value: "front-page"
+            - name: "Palautesivu"
+              value: "form"
       - name: "navigation-order"
         field:
           element: "number"
@@ -76,16 +88,6 @@ prose:
           element: "text"
           label: "Polaroid-pikkukuvan osoite"
           placeholder: "Tätä ei ole pakko täyttää"
-      - name: "front-page"
-        field:
-          element: "checkbox"
-          label: "Onko tämä etusivu?"
-          value: false
-      - name: "forms"
-        field:
-          element: "checkbox"
-          label: "Onko tämä lomakesivu?"
-          value: false
       - name: "published"
         field:
           element: "checkbox"

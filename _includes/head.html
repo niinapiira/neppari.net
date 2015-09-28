@@ -10,7 +10,7 @@
   <meta name="google-site-verification" content="qOSeFlPhgdaRFpjqGsDITaEoSDXdaCKtxUq2YaDa_IY" />
 
   <title>
-    {% if page.front-page == true %}
+    {% if page.page-type == "front-page" %}
       {{ site.title }} &middot; {{ site.tagline }}
     {% else %}
       {{ page.page-title }} &middot; {{ site.title }}
@@ -19,7 +19,7 @@
 
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}css/styles.css">
-  {% if page.forms == true %}
+  {% if page.page-type == "form" %}
     <link rel="stylesheet" href="{{ site.baseurl }}css/forms.css">
   {% endif %}
 

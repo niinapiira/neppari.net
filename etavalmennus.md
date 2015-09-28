@@ -1,6 +1,7 @@
 ---
 layout: page
 "page-title": Etävalmennus
+"page-type": "normal"
 "link-title": ""
 "navigation-order": 4
 polaroid: ""

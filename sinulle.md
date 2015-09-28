@@ -1,6 +1,7 @@
 ---
 layout: page
 page-title: Sinulle
+"page-type": "normal"
 "navigation-order": 2
 published: true
 ---
