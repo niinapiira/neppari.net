@@ -1,10 +1,13 @@
 ---
 layout: page
-page-title: Valmennus
-"page-type": "normal"
+"page-title": Valmennus
+"page-type": normal
 "navigation-order": 3
 published: true
+"link-title": ""
+polaroid: ""
 ---
+
 
 
 
@@ -19,4 +22,4 @@ Valmennus on hyvin kokonaisvaltainen tukimuoto, joka kattaa koko elämän kirjon
 
 Neuropsykiatrinen valmennus on ennen kaikkea voimaantumisprosessi, jota ei ole mahdollista tuottaa toiselle, mutta jota voidaan edesauttaa luomalla sille mahdollisuudet. Voimaantuminen saavutetaan hallinnan ja kontrollin tunteen kautta, joka syntyy mahdollisuudesta osallistua omia asioita koskevaan päätöksentekoon ja niiden toimeenpanoon.
 
-*Valmennuksen hinnasta sovitaan yksilöllisesti tapauskohtaisesti, sillä hintaan vaikuttaa sopimuksen pituus, asiakkaan tilanne, mahdolliset matkakulut sekä  raportointi- ja lausuntotarve. Pienenä toimijana Nepparin neuropsykiatrisen valmennuksen hinta on voitu pitää mahdollisimman alhaisena, tällä hetkellä perushinta on 50e/h +alv. Kokonaishinnasta ja tapaamisten pituudesta sovitaan asiakaskohtaisesti kirjallisella sopimuksella.*
+*Valmennuksen hinnasta sovitaan yksilöllisesti tapauskohtaisesti, sillä hintaan vaikuttaa sopimuksen pituus, asiakkaan tilanne, mahdolliset matkakulut sekä  raportointi- ja lausuntotarve. Pienenä toimijana Nepparin neuropsykiatrisen valmennuksen hinta on voitu pitää mahdollisimman alhaisena, tällä hetkellä perushinta on 50e/h. Kokonaishinnasta ja tapaamisten pituudesta sovitaan asiakaskohtaisesti kirjallisella sopimuksella.*
