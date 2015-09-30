@@ -13,5 +13,5 @@ Nepparin valmennusta on mahdollista saada myös etänä omalta koneelta tai kän
 
 Ensimmäinen etävalmennuskerta (1h) on ilmainen kokeilukerta, jonka jälkeen maksu hoidetaan aina ennen seuraavaa etävalmennuskertaa. Etävalmennuksen hinta on 40e/h. 
 
-Etävalmennuksen aikataulu ja viestimiskanava sovitaan etukäteen joko puhelimitse tai sähköpostilla. Voit kysellä etävalmennuksesta tietoa ja aikatauluja [sähköpostilla](/ota-yhteytta).
+Etävalmennuksen sisältö, aikataulu ja viestimiskanava voidaan sopia etukäteen joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
 
