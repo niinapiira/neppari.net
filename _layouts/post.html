@@ -1,5 +1,6 @@
 ---
 layout: default
+body-class-name: post
 ---
 
 <div class="post">
@@ -8,7 +9,9 @@ layout: default
   {{ content }}
 </div>
 
-<div class="related">
+{% include writer.html %}
+
+<!--<div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
@@ -22,4 +25,4 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-</div>
+</div>-->

@@ -3,9 +3,13 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="{{ page.body-class-name }}">
 
-    {% include sidebar.html %}
+	{% if page.body-class-name == "post" %}
+      {% include headerbar.html %}
+	{% else %}
+      {% include sidebar.html %}
+    {% endif %}
 
     <div class="content container">
       {{ content }}

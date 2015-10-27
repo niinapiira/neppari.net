@@ -1,0 +1,86 @@
+$avatar-width: 160px;
+$avatar-border: 8px;
+
+@media (min-width: 48em) {
+	html {
+		font-size: 20px;
+	}
+	.post .content {
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+@media (min-width: 64em) {
+	.post .content {
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+.post .content {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.back-to-neppari {
+	@extend .header;
+	margin-top: 0;
+	padding: 0.2em 1em;
+
+	&, a:link, a:visited {
+		color: $accent-color;
+	}
+	a:hover, a:active {
+		color: darken($accent-color, 28%);
+	}
+}
+
+.blog-header {
+	background-color: $accent-color;
+	color: $text-color-on-accent;
+
+	text-align: center;
+	padding: 2em 1em 1.5em 1em;
+
+	h1 {
+		color: $text-color-on-accent;
+		font-size: 3.25em;
+		line-height: 1em;
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+
+	.tagline {
+		@extend .header;
+		@extend .h3;
+	}
+}
+
+.post .content {
+	padding-top: 4rem;
+}
+
+.writer-information {
+
+	$image-container-width: $avatar-width + (2 * $avatar-border);
+	.image-container {
+		float: left;
+		background-color: $accent-color;
+		padding: $avatar-border;
+		width: $image-container-width;
+		height: $image-container-width;
+		border-radius: $image-container-width / 2;
+	}
+
+	.image {
+		width: $avatar-width;
+		height: $avatar-width;
+		border-radius: $avatar-width / 2;
+	}
+
+	.description {
+		margin-left: $image-container-width + (3 * $avatar-border);
+		min-height: $image-container-width;
+		display: flex;
+		align-items: center;
+	}
+}
