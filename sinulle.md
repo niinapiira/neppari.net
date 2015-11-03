@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /sinulle/
 page-title: Sinulle
 "page-type": "normal"
 "navigation-order": 2

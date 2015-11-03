@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /ammatillinen-tukihenkilotoiminta/
 "page-title": Ammatillinen tukihenkilötoiminta
 "page-type": normal
 "navigation-order": 6

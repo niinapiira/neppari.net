@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /konsultointi-ja-luennot/
 "page-title": Konsultointi ja luennointi
 "page-type": normal
 "navigation-order": 7

@@ -1,5 +1,5 @@
 $avatar-width: 160px;
-$avatar-border: 8px;
+$avatar-border-width: 8px;
 
 @media (min-width: 48em) {
 	html {
@@ -36,10 +36,13 @@ $avatar-border: 8px;
 
 .blog-header {
 	background-color: $accent-color;
-	color: $text-color-on-accent;
 
 	text-align: center;
 	padding: 2em 1em 1.5em 1em;
+
+	&, a:link, a:visited, a:hover, a:active {
+		color: $text-color-on-accent;
+	}
 
 	h1 {
 		color: $text-color-on-accent;
@@ -47,6 +50,7 @@ $avatar-border: 8px;
 		line-height: 1em;
 		margin-top: 0;
 		margin-bottom: 0;
+		text-transform: lowercase;
 	}
 
 	.tagline {
@@ -57,15 +61,15 @@ $avatar-border: 8px;
 
 .post .content {
 	padding-top: 4rem;
+	padding-bottom: 0;
 }
 
 .writer-information {
 
-	$image-container-width: $avatar-width + (2 * $avatar-border);
+	$image-container-width: $avatar-width + (2 * $avatar-border-width);
 	.image-container {
 		float: left;
-		background-color: $accent-color;
-		padding: $avatar-border;
+		border: $avatar-border-width solid $accent-color;
 		width: $image-container-width;
 		height: $image-container-width;
 		border-radius: $image-container-width / 2;
@@ -74,13 +78,32 @@ $avatar-border: 8px;
 	.image {
 		width: $avatar-width;
 		height: $avatar-width;
-		border-radius: $avatar-width / 2;
+		border: $avatar-border-width solid white;
+		//border-radius: $avatar-width / 2;
+		//padding: 10px solid white;
 	}
 
 	.description {
-		margin-left: $image-container-width + (3 * $avatar-border);
+		margin-left: $image-container-width + (3 * $avatar-border-width);
+		padding-top: 2 * $avatar-border-width;
 		min-height: $image-container-width;
-		display: flex;
-		align-items: center;
+
+		.name { @extend .h3; margin-top: 0; }
+		.title { font-size: 0.9em; margin-bottom: 0.5em; }
+		.bio { font-size: 0.8em; font-style: italic; }
+	}
+}
+
+.related-posts-header {
+	margin-top: 4rem;
+	overflow: hidden;
+}
+
+.related-posts {
+	list-style: circle;
+	padding-left: 1rem;
+
+	li a:hover {
+		text-decoration: underline;
 	}
 }

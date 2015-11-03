@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /kiitos-viestistasi/
 page-title: Kiitos viestistäsi!
 "page-type": "normal"
 ---
