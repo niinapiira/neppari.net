@@ -1,5 +1,4 @@
 ---
-layout: post
 page-title: "Tästä se lähtee"
 ---
 

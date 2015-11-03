@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /ota-yhteytta/
 forms: true
 "page-title": Ota yhteyttä
 "page-type": form

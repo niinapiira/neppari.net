@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /lyhytvalmennus/
 "page-title": Lyhytvalmennus
 "page-type": normal
 "navigation-order": 5

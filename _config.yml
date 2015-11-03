@@ -11,6 +11,10 @@ tagline-short:    'Neuropsykiatrisen valmennuksen paikka'
 baseurl:          /
 siteurl:          http://neppari.net
 
+# Permalinks
+permalink:        /:categories/:title/
+relative_permalinks: true
+
 # Blog
 blog:
   title:          'Nepparin napsahduksia'
@@ -25,8 +29,15 @@ writer:
     maailmasta paremman jo 15 vuoden ajan. En pelkää haasteita
     enkä haastavia tilanteita. Vapaa-ajalla minut löytää yleensä
     koirien ja hevosten seurasta.
-permalink:        blogi/:title
-relative_permalinks: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      category: "blogi"
 
 contact:
   name:           'Niina Piira'

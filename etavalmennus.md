@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /etavalmennus/
 "page-title": Etävalmennus
 "link-title": ""
 "page-type": normal
