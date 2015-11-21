@@ -4,6 +4,7 @@ layout: page
 "page-type": normal
 "navigation-order": 7
 published: true
+permalink: /konsultointi-ja-luennointi/
 "link-title": ""
 polaroid: ""
 ---

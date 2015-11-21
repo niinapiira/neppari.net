@@ -2,6 +2,7 @@
 layout: page
 "page-title": Valmennus
 "page-type": normal
+permalink: /valmennus/
 "navigation-order": 3
 published: true
 "link-title": ""

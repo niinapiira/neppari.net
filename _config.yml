@@ -12,7 +12,7 @@ baseurl:          /
 siteurl:          http://neppari.net
 
 # Permalinks
-permalink:        /:categories/:title/
+permalink:        /blogi/:title/
 relative_permalinks: true
 
 # Blog
@@ -38,6 +38,10 @@ defaults:
     values:
       layout: "post"
       category: "blogi"
+    #scope:
+    #  type: "pages"
+    #values:
+    #  permalink: /:path/:basename:output_ext
 
 contact:
   name:           'Niina Piira'

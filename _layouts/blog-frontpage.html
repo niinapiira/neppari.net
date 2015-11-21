@@ -1,0 +1,19 @@
+---
+layout: default
+body-class-name: post
+---
+
+<h3 class="welcome-message">Uusin napsahdus Nepparin blogissa:</h3>
+<div class="post">
+  <h1 class="post-title">
+  	<a href="{{ site.posts.first.url }}">{{ site.posts.first.page-title }}</a>
+  </h1>
+  <span class="post-date">
+    {% include post-date.html block=site.posts.first %}
+  </span>
+  {{ site.posts.first.content }}
+</div>
+
+{% include previous-posts.html %}
+
+{% include writer.html %}

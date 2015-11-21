@@ -64,6 +64,10 @@ $avatar-border-width: 8px;
 	padding-bottom: 0;
 }
 
+.welcome-message {
+	margin-top: 0;
+}
+
 .writer-information {
 
 	$image-container-width: $avatar-width + (2 * $avatar-border-width);
@@ -106,4 +110,8 @@ $avatar-border-width: 8px;
 	li a:hover {
 		text-decoration: underline;
 	}
+}
+
+.previous-posts {
+	margin-bottom: 3rem;
 }

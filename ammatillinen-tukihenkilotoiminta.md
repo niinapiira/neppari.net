@@ -4,6 +4,7 @@ layout: page
 "page-type": normal
 "navigation-order": 6
 published: true
+permalink: /ammatillinen-tukihenkilotoiminta/
 "link-title": Tukihenkilötoiminta
 polaroid: ""
 ---

@@ -4,6 +4,7 @@ layout: page
 "page-type": normal
 "navigation-order": 5
 published: true
+permalink: /lyhytvalmennus/
 "link-title": ""
 polaroid: ""
 ---

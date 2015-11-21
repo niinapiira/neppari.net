@@ -3,8 +3,9 @@ layout: page
 forms: true
 "page-title": Ota yhteyttä
 "page-type": form
-"navigation-order": 99
+"navigation-order": 90
 published: true
+permalink: /ota-yhteytta/
 "link-title": ""
 polaroid: ""
 ---
