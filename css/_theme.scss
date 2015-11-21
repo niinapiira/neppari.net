@@ -1,4 +1,5 @@
 $accent-color: #F2CB52;
+$text-color-on-accent: white;
 
 .sidebar {
   background-color: $accent-color;
@@ -9,7 +10,7 @@ $accent-color: #F2CB52;
 }
 
 .sidebar {
-	color: white;
+	color: $text-color-on-accent;
 }
 
 .sidebar .faded {
@@ -17,6 +18,6 @@ $accent-color: #F2CB52;
 		color: darken($accent-color, 28%);
 	}
 	a:hover, a:active {
-		color: white;
+		color: $text-color-on-accent;
 	}
 }

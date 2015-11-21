@@ -2,17 +2,46 @@
 markdown:         redcarpet
 highlighter:      pygments
 
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
-
 # Setup
 title:            Neppari
+long-title:       'Valmennuskeskus Neppari'
 tagline:          'Neuropsykiatrista valmennusta Tampereella'
 description:      'Neuropsykiatrista valmennusta Tampereella'
 tagline-short:    'Neuropsykiatrisen valmennuksen paikka'
 baseurl:          /
 siteurl:          http://neppari.net
+
+# Permalinks
+permalink:        /blogi/:title/
+relative_permalinks: true
+
+# Blog
+blog:
+  title:          'Nepparin napsahduksia'
+  tagline:        'Kirjoituksia nepsyille ja nepsyjen ympärille'
+  baseurl:        '/blogi/'
+writer:
+  name:           Niina Piira
+  title-1:        Neuropsykiatrinen ratkaisukeskeinen valmentaja
+  title-2:        Sosionomi (AMK)
+  bio: >
+    Olen sosiaalialan ammattilainen, joka on yrittänyt tehdä
+    maailmasta paremman jo 15 vuoden ajan. En pelkää haasteita
+    enkä haastavia tilanteita. Vapaa-ajalla minut löytää yleensä
+    koirien ja hevosten seurasta.
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      category: "blogi"
+    #scope:
+    #  type: "pages"
+    #values:
+    #  permalink: /:path/:basename:output_ext
 
 contact:
   name:           'Niina Piira'

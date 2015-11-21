@@ -1,0 +1,17 @@
+{% assign m = include.block.date | date: "%-m" %}
+{{ include.block.date | date: "%-d" }}.
+{% case m %}
+  {% when '1' %}tammikuuta
+  {% when '2' %}helmikuuta
+  {% when '3' %}maaliskuuta
+  {% when '4' %}huhtikuuta
+  {% when '5' %}toukokuuta
+  {% when '6' %}kesäkuuta
+  {% when '7' %}heinäkuuta
+  {% when '8' %}elokuuta
+  {% when '9' %}syyskuuta
+  {% when '10' %}lokakuuta
+  {% when '11' %}marraskuuta
+  {% when '12' %}joulukuuta
+{% endcase %}
+{{ include.block.date | date: "%Y" }}

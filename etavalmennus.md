@@ -5,6 +5,7 @@ layout: page
 "page-type": normal
 "navigation-order": 4
 polaroid: ""
+permalink: /etavalmennus/
 published: true
 ---
 
