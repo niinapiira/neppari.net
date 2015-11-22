@@ -5,8 +5,7 @@ layout: blog-frontpage
 published: true
 permalink: /blogi/
 "link-title": Blogi
+navigation-order: 99
 ---
 
 Tämä teksti ei näy missään.
-
-@todo: Lisää navigation-order
