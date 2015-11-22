@@ -16,7 +16,7 @@ polaroid: ""
     muista muuttaa se myös _config.yml -tiedostoon
 -->
 
-Tällä lomakkeella voit lähettää minulle helposti yhteydenottopyynnön tai muun viestin. Halutessasi voit myös soittaa tai lähettää minulle itse sähköpostia osoitteeseen <a href="mailto:{{ site.contact.email }}">{{ site.contact.email }}</a>.
+Tällä lomakkeella voit lähettää minulle helposti yhteydenottopyynnön tai muun viestin. Halutessasi voit myös soittaa tai lähettää minulle itse sähköpostia osoitteeseen <a href="mailto:{{ site.contact.email.normal }}">{{ site.contact.email.normal }}</a>.
 
 ---
 
@@ -51,7 +51,7 @@ Tällä lomakkeella voit lähettää minulle helposti yhteydenottopyynnön tai m
 </script>
 
 <form class="pure-form pure-form-stacked contact-form" onsubmit="return checkInfo();"
-    method="POST" action="//formspree.io/{{ site.contact.email4form }}">
+    method="POST" action="//formspree.io/{{ site.contact.email.for-contacts }}">
 
     <input type="hidden" name="_subject" value="Yhteydenotto Nepparin kotisivuilta!" />
     <input type="hidden" name="_next" value="{{ site.siteurl }}{{ site.baseurl }}kiitos-viestistasi" />

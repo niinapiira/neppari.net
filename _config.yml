@@ -6,7 +6,7 @@ highlighter:      pygments
 title:            Neppari
 long-title:       'Valmennuskeskus Neppari'
 tagline:          'Neuropsykiatrista valmennusta Tampereella'
-description:      'Neuropsykiatrista valmennusta Tampereella'
+description:      'Neppari on neuropsykiatrisen valmennuksen paikka, jossa tarjotaan tukea henkilöille joilla on esimerkiksi ADHD, ADD, Asperger, Tourette tai lievä autismi.'
 tagline-short:    'Neuropsykiatrisen valmennuksen paikka'
 baseurl:          /
 siteurl:          http://neppari.net
@@ -44,12 +44,24 @@ defaults:
     #  permalink: /:path/:basename:output_ext
 
 contact:
-  name:           'Niina Piira'
-  address:        'Oravanpolku 5 A, Tampere'
-  phone:          '040 934 9954'
-  email:          'niina@neppari.net'
-  email4form:     'nepparinet+yhteydenottosivuilta@gmail.com'
-  page:           '/ota-yhteytta'
+  name:              'Niina Piira'
+  address:
+    sidebar-version: 'Oravanpolku 5 A, Tampere'
+    street-address:  'Oravanpolku 5 A'
+    city:            'Tampere'
+    post-number:     '33540'
+    region:          'Pirkanmaa'
+    country:         'Finland'
+  location:
+    latitude:        '61.495848'
+    longitude:       '23.790657'
+  phone:
+    finnish:         '040 934 9954'
+    international:   '+358 40 934 9954'
+  email:
+    normal:          'niina@neppari.net'
+    for-contacts:    'nepparinet+yhteydenottosivuilta@gmail.com'
+  page:              '/ota-yhteytta'
 
 # Custom vars
 version:          2.1.0

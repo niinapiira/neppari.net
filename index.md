@@ -4,6 +4,7 @@ layout: page
 "page-type": "front-page"
 "link-title": Esittely
 "navigation-order": 1
+permalink: /
 published: true
 polaroid: "niina-ja-riksu-polaroid.jpg"
 ---
