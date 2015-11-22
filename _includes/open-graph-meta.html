@@ -1,9 +1,9 @@
 <!-- Facebook Open Graph meta tags-->
 <meta property="og:title" content="{% include title.html %}">
 {% if page.is-part-of-blog %}
-  <meta property="og:type" content="blog">
+  <meta property="og:type" content="article">
 {% else %}
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="business.business">
 {% endif %}
 <meta property="og:url" content="{{ site.siteurl }}{{ site.baseurl }}">
 <meta property="og:image" content="{{ site.siteurl }}{{ site.baseurl }}public/open-graph-default-image.png">
