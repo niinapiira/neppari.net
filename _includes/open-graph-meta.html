@@ -1,8 +1,19 @@
 <!-- Facebook Open Graph meta tags-->
+
 {% if page.is-part-of-blog %}
   <meta property="og:type" content="article">
+  <meta property="og:site_name" content="{{ site.blog.title }}">
+  <meta property="og:description" content="{{ site.blog.description }}">
+
+  <meta property="article:author" content="{{ site.writer.fb-profile }}">
+  <meta property="article:publisher" content="{{ site.contact.fb-profile }}">
+  <meta property="article:section" content="Social Science">
+
 {% else %}
   <meta property="og:type" content="business.business">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:description" content="{{ site.description }}">
+
   <meta property="business:contact_data:email"          content="{{ site.contact.email.normal }}" />
   <meta property="business:contact_data:phone_number"   content="{{ site.contact.phone.international }}" />
   <meta property="business:contact_data:website"        content="{{ site.siteurl }}" />
@@ -14,8 +25,8 @@
   <meta property="place:location:latitude"              content="{{ site.contact.location.latitude }}" />
   <meta property="place:location:longitude"             content="{{ site.contact.location.longitude }}" />
 {% endif %}
+
+<meta property="og:locale" content="fi_FI">
 <meta property="og:title" content="{% include title.html %}">
 <meta property="og:url" content="{{ site.siteurl }}{{ page.url }}">
 <meta property="og:image" content="{{ site.siteurl }}{{ site.baseurl }}public/og-images/niina-ja-riksu.jpg">
-<meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:description" content="{{ site.description }}">

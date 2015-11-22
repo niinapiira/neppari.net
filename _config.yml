@@ -20,10 +20,16 @@ blog:
   title:          'Nepparin napsahduksia'
   tagline:        'Kirjoituksia nepsyille ja nepsyjen ympärille'
   baseurl:        '/blogi/'
+  description: >
+    Blogissani käsittelen rakentavasti ja ratkaisukeskeisesti yksilön
+    hyvinvointia, ihmisyyttä sekä sosiaalialaa niiden tukipilarina.
+    - Vaikka maailma on jo aika hieno paikka elää, on aina varaa
+    parantaa. - ;)
 writer:
   name:           Niina Piira
   title-1:        Neuropsykiatrinen ratkaisukeskeinen valmentaja
   title-2:        Sosionomi (AMK)
+  fb-profile:     'https://www.facebook.com/niina.piira.98'
   bio: >
     Olen sosiaalialan ammattilainen, joka on yrittänyt tehdä
     maailmasta paremman jo 15 vuoden ajan. En pelkää haasteita
@@ -38,10 +44,6 @@ defaults:
     values:
       layout: "post"
       category: "blogi"
-    #scope:
-    #  type: "pages"
-    #values:
-    #  permalink: /:path/:basename:output_ext
 
 contact:
   name:              'Niina Piira'
@@ -62,6 +64,7 @@ contact:
     normal:          'niina@neppari.net'
     for-contacts:    'nepparinet+yhteydenottosivuilta@gmail.com'
   page:              '/ota-yhteytta'
+  fb-profile:        'https://www.facebook.com/valmennuskeskus.neppari'
 
 # Custom vars
 version:          2.1.0
