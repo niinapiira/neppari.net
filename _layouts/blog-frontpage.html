@@ -6,13 +6,21 @@ is-part-of-blog: true
 
 <h3 class="welcome-message">Uusin napsahdus Nepparin blogissa:</h3>
 <div class="post">
+
   <h1 class="post-title">
-  	<a href="{{ site.posts.first.url }}">{{ site.posts.first.page-title }}</a>
+    <a href="{{ site.posts.first.url }}">{{ site.posts.first.page-title }}</a>
   </h1>
+
   <span class="post-date">
     {% include post-date.html block=site.posts.first %}
   </span>
-  {{ site.posts.first.content }}
+
+  {{ site.posts.first.excerpt }}
+
+  <p class="read-more">
+    <a href="{{ site.posts.first.url }}">Jatka lukemista klikkaamalla tästä...</a>
+  </p>
+
 </div>
 
 {% include previous-posts.html %}

@@ -9,7 +9,7 @@ is-part-of-blog: true
   <span class="post-date">
     {% include post-date.html block=page %}
   </span>
-  {{ content }}
+  {{ content | replace_first:'<p>','<p class="first">' }}
 </div>
 
 {% include fb-like-button.html %}
