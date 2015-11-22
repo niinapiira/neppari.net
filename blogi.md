@@ -1,7 +1,7 @@
 ---
 layout: blog-frontpage
 "page-title": Nepparin napsahduksia
-"page-type": normal
+"page-type": blog-front-page
 published: true
 permalink: /blogi/
 "link-title": Blogi
