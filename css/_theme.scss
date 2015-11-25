@@ -20,4 +20,7 @@ $text-color-on-accent: white;
 	a:hover, a:active {
 		color: $text-color-on-accent;
 	}
+	.new {
+		font-weight: bold;
+	}
 }
