@@ -2,15 +2,29 @@ $accent-color: #F2CB52;
 $text-color-on-accent: white;
 
 .sidebar {
-  background-color: $accent-color;
+	background-color: $accent-color;
+	color: $text-color-on-accent;
+	.new {
+		font-weight: bold;
+	}
 }
 .content a,
 .related-posts li a:hover {
   color: darken($accent-color, 18%);
 }
 
-.sidebar {
-	color: $text-color-on-accent;
+.sidebar-about {
+	.pre-title {
+		@extend .small;
+		margin: 0;
+	}
+	h1 {
+		margin: -0.4em 0 0.5rem 0.5rem;
+	}
+	.tagline {
+		@extend .small;
+		margin: 0 0 1rem 0;
+	}
 }
 
 .sidebar .faded {
@@ -19,8 +33,5 @@ $text-color-on-accent: white;
 	}
 	a:hover, a:active {
 		color: $text-color-on-accent;
-	}
-	.new {
-		font-weight: bold;
 	}
 }

@@ -2,12 +2,15 @@
 
   <div class="container sidebar-sticky-top">
     <div class="sidebar-about">
+      <p class="pre-title">
+        {{ site.pre-title }}
+      </p>
       <h1>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
         </a>
       </h1>
-      <p class="small">
+      <p class="tagline">
         {{ site.tagline-short }}
       </p>
       <p class="faded small">
@@ -26,6 +29,9 @@
       {% for node in pages_list %}
         {% if node.navigation-order %}
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">
+            {% if node.is-new == true %}
+              <span class="new">Uutta:</span>
+            {% endif %}
             {% if node.link-title and node.link-title != empty %}
               {{ node.link-title }}
             {% else %}

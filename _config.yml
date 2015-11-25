@@ -3,6 +3,7 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Setup
+pre-title:        Valmennuskeskus
 title:            Neppari
 long-title:       'Valmennuskeskus Neppari'
 tagline:          'Neuropsykiatrista valmennusta Tampereella'
