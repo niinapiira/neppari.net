@@ -85,6 +85,7 @@ prose:
     - /css
     - /fonts
     - /public
+    - /uploaded-images/.store-this-folder-in-git
     - _config.yml
     - .gitignore
     - 404.html
@@ -94,6 +95,7 @@ prose:
     - LICENCE
     - README.md
     - neppari.sublime-project
+  media: 'uploaded-images'
   metadata:
     "":
       - name: "layout"
