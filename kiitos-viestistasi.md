@@ -1,8 +1,15 @@
 ---
 layout: page
-page-title: Kiitos viestistäsi!
-permalink: /kiitos-viestistasi/
-"page-type": "normal"
+"page-title": "Kiitos viestistäsi!"
+permalink: "/kiitos-viestistasi/"
+"page-type": normal
+published: true
+"link-title": ""
+"navigation-order": 50
+polaroid: ""
 ---
 
+
 Otan sinuun yhteyttä niin pian kuin mahdollista!
+
+![testi.png]({{site.baseurl}}/uploaded-images/testi.png)
