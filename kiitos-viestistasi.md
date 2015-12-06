@@ -5,7 +5,6 @@ permalink: "/kiitos-viestistasi/"
 "page-type": normal
 published: true
 "link-title": ""
-"navigation-order": 50
 polaroid: ""
 ---
 
