@@ -1,6 +1,6 @@
 ---
 "page-title": Innovatiivisuus sosiaalialalla
-published: false
+published: true
 ---
 
 
