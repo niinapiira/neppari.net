@@ -13,3 +13,5 @@ polaroid: ""
 
 
 Otan sinuun yhteyttä niin pian kuin mahdollista!
+
+![testikuva-sohvasta.jpeg]({{site.baseurl}}/uploaded-images/testikuva-sohvasta.jpeg)
