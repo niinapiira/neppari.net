@@ -9,7 +9,6 @@ long-title:       'Valmennuskeskus Neppari'
 tagline:          'Neuropsykiatrista valmennusta Tampereella'
 description:      'Neppari on neuropsykiatrisen valmennuksen paikka, jossa tarjotaan tukea henkilöille joilla on esimerkiksi ADHD, ADD, Asperger, Tourette tai lievä autismi.'
 tagline-short:    'Neuropsykiatrisen valmennuksen paikka'
-baseurl:          /
 siteurl:          http://neppari.net
 
 # Permalinks

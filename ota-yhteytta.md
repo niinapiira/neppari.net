@@ -55,7 +55,7 @@ Tällä lomakkeella voit lähettää minulle helposti yhteydenottopyynnön tai m
     method="POST" action="//formspree.io/{{ site.contact.email.for-contacts }}">
 
     <input type="hidden" name="_subject" value="Yhteydenotto Nepparin kotisivuilta!" />
-    <input type="hidden" name="_next" value="{{ site.siteurl }}{{ site.baseurl }}kiitos-viestistasi" />
+    <input type="hidden" name="_next" value="{{ site.siteurl }}/kiitos-viestistasi" />
 
     <div class="contact-form-part">
         <label for="name">Nimesi</label>
