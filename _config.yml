@@ -146,3 +146,8 @@ prose:
           element: "text"
           label: "Blogipostauksen otsikko"
           placeholder: "Kirjoita otsikko tähän"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Onko sivu julkaistu?"
+          value: false
