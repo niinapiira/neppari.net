@@ -3,6 +3,7 @@ layout: page
 "page-title": Sinulle
 "page-type": normal
 "navigation-order": 2
+"show-in-navigation": true
 permalink: /sinulle/
 published: true
 "link-title": ""

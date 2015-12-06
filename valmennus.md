@@ -4,6 +4,7 @@ layout: page
 "page-type": normal
 permalink: /valmennus/
 "navigation-order": 3
+"show-in-navigation": true
 published: true
 "link-title": ""
 polaroid: ""

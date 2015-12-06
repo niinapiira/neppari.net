@@ -27,7 +27,7 @@
     <nav class="sidebar-nav">
       {% assign pages_list = (site.pages | sort: 'navigation-order') %}
       {% for node in pages_list %}
-        {% if node.navigation-order %}
+        {% if node.show-in-navigation == true %}
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">
             {% if node.is-new == true %}
               <span class="new">Uutta:</span>

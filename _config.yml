@@ -124,6 +124,11 @@ prose:
               value: "front-page"
             - name: "Palautesivu"
               value: "form"
+      - name: "show-in-navigation"
+        field:
+          element: "checkbox"
+          label: "Näytetään tämä sivu sivupalkin navigaatiossa?"
+          value: false
       - name: "navigation-order"
         field:
           element: "number"

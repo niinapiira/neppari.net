@@ -4,6 +4,7 @@ forms: true
 "page-title": Ota yhteyttä
 "page-type": form
 "navigation-order": 90
+"show-in-navigation": true
 published: true
 permalink: /ota-yhteytta/
 "link-title": ""

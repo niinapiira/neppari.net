@@ -6,6 +6,7 @@ published: true
 permalink: /blogi/
 "link-title": Blogi
 navigation-order: 99
+"show-in-navigation": true
 is-new: true
 ---
 

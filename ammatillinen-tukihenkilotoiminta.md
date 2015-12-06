@@ -3,6 +3,7 @@ layout: page
 "page-title": Ammatillinen tukihenkilötoiminta
 "page-type": normal
 "navigation-order": 6
+"show-in-navigation": true
 published: true
 permalink: /ammatillinen-tukihenkilotoiminta/
 "link-title": Tukihenkilötoiminta

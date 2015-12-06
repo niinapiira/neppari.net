@@ -4,6 +4,7 @@ layout: page
 "link-title": ""
 "page-type": normal
 "navigation-order": 4
+"show-in-navigation": true
 polaroid: ""
 permalink: /etavalmennus/
 published: true
