@@ -140,3 +140,9 @@ prose:
           element: "checkbox"
           label: "Onko sivu julkaistu?"
           value: false
+    "_posts":
+      - name: "page-title"
+        field:
+          element: "text"
+          label: "Blogipostauksen otsikko"
+          placeholder: "Kirjoita otsikko tähän"
