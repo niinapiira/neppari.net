@@ -6,8 +6,10 @@ permalink: "/kiitos-viestistasi/"
 published: true
 "link-title": ""
 polaroid: ""
+"show-in-navigation": false
+"navigation-order": 50
 ---
 
 
-Otan sinuun yhteyttä niin pian kuin mahdollista!
 
+Otan sinuun yhteyttä niin pian kuin mahdollista!
