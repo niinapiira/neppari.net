@@ -1,6 +1,6 @@
 ---
 "page-title": "Nepsy-piirteinen henkilö ei ole yhtä kuin neuropsykiatrinen diagnoosinsa"
-published: false
+published: true
 ---
 
 
