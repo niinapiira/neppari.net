@@ -11,6 +11,7 @@ polaroid: ""
 ---
 
 
+
 *Painiskeletko sinä tai lapsesi nepsy-piirteiden mukanaan tuomien haasteiden kanssa?*
 
 *Koetko että tarvitset helpotusta jokapäiväiseen elämääsi?*
@@ -29,6 +30,6 @@ Nepparissa jokainen ihminen on ennen kaikkea persoona, joten käytän aikaani ja
 
 Autan sinua löytämään tarvitsemasi etuudet, tukipalvelut, apuvälineet ja verkostot sekä sopivat tavat toteuttaa itseäsi niin harrastusten, kiinnostustenkohteiden, opintojen että työuran muodossa.
 
-Tavoitteellisuus on valmennuksen onnistumisen tärkein lähtökohta ja se vaatii motivaatiota, tahtotilaa sekä valmiutta kehittää itseään. Valmennuksen avulla saat tukea tavoitteittesi pohtimiseen, löytämiseen, suunnittelemiseen, fokusointiin, priorisointiin sekä niiden saavuttamiseen.
+Tavoitteellisuus on valmennuksen onnistumisen tärkein lähtökohta ja se vaatii sinulta motivaatiota, tahtotilaa sekä valmiutta kehittää itseäsi. Valmennuksen avulla saat tukea tavoitteidesi pohtimiseen, suunnittelemiseen sekä niiden saavuttamiseen.
 
 Nepparin valmennuksessa saat mahdollisuuden tutustua itseesi syvällisemmin ja rakentaa uutta/vahvempaa pohjaa itsetunnolle ja itsetuntemukselle sekä sen myötä koko elämälle ja arjen hallinnalle.
