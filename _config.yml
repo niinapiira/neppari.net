@@ -18,7 +18,7 @@ relative_permalinks: true
 # Blog
 blog:
   title:          'Nepparin napsahduksia'
-  tagline:        'Kirjoituksia nepsyille ja nepsyjen ympärille'
+  tagline:        'Valmentajan välähdyksiä voimaantumisesta'
   baseurl:        '/blogi/'
   description: >
     Blogissani käsittelen rakentavasti ja ratkaisukeskeisesti yksilön
