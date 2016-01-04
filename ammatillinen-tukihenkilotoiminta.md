@@ -5,10 +5,11 @@ layout: page
 "navigation-order": 6
 "show-in-navigation": true
 published: true
-permalink: /ammatillinen-tukihenkilotoiminta/
+permalink: "/ammatillinen-tukihenkilotoiminta/"
 "link-title": Tukihenkilötoiminta
 polaroid: ""
 ---
+
 
 
 
@@ -20,6 +21,6 @@ Ammatilliselle tukihenkilötoiminnalle ei tarvitse luoda selkeitä tavoitteita e
 
 Ammatillisella tukihenkilötoiminnalla valmennettava saa tukea myös valmennuksessa opittujen toimintatapojen harjoitteluun, jolloin yhdessä toimimisella voidaan juurruttaa ja syventää valmennuksessa syntyneitä tuloksia samalla kun harjoitellaan uusia taitoja yhdessä tekemisen kautta.
 
-Ammatillinen tukihenkilötoiminta voi olla hyvin pitkäaikainen tukimuoto, jolloin yhteistyö mahdollistaa tuen mm. mielenterveyden haasteisiin.
+Ammatillinen tukihenkilötoiminta voi olla hyvin pitkäaikainen tukimuoto, jolloin yhteistyö mahdollistaa tuen mm. mielenterveyden haasteisiin. Ammatillisen tukihenkilötoiminnan perushinta on 90e/120min.
 
 *Valmennus- ja tukihenkilötoimintajaksoja voi olla samalla valmennettavalla useitakin elämänsä aikana. Elämän eri nivelvaiheissa voi aina herätä tarve uudelle valmennusjaksolle, jolloin valmennukseen on hyvä hakeutua uudestaan. Valmennus sopii hyvin tukimuodoksi elämän eri kohdissa, eri teemoihin ja osa-alueisiin. Uudet valmennus- ja tukihenkilötoimintajaksot voidaan perustaa joko uusien aiheiden ympärille tai vanhojen valmennusjaksojen tueksi. Hyvin toiminutta valmennussuhdetta on hyvä hyödyntää aina tarvittaessa, jotta säästetään asiakas siltä työltä minkä uuden työskentelysuhteen luominen vaatii aina. Näin ollen uudet valmennusjaksot ovat erittäin tehokkaita tukitoimia uusien haasteiden ilmetessä.*
