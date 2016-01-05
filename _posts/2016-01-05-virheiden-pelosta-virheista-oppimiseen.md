@@ -17,9 +17,13 @@ Sitten pääsemmekin itse asiaan. Eli siihen, että tekevälle sattuu. Virheet o
 Myötätunnon avulla voimme kuitenkin vapautua ikuisen virheellisyytemme taakasta. Myötätuntoa hyödyntämällä voimme päästä siihen ymmärrykseen, että olemme aina tehneet parhaamme siinä hetkessä, joka päätöksemme teon hetkellä on vallinnut. Myös toimimattomuus ja välttämiskäyttäytyminen ovat päätöksiämme siitä, kuinka haluamme toimia jossain tilanteessa. Oli valittuun vaihtoehtoon johtaneet lukemattomat syyt sitten mitkä tahansa (tunne, olosuhde, konteksti…), emme voi jälkikäteen tuomita itseämme tai toisiamme menneistä valinnoista. **Emme voi millään syyttää ketään siitä, että jälkiviisaina tulee huomanneeksi tosiasioita, joita ei osannut hetki sitten vielä ottaa huomioon.**  Tai mille ei osannut antaa sille kuuluvaa painoarvoa. Virhe on opettanut jo meitä, joten virheen jälkeen meillä on hallussamme tietoa tai taitoa tai kykyä, jota ei ollut ennen virhettä.
 
 Tästä pääsemmekin virheiden tekemisen ytimeen: niistä oppimiseen. **Olen kuullut joskus Buddhalaisesta ajatuksesta koskien karmaa, jonka mukaan voimme puhdistaa pahojen tekojemme turmelemaa karmaa neliportaisen toimintaohjeen avulla.** Samaa ideologiaa sovelletaan mm. vastuunportaat-menetelmässä, jonka avulla lapsille opetetaan vastuunoton ideologiaa käytännössä. Pääpontit kummassakin sovelluksessa ovat:
+
 - virheen tunnistaminen ja tunnustamien, soimaamatta itseään turhaan, mutta myöntäen kaikki tosiasiat
+
 - teot, joilla yrittää paikata tekemäänsä virhettä ja saada se mahdollisesti jopa korjattua
+
 - lupaus, ettei koskaan enää tee samaa virhettä uudestaan tai ainakin lupaa tehdä kaikkensa pyrkiäkseen välttämään saman virheen toistamisen (=välttää toimia jotka johtivat virheeseen)
+
 - teot, joilla voi pyrkiä korvaamaan aiheuttamaansa pahaa.
 
 Tätä virheistä oppimisen ketjua seuratessamme, pääsemme siihen lopputulokseen, että itse asiassa, mitä enemmän virheitä teemme (pyrkien tietysti välttämään samoja virheitä), sitä enemmän opimme ja sitä paremmiksi osaajiksi koko ajan kasvamme! **Kyse on sananmukaisesti (arviointi)kyvystä ja osaamisesta, joka karttuu kokemuksen myötä.** Arviointikykyään kannattaa tietysti pääasiassa kasvattaa opiskelemalla ja yleissivistystään lisäämällä, mutta nekään eivät sellaisenaan kartuta taitoa hyödyntää elämässä sattuvia virheitä.
