@@ -6,13 +6,14 @@ published: true
 
 
 
+
 **Virheiden tekeminen kuuluu elämään, emmekä voi välttää niitä millään. ”Virheistä oppii”. ”Virheet opettavat”. ”Virheiden kautta voittoon”. Sanontoja riittää kuvaamaan sitä tosiasiaa, että virheet ovat väistämättömiä elämän monimutkaisessa kulussa, mutta niistä voi myös hyötyä. Kuinka sitten virheitään voi katsoa rakentavasti silmästä silmään ja ottaa niistä aidosti opikseen?**
 
 ![Rapistunut seinä]({{site.baseurl}}/uploaded-images/rajattu-rapistunut-seina.jpeg)
 
 Virheiden tekeminen liittyy aina virhearvioon siitä, miten arvelemme tekojemme tai toimiemme vaikuttavan ihmisiin ja asioihin ympärillämme –ja itseemme. Koska virheet perustuvat väärään arvioon, tarkoittaa se sitä, että niitä välttääksemme meidän on joka hetki pyrittävä näkemään toimiemme tulos. Tämä tarkoittaa taitoa nähdä tulevaisuuteen. Mutta koska elämässä ainut, mikä on loppupeleissä varmaa, on vain käsillä oleva hetki, emme yksinkertaisesti voi millään tietää tulevaisuutta. **Koska emme (kaikki) osaa ennustaa tai tietää tulevaa, joudumme käyttämään arviointikykyämme sen pohtimiseen mikä olisi kaikkein TODENNÄKÖISIN lopputulos valitsemallemme toiminnalle.** Ja kuten elämässä hyvin usein käy, ei todennäköisinkään ole aina varma valinta. Voimme siis parhaimmillammekin vain arvailla ja kokeilla.
 
-Sitten pääsemmekin itse asiaan. Eli siihen, että tekevälle sattuu. Virheet ovat väistämättömiä. Tämä ajatus on kovin musertava, kunnes ymmärrämme katsoa syvällisemmin tämän ajatuksen taakse: Jos virheitä sattuu aina, kaikesta huolimatta, emmekä voi hallita elämää niin, että pystyisimme koskaan täysin välttämään virheitä, **on yrityksemme välttää niitä melko palkitsematonta ja jopa turhaa**. Virheitä kun sattuu siitä huolimatta.
+Sitten pääsemmekin itse asiaan. Eli siihen, että tekevälle sattuu ja virheet ovat väistämättömiä. Tämä ajatus on kovin musertava, kunnes ymmärrämme katsoa syvällisemmin tämän ajatuksen taakse: Jos virheitä sattuu aina, kaikesta huolimatta, emmekä voi hallita elämää niin, että pystyisimme koskaan täysin välttämään virheitä, **on yrityksemme välttää niitä melko palkitsematonta ja jopa turhaa**. Virheitä kun sattuu siitä huolimatta.
 
 Myötätunnon avulla voimme kuitenkin vapautua ikuisen virheellisyytemme taakasta. Myötätuntoa hyödyntämällä voimme päästä siihen ymmärrykseen, että olemme aina tehneet parhaamme siinä hetkessä, joka päätöksemme teon hetkellä on vallinnut. Myös toimimattomuus ja välttämiskäyttäytyminen ovat päätöksiämme siitä, kuinka haluamme toimia jossain tilanteessa. Oli valittuun vaihtoehtoon johtaneet lukemattomat syyt sitten mitkä tahansa (tunne, olosuhde, konteksti…), emme voi jälkikäteen tuomita itseämme tai toisiamme menneistä valinnoista. **Emme voi millään syyttää ketään siitä, että jälkiviisaina tulee huomanneeksi tosiasioita, joita ei osannut hetki sitten vielä ottaa huomioon.**  Tai mille ei osannut antaa sille kuuluvaa painoarvoa. Virhe on opettanut jo meitä, joten virheen jälkeen meillä on hallussamme tietoa tai taitoa tai kykyä, jota ei ollut ennen virhettä.
 
