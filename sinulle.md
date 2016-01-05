@@ -13,7 +13,7 @@ polaroid: ""
 
 
 
-*Painiskeletko sinä tai läheisesi nepsy-piirteiden mukanaan tuomien haasteiden kanssa?*
+*Painiskeletko sinä tai läheisesi nepsy-haasteiden kanssa?*
 
 *Koetko että tarvitset helpotusta jokapäiväiseen elämääsi?*
 
