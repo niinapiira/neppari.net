@@ -12,7 +12,8 @@ polaroid: ""
 
 
 
-*Painiskeletko sinä tai lapsesi nepsy-piirteiden mukanaan tuomien haasteiden kanssa?*
+
+*Painiskeletko sinä tai läheisesi nepsy-piirteiden mukanaan tuomien haasteiden kanssa?*
 
 *Koetko että tarvitset helpotusta jokapäiväiseen elämääsi?*
 
