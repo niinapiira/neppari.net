@@ -1,6 +1,6 @@
 ---
 "page-title": Virheiden pelosta virheistä oppimiseen
-published: false
+published: true
 ---
 
 
