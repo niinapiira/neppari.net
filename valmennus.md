@@ -20,7 +20,7 @@ polaroid: ""
 
 Valmennustuki on hyvin yhksilöllisesti räätälöityä työskentelyä, sillä jokainen nepsy-piirteinen henkilö kohtaa elämässään omanlaisia haasteitaan. Neuropsykiatrinen valmennus on selkeästi neuropsykiatrisille henkilöille kohdennettu tukimuoto, joka on edullinen ja tehokas keino toteuttaa sosiaalista kuntoutusta. Tämä monipuolinen ohjaus- ja tukimuoto pitää sisältää mm. tukikeskusteluita, harjoituksia, kotitehtäviä, toiminnallisia ja luovia menetelmiä, tavoitteiden luomista ja seurantaa, sekä muita yksilöllisesti valittuja menetelmiä.
 
-Valmennus on tavoitteellinen prosessi, jossa työskennellä valmennettavan tarpeista käsin. Valmennus voidaan toteuttaa Nepparin toimitiloissa, julkisissa paikoissa kuten kahviloissa, sekä valmennettavan kotona, koulussa, työpaikalla tai harrastuspaikoissa. Valmentaja voi jalkautua myös asiointiavuksi esimerkiksi virastoihin tai kauppoihin sekä tueksi vaikka lääkärin vastaanotolle. 
+Valmennus on tavoitteellinen prosessi, jossa työskennellään valmennettavan tarpeista käsin. Valmennus voidaan toteuttaa Nepparin toimitiloissa, julkisissa paikoissa kuten kahviloissa, sekä valmennettavan kotona, koulussa, työpaikalla tai harrastuspaikoissa. Valmentaja voi jalkautua myös asiointiavuksi esimerkiksi virastoihin tai kauppoihin sekä tueksi vaikka lääkärin vastaanotolle. 
 
 Valmennuksella tuetaan sekä olemassa olevia vahvuuksia että uusien toimintatapojen harjoitteluprosessia. Valmennuksella harjaannutetaan taitoja mm. arjen ja elämän hallintaan, ongelmanratkaisuun, vuorovaikutussuhteisiin sekä omassa toimintaympäristössä selviytymiseen.
 
