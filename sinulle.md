@@ -25,7 +25,7 @@ Silloin Neppari on oikea paikka sinulle! Voit hakeutua valmennukseeni esimerkiks
 
 Nepparin valmennuksessa sinulla on käytössäsi vahva ammattitaitoni sekä moninainen osaamiseni koko laajuudessaan; ratkaisu- ja voimavarakeskeinen työskentelytapani, monipuolinen menetelmäosaamiseni, laaja kokemukseni sekä tuntemukseni sosiaalialasta ja sen palveluista/tuista yms.
 
-Tarkoituksenani on tarjota sinulle vahvaa tukea arkeesi ja omanlaisen elämänpolun toteuttamiseen. Tavoitteenani on auttaa sinua löytämään ainekset itsesi näköiseen ja hyvään elämään sekä saamaan ymmärrystä ja hyväksymään itsesi ainutlaatuisena ja arvokkaana yksilönä.
+Tarkoituksenani on tarjota sinulle vahvaa tukea arkeesi ja omanlaisen elämänpolun toteuttamiseen. Tavoitteenani on auttaa sinua löytämään ainekset itsesi näköiseen ja hyvään elämään sekä saamaan ymmärrystä ja hyväksyntää ainutlaatuisena ja arvokkaana yksilönä.
 
 Nepparissa jokainen ihminen on ennen kaikkea persoona, joten käytän aikaani ja taitoani tutustuakseni jokaisen yksilölliseen tapaan hahmottaa maailmaa ja elämää. Nepparissa tulet kohdatuksi nepsy-tuntemukseni ja -ymmärrykseni kautta, jolloin otan huomioon kaikki erityispiirteesi, tarpeesi ja niiden luomat vaatimukset.
 
