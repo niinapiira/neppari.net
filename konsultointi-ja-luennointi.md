@@ -5,7 +5,7 @@ layout: page
 "navigation-order": 7
 "show-in-navigation": true
 published: true
-permalink: /konsultointi-ja-luennointi/
+permalink: "/konsultointi-ja-luennointi/"
 "link-title": ""
 polaroid: ""
 ---
@@ -14,7 +14,8 @@ polaroid: ""
 
 
 
-Tarjoan Nepparin kautta myös konsultointi- ja luennointipalveluja neuropsykiatrisena valmentajana.
+
+Nepparin valmentajan osaamista voi hyödyntää myös konsultoinnin- ja luentojen muodossa, omassa työyhteisössä, erilaisissa tapahtumissa tai erilaisten asiakaskeissien kohdalla.
 
 Haluan konsultoinnin kautta edistää neuropsykiatristen henkilöiden hyvinvointia auttamalla heidän ympärillä toimivia ihmisiä kohtaamaan ja tukemaan heitä yksilöllisesti neuropsykiatrisen ymmärryksen kautta. Avaan positiivisella ja voimauttavalla tavalla neuropsykiatrista maailmaa, jotta kyseisten henkilöiden voimavaroja osattaisiin huomata ja uskallettaisiin hyödyntää tulevaisuudessa enemmän niin kuntoutuksessa, opinnoissa kuin työelämässäkin. Työlläni pyrinkin siihen, että kohderyhmän mielenkiintoiset yksilöt saisivat yhteiskunnassamme kunnioittavaa kohtelua, hyvää palvelua, sopivaa tukea ja yksilöllisiä ratkaisuja selvitäkseen arjen haasteiden kanssa. Neuropsykiatrisen tiedon ja ymmärryksen avulla tarjoan myös näkökulmaa yksilöiden haasteisiin sekä luovaa ratkaisukeskeisyyttä ongelmien ratkomiseen.
 
