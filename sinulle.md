@@ -27,7 +27,7 @@ Nepparin valmennuksessa sinulla on käytössäsi vahva ammattitaitoni sekä moni
 
 Tarkoituksenani on tarjota sinulle vahvaa tukea arkeesi ja omanlaisen elämänpolun toteuttamiseen. Tavoitteenani on auttaa sinua löytämään ainekset itsesi näköiseen ja hyvään elämään sekä saamaan ymmärrystä ja hyväksyntää ainutlaatuisena ja arvokkaana yksilönä.
 
-Nepparissa jokainen ihminen on ennen kaikkea persoona, joten käytän aikaani ja taitoani tutustuakseni jokaisen yksilölliseen tapaan hahmottaa maailmaa ja elämää. Nepparissa tulet kohdatuksi nepsy-tuntemukseni ja -ymmärrykseni kautta, jolloin otan huomioon kaikki erityispiirteesi, tarpeesi ja niiden luomat vaatimukset.
+Nepparissa jokainen ihminen on ennen kaikkea persoona, joten käytän aikaani ja taitoani tutustuakseni yksilölliseen tapaasi hahmottaa maailmaa ja elämää. Nepparissa tulet kohdatuksi nepsy-tuntemukseni ja -ymmärrykseni kautta, jolloin otan huomioon kaikki erityispiirteesi, tarpeesi ja niiden luomat vaatimukset.
 
 Autan sinua löytämään tarvitsemasi etuudet, tukipalvelut, apuvälineet ja verkostot sekä sopivat tavat toteuttaa itseäsi niin harrastusten, kiinnostustenkohteiden, opintojen että työuran muodossa.
 
