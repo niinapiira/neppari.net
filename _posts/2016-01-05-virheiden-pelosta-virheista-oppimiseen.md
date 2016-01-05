@@ -4,7 +4,10 @@ published: false
 ---
 
 
+
 **Virheiden tekeminen kuuluu elämään, emmekä voi välttää niitä millään. ”Virheistä oppii”. ”Virheet opettavat”. ”Virheiden kautta voittoon”. Sanontoja riittää kuvaamaan sitä tosiasiaa, että virheet ovat väistämättömiä elämän monimutkaisessa kulussa, mutta niistä voi myös hyötyä. Kuinka sitten virheitään voi katsoa rakentavasti silmästä silmään ja ottaa niistä aidosti opikseen?**
+
+
 
 Virheiden tekeminen liittyy aina virhearvioon siitä, miten arvelemme tekojemme tai toimiemme vaikuttavan ihmisiin ja asioihin ympärillämme –ja itseemme. Koska virheet perustuvat väärään arvioon, tarkoittaa se sitä, että niitä välttääksemme meidän on joka hetki pyrittävä näkemään toimiemme tulos. Tämä tarkoittaa taitoa nähdä tulevaisuuteen. Mutta koska elämässä ainut, mikä on loppupeleissä varmaa, on vain käsillä oleva hetki, emme yksinkertaisesti voi millään tietää tulevaisuutta. **Koska emme (kaikki) osaa ennustaa tai tietää tulevaa, joudumme käyttämään arviointikykyämme sen pohtimiseen mikä olisi kaikkein TODENNÄKÖISIN lopputulos valitsemallemme toiminnalle.** Ja kuten elämässä hyvin usein käy, ei todennäköisinkään ole aina varma valinta. Voimme siis parhaimmillammekin vain arvailla ja kokeilla.
 
