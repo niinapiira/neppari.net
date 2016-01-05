@@ -43,14 +43,6 @@ Haasteiden kanssa selviytymistä autetaan
 * helpottamalla vaikeuksia erilaisilla taidoilla tai mahdollisuuksilla sekä
 * osallistamalla asiakkaita omaan elämäänsä, sitä koskevaan päätöksentekoon ja asioiden toimeenpanoon.
 
-Arkeen ja elämään etsitään tarvittaessa tukea mm.
-
-* erilaisista kuntoutusmuodoista
-* terveydenhuollon palveluista
-* työllisyyspalveluista
-* järjestötahoilta sekä
-* etuuksien ja tukien muodossa.
-
 Vaikeita elämäntilanteita helpotetaan
 
 * henkisellä ja terapeuttisella tuella
@@ -58,3 +50,11 @@ Vaikeita elämäntilanteita helpotetaan
 * palveluohjauksella eli palveluiden, tukien ja etuuksien koordinoinnilla
 * arkea selkeyttämällä sekä
 * yhdessä tekemällä.
+
+Arkeen ja elämään etsitään tarvittaessa tukea mm.
+
+* erilaisista kuntoutusmuodoista
+* terveydenhuollon palveluista
+* työllisyyspalveluista
+* järjestötahoilta sekä
+* etuuksien ja tukien muodossa.
