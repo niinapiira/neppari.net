@@ -5,9 +5,8 @@ body-class-name: page
 
 <div class="page">
 
-  {% if page.polaroid and page.polaroid != empty %}
-    <img src="{{ site.siteurl }}/public/{{ page.polaroid }}" class="polaroid" />
-  {% endif %}
+  {% include polaroid-image.html %}
+
   <h1 class="page-title">{{ page.page-title }}</h1>
   {{ content }}
 

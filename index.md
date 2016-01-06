@@ -7,7 +7,6 @@ layout: page
 "show-in-navigation": true
 permalink: /
 published: true
-polaroid: "niina-ja-riksu-polaroid.jpg"
 ---
 
 

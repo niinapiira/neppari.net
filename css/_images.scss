@@ -1,33 +1,39 @@
+@mixin vendor-prefix($name, $value) {
+  @each $vendor in ('-webkit-', '-moz-', '-ms-', '-o-', '') {
+    #{$vendor}#{$name}: #{$value};
+  }
+}
+
 .polaroid {
 
-	-webkit-transform: rotate(3deg);
-	-moz-transform: rotate(3deg);
-	-ms-transform: rotate(3deg);
-	-o-transform: rotate(3deg);
-	transform: rotate(3deg);
+  // Get rid of jagged edges
+  -webkit-backface-visibility: hidden;
 
-	// Get rid of jagged edges
-	-webkit-backface-visibility: hidden;
+  padding: 0.3em 0.3em 1em 0.3em;
+  border: 1px solid #f0f0f0;
 
-	padding: 0.3em 0.3em 1em 0.3em;
-	border: 1px solid #f0f0f0;
+  @include vendor-prefix('box-shadow', '0.25em 0.25em 0.5em #d0d0d0');
+  @include vendor-prefix('border-radius', '3px');
 
-	-webkit-box-shadow: 0.3em 0.3em 0.5em #d0d0d0;
-	-moz-box-shadow: 0.3em 0.3em 0.5em #d0d0d0;
-	-ms-box-shadow: 0.3em 0.3em 0.5em #d0d0d0;
-	-o-box-shadow: 0.3em 0.3em 0.5em #d0d0d0;
-	box-shadow: 0.3em 0.3em 0.5em #d0d0d0;
-
-	max-width: 50%;
-	margin: 0 auto 1em auto;
+  max-width: 50%;
+  margin: 0 auto 1em auto;
 }
+
+.polaroid-0 { @include vendor-prefix('transform', 'rotate(-3deg)'); }
+.polaroid-1 { @include vendor-prefix('transform', 'rotate(-2deg)'); }
+.polaroid-2 { @include vendor-prefix('transform', 'rotate(-1deg)'); }
+.polaroid-3 { @include vendor-prefix('transform', 'rotate(1deg)'); }
+.polaroid-4 { @include vendor-prefix('transform', 'rotate(2deg)'); }
+.polaroid-5 { @include vendor-prefix('transform', 'rotate(3deg)'); }
 
 @media (min-width: 28em) {
   .polaroid {
-
   	float: right;
-	max-width: 40%;
-	margin: 0 0 0 1em;
+    max-width: 40%;
+    margin: 0 0 1em 1em;
+  }
 
+  .extra-wide {
+    max-width: 50%;
   }
 }
