@@ -13,6 +13,7 @@ polaroid: ""
 
 
 
+
 *Painiskeletko sinä tai läheisesi neuropsykiatristen haasteiden kanssa?*
 
 *Koetko että tarvitset helpotusta jokapäiväiseen elämääsi?*
@@ -21,7 +22,7 @@ polaroid: ""
 
 Silloin Neppari on oikea paikka sinulle! Voit hakeutua valmennukseeni esimerkiksi keskustelemalla asiasta lääkärin/sosiaalityöntekijän kanssa tai ottamalla suoraan minuun yhteyttä.
 
-## Mitä Nepparissa on tarjolla?
+## Mitä Nepparista saa?
 
 Nepparin valmennuksessa sinulla on käytössäsi vahva ammattitaitoni sekä moninainen osaamiseni koko laajuudessaan; ratkaisu- ja voimavarakeskeinen työskentelytapani, monipuolinen menetelmäosaamiseni, laaja kokemukseni sekä tuntemukseni sosiaalialasta ja sen palveluista/tuista yms.
 
