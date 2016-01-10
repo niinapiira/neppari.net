@@ -64,6 +64,19 @@ $avatar-border-width: 8px;
 	padding-bottom: 0;
 }
 
+.blog-frontpage-image {
+	float: right;
+	width: 30%;
+	margin: 0 0 0 20%
+}
+
+.welcome-message:after {
+    // Clearfix: http://stackoverflow.com/a/1633170
+    content:"";
+    display:table;
+    clear:both;
+}
+
 p.first {
 	color: #303030;
 	font-weight: bold;
@@ -73,7 +86,7 @@ p.first {
 	&, & h3 {
 		margin-top: 0;
 	}
-	margin-bottom: 3rem;
+	//margin-bottom: 3rem; // Disabled because of the image
 }
 
 .writer-information {
