@@ -17,7 +17,10 @@ polaroid: ""
 
 
 
+
 Tukea elämään valmennuksella!
+
+Neppari on paikka, jossa neuropsykiatrisia haasteita kohdanneet nuoret, aikuiset ja perheet voivat löytää mielekkään tavan elää omanlaistansa arkea ja toteuttaa itseään. Nepparissa vahvistetaan itsenäisyyttä, autetaan haasteiden kanssa selviytymisessä, sekä etsitään erilaisia vaihtoehtoja arjen ja elämän tueksi. Nepparin tuella voidaan helpottaa vaikeita elämäntilanteita sekä tarjota pitkäaikaista ja kokonaisvaltaista tukea arjen ja asioiden sujumiseen.
 
 ## Valmentaja
 
@@ -30,10 +33,6 @@ Minun tapani työskennellä on hyvin joustavaa, ketterää ja asiakkaan erityist
 Kokemukseni on kertynyt erityisesti nuorten ja aikuisten nepsy-henkilöiden kanssa työskentelystä, mutta autan erittäin mielelläni myös lapsiperheitä, pariskuntia ja esimerkiksi työtiimejä.
 
 Laaja-alainen osaamiseni ja tukeni ulottuu kaikille niille elämän alueille, joilla haasteita kohdataan. Minulle mikään haaste ei ole mahdoton eikä kukaan ihminen toivoton.
-
-## Valmennuskeskus Neppari
-
-Neppari on paikka, jossa neuropsykiatrisia haasteita kohdanneet nuoret, aikuiset ja perheet voivat löytää mielekkään tavan elää omanlaistansa arkea ja toteuttaa itseään. Nepparissa vahvistetaan itsenäisyyttä, autetaan haasteiden kanssa selviytymisessä, sekä etsitään erilaisia vaihtoehtoja arjen ja elämän tueksi. Nepparin tuella voidaan helpottaa vaikeita elämäntilanteita sekä tarjota pitkäaikaista ja kokonaisvaltaista tukea arjen ja asioiden sujumiseen.
 
 ## Esimerkkejä valmennuksesta
 
