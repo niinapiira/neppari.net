@@ -11,10 +11,11 @@ polaroid: ""
 ---
 
 
+
 Neppari tarjoaa valmennusta myös vanhemmille, joiden lapsella on todettu neuropsykiatrinen diagnoosi tai piirteitä sellaisesta.
 
 Vanhempien valmennuksessa voidaan käydä läpi diagnoosin saannin ensitietoa, käsitellä mahdollisesti syntynyttä kriisiä ja miettiä yhdessä keinoja vastata lapsen erityistarpeisiin. Valmennuksen avulla perheelle etsitään myös keinoja arjen hallintaan sekä jaksamiseen ja erilaisia tukitoimia erityiseen tilanteeseen.
 
 Vanhempien valmennus on hinnaltaan 65e/h, sisältäen arvonlisäveron.
 
-Vanhempien valmennukseen voi hakeutua ottamalla suoraan yhteyttä.
+Vanhempien valmennukseen voi hakeutua ottamalla suoraan yhteyttä joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
