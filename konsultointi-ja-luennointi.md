@@ -2,7 +2,7 @@
 layout: page
 "page-title": Konsultointi ja luennointi
 "page-type": normal
-"navigation-order": 7
+"navigation-order": 8
 "show-in-navigation": true
 published: true
 permalink: "/konsultointi-ja-luennointi/"
