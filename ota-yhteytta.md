@@ -6,10 +6,11 @@ forms: true
 "navigation-order": 90
 "show-in-navigation": true
 published: true
-permalink: /ota-yhteytta/
+permalink: "/ota-yhteytta/"
 "link-title": ""
 polaroid: ""
 ---
+
 
 
 <!--
@@ -93,3 +94,5 @@ Tällä lomakkeella voit lähettää minulle helposti yhteydenottopyynnön tai m
     </div>
 
 </form>
+
+Mahdolliset virheilmoitukset voi tehdä ensisijaisesti suullisina Nepparin valmentajalle. Jos asia ei selviä tällä, kirjalliset ilmoitukset alistetaan kuluttajariitalautakunnalle. Ennen asian viemistä kuluttajariitalautakunnan käsittelyyn, kuluttajan tulee olla yhteydessä maistraattien kuluttajaneuvontaan (www.kuluttajaneuvonta.fi).
