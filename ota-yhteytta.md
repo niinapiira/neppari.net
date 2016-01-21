@@ -95,4 +95,6 @@ Tällä lomakkeella voit lähettää minulle helposti yhteydenottopyynnön tai m
 
 </form>
 
-Mahdolliset virheilmoitukset palvelusta voi tehdä ensisijaisesti suullisina. Jos asia ei selviä tällä, alistetaan kirjallinen ilmoitus joko molempien sopimusosapuolten hyväksymän neutraalin kolmannen osapuolen käsiteltäväksi tai  kuluttajariitalautakunnalle. Ennen asian viemistä kuluttajariitalautakunnan käsittelyyn, kuluttajan tulee olla yhteydessä maistraattien kuluttajaneuvontaan (www.kuluttajaneuvonta.fi).
+
+
+_Mahdolliset virheilmoitukset palvelusta voi tehdä ensisijaisesti suullisina. Jos asia ei selviä tällä, alistetaan kirjallinen ilmoitus joko molempien sopimusosapuolten hyväksymän neutraalin kolmannen osapuolen käsiteltäväksi tai  kuluttajariitalautakunnalle. Ennen asian viemistä kuluttajariitalautakunnan käsittelyyn, kuluttajan tulee olla yhteydessä maistraattien kuluttajaneuvontaan (www.kuluttajaneuvonta.fi)._
