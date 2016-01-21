@@ -19,15 +19,12 @@ polaroid: ""
 
 Nepparin valmentajan osaamista voi nyt tilata myös konsultointiin, koulutukseen, työpajaan tai luennointiin. Valmentajan tietotaitoa voi hyödyntää niin omassa työssään, työyhteisössä, erilaisissa tapahtumissa, osana koulutuskokonaisuuksia tai yksittäisten asiakaskeissien kohdalla.
 
-Konsultoinnin kautta haluan edistää neuropsykiatristen henkilöiden hyvinvointia auttamalla heidän ympärillä toimivia ihmisiä kohtaamaan ja tukemaan heitä yksilöllisesti neuropsykiatrisen ymmärryksen ja ratkaisukeskeisyyden kautta.
+**Konsultoinnin** kautta haluan edistää neuropsykiatristen henkilöiden hyvinvointia auttamalla heidän ympärillä toimivia ihmisiä kohtaamaan ja tukemaan heitä yksilöllisesti neuropsykiatrisen ymmärryksen ja ratkaisukeskeisyyden kautta.
 
-Koulutuksissani avaan positiivisella ja voimauttavalla tavalla niin neuropsykiatrista kuin ratkaisukeskeistä maailmaa, jotta kohderyhmäni mielenkiintoiset yksilöt saisivat yhteiskunnassamme kunnioittavaa kohtelua, hyvää palvelua, sopivaa tukea ja yksilöllisiä ratkaisuja selvitäkseen arjen haasteiden kanssa. Työlläni pyrinkin siihen, että kohderyhmän henkilöiden vahvuuksia osattaisiin huomata ja uskallettaisiin hyödyntää tulevaisuudessa enemmän niin kuntoutuksessa, opinnoissa kuin työelämässäkin.
+**Koulutuksissani ja työpajoissani** avaan positiivisella ja voimauttavalla tavalla niin neuropsykiatrista kuin ratkaisukeskeistä maailmaa, jotta kohderyhmäni mielenkiintoiset yksilöt saisivat yhteiskunnassamme kunnioittavaa kohtelua, hyvää palvelua, sopivaa tukea ja yksilöllisiä ratkaisuja selvitäkseen arjen haasteiden kanssa. Työlläni pyrinkin siihen, että kohderyhmän henkilöiden vahvuuksia osattaisiin huomata ja uskallettaisiin hyödyntää tulevaisuudessa enemmän niin kuntoutuksessa, opinnoissa kuin työelämässäkin.
 Neuropsykiatrisen tiedon ja ymmärryksen avulla tarjoan näkökulmaa yksilöiden kokemiin haasteisiin sekä tuon luovaa ratkaisukeskeisyyttä ongelmien ratkomiseen.
 
-Nautin myös luennoinnista 
-sallistun mielelläni myös erilaisiin tilaisuuksiin esimerkiksi työpajan merkeissä. 
-
-Tämän hetkisiä koulutuspakettejani ovat:
+Tämän hetkisiä koulutus/työpajapakettejani ovat:
 - Perustietoa neuropsykiatrisista diagnooseista
 - Hyvän kuntoutuksen lähtökohtia
 - Valmentavan työoteen vahvuuksia
@@ -45,6 +42,9 @@ Tämän hetkisiä koulutuspakettejani ovat:
 - Oppiminen osana elämää
 - Luovia ja toiminnallisia menetelmiä
 
-Paketeista voi saada koulutusta erikseen tai kokoamalla niistä itselleen tai työyhteisölleen sopivan kokonaisuuden. Koulutuksen hinta sovitaan erikseen ja se koostuu mm. koulutuksen kestosta, matkakustannuksista, materiaaleista sekä arvonlisaverosta
+Paketeista voi saada koulutusta erikseen tai kokoamalla niistä itselleen tai yhteisölleen sopivan kokonaisuuden. Koulutuksen hinta sovitaan erikseen ja se koostuu mm. koulutuksen kestosta, matkakustannuksista, materiaaleista sekä arvonlisaverosta.
+Nepparin tilat eivät sovi ryhmätapaamisiin, joten ryhmäkoulutuksiin kannattaa varata erikseen sopiva tila.
+
+Nautin myös **luennoinnista** ja tulen maksutta kertomaan erilaisiin työyhteisöihin ja tilaisuuksiin työstäni ja kohderyhmästäni yleisellä tasolla. 
 
 Jos olet kiinnostunut, voit kysyä minulta lisätietoja puhelimitse tai [sähköpostilla](/ota-yhteytta).
