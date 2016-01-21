@@ -18,6 +18,7 @@ polaroid: ""
 
 
 
+
 Nepparin valmentajan osaamista voi nyt tilata myös konsultointiin, koulutukseen, työpajaan tai luennointiin. Valmentajan tietotaitoa voi hyödyntää niin omassa työssään, työyhteisössä, erilaisissa tapahtumissa, osana koulutuskokonaisuuksia tai yksittäisten asiakaskeissien kohdalla.
 
 **Konsultoinnin** kautta haluan edistää neuropsykiatristen henkilöiden hyvinvointia auttamalla heidän ympärillä toimivia ihmisiä kohtaamaan ja tukemaan heitä yksilöllisesti neuropsykiatrisen ymmärryksen ja ratkaisukeskeisyyden kautta.
@@ -26,7 +27,11 @@ Nepparin valmentajan osaamista voi nyt tilata myös konsultointiin, koulutukseen
 Neuropsykiatrisen tiedon ja ymmärryksen avulla tarjoan näkökulmaa yksilöiden kokemiin haasteisiin sekä tuon luovaa ratkaisukeskeisyyttä ongelmien ratkomiseen.
 
 Tämän hetkisiä koulutus/työpajapakettejani ovat:
-* Perustietoa neuropsykiatrisista diagnooseista
+-  Perustietoa neuropsykiatrisista diagnooseista
+- item
+- item
+
+
 * Hyvän kuntoutuksen lähtökohtia
 * Valmentavan työoteen vahvuuksia
 * Ratkaisukeskeisyydestä voimaa
