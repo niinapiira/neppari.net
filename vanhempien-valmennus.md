@@ -20,4 +20,4 @@ Vanhempien valmennuksessa voidaan käydä läpi diagnoosin saannin ensitietoa, k
 
 Vanhempien valmennus on hinnaltaan 65e/h Nepparin toimistolla, sisältäen arvonlisäveron. Jos vanhemmat toivovat tapaamista kotonaan tai muualla erikseen sovitulla paikalla, lisätään hintaan mahdolliset matkakulut.
 
-Vanhempien valmennukseen voi hakeutua ottamalla suoraan yhteyttä valmentajaan joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
+Vanhempien valmennukseen voi hakeutua ottamalla suoraan yhteyttä joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
