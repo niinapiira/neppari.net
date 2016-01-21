@@ -16,13 +16,16 @@ polaroid: ""
 
 
 
-Nepparin valmentajan osaamista voi hyödyntää myös konsultoinnin, koulutuksen ja luentojen muodossa, omassa työyhteisössä, erilaisissa tapahtumissa tai erilaisten asiakaskeissien kohdalla.
 
-Haluan konsultoinnin kautta edistää neuropsykiatristen henkilöiden hyvinvointia auttamalla heidän ympärillä toimivia ihmisiä kohtaamaan ja tukemaan heitä yksilöllisesti neuropsykiatrisen ymmärryksen kautta.
+Nepparin valmentajan osaamista voi nyt tilata myös konsultointiin, koulutukseen, työpajaan tai luennointiin. Valmentajan tietotaitoa voi hyödyntää niin omassa työssään, työyhteisössä, erilaisissa tapahtumissa, osana koulutuskokonaisuuksia tai yksittäisten asiakaskeissien kohdalla.
 
-Avaan positiivisella ja voimauttavalla tavalla neuropsykiatrista maailmaa, jotta kyseisten henkilöiden voimavaroja osattaisiin huomata ja uskallettaisiin hyödyntää tulevaisuudessa enemmän niin kuntoutuksessa, opinnoissa kuin työelämässäkin. Työlläni pyrinkin siihen, että kohderyhmän mielenkiintoiset yksilöt saisivat yhteiskunnassamme kunnioittavaa kohtelua, hyvää palvelua, sopivaa tukea ja yksilöllisiä ratkaisuja selvitäkseen arjen haasteiden kanssa. Neuropsykiatrisen tiedon ja ymmärryksen avulla tarjoan myös näkökulmaa yksilöiden haasteisiin sekä luovaa ratkaisukeskeisyyttä ongelmien ratkomiseen.
+Konsultoinnin kautta haluan edistää neuropsykiatristen henkilöiden hyvinvointia auttamalla heidän ympärillä toimivia ihmisiä kohtaamaan ja tukemaan heitä yksilöllisesti neuropsykiatrisen ymmärryksen ja ratkaisukeskeisyyden kautta.
 
-Nautin luennoinnista ja kouluttamisesta ja osallistun mielelläni myös erilaisiin tilaisuuksiin esimerkiksi työpajan merkeissä. 
+Koulutuksissani avaan positiivisella ja voimauttavalla tavalla niin neuropsykiatrista kuin ratkaisukeskeistä maailmaa, jotta kohderyhmäni mielenkiintoiset yksilöt saisivat yhteiskunnassamme kunnioittavaa kohtelua, hyvää palvelua, sopivaa tukea ja yksilöllisiä ratkaisuja selvitäkseen arjen haasteiden kanssa. Työlläni pyrinkin siihen, että kohderyhmän henkilöiden vahvuuksia osattaisiin huomata ja uskallettaisiin hyödyntää tulevaisuudessa enemmän niin kuntoutuksessa, opinnoissa kuin työelämässäkin.
+Neuropsykiatrisen tiedon ja ymmärryksen avulla tarjoan näkökulmaa yksilöiden kokemiin haasteisiin sekä tuon luovaa ratkaisukeskeisyyttä ongelmien ratkomiseen.
+
+Nautin myös luennoinnista 
+sallistun mielelläni myös erilaisiin tilaisuuksiin esimerkiksi työpajan merkeissä. 
 
 Tämän hetkisiä koulutuspakettejani ovat:
 - Perustietoa neuropsykiatrisista diagnooseista
