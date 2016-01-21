@@ -27,11 +27,9 @@ Nepparin valmentajan osaamista voi nyt tilata myös konsultointiin, koulutukseen
 Neuropsykiatrisen tiedon ja ymmärryksen avulla tarjoan näkökulmaa yksilöiden kokemiin haasteisiin sekä tuon luovaa ratkaisukeskeisyyttä ongelmien ratkomiseen.
 
 Tämän hetkisiä koulutus/työpajapakettejani ovat:
--  Perustietoa neuropsykiatrisista diagnooseista
-- item
-- item
 
 
+* Perustietoa neuropsykiatrisista diagnooseista
 * Hyvän kuntoutuksen lähtökohtia
 * Valmentavan työoteen vahvuuksia
 * Ratkaisukeskeisyydestä voimaa
