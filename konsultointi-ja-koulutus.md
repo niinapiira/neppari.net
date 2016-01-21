@@ -46,7 +46,7 @@ Tämän hetkisiä koulutus/työpajapakettejani ovat:
 * Oppiminen osana elämää
 * Luovia ja toiminnallisia menetelmiä
 
-Paketeista voi saada koulutusta erikseen tai kokoamalla niistä itselleen tai yhteisölleen sopivan kokonaisuuden. Koulutuksen hinta sovitaan erikseen ja se koostuu mm. koulutuksen kestosta, matkakustannuksista, materiaaleista sekä arvonlisäverosta.
+Paketeista voi saada koulutusta erikseen tai kokoamalla niistä sopivan kokonaisuuden. Koulutuksen hinta sovitaan erikseen ja se koostuu mm. koulutuksen kestosta, matkakustannuksista, materiaaleista sekä arvonlisäverosta.
 Nepparin tilat eivät sovi ryhmätapaamisiin, joten ryhmäkoulutuksiin kannattaa varata erikseen sopiva tila.
 
 Nautin myös **luennoinnista** ja tulen maksutta kertomaan erilaisiin työyhteisöihin ja tilaisuuksiin työstäni ja kohderyhmästäni yleisellä tasolla. 
