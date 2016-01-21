@@ -17,6 +17,7 @@ polaroid: ""
 
 
 
+
 Nepparin valmentajan osaamista voi nyt tilata myös konsultointiin, koulutukseen, työpajaan tai luennointiin. Valmentajan tietotaitoa voi hyödyntää niin omassa työssään, työyhteisössä, erilaisissa tapahtumissa, osana koulutuskokonaisuuksia tai yksittäisten asiakaskeissien kohdalla.
 
 **Konsultoinnin** kautta haluan edistää neuropsykiatristen henkilöiden hyvinvointia auttamalla heidän ympärillä toimivia ihmisiä kohtaamaan ja tukemaan heitä yksilöllisesti neuropsykiatrisen ymmärryksen ja ratkaisukeskeisyyden kautta.
@@ -25,22 +26,22 @@ Nepparin valmentajan osaamista voi nyt tilata myös konsultointiin, koulutukseen
 Neuropsykiatrisen tiedon ja ymmärryksen avulla tarjoan näkökulmaa yksilöiden kokemiin haasteisiin sekä tuon luovaa ratkaisukeskeisyyttä ongelmien ratkomiseen.
 
 Tämän hetkisiä koulutus/työpajapakettejani ovat:
-- Perustietoa neuropsykiatrisista diagnooseista
-- Hyvän kuntoutuksen lähtökohtia
-- Valmentavan työoteen vahvuuksia
-- Ratkaisukeskeisyydestä voimaa
-- Toimiva tavoitteenasettelu
-- Sosiaalisuutta vuorovaikutustaidoilla
-- Tunnetaidot toimiviksi
-- Unelmatyöskentelyllä alkuun
-- Itsetuntemuksesta iloa
-- Arvoistani elämää
-- Stressi seis
-- Mielen hallintaa
-- Argession ehkäisy
-- Motivaatiota työskentelyyn
-- Oppiminen osana elämää
-- Luovia ja toiminnallisia menetelmiä
+* Perustietoa neuropsykiatrisista diagnooseista
+* Hyvän kuntoutuksen lähtökohtia
+* Valmentavan työoteen vahvuuksia
+* Ratkaisukeskeisyydestä voimaa
+* Toimiva tavoitteenasettelu
+* Sosiaalisuutta vuorovaikutustaidoilla
+* Tunnetaidot toimiviksi
+* Unelmatyöskentelyllä alkuun
+* Itsetuntemuksesta iloa
+* Arvoistani elämää
+* Stressi seis
+* Mielen hallintaa
+* Argession ehkäisy
+* Motivaatiota työskentelyyn
+* Oppiminen osana elämää
+* Luovia ja toiminnallisia menetelmiä
 
 Paketeista voi saada koulutusta erikseen tai kokoamalla niistä itselleen tai yhteisölleen sopivan kokonaisuuden. Koulutuksen hinta sovitaan erikseen ja se koostuu mm. koulutuksen kestosta, matkakustannuksista, materiaaleista sekä arvonlisaverosta.
 Nepparin tilat eivät sovi ryhmätapaamisiin, joten ryhmäkoulutuksiin kannattaa varata erikseen sopiva tila.
