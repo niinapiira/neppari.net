@@ -1,3 +1,7 @@
+.android-navigation, .apple-navigation { display: none; }
+.android .android-navigation { display: inline; }
+.apple .apple-navigation { display: inline; }
+
 .other-things {
 	margin-top: 4rem;
 	color: silver;
