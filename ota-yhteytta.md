@@ -95,6 +95,16 @@ Tällä lomakkeella voit lähettää minulle helposti yhteydenottopyynnön tai m
 
 </form>
 
+<div class="other-things">
+    <hr/>
+
+    Muut asiat:
+    <ul>
+        <li><a href="/virheilmoitukset">
+            Virheilmoitukset Nepparin palvelusta
+        </a></li>
+    </ul>
+</div>
 
 
-_Mahdolliset virheilmoitukset palvelusta voi tehdä ensisijaisesti suullisina. Jos asia ei selviä tällä, alistetaan kirjallinen ilmoitus joko molempien sopimusosapuolten hyväksymän neutraalin kolmannen osapuolen käsiteltäväksi tai  kuluttajariitalautakunnalle. Ennen asian viemistä kuluttajariitalautakunnan käsittelyyn, kuluttajan tulee olla yhteydessä maistraattien kuluttajaneuvontaan (www.kuluttajaneuvonta.fi)._
+

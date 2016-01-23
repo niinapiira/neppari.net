@@ -13,6 +13,11 @@ $text-color-on-accent: white;
   color: darken($accent-color, 18%);
 }
 
+.fainted {
+	a { color: $accent-color }
+	a:hover { color: darken($accent-color, 18%) }
+}
+
 .sidebar-about {
 	.pre-title {
 		@extend .small;
