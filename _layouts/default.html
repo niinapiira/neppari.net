@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body class="{{ page.body-class-name }}">
+  <body class="{{ page.body-class-name }} not-ios-or-android">
 
 	{% if page.body-class-name == "post" %}
       {% include headerbar.html %}
@@ -15,7 +15,6 @@
       {{ content }}
     </div>
 
-    <script src="/js/main.js"></script>
     {% include google-analytics.html %}
 
   </body>

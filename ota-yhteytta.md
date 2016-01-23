@@ -12,13 +12,14 @@ polaroid: ""
 ---
 
 
-
 <!--
     Jos muutat tämän tiedoston nimeä (ota-yhteytta.md),
     muista muuttaa se myös _config.yml -tiedostoon
 -->
 
-Tällä lomakkeella voit lähettää minulle helposti yhteydenottopyynnön tai muun viestin. Halutessasi voit myös soittaa tai lähettää minulle itse sähköpostia osoitteeseen <a href="mailto:{{ site.contact.email.normal }}">{{ site.contact.email.normal }}</a>.
+Alla olevalla lomakkeella voit lähettää minulle helposti yhteydenottopyynnön tai muun viestin. Halutessasi voit myös soittaa tai lähettää minulle itse sähköpostia osoitteeseen <a href="mailto:{{ site.contact.email.normal }}">{{ site.contact.email.normal }}</a>.
+
+Nepparin toimiston osoitteen ja ohjeet miten löytää sinne [saat klikkaamalla tästä](/reittiohjeet).
 
 ---
 

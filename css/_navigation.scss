@@ -1,0 +1,11 @@
+.not-ios-or-android, .android {
+	.ios-navigation {
+		display: none;
+	}
+}
+
+.not-ios-or-android, .ios {
+	.android-navigation {
+		display: none;
+	}
+}

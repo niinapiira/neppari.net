@@ -1,3 +1,19 @@
+<script>
+	(function(){
+		var ua = navigator.userAgent.toLowerCase(),
+			isAndroid = ua.indexOf("android") > -1,
+			isIOs = /iPad|iPhone|iPod/.test(navigator.platform);
+
+		if (isAndroid) {
+			document.body.className = document.body.className
+				.replace("not-ios-or-android", "android");
+		} else if (isIOs) {
+			document.body.className = document.body.className
+				.replace("not-ios-or-android", "ios");
+		}
+	})();
+</script>
+
 {% capture address %}
 {{ site.contact.address.street-address }},
  {{ site.contact.address.post-number }} {{ site.contact.address.city }},
@@ -8,12 +24,12 @@
 <ul>
 	<li class="android-navigation">
 		<a href="intent://geo:0,0?mode=w&q={{ address }}#Intent;scheme=google.navigation;package=com.google.android.apps.maps;end">
-			Navigoi perille Google Maps -ohjelman avulla
+			Navigoi perille Google Maps -sovelluksen avulla
 		</a>
 	</li>
-	<li class="apple-navigation">
+	<li class="ios-navigation">
 		<a href="https://maps.apple.com/?dirflg=w&t=m&daddr={{ address }}">
-			Navigoi perille Apple Maps -ohjelman avulla
+			Navigoi perille Apple Maps -sovelluksen avulla
 		</a>
 	</li>
 	<li class="web-navigation">
