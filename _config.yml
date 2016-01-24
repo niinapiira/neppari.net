@@ -94,6 +94,7 @@ prose:
     - Gemfile.lock
     - LICENCE
     - README.md
+    - start.sh
     - neppari.sublime-project
   media: 'uploaded-images'
   metadata:

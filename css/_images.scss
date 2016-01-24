@@ -17,6 +17,8 @@
 
   max-width: 50%;
   margin: 0 auto 1em auto;
+
+  z-index: 1;
 }
 
 .polaroid-0 { @include vendor-prefix('transform', 'rotate(-3deg)'); }
@@ -26,14 +28,34 @@
 .polaroid-4 { @include vendor-prefix('transform', 'rotate(2deg)'); }
 .polaroid-5 { @include vendor-prefix('transform', 'rotate(3deg)'); }
 
-@media (min-width: 28em) {
+$polaroid-width-normal: 40%;
+$polaroid-width-wide: 50%;
+$polaroid-additional-margin: 1em;
+@media (min-width: 28em) and (max-width: 48em), (min-width: 62em) {
   .polaroid {
   	float: right;
-    max-width: 40%;
-    margin: 0 0 1em 1em;
+    max-width: $polaroid-width-normal;
+    margin: 0 0 1em $polaroid-additional-margin;
   }
 
   .extra-wide {
-    max-width: 50%;
+    max-width: $polaroid-width-wide;
+  }
+
+  /*
+    The following classes are header classes, for
+    preventing weird wordraps
+  */
+
+  .accommondate-polaroid {
+    display: block;
+    width: calc(100% - #{$polaroid-width-normal} - #{$polaroid-additional-margin});
+    word-wrap: normal;
+  }
+
+  .accommondate-wide-polaroid {
+    display: block;
+    width: calc(100% - #{$polaroid-width-wide} - #{$polaroid-additional-margin});
+    word-wrap: normal;
   }
 }

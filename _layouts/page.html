@@ -7,7 +7,9 @@ body-class-name: page
 
   {% include polaroid-image.html %}
 
-  <h1 class="page-title">{{ page.page-title }}</h1>
+  <h1 class="page-title {{ header_class }}">
+    {{ page.page-title }}
+  </h1>
   {{ content }}
 
 </div>
