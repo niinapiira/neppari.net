@@ -19,6 +19,7 @@ polaroid: ""
 
 
 
+
 Nepparin valmentajan osaamista voi nyt tilata myös konsultointiin, koulutukseen, työpajaan tai luennointiin. Valmentajan tietotaitoa voi hyödyntää niin omassa työssään, työyhteisössä, erilaisissa tapahtumissa, osana koulutuskokonaisuuksia tai yksittäisten asiakaskeissien kohdalla.
 
 **Konsultoinnin** kautta haluan edistää neuropsykiatristen henkilöiden hyvinvointia auttamalla heidän ympärillä toimivia ihmisiä kohtaamaan ja tukemaan heitä yksilöllisesti neuropsykiatrisen ymmärryksen ja ratkaisukeskeisyyden kautta.
@@ -50,6 +51,6 @@ Paketeista voi saada koulutusta erikseen tai kokoamalla niistä sopivan kokonais
 
 Nepparin tilat eivät sovi ryhmätapaamisiin, joten ryhmäkoulutuksiin kannattaa varata erikseen sopiva tila.
 
-Nautin myös **luennoinnista** ja tulen maksutta kertomaan erilaisiin työyhteisöihin ja tilaisuuksiin työstäni ja kohderyhmästäni yleisellä tasolla. 
+Nautin myös **luennoinnista** ja tulen mielelläni kertomaan erilaisiin yhteisöihin ja tilaisuuksiin työstäni ja kohderyhmästäni yleisemällälläkin tasolla. 
 
 Jos olet kiinnostunut, voit kysyä minulta lisätietoja puhelimitse tai [sähköpostilla](/ota-yhteytta).
