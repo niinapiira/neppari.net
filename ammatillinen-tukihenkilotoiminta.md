@@ -17,6 +17,7 @@ polaroid: ""
 
 
 
+
 Ammatillinen tukihenkilötoiminta on valmennuksen ohessa ja jälkeen toteutettavaa tukea, jossa valmentajan ja valmennettavan hyvää työskentelysuhdetta hyödynnetään myös vähemmän intensiivisessä tuen tarpeessa. Ammatillisessa tukihenkilötoiminnassa valmentaja toimii enemmän valmennettavan taustatukena, ollen läsnä ja varalla, toimien mallintamisesimerkkinä ja tarjoten henkistä tukea sekä rakentavaa ihmissuhdetta. Ammatillisen tukihenkilötoiminnan kautta valmentaja voi myös tarjota valmennettavalle uusia kokemuksia ja onnistumisen iloa esimerkiksi erilaisten vapaa-ajan toimintojen kautta.
 
 Ammatillisessa tukihenkilötoiminnassa toimitaan entistä enemmän luonnollisissa elinympäristöissä, kuten valmennettavan kotona, harrastuksissa, työssä tai vapaa-ajanviettopaikoissa. Tämä tukitoiminta voi näkyä arjessa esim. yhdessä kokkailuna, yhdessä harrastamisena, tukikeskusteluina ja vaikka asioidenhoitotukena. Ammatillisessa tukihenkilötoiminnassa valmentaja tarjoaa turvallisen aikuisen läsnäoloa tilanteissa, joissa valmennettava kaipaa tukihenkilöä.
@@ -27,4 +28,4 @@ Ammatillisella tukihenkilötoiminnalla valmennettava saa tukea myös valmennukse
 
 Ammatillinen tukihenkilötoiminta voi olla hyvin pitkäaikainen tukimuoto, jolloin yhteistyö mahdollistaa tuen mm. mielenterveyden haasteisiin. Ammatillisen tukihenkilötoiminnan perushinta on 70e/1,5h, 90e/2h, 110e/2,5h, 130e/3h (+mahdolliset alv 24%).
 
-Jos olet kiinnostunut, voit kysyä minulta lisätietoja puhelimitse tai [sähköpostilla](/ota-yhteytta).
+Jos olet kiinnostunut, voit kysyä minulta lisätietoja joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
