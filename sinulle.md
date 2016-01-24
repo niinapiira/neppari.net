@@ -14,6 +14,7 @@ polaroid: ""
 
 
 
+
 *Painiskeletko sinä tai läheisesi neuropsykiatristen haasteiden kanssa?*
 
 *Koetko että tarvitset helpotusta jokapäiväiseen elämääsi?*
@@ -35,3 +36,5 @@ Autan sinua löytämään tarvitsemasi etuudet, tukipalvelut, apuvälineet ja ve
 Tavoitteellisuus on valmennuksen onnistumisen tärkein lähtökohta ja se vaatii sinulta motivaatiota, tahtotilaa sekä valmiutta kehittää itseäsi. Valmennuksen avulla saat tukea tavoitteidesi pohtimiseen, suunnittelemiseen sekä niiden saavuttamiseen.
 
 Nepparin valmennuksessa saat mahdollisuuden tutustua itseesi syvällisemmin ja rakentaa uutta/vahvempaa pohjaa itsetunnolle ja itsetuntemukselle sekä sen myötä koko elämälle ja arjen hallinnalle.
+
+Jos olet kiinnostunut, voit kysyä lisätietoja tai varata ajan kartoitustapaamiseen joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
