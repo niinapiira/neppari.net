@@ -28,7 +28,7 @@ $text-color-on-accent: white;
 		margin: -0.35em 0 0.5rem 0.5rem;
 	}
 	.tagline {
-		//@extend .small;
+		@extend .small;
 		margin: 0 0 1rem 0;
 	}
 }

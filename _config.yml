@@ -6,9 +6,9 @@ highlighter:      pygments
 pre-title:        Valmennuskeskus
 title:            Neppari
 long-title:       'Valmennuskeskus Neppari'
-tagline:          'Neuropsykiatrista valmennusta Tampereella'
+tagline:          'Neuropsykiatrista valmennusta Tampereella ja Pirkanmaalla'
 description:      'Neppari on neuropsykiatrisen valmennuksen paikka, jossa tarjotaan tukea henkilöille joilla on esimerkiksi ADHD, ADD, Asperger, Tourette tai lievä autismi.'
-tagline-short:    'Neuropsykiatrisen valmennuksen paikka'
+tagline-short:    'Neuropsykiatrista valmennusta Pirkanmaalla'
 siteurl:          http://neppari.net
 
 # Permalinks
