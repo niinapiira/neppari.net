@@ -16,7 +16,10 @@
       <p class="faded">
         {{ site.contact.name }}<br/>
         <i class="icon-address"></i> <a href="/reittiohjeet">{{ site.contact.address.sidebar-version }}</a><br/>
-        <i class="icon-phone"></i> {{ site.contact.phone.finnish }}<br/>
+        <i class="icon-phone"></i>
+          <span class="non-clickable-phone-number">{{ site.contact.phone.finnish }}</span>
+          <a href="tel:{{ site.contact.phone.international }}" class="clickable-phone-number" style="display: none">
+            {{ site.contact.phone.finnish }}</a><br/>
         <i class="icon-email"></i> <a href="{{ site.contact.page }}">{{ site.contact.email.normal }}</a><br/>
         <i class="icon-facebook"></i> <a href="{{ site.contact.fb-profile }}" target="_new">Facebook-sivu</a><br/>
         <i class="icon-blog"></i> <a href="{{ site.blog.baseurl }}">Blogi</a>

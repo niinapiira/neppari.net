@@ -41,3 +41,12 @@ $text-color-on-accent: white;
 		color: $text-color-on-accent;
 	}
 }
+
+.android, .ios {
+	.non-clickable-phone-number {
+		display: none;
+	}
+	.clickable-phone-number {
+		display: inline !important;
+	}
+}
