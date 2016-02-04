@@ -3,7 +3,6 @@ layout: page
 "page-title": Virheilmoitukset palvelusta
 "page-type": normal
 "show-in-navigation": false
-permalink: /virheilmoitukset/
 published: true
 "link-title": ""
 polaroid: ""

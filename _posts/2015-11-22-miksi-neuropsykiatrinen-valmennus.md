@@ -1,8 +1,8 @@
 ---
 "page-title": "Miksi neuropsykiatrinen valmennus?"
 published: true
+layout: "post"
 ---
-
 
 
 

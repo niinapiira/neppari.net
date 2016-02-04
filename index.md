@@ -5,7 +5,6 @@ layout: page
 "link-title": Esittely
 "navigation-order": 1
 "show-in-navigation": true
-permalink: /
 published: true
 polaroid: ""
 ---

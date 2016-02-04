@@ -6,7 +6,6 @@ forms: true
 "navigation-order": 90
 "show-in-navigation": true
 published: true
-permalink: "/ota-yhteytta/"
 "link-title": ""
 polaroid: ""
 ---

@@ -1,6 +1,6 @@
 <!-- Facebook Open Graph meta tags-->
 
-{% if page.is-part-of-blog %}
+{% if page.is-part-of-blog == true or layout.is-part-of-blog == true %}
   <meta property="og:type" content="article">
   <meta property="og:site_name" content="{{ site.blog.title }}">
   <meta property="og:description" content="{{ site.blog.description }}">

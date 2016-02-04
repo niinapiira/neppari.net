@@ -3,12 +3,16 @@
 
   {% include head.html %}
 
-  <body class="{{ page.body-class-name }} not-ios-or-android">
+  {% if page.is-part-of-blog == true or layout.is-part-of-blog == true %}
+    {% assign body-class-name = "post" %}
+  {% endif %}
 
-	{% if page.body-class-name == "post" %}
-      {% include headerbar.html %}
-	{% else %}
-      {% include sidebar.html %}
+  <body class="{{ body-class-name }} not-ios-or-android">
+
+  	{% if body-class-name == "post" %}
+        {% include headerbar.html %}
+  	{% else %}
+        {% include sidebar.html %}
     {% endif %}
 
     <div class="content container">

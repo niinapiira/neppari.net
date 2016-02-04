@@ -13,7 +13,6 @@ siteurl:          http://neppari.net
 
 # Permalinks
 permalink:        /blogi/:title/
-relative_permalinks: true
 
 # Blog
 blog:
@@ -40,10 +39,18 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "blogi.md"
+    values:
+      layout: "blog-frontpage"
+  -
+    scope:
+      path: "_posts"
     values:
       layout: "post"
-      category: "blogi"
 
 contact:
   name:              'Niina Piira'

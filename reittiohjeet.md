@@ -3,7 +3,6 @@ layout: page
 "page-title": Reittiohjeet Nepparille
 "page-type": normal
 "show-in-navigation": false
-permalink: /reittiohjeet/
 published: true
 "link-title": ""
 polaroid: ""

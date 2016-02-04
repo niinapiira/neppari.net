@@ -2,7 +2,6 @@
 layout: page
 "page-title": Vanhempien valmennus
 "page-type": normal
-permalink: "/vanhempien-valmennus/"
 "navigation-order": 7
 "show-in-navigation": true
 published: true
