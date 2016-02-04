@@ -4,6 +4,7 @@ $text-color-on-accent: white;
 .sidebar {
 	background-color: $accent-color;
 	color: $text-color-on-accent;
+	font-size: (16px/20px) * 1rem;
 	.new {
 		font-weight: bold;
 	}
@@ -20,14 +21,14 @@ $text-color-on-accent: white;
 
 .sidebar-about {
 	.pre-title {
-		@extend .small;
+		//@extend .small;
 		margin: 0;
 	}
 	h1 {
 		margin: -0.35em 0 0.5rem 0.5rem;
 	}
 	.tagline {
-		@extend .small;
+		//@extend .small;
 		margin: 0 0 1rem 0;
 	}
 }
