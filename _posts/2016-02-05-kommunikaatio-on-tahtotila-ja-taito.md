@@ -1,6 +1,6 @@
 ---
 "page-title": Kommunikointi on tahtotila ja taito
-published: false
+published: true
 ---
 
 
