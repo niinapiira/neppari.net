@@ -4,7 +4,7 @@ $text-color-on-accent: white;
 .sidebar {
 	background-color: $accent-color;
 	color: $text-color-on-accent;
-	font-size: 18px;
+	font-size: 16px;
 	.new {
 		font-weight: bold;
 	}
@@ -40,6 +40,10 @@ $text-color-on-accent: white;
 	a:hover, a:active {
 		color: $text-color-on-accent;
 	}
+}
+
+.sidebar-nav {
+	font-size: 18px;
 }
 
 .android, .ios {
