@@ -24,4 +24,5 @@ Tästä päästäänkin loppuyhteenvetoon, johon olen päätynyt vuosien harjoit
 
 **Jokainen kohtaaminen on ennen kaikkea itsemme kohtaamista suhteessa toiseen.** Kuten buddhalainen sanonta sanoo, mielipiteemme toisia kohtaan kertoo loppupeleissä enemmän meistä itsestämme. Jos toinen on mielestäsi kuin ”lantakasa”, miltähän oma sisimpäsi silloin näyttää!? ;)
 
+
 _Myös ihmisten välisessä kommunikaatiossa tarvitaan kaikkien oppien, normien, sääntöjen ja tapojen lisäksi sitä samanlaista tutkivaa ja kiinnostunutta lähestymistapaa, mitä eläinten kanssa toimiessa käytetään.  Eläimiltä oppimani taidot liittyvät juuri vuorovaikutukseen ja yhteisymmärryksen saavuttamiseen, joita ei opita kirjasta lukemalla. Teoriat ja muiden opettamat viisaudet antavat kyllä perspektiiviä ja näkökulmia, joiden avulla on helpompi ratkaista ongelmia, mutta todellinen toisen elävän olennon ymmärtäminen vaatii aina ensin suuresti tahtoa ja sen jälkeen vasta taitoa. Jälkimmäistä voi opetella ja harjoitella, mutta tahtoa –sitä on oltava valmiina._
