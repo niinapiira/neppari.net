@@ -1,5 +1,4 @@
 ---
-layout: page
 "page-title": Valmennus
 "page-type": normal
 "navigation-order": 3

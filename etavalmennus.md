@@ -1,5 +1,4 @@
 ---
-layout: page
 "page-title": Etävalmennus
 "link-title": ""
 "page-type": normal

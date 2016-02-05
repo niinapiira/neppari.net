@@ -1,5 +1,4 @@
 ---
-layout: page
 "page-title": Konsultointi ja koulutus
 "page-type": normal
 "navigation-order": 8

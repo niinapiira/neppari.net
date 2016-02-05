@@ -1,5 +1,4 @@
 ---
-layout: page
 "page-title": Lyhytvalmennus
 "page-type": normal
 "navigation-order": 5

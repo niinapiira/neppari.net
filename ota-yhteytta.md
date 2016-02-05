@@ -1,5 +1,4 @@
 ---
-layout: page
 forms: true
 "page-title": Ota yhteyttä
 "page-type": form

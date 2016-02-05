@@ -35,6 +35,7 @@ defaults:
   -
     scope:
       path: ""
+      type: "pages"
     values:
       layout: "page"
   -
@@ -44,7 +45,8 @@ defaults:
       layout: "blog-frontpage"
   -
     scope:
-      path: "_posts"
+      path: ""
+      type: "posts"
     values:
       layout: "post"
 
@@ -102,10 +104,6 @@ prose:
   media: 'uploaded-images'
   metadata:
     "":
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
       - name: "page-title"
         field:
           element: "text"

@@ -1,5 +1,4 @@
 ---
-layout: page
 "page-title": Vanhempien valmennus
 "page-type": normal
 "navigation-order": 7
