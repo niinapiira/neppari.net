@@ -71,6 +71,7 @@ contact:
     for-contacts:    'nepparinet+yhteydenottosivuilta@gmail.com'
   page:              '/ota-yhteytta'
   fb-profile:        'https://www.facebook.com/valmennuskeskus.neppari'
+  twitter-profile:   'https://twitter.com/NiinaPiira'
 
 # Custom vars
 version:          2.1.0
