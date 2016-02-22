@@ -70,6 +70,8 @@ Yksi tärkeimmistä toiveista perheillä oli oman työntekijän saaminen, jotta 
 
 AKTIIVINEN IKÄÄNTYMINEN
 
+
+
 Nepsy-piirteet johtuvat koko elämän mittaisista oireyhtymistä, joten myös aikuisten ja vanhusten kanssa työskentelevät tahot tarvitsevat nepsy-osaamista. Esimerkiksi autismin kirjon piirteiden tiedetään usein jopa vahvistuvan vanhetessa uudelleen, vaikka nuorena ja aikuisena piirteet olisivat kasvun ja kehityksen myötä heikentyneet.
 
 Ensisijaista on tietysti nepsy-haasteiden ja tuen tarpeen mahdollisimman varhainen havaitseminen, jotta tuki ja kuntoutus auttavat mahdollisimman paljon. Ongelmien ennaltaehkäiseminen kun on paljon helpompaa kuin jo muodostuneiden ongelmien hoitaminen. Meillä on kuitenkin paljon ikääntyvä nepsy-henkilöitä joita ei ole välttämättä diagnosoitu tai tuettu, vaan perhe on ottanut vahvan roolin lapsensa tukemisessa ja kuntouttamisessa. Nepsy-henkilön vanhempien ikääntyessä huoli oman lapsen pärjäämisestä on kuitenkin suuri, sillä diagnosoimaton tai tukien ulkopuolella olevat nepsy-henkilöt tippuisivat melko lailla tyhjän päälle vanhempien voimien loppuessa. Itsenäistyminen on kuitenkin suuri kriisi, joka kannattaa ajoittaa sellaiseen kohtaan nepsy-henkilön elämää, jossa hänellä ja hänen läheisillään on voimia käydä kriisi läpi. Tästä syystä itsenäistyminen kodin ulkopuolelle tulisi olla tavoitteena jokaiselle nepsy-henkilölle, tapahtui se sitten vahvasti tuettuna tai kuntouttavasti.
