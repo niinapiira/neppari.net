@@ -4,13 +4,10 @@ published: true
 ---
 
 
-
-
+![Kirkas pilvinen taivas]({{site.baseurl}}/uploaded-images/kirkas-pilvinen-taivas.jpeg)
 
 Innovatiivisuus on yleensä sana, jonka on tottunut kuulemaan puhuttaessa teknisten alojen kehittymisestä ja keksinnöistä. Innovatiivisuus on kuitenkin piirre, josta myös muut alat hyötyvät ja jonka avulla sosiaalialaakin saadaan kehitettyä laadukkaasti ja kestävästi.
 Innovatiivisuudella tarkoitetaan uudistumista ja kykyä luoda uutta, mutta laajemmin ajatellen myös avoimuutta uudistuksia kohtaan. Näitä kaikkia innovatiivisuuden näkökulmia tarvitaan jotta sosiaaliala löytää ratkaisuja tämän päivän ja tulevaisuuden uusiin haasteisiin.
-
-![Kirkas pilvinen taivas]({{site.baseurl}}/uploaded-images/kirkas-pilvinen-taivas.jpeg)
 
 Kuuntelin eräänä päivänä Yle Puheen iltapäivässä haastattelua aiheesta ”pelolla johtaminen tappaa luovuuden”. Konkreettisena esimerkkinä aiheesta puhujat toivat esille nuoret työntekijät, joiden idearikkaus ja uudistamisinto sammutetaan kokeneempien työntekijöiden toimesta hyvin nopeasti. Luova työyhteisö sen sijaan ymmärtäisi hyödyntää näitä nuorissa pulppuavia piirteitä työn jatkuvaan kehittämiseen tai avoimen keskustelukulttuurin synnyttämiseen. Tässä asiassa hyvällä johtamisella on suuri merkitys: sillä voidaan synnyttää avoin ja innovatiivinen työyhteisö, joka rikkaruohojen kitkemisen sijaan antaa kaikkien kukkien kukkia ja osaa hyödyntää monipuolisia ideoita omaksi parhaakseen. Aihe on mielestäni erityisen tärkeä yhä kovenevassa sosiaalialan työelämässä, jossa **tehokkuutta pyritään usein saamaan aikaiseksi lisäämällä paineita. Tämä keino toimii usein kuitenkin päinvastaisesti, ja syö jopa viimeisetkin luovuuden rippeet ylikuormitetuista työntekijöistä**.
 
