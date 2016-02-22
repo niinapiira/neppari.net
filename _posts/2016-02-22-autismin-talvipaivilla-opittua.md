@@ -49,6 +49,8 @@ Ensisijainen hoitomuoto unihäiriöissä on kuitenkin ennen lääkitystä käytt
 
 POSITIIVISTEN VAHVISTEIDEN JA MOTIVAATION MERKITYS KUNTOUTUKSESSA
 
+
+
 Voidaksemme vaikuttaa jonkun ihmisen käyttäytymiseen, on meidän ensin ymmärrettävä häntä ja hänen käytöstään. Käyttäytymisanalyysiä käytetään käyttäytymisen syiden ja merkitysten löytämiseen, sillä niiden avulla voidaan ymmärtää miksi joku ihminen toimii niin kuin toimii. Motivaatio on hyvin keskeisessä roolissa erilaisten käyttäytymismallien muodostumisessa, jolloin motivaatiotekijöiden selvittäminen on avainasemassa henkilön käytökseen vaikutettaessa.
 
 Esimerkiksi autismin kirjon henkilöillä on havaittu, että varsinaiset sosiaalisten taitojen puute ei sinällään vielä selitä heidän sosiaalisia haasteitaan, vaan niiden taustalla on motivaatiotekijät. Autismin kirjon henkilöillä sosiaalinen toiminta ei neurobiologisista (aivollisista) syistä palkitse henkilöä, jolloin hänestä voidaan huomata hyvin varhaisessa vaiheessa sosiaalisen kanssakäymisen vähäisyyttä. Autismin kirjon henkilölle ei synny motivaatiota kehittää sosiaalisia taitojaan, jos hän ei koe sosiaalista toimintaa palkitsevaksi!
