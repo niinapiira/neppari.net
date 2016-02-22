@@ -4,11 +4,6 @@ published: false
 ---
 
 
-
-
-
-
-
 **Viikko sitten järjestetyillä Autismin talvipäivillä oli teemana ESTEETTÖMYYS laajasta näkökulmasta. Esteettömyyshän ei koske vain vammaisia tai vammautuneita ihmisiä vaan meistä jokaista! Parhaimmillaanhan esteettömyys ulottuu kaikille elämän osa-alueille liikkumisesta asumiseen, itsemääräämisoikeudesta kommunikointiin ja aina tiedon saantiin saakka. Jos jollakulla on jossain elämän osa-alueella haasteita selviytyä tai saavuttaa tarvitsemaansa, on häntä siinä tuettava, autettava ja huomioitava. Muuten syrjäytämme toisiamme ja edesautamme epäoikeudenmukaisuutta sekä eriarvoisuutta.**
 
 ![Aurinkoinen talvipelto]({{site.baseurl}}/uploaded-images/aurinkoinen-talvipelto.jpeg)
