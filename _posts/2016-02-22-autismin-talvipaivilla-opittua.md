@@ -14,9 +14,9 @@ Suunta on varmasti oikea, mutta myös huolta herättävä. Saavatko ihmiset aido
 
 Tämän lisäksi jokainen meistä voi olla huolehtimassa siitä, että emme omalla asenteellamme ja erilaisuuden pelossa aiheuttaisi muiden elämään esteitä, joita he eivät pysty ylittämään. Sen sijaan huomatessamme itsessämme kummaksuntaa ja ihmetystä, voimme lähteä rohkeasti tutustumaan kaikenlaisiin ihmisiin ja tarjoamaan apua ja toisten huomioimista kaikissa arkisissakin kohtaamisissa. =)
 
-![Lasten maalauksia]({{site.baseurl}}/uploaded-images/lasten-maalauksia.jpeg)
-
 AISTITOIMINNOT ESTEETTÖMYYDEN HUOMIOIMISESSA
+
+![Lasten maalauksia]({{site.baseurl}}/uploaded-images/lasten-maalauksia.jpeg)
 
 Neuropsykiatrisia pulmia kohdanneiden ihmisten aistimaailma voi poiketa monen muun henkilön kokemuksista huimastikin ja tämä luonnollisesti vaikuttaa nepsy-henkilön tapaan ja mahdollisuuksiin kokea, hahmottaa, säädellä, erotella ja hyödyntää aistimuksiaan. Aistitoimintojen eroavaisuudet voivat näkyä arjessa mm. hankaluutena sopeutua vuodenaikojen vaihteluun, yli/alireagointina aistimuksiin tai vaikka lihasmuistin heikkoutena kun motoriikka ei automatisoidu. Aistipulmat voivat vaatia hyvin tarkkaa tutkimista, sillä haasteiden laadun lisäksi on selvitettävä mitkä aistimukset haastavat henkilöä: ulkoa tulevat (esim. kuulo), kehosta aistittavat (esim. asento) vai sisäisistä tuntemuksista havaittavat (esim. nälkä). 
 
