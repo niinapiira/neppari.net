@@ -12,7 +12,7 @@ Tulevaisuuden muutokset lupailevat subjektiivisten oikeuksien sijaan yksilöllis
 
 Suunta on varmasti oikea, mutta myös huolta herättävä. Saavatko ihmiset aidosti esteettömyyttä ja yksilöllisyyttä suurten yhteiskunnallisten muutosten jälkeen!? Tähän ei osaa kukaan vastata, mutta jokainen sosiaali- ja terveyshuollossa sekä päättävissä elimissä työskentelevä voi omalta osaltaan olla ajamassa niiden yksilöiden ja perheiden asioita, jotka muuten jäävät erilaisten esteiden, haasteiden, pulmien ja vaikeuksien vuoksi marginaaliin oman elämänsä päätöksissä, ympäristössä sekä yhteiskunnassa.
 
-Tämän lisäksi jokainen meistä voi olla huolehtimassa siitä, että emme omalla asenteellamme ja erilaisuuden pelossa aiheuttaisi muille elämään esteitä, joita he eivät pysty ylittämään. Sen sijaan huomatessamme itsessämme kummaksuntaa ja ihmetystä, lähtisimme rohkeasti tutustumaan kaikenlaisiin ihmisiin ja tarjoamaan apuamme ja toisten huomioimista kaikissa arkisissakin kohtaamisissa. =)
+Tämän lisäksi jokainen meistä voi olla huolehtimassa siitä, että emme omalla asenteellamme ja erilaisuuden pelossa aiheuttaisi muiden elämään esteitä, joita he eivät pysty ylittämään. Sen sijaan huomatessamme itsessämme kummaksuntaa ja ihmetystä, lähtisimme rohkeasti tutustumaan kaikenlaisiin ihmisiin ja tarjoamaan apuamme ja toisten huomioimista kaikissa arkisissakin kohtaamisissa. =)
 
 AISTITOIMINNOT ESTEETTÖMYYDEN HUOMIOIMISESSA
 
