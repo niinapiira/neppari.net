@@ -34,6 +34,8 @@ Autismin kirjon diagnoosi tulee tulevaisuudessa pitämään sisällään kaikki 
 
 Painopiste itse diagnoosista siirtyy tulevan muutoksen kautta siis yksilöllisen toimintakyvyn ja elämänlaadun korostumiseen, jotka taas toimivat yksilöllisen ja tarvelähtöisen kuntoutussuunnitelman pohjana! Autismin kirjon henkilöt tulevat siis toivottavasti tulevaisuudessa kohdatuiksi todellisten piirteidensä kautta eikä diagnostisten kriteereiden kautta!
 
+
+
 UNIHÄIRIÖT
 
 Todella moni nepsy-henkilö kärsii jossain vaiheessa elämäänsä hyvinkin haastavista unihäiriöistä, jotka vaikeuttavat elämää, arkea ja hyvinvointia. Unihäiriöitä on montaa eri laatua, joten häiriön tutkiminen ja selvittäminen on ensisijaista uniongelmien ratkaisemisessa!
