@@ -3,6 +3,7 @@
 published: true
 ---
 
+
 ![Vanhan sairaalan kukkula]({{site.baseurl}}/uploaded-images/vanhan-sairaalan-kukkula.jpeg)
 
 Puhumme usein neuropsykiatrisen diagnoosin omaavasta yksilöstä nepsy-henkilönä tai diagnoosin kautta esimerkiksi ADHD-, Asperger- ja Tourette-henkilönä, koska nämä lyhenteet nopeuttavat viestiämme. Näin diagnoosilähtöisesti ei ole kuitenkaan tarkoituksenmukaista ajatella, sillä silloin lokeroimme ihmisiä yhden ainoan osa-alueen perusteella. Meistä jokainen on valtava kokonaisuus ihmisyyden eri puolia ja nepsy-piirteet ovat vain osa niitä ainutlaatuisia yksilöitä, joita saan kohdata ja auttaa työssäni valmentajana.
