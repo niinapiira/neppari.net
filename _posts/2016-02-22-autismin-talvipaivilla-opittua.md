@@ -8,6 +8,7 @@ published: false
 
 
 
+
 **Viikko sitten järjestetyillä Autismin talvipäivillä oli teemana ESTEETTÖMYYS laajasta näkökulmasta. Esteettömyyshän ei koske vain vammaisia tai vammautuneita ihmisiä vaan meistä jokaista! Parhaimmillaanhan esteettömyys ulottuu kaikille elämän osa-alueille liikkumisesta asumiseen, itsemääräämisoikeudesta kommunikointiin ja aina tiedon saantiin saakka. Jos jollakulla on jossain elämän osa-alueella haasteita selviytyä tai saavuttaa tarvitsemaansa, on häntä siinä tuettava, autettava ja huomioitava. Muuten syrjäytämme toisiamme ja edesautamme epäoikeudenmukaisuutta sekä eriarvoisuutta.**
 
 ![Aurinkoinen talvipelto]({{site.baseurl}}/uploaded-images/aurinkoinen-talvipelto.jpeg)
@@ -70,7 +71,7 @@ Yksi tärkeimmistä toiveista perheillä oli oman työntekijän saaminen, jotta 
 
 AKTIIVINEN IKÄÄNTYMINEN
 
-
+![Kello]({{site.baseurl}}/uploaded-images/kello.jpeg)
 
 Nepsy-piirteet johtuvat koko elämän mittaisista oireyhtymistä, joten myös aikuisten ja vanhusten kanssa työskentelevät tahot tarvitsevat nepsy-osaamista. Esimerkiksi autismin kirjon piirteiden tiedetään usein jopa vahvistuvan vanhetessa uudelleen, vaikka nuorena ja aikuisena piirteet olisivat kasvun ja kehityksen myötä heikentyneet.
 
