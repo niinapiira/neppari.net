@@ -25,6 +25,8 @@ Vaikeat aistipulmat on siis syytä tutkia ja diagnosoida osaavien ammattilaisten
 
 Hyvänä huomiona kokemusasiantuntijalta tuli voimauttava näkökulma aistimaailman toisesta puolesta: aistit ovat myös hyvän olon lähteitä ja tuottavat meille ihmisille valtavasti mielihyvää sekä nautintoa! Tätä näkökulmaa ei pidä unohtaa ongelmakeskeisyyden rinnalla, vaan nepsy-henkilöitä on tuettava ja autettava myös kokemaan, muistamaan ja esimerkiksi rentoutumaan aistimustensa kautta. Pulmien selvittelyn rinnalla on siis hyvä muistaa selvittää myös se, mistä aistimuksista kyseinen yksilö nauttii ja saa iloa! Aistipulman kääntöpuolella voi olla valtavaa mielihyvää tuova aistimus, ja tätä puolta on syytä vahvistaa mahdollisuuksien rajoissa.
 
+
+
 AUTISMIN KIRJON DIAGNOOSIMUUTOS
 
 Autismin kirjon diagnoosi tulee tulevaisuudessa pitämään sisällään kaikki autismiin viittaavat diagnoosit, mm. Aspergerin oireyhtymän. Tällaisena se tulee sisältämään laajan skaalan erilaisia piirteitä eli toisin sanoen hyvin paljon yksilöllistä vaihtelua. Näin ollen uusi diagnoosimääritelmä ei kerro henkilöstä vielä paljoakaan, mutta suunta on monen mielestä oikea: autismin kirjon henkilöiden väliset yksilölliset erot ovat kiistatta niin valtavat, että uuden diagnoosikriteeristön laaja-alaisuus pakottaa henkilöiden yksilölliseen tarkasteluun ja arviointiin. Tämän toivotaan hälventävän omalta osaltaan ihmisten leimautumista ja lisäävän yksilöllisen tuen saamista.
