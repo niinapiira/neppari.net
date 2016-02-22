@@ -6,6 +6,7 @@ published: false
 
 
 
+
 **Viikko sitten järjestetyillä Autismin talvipäivillä oli teemana ESTEETTÖMYYS laajasta näkökulmasta. Esteettömyyshän ei koske vain vammaisia tai vammautuneita ihmisiä vaan meistä jokaista! Parhaimmillaanhan esteettömyys ulottuu kaikille elämän osa-alueille liikkumisesta asumiseen, itsemääräämisoikeudesta kommunikointiin ja aina tiedon saantiin saakka. Jos jollakulla on jossain elämän osa-alueella haasteita selviytyä tai saavuttaa tarvitsemaansa, on häntä siinä tuettava, autettava ja huomioitava. Muuten syrjäytämme toisiamme ja edesautamme epäoikeudenmukaisuutta sekä eriarvoisuutta.**
 
 ![Aurinkoinen talvipelto]({{site.baseurl}}/uploaded-images/aurinkoinen-talvipelto.jpeg)
@@ -34,7 +35,7 @@ Autismin kirjon diagnoosi tulee tulevaisuudessa pitämään sisällään kaikki 
 
 Painopiste itse diagnoosista siirtyy tulevan muutoksen kautta siis yksilöllisen toimintakyvyn ja elämänlaadun korostumiseen, jotka taas toimivat yksilöllisen ja tarvelähtöisen kuntoutussuunnitelman pohjana! Autismin kirjon henkilöt tulevat siis toivottavasti tulevaisuudessa kohdatuiksi todellisten piirteidensä kautta eikä diagnostisten kriteereiden kautta!
 
-
+![Riksu nukkuu]({{site.baseurl}}/uploaded-images/riksu-nukkuu.jpeg)
 
 UNIHÄIRIÖT
 
