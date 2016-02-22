@@ -6,10 +6,10 @@ published: true
 
 
 
+![Riksu laiturilla katsomassa merelle päin]({{site.baseurl}}/uploaded-images/riksu-laiturilla-katsomassa-merelle-pain.jpeg)
+
 
 **Jokainen elävä laji kommunikoi toisilleen yhteisellä kielellä tai eleillä, joilla luodaan yhteisymmärrystä ja ollaan vuorovaikutuksessa lajikumppanien kanssa. Osa maapallon eliöistä voi kommunikoida myös toisten lajien kanssa, jolloin syntyy rajoja ylittävää vuorovaikutusta. Aivojen ylivoimaisen kehityksen vuoksi voisi olettaa, että ihminen olisi erityinen mestari tässä lajissa, mutta ei ole itsestään selvää edes meille onnistua ymmärtämään toisiamme saumattomasti. Mitä sitten tarvitaan onnistuaksemme luomaan ymmärrystä synnyttävän kontaktin toiseen elävään olentoon, ja jotta voimme päästä aitoon vuorovaikutukseen toistemme kanssa?**
-
-![Riksu laiturilla katsomassa merelle päin]({{site.baseurl}}/uploaded-images/riksu-laiturilla-katsomassa-merelle-pain.jpeg)
 
 **Alkuun voin lohduttaa kaikkia, että kommunikaatio ja vuorovaikutus ei ole helppoa**. Vaikka voisi olettaa, että yhden lajin piirissä me ihmiset ymmärtäisimme toisiamme hyvin, niin näinhän ei ole. Vaikka kulttuurit, perinteet, normit ja sosiaaliset säännöt ovat pyrkineet luomaan kanssakäymiseen tapoja joiden tarkoituksena on ollut helpottaa yhteisymmärryksen saavuttamista, eivät nekään aina ole luontaisimpia tapoja ilmaista toiselle ajatuksiaan ja pyrkimyksiään.
 
