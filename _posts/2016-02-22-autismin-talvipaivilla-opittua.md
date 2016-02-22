@@ -5,6 +5,7 @@ published: false
 
 
 
+
 **Viikko sitten järjestetyillä Autismin talvipäivillä oli teemana ESTEETTÖMYYS laajasta näkökulmasta. Esteettömyyshän ei koske vain vammaisia tai vammautuneita ihmisiä vaan meistä jokaista! Parhaimmillaanhan esteettömyys ulottuu kaikille elämän osa-alueille liikkumisesta asumiseen, itsemääräämisoikeudesta kommunikointiin ja aina tiedon saantiin saakka. Jos jollakulla on jossain elämän osa-alueella haasteita selviytyä tai saavuttaa tarvitsemaansa, on häntä siinä tuettava, autettava ja huomioitava. Muuten syrjäytämme toisiamme ja edesautamme epäoikeudenmukaisuutta sekä eriarvoisuutta.**
 
 ![Aurinkoinen talvipelto]({{site.baseurl}}/uploaded-images/aurinkoinen-talvipelto.jpeg)
@@ -25,7 +26,7 @@ Vaikeat aistipulmat on siis syytä tutkia ja diagnosoida osaavien ammattilaisten
 
 Hyvänä huomiona kokemusasiantuntijalta tuli voimauttava näkökulma aistimaailman toisesta puolesta: aistit ovat myös hyvän olon lähteitä ja tuottavat meille ihmisille valtavasti mielihyvää sekä nautintoa! Tätä näkökulmaa ei pidä unohtaa ongelmakeskeisyyden rinnalla, vaan nepsy-henkilöitä on tuettava ja autettava myös kokemaan, muistamaan ja esimerkiksi rentoutumaan aistimustensa kautta. Pulmien selvittelyn rinnalla on siis hyvä muistaa selvittää myös se, mistä aistimuksista kyseinen yksilö nauttii ja saa iloa! Aistipulman kääntöpuolella voi olla valtavaa mielihyvää tuova aistimus, ja tätä puolta on syytä vahvistaa mahdollisuuksien rajoissa.
 
-
+![Avain]({{site.baseurl}}/uploaded-images/avain.jpeg)
 
 AUTISMIN KIRJON DIAGNOOSIMUUTOS
 
