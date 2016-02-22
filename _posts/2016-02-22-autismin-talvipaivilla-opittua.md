@@ -30,7 +30,7 @@ Painopiste itse diagnoosista siirtyy tulevan muutoksen kautta siis yksilöllisen
 
 UNIHÄIRIÖT
 
-Todella moni nepsy-henkilö kärsii jossain vaiheessa elämäänsä hyvinkin haastavista unihäiriöistä, jotka vaikeuttavat elämää ja arkea. Unihäiriöitä on montaa eri laatua, joten häiriön tutkiminen ja selvittäminen on ensisijaista uniongelmien ratkaisemisessa!
+Todella moni nepsy-henkilö kärsii jossain vaiheessa elämäänsä hyvinkin haastavista unihäiriöistä, jotka vaikeuttavat elämää, arkea ja hyvinvointia. Unihäiriöitä on montaa eri laatua, joten häiriön tutkiminen ja selvittäminen on ensisijaista uniongelmien ratkaisemisessa!
 
 Unihäiriöt voivat liittyä hyvin moneen eri asiaan henkilön elämässä: nukkumaan asettumiseen, nukahtamisvaikeuksiin, heräilyyn, painajaisiin, päiväväsymykseen ja unen lyhyyteen. Unen laatu voi olla huono tai iltarutiinien puute voi hankaloittaa uneen siirtymistä. Kommunikointivaikeudet voivat hankaloittaa iltaa ja nukkumaan pääsyä monestakin näkökulmasta ja siirtymätilanteiden haastavuus yleisesti aiheuttaa nukkumaan menemiselle vaikeuksia. Myös tunnesäätelyn pulmat voivat hankaloittaa rauhoittumista ja aistisäätelyn pulmat vireystilan hallintaa. Syitä voi siis olla lähes loputtomasti ja siksi näiden syiden tarkka selvittäminen on ainut keino saada tietoa siitä mitä hoidetaan!
 
