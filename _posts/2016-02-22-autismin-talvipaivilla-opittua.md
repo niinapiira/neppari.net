@@ -61,6 +61,8 @@ Motivaation herättämisessä uusien käyttäytymismallien oppimiseksi toimii tu
 
 AMMATTILAISTEN JA PERHEIDEN VÄLINEN YHTEISTYÖ
 
+
+
 Neuropsykiatrisen kuntoutuksen tiimoilta saatujen kokemusten perusteella kootut perheiden esittämät toiveet ammattilaisille yhteistyön tiimoilta eivät tunnu olevan suuria vaatimuksia, mutta sitäkin tärkeämpiä jokaisessa kohtaamisessa. Perheet toivoivat ammattilaisilta aikaa, kuulluksi tulemista, avoimuutta, rehellisyyttä, ratkaisu- ja voimavarakeskeistä suhtautumista eli onnistumisten huomaamista ja edistymisestä iloitsemista, perheen huomioimista kokonaisuutena, ajankohtaista tietoa mm. erilaisista tukipalveluista ja -muodoista, taitavaa tunnetyöskentelyä esim. oman ahdistuksen hallintaa, konkreettista apua hakemusten täyttämiseen ja tukien etsimiseen, selkeyttävää ohjaamista esimerkiksi muistilistojen ja toimintasuunnitelmien avulla, jalkautumista perheen arkiympäristöön, jatkoseurantaa sekä siirtymävaiheiden tukea.
 
 Yksi tärkeimmistä toiveista perheillä oli oman työntekijän saaminen, jotta yksi ihminen tuntisi perheen tilanteen ja toimisi rinnalla joustavasti ja ketterästi. Tärkeimmäksi piirteeksi ammattialisissa perheet olivat huomanneet usein luovan heittäytymisen ja tilanteessa elämisen. Perheissä oli kokemusta jopa ns. muodollisesti ei-pätevistä työntekijöistä, jotka pistivät itsensä likoon perheen vuoksi ja pystyivät auttamaan heitä siten vahvemmin kuin moni muodollisesti pätevä, joka ei ole ollut valmis soveltamaan osaamistaan yksilöllisesti jokaisen nepsy-henkilön ja perheen kohdalla!
