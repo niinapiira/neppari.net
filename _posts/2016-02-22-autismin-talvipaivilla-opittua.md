@@ -4,6 +4,7 @@ published: false
 ---
 
 
+
 **Viikko sitten järjestetyillä Autismin talvipäivillä oli teemana ESTEETTÖMYYS laajasta näkökulmasta. Esteettömyyshän ei koske vain vammaisia tai vammautuneita ihmisiä vaan meistä jokaista! Parhaimmillaanhan esteettömyys ulottuu kaikille elämän osa-alueille liikkumisesta asumiseen, itsemääräämisoikeudesta kommunikointiin ja aina tiedon saantiin saakka. Jos jollakulla on jossain elämän osa-alueella haasteita selviytyä tai saavuttaa tarvitsemaansa, on häntä siinä tuettava, autettava ja huomioitava. Muuten syrjäytämme toisiamme ja edesautamme epäoikeudenmukaisuutta sekä eriarvoisuutta.**
 
 ![Aurinkoinen talvipelto]({{site.baseurl}}/uploaded-images/aurinkoinen-talvipelto.jpeg)
@@ -46,7 +47,7 @@ Ensisijainen hoitomuoto unihäiriöissä on kuitenkin ennen lääkitystä käytt
 
 POSITIIVISTEN VAHVISTEIDEN JA MOTIVAATION MERKITYS KUNTOUTUKSESSA
 
-
+![Palkintoruudukko]({{site.baseurl}}/uploaded-images/palkintoruudukko.jpeg)
 
 Voidaksemme vaikuttaa jonkun ihmisen käyttäytymiseen, on meidän ensin ymmärrettävä häntä ja hänen käytöstään. Käyttäytymisanalyysiä käytetään käyttäytymisen syiden ja merkitysten löytämiseen, sillä niiden avulla voidaan ymmärtää miksi joku ihminen toimii niin kuin toimii. Motivaatio on hyvin keskeisessä roolissa erilaisten käyttäytymismallien muodostumisessa, jolloin motivaatiotekijöiden selvittäminen on avainasemassa henkilön käytökseen vaikutettaessa.
 
