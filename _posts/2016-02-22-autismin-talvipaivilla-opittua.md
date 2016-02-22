@@ -7,6 +7,7 @@ published: false
 
 
 
+
 **Viikko sitten järjestetyillä Autismin talvipäivillä oli teemana ESTEETTÖMYYS laajasta näkökulmasta. Esteettömyyshän ei koske vain vammaisia tai vammautuneita ihmisiä vaan meistä jokaista! Parhaimmillaanhan esteettömyys ulottuu kaikille elämän osa-alueille liikkumisesta asumiseen, itsemääräämisoikeudesta kommunikointiin ja aina tiedon saantiin saakka. Jos jollakulla on jossain elämän osa-alueella haasteita selviytyä tai saavuttaa tarvitsemaansa, on häntä siinä tuettava, autettava ja huomioitava. Muuten syrjäytämme toisiamme ja edesautamme epäoikeudenmukaisuutta sekä eriarvoisuutta.**
 
 ![Aurinkoinen talvipelto]({{site.baseurl}}/uploaded-images/aurinkoinen-talvipelto.jpeg)
@@ -61,7 +62,7 @@ Motivaation herättämisessä uusien käyttäytymismallien oppimiseksi toimii tu
 
 AMMATTILAISTEN JA PERHEIDEN VÄLINEN YHTEISTYÖ
 
-
+![Kynttilät]({{site.baseurl}}/uploaded-images/kynttilat.jpeg)
 
 Neuropsykiatrisen kuntoutuksen tiimoilta saatujen kokemusten perusteella kootut perheiden esittämät toiveet ammattilaisille yhteistyön tiimoilta eivät tunnu olevan suuria vaatimuksia, mutta sitäkin tärkeämpiä jokaisessa kohtaamisessa. Perheet toivoivat ammattilaisilta aikaa, kuulluksi tulemista, avoimuutta, rehellisyyttä, ratkaisu- ja voimavarakeskeistä suhtautumista eli onnistumisten huomaamista ja edistymisestä iloitsemista, perheen huomioimista kokonaisuutena, ajankohtaista tietoa mm. erilaisista tukipalveluista ja -muodoista, taitavaa tunnetyöskentelyä esim. oman ahdistuksen hallintaa, konkreettista apua hakemusten täyttämiseen ja tukien etsimiseen, selkeyttävää ohjaamista esimerkiksi muistilistojen ja toimintasuunnitelmien avulla, jalkautumista perheen arkiympäristöön, jatkoseurantaa sekä siirtymävaiheiden tukea.
 
