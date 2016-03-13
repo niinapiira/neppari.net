@@ -54,3 +54,25 @@ $text-color-on-accent: white;
 		display: inline !important;
 	}
 }
+
+.nepsy-ry {
+	margin-top: 2rem;
+	display: table;
+	border-spacing: 1rem;
+    border-collapse: separate;
+	.image-container {
+		display: table-cell;
+		vertical-align: middle;
+		width: 140px;
+	}
+	.description {
+		margin-left: 180px;
+		display: table-cell;
+		vertical-align: middle;
+		font-style: italic;
+	}
+	.image {
+		width: 140px;
+		margin: 0;
+	}
+}

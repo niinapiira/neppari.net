@@ -6,6 +6,7 @@ tagline:          'Neuropsykiatrista valmennusta Tampereella ja Pirkanmaalla'
 description:      'Neppari on neuropsykiatrisen valmennuksen paikka, jossa tarjotaan tukea henkilöille joilla on esimerkiksi ADHD, ADD, Asperger, Tourette tai lievä autismi.'
 tagline-short:    'Neuropsykiatrista valmennusta Pirkanmaalla'
 siteurl:          http://neppari.net
+ry-text:          Niina Piira on Neuropsykiatriset valmentajat ry:n rekisteröity jäsen sekä hallituksen sihteeri
 
 # Permalinks
 permalink:        /blogi/:title/
@@ -126,6 +127,8 @@ prose:
               value: "normal"
             - name: "Etusivu"
               value: "front-page"
+            - name: "CV-sivu"
+              value: "cv"
             - name: "Palautesivu"
               value: "form"
       - name: "show-in-navigation"

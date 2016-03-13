@@ -11,4 +11,8 @@ layout: default
   </h1>
   {{ content }}
 
+  {% if page.page-type == "front-page" or page.page-type == "cv" %}
+    {% include nepsy-ry.html %}
+  {% endif %}
+
 </div>
