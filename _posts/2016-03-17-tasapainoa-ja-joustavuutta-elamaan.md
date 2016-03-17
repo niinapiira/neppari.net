@@ -18,5 +18,12 @@ Ja tämä pätee elämässä aika lailla kaikkeen. Rajat. Jokaisen yksilön on h
 
 Olen saanut huomata valmennuksissani konkreettisesti, että onnistumisten ja onnellisuuden avaimet ovat todentotta jokaisessa ihmisessä valmiina! Valmentajana minun ei tarvitse antaa asiakkaalle usein paljoakaan muuta, kuin välittämistä, kannustusta, uskoa, toivoa, uusia näkökulmia ja huomion ohjausta yksilön oman tasapainon ja joustavuuden löytämiseen. Asiakas etsii ja löytää vastaukset ja ratkaisut itsestään, koska ne ovat olleet hänessä koko ajan. Elämän vastoinkäymiset ovat vain ne piilottaneet, kuoren tai vaikeuksien taakan alle.
 
-Vaikka emme voi hallita elämää, 
+Vaikka emme voi hallita elämää, voimme aika usein hallita itseämme. Mitä pienempiä asioita opettelemme itsessämme hallitsemaan (esimerkiksi hengityksen hyödyntämistä rauhoittumiseen), siitä suuremman vallan saamme itsestämme. Kun pystymme vaikuttamaan mielemme liikkeisiin ja kehon toimintoihin, voimme vaikuttaa hyvin moneen asiaan myös elämässämme: Asenteeseemme, huomion kohdistamiseen, ajatustemme laatuun sekä eri näkökulmien vaihtoon aina tarpeen tullen.
 
+Elämässä tarvitaan aina joustavuutta, sillä kohtaamamme tilanteet voivat olla hyvin erilaisia riippuen mm. olosuhteista, ihmisistä, kulttuurista ja tapahtumista. Esimerkiksi ihmissuhteissa tasapainottelu on hyvin haastavaa, koska meille on luontevaa pyrkiä ylläpitämään tasapainoa vuorovaikutuksessa ja suhteissa. Ryhmissä, kuten vaikka perheissä, tilanne on tietysti entistä monimutkaisempi. Jokaisen ymmärtäessä oman roolinsa tasapainon yhtenä tukipilarina, syntyy myös oivallus omasta vallasta ja vastuusta itseemme ja ympärärillemme.
+
+Oma tasapainon löytäminen helpottaa myös liian joustavuuden ehkäisemisessä, jotta emme uuvuttaisi, rikkoisi tai loukkaisi itseämme. Missä minun rajani menevät? Mihin asti haluan joustaa?? Kuinka paljon pystyn edes joustamaan (vielä)???
+
+Kehittyäksemme ihmisinä (tai vaikka urheilijoina tai ammattilaisina) meidän on uskallettava osallistua tilanteisiin, jotka aiheuttavat meille epämukavuutta. "Kärsimys kasvattaa" opetti eräs asiakkaani ja oli oikeassa. Rajansa on kuitenkin silläkin. Sietämättömyys on alue, jossa emme enää kasva tai kehity, vaan kulumme. Epämukavuuden ja sietämättömyyden välinen raja onkin tärkeä oppia tunnistamaan itsessään, jotta meidän ei tulisi useinkaan opittava asioita kantapään kautta.
+
+Virheitä elämässä saa ja pitääkin tehdä (voit lukea tästä lisää blogikirjoituksessani "Virheiden pelosta virheistä oppimiseen 
