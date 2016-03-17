@@ -11,5 +11,12 @@ Viimeisin oppini, jonka olen valmentajana saanut, liittyy elämän tasapainoon j
 
 Totuus on että elämää ei voi koskaan täysin hallita, mutta itsemme kautta meillä on voima hallita oman elämämme valintoja ja suuntaviivoja. Elämän kokonaisuuden moninaisuus ja monimutkaisuus helpottuu huomattavasti, kun pyrkii tiestoisesti arjen valinnoissaan aina tasapainoon ja joustavuuteen. Nämä kaksi kulkevat vahvasti käsikädessä, sillä joustavuudella luodaan tasapainoa ja tasapaino mahdollistaa joustavuuden.
 
-Tasapainoa tarvitaan niin sisäisessä maailmassamme kuin sisäisen ja ulkoisen maailman välisissä suhteissa. 
+Tasapainoa tarvitaan niin sisäisessä maailmassamme kuin sisäisen ja ulkoisen maailman välisissä suhteissa. Kaikkea voi olla liikaa tai liian vähän, on kysymys sitten vedestä tai vaikka vapaa-ajasta. Oletko muuten tietoinen, että ryppyjen silottamiseen käytettävä Botox-aine on hermomyrkkyä ja ilmeisesti yksi maailman myrkyllisimmistä asioista!? Oikein käytettynä se mitä ilmeisemmin toimii kauneuden ylläpitäjänä, mutta väärissä käsissä se olisi tapaavan myrkyllistä.
+Ja mitä veteen tulee, niin myös sitä voi juoda liikaa. Määrä saisi ilmeisesti olla niin suuri, että normaalisti ihmisen olisi hyvin vaikea jaksaa juoda sellaista määrää. Mutta yhtä kaikki: rajansa kaikella.
+
+Ja tämä pätee elämässä aika lailla kaikkeen. Rajat. Jokaisen yksilön on hyvä löytää omat henkilökohtaiset rajansa, jotta pystyy helpommin tasapainottelemaan elämän muutoksissa ja muuttuvissa tilanteissa. Tasapainon löytäminen tapahtuu omien rajojen hahmottamisen kautta ja tämä vaatii itsetuntemusta, kokemuksia ja avoimuutta. Omien rajojen hakemisessa voi lähteä liikkeelle onnistumisten muistelulla, sillä sen avulla pääsee käsiksi onnellisuutensa lähteille.
+
+Olen saanut huomata valmennuksissani konkreettisesti, että onnistumisten ja onnellisuuden avaimet ovat todentotta jokaisessa ihmisessä valmiina! Valmentajana minun ei tarvitse antaa asiakkaalle usein paljoakaan muuta, kuin välittämistä, kannustusta, uskoa, toivoa, uusia näkökulmia ja huomion ohjausta yksilön oman tasapainon ja joustavuuden löytämiseen. Asiakas etsii ja löytää vastaukset ja ratkaisut itsestään, koska ne ovat olleet hänessä koko ajan. Elämän vastoinkäymiset ovat vain ne piilottaneet, kuoren tai vaikeuksien taakan alle.
+
+Vaikka emme voi hallita elämää, 
 
