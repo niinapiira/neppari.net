@@ -26,4 +26,4 @@ Oma tasapainon löytäminen helpottaa myös liian joustavuuden ehkäisemisessä,
 
 Kehittyäksemme ihmisinä (tai vaikka urheilijoina tai ammattilaisina) meidän on uskallettava osallistua tilanteisiin, jotka aiheuttavat meille epämukavuutta. "Kärsimys kasvattaa" opetti eräs asiakkaani ja oli oikeassa. Rajansa on kuitenkin silläkin. Sietämättömyys on alue, jossa emme enää kasva tai kehity, vaan kulumme. Epämukavuuden ja sietämättömyyden välinen raja onkin tärkeä oppia tunnistamaan itsessään, jotta meidän ei tulisi useinkaan opittava asioita kantapään kautta.
 
-Virheitä elämässä saa ja pitääkin tehdä (voit lukea tästä lisää blogikirjoituksessani "Virheiden pelosta virheistä oppimiseen 
+Virheitä elämässä saa ja pitääkin tehdä ja virheistä on hyvä ottaa oppia. (voit lukea tästä lisää blogikirjoituksessani ["Virheiden pelosta virheistä oppimiseen"](/blogi/virheiden-pelosta-virheista-oppimiseen/) ) Mutta koirien tavoin 
