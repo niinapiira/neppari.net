@@ -5,6 +5,7 @@ published: true
 
 
 
+
 ![Vene rannalla]({{site.baseurl}}/uploaded-images/vene-rannalla.jpeg)
 
 **Valmennustyössä parasta on mielestäni intensiivinen asiakastyö, koska valmentaja opin asiakkailtani vähintään yhtä paljon kuin mitä he itse oppivat valmennusprosessistaan. Koska valmentaja ei ole varsinaisesti ohjaaja eikä opettaja, vaan ensisijaisesti rinnalla kulkija, on valmentajan asetuttava yhtä lailla oppijan rooliin kuin itse valmennettavankin. Olemme yhteisellä matkalla kohti tavoitettamme, enkä minä valmentajana tiedä työskentelyn etenemistä ja lopputukosta sen enempää kuin asiakaskaan. Ainut, mitä tiedän, on matkan tekemisen taito, mutta jokainen reissu eri valmennettavien kanssa on uniikki ja ainutlaatuinen. Ja siksi niin opettavainen.**
@@ -16,7 +17,7 @@ Totuus on, että elämää ei voi koskaan täysin hallita, mutta itsemme kautta 
 Tasapainoa tarvitaan niin sisäisessä maailmassamme kuin sisäisen ja ulkoisen maailman välisissä suhteissa. Kaikkea voi olla liikaa tai liian vähän, on kysymys sitten tietynlaisista ajatuksista, käyttäytymisestä, vapaa-ajasta tai vaikka vedestä. Oletko muuten tietoinen, että ryppyjen silottamiseen käytettävä Botox-aine on hermomyrkkyä ja ilmeisesti yksi maailman myrkyllisimmistä asioista!? Oikein käytettynä se mitä ilmeisemmin toimii kauneuden ylläpitäjänä, mutta se on kuitenkin pienissäkin määrin tapaavaa myrkkyä.
 Ja mitä veteen tulee, niin myös sitä voi juoda liikaa. Määrä saisi ilmeisesti olla niin suuri, että normaalisti ihmisen olisi hyvin vaikea jaksaa juoda sellaista määrää. Mutta yhtä kaikki: rajansa kaikella.
 
-Ja tämä pätee elämässä aika lailla kaikkeen. Rajat. Jokaisen yksilön on hyvä löytää omat henkilökohtaiset rajansa, jotta pystyy helpommin tasapainottelemaan elämän muutoksissa ja muuttuvissa tilanteissa. Tasapainon löytäminen tapahtuu omien rajojen hahmottamisen kautta ja tämä vaatii itsetuntemusta, kokemuksia ja avoimuutta. Liian tiukat rajat estävät meitä kuitenkin elämästä täyttä elämää ja liian löysät rajat vaikeuttavat päätöksentekoa, valintoja ja tekojemme tarkoituksenmukaisuutta. Siksi tarvitsemme joustavuutta.
+Ja tämä pätee elämässä aika lailla kaikkeen. Rajat. Jokaisen yksilön on hyvä löytää omat henkilökohtaiset rajansa, jotta pystyy helpommin tasapainottelemaan elämän muutoksissa ja muuttuvissa tilanteissa. Tasapainon löytäminen tapahtuu omien rajojen hahmottamisen kautta ja tämä vaatii itsetuntemusta, kokemuksia ja avoimuutta. Liian tiukat rajat estävät meitä elämästä täyttä elämää ja liian löysät rajat vaikeuttavat päätöksentekoa, valintoja ja tekojemme tarkoituksenmukaisuutta. Siksi tarvitsemme joustavuutta.
 
 Omien rajojen hakemisessa voi lähteä helposti liikkeelle esimerkiksi onnistumisten muistelulla, sillä sen avulla pääsee käsiksi onnellisuutensa lähteille. Muistatko missä vaiheessa onnellisuus/tyytyväisyys muuttui jännitykseksi tai jopa pieneksi stressiksi, ahdistukseksikin? Siinä on sinulla jokin raja. Onko tätä rajaa mahdollista ja tarpeellista kehittää tai siirtää? Onko tämä raja liian tiukka, eikä mahdollista tilanteen vaatiessakaan joustamista? Voisitko lähteä kehittämään rajaasi joustavamaksi, vaikka tunnistaisit sen jatkossakin?
 
