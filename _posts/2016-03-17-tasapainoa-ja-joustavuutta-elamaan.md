@@ -6,6 +6,7 @@ published: true
 
 
 
+
 ![Vene rannalla]({{site.baseurl}}/uploaded-images/vene-rannalla.jpeg)
 
 **Valmennustyössä parasta on mielestäni intensiivinen asiakastyö, koska valmentaja opin asiakkailtani vähintään yhtä paljon kuin mitä he itse oppivat valmennusprosessistaan. Koska valmentaja ei ole varsinaisesti ohjaaja eikä opettaja, vaan ensisijaisesti rinnalla kulkija, on valmentajan asetuttava yhtä lailla oppijan rooliin kuin itse valmennettavankin. Olemme yhteisellä matkalla kohti tavoitettamme, enkä minä valmentajana tiedä työskentelyn etenemistä ja lopputukosta sen enempää kuin asiakaskaan. Ainut, mitä tiedän, on matkan tekemisen taito, mutta jokainen reissu eri valmennettavien kanssa on uniikki ja ainutlaatuinen. Ja siksi niin opettavainen.**
@@ -19,7 +20,7 @@ Ja mitä veteen tulee, niin myös sitä voi juoda liikaa. Määrä saisi ilmeise
 
 Ja tämä pätee elämässä aika lailla kaikkeen. Rajat. Jokaisen yksilön on hyvä löytää omat henkilökohtaiset rajansa, jotta pystyy helpommin tasapainottelemaan elämän muutoksissa ja muuttuvissa tilanteissa. Tasapainon löytäminen tapahtuu omien rajojen hahmottamisen kautta ja tämä vaatii itsetuntemusta, kokemuksia ja avoimuutta. Liian tiukat rajat estävät meitä elämästä täyttä elämää ja liian löysät rajat vaikeuttavat päätöksentekoa, valintoja ja tekojemme tarkoituksenmukaisuutta. Siksi tarvitsemme joustavuutta.
 
-Omien rajojen hakemisessa voi lähteä helposti liikkeelle esimerkiksi onnistumisten muistelulla, sillä sen avulla pääsee käsiksi onnellisuutensa lähteille. Muistatko missä vaiheessa onnellisuus/tyytyväisyys muuttui jännitykseksi tai jopa pieneksi stressiksi, ahdistukseksikin? Siinä on sinulla jokin raja. Onko tätä rajaa mahdollista ja tarpeellista kehittää tai siirtää? Onko tämä raja liian tiukka, eikä mahdollista tilanteen vaatiessakaan joustamista? Voisitko lähteä kehittämään rajaasi joustavamaksi, vaikka tunnistaisit sen jatkossakin?
+Omien rajojen hakemisessa voi lähteä helposti liikkeelle esimerkiksi onnistumisten muistelulla, sillä sen avulla pääsee käsiksi onnellisuutensa lähteille. Muistatko missä vaiheessa onnellisuus/tyytyväisyys muuttui jännitykseksi tai jopa pieneksi stressiksi, ahdistukseksikin? Siinä on sinulla jokin raja. Onko tätä rajaa mahdollista ja tarpeellista kehittää tai siirtää? Onko tämä raja liian tiukka, eikä mahdollista tilanteen vaatiessakaan joustamista? Voisitko lähteä kehittämään rajaasi joustavammaksi, vaikka tunnistaisit sen jatkossakin?
 
 Vaikka emme voi hallita elämää ja sitä, milloin kohtaamme rajojamme koettelevia tapahtumia, voimme opetella hallitsemaan itseämme. Mitä pienempiä asioita opettelemme itsessämme hallitsemaan (esimerkiksi hengityksen hyödyntämistä rauhoittumiseen), siitä suuremman vallan saamme itsestämme. Kun pystymme vaikuttamaan mielemme liikkeisiin ja kehon toimintoihin, voimme vaikuttaa hyvin moneen asiaan myös elämässämme: asenteeseemme, huomion kohdistamiseen, ajatustemme laatuun sekä eri näkökulmien vaihtoon aina tarpeen tullen. Näillä taidoilla voimme ylläpitää tasapainoa elämän myllerryksistä huolimatta.
 
