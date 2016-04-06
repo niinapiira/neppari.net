@@ -24,7 +24,7 @@ ___
 
 ## Uusi nuorten pienryhmätoiminta alkaa huhtikuussa!
 
-Neppari aloittaa yhteistyössä TSAU!ry:n kanssa kokeilumuotoisen pienryhmätoiminnan autismin kirjon nuorille, joilla on tarve pienryhmätoiminnalle ja yksilölliselle tuelle. Ryhmässä hyödynnetään sekä vertaistukea että ohjaajan valmennusosaamista.
+Neppari aloittaa yhteistyössä TSAU!ry:n kanssa kokeilumuotoisen pienryhmätoiminnan autismin kirjon nuorille, joilla on tarve pienryhmätoiminnalle ja yksilölliselle tuelle.
 
 Ryhmä aloittaa huhtikuussa ja tarkoituksena olisi kokoontua kerran
 viikossa n.10krt ennen kesätaukoa ja loppukesästä/alkusyksystä vielä n. 3-5krt.
