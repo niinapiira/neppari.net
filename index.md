@@ -16,6 +16,8 @@ Neppari on paikka, jossa neuropsykiatrisia haasteita kohdanneet nuoret, aikuiset
 Nepparin tuella voidaan helpottaa vaikeita elämäntilanteita sekä tarjota pitkäaikaista ja kokonaisvaltaista tukea arjen ja asioiden sujumiseen.
 
 
+_#Uusi nuorten pienryhmätoiminta alkaa huhtikuussa!#_
+
 ## Esimerkkejä valmennuksesta
 
 Itsenäisyyttä vahvistetaan
