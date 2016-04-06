@@ -12,6 +12,7 @@ polaroid: ""
 
 
 
+
 Tukea elämään valmennuksella!
 
 Neppari on paikka, jossa neuropsykiatrisia haasteita kohdanneet nuoret, aikuiset ja perheet voivat löytää mielekkään tavan elää omanlaistansa arkea ja toteuttaa itseään. Nepparissa vahvistetaan itsenäisyyttä, autetaan haasteiden kanssa selviytymisessä, sekä etsitään erilaisia vaihtoehtoja arjen ja elämän tueksi. 
@@ -40,6 +41,6 @@ Puh.040 934 9954
 
 Sähköposti: niina@neppari.net
 
-Facebooksivu: [facebook.com/valmennuskeskus.neppari] (facebook.com/valmennuskeskus.neppari)
+Facebooksivu: [facebook.com/valmennuskeskus.neppari](facebook.com/valmennuskeskus.neppari)
 
 ___
