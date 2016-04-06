@@ -14,11 +14,11 @@ polaroid: ""
 
 
 
+
 Tukea elämään valmennuksella!
 
-Neppari on paikka, jossa neuropsykiatrisia haasteita kohdanneet nuoret, aikuiset ja perheet voivat löytää mielekkään tavan elää omanlaistansa arkea ja toteuttaa itseään. Nepparissa vahvistetaan itsenäisyyttä, autetaan haasteiden kanssa selviytymisessä, sekä etsitään erilaisia vaihtoehtoja arjen ja elämän tueksi. 
+Neppari tarjoaa valmennusta, koulutusta, konsultaatiota ja yhteistyötä neuropsykiatrisia haasteita kohdanneille nuorille, aikuisille ja perheille sekä heidän kanssaan työskenteleville ammattilaisille.
 
-Nepparin tuella voidaan helpottaa vaikeita elämäntilanteita sekä tarjota pitkäaikaista ja kokonaisvaltaista tukea arjen ja asioiden sujumiseen.
 
 ___
 
