@@ -32,9 +32,13 @@ Ryhmä kootaan ja toteutetaan tarpeen mukaan, jolloin ryhmässä toteutetut toim
 Ryhmässä tullaan todennäköisesti keskittymään paljon toiminnallisiin aktiviteetteihin, joiden lomassa voidaan keskustella ja tutustua.
 
 Kiinnostuneet voivat ollaa suoraan yhteyksissä ohjaajaan:
+
 Niina Piira
+
 Puh.040 934 9954
+
 Sähköposti: niina@neppari.net
+
 Facebooksivu: facebook.com/valmennuskeskus.neppari
 
 ___
