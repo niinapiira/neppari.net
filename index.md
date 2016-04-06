@@ -24,7 +24,7 @@ Nepparin tuella voidaan helpottaa vaikeita elämäntilanteita sekä tarjota pitk
 
 ___
 
-## Näkyvyys- ja kehittämiskysely 1-vuotiaasta Nepparista! =D
+## Näkyvyyskysely 1-vuotiaasta Nepparista! =D
 
 Perjantaina 1-vuotta täyttävä Valmennuskeskus Neppari on rakas yritys, jonka avulla pyrin valmentajana lisäämään tietoutta neuropsykitrisista diagnooseista sekä niiden mukanaan tuomista haasteista ja vahvuuksista.
 
