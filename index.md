@@ -35,7 +35,7 @@ Ryhmä kootaan ja toteutetaan tarpeen mukaan, jolloin ryhmässä toteutetut toim
 Tästä syystä tapaamispaikat ja ajat voivat vaihdella!
 Ryhmässä tullaan todennäköisesti keskittymään paljon toiminnallisiin aktiviteetteihin, joiden lomassa voidaan keskustella ja tutustua.
 
-Kiinnostuneet voivat ollaa suoraan yhteyksissä ohjaajaan:
+Kiinnostuneet voivat olla suoraan yhteyksissä ohjaajaan:
 
 Niina Piira
 
