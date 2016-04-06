@@ -18,6 +18,7 @@ Neppari on paikka, jossa neuropsykiatrisia haasteita kohdanneet nuoret, aikuiset
 Nepparin tuella voidaan helpottaa vaikeita elämäntilanteita sekä tarjota pitkäaikaista ja kokonaisvaltaista tukea arjen ja asioiden sujumiseen.
 
 
+
 ## Uusi nuorten pienryhmätoiminta alkaa huhtikuussa!
 
 Neppari aloittaa yhteistyössä TSAU!ry:n kanssa kokeilumuotoisen pienryhmätoiminnan autismin kirjon nuorille, joilla on tarve pienryhmätoiminnalle ja yksilölliselle tuelle. Ryhmässä hyödynnetään sekä vertaistukea että ohjaajan valmennusosaamista.
