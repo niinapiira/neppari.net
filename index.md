@@ -19,7 +19,7 @@ Tukea elämään valmennuksella!
 
 Neppari tarjoaa valmennusta, koulutusta, konsultaatiota ja yhteistyötä neuropsykiatrisia haasteita kohdanneille nuorille, aikuisille ja perheille sekä heidän kanssaan työskenteleville ammattilaisille.
 
-
+Nepparin tuella voidaan helpottaa vaikeita elämäntilanteita sekä tarjota pitkäaikaista ja kokonaisvaltaista tukea arjen ja asioiden sujumiseen.
 ___
 
 ## Uusi nuorten pienryhmätoiminta alkaa huhtikuussa!
