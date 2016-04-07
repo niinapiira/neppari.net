@@ -4,6 +4,7 @@ published: true
 ---
 
 
+
 ![Aurinkoinen talvipelto]({{site.baseurl}}/uploaded-images/aurinkoinen-talvipelto.jpeg)
 
 **Viikko sitten järjestetyillä Autismin talvipäivillä oli teemana ESTEETTÖMYYS laajasta näkökulmasta. Esteettömyyshän ei koske vain vammaisia tai vammautuneita ihmisiä vaan meistä jokaista! Parhaimmillaanhan esteettömyys ulottuu kaikille elämän osa-alueille liikkumisesta asumiseen, itsemääräämisoikeudesta kommunikointiin ja aina tiedon saantiin saakka. Jos jollakulla on jossain elämän osa-alueella haasteita selviytyä tai saavuttaa tarvitsemaansa, on häntä siinä tuettava, autettava ja huomioitava. Muuten syrjäytämme toisiamme ja edesautamme epäoikeudenmukaisuuden sekä eriarvoisuuden syntymistä.**
@@ -76,3 +77,11 @@ Hyvä näkökulma aktiivisessa ikääntymisessä oli meille nepsy-ammattilaisill
 
 
 _Autismin Talvipäivät olivat minulle uusi kokemus, ja huomasin viihtyneeni ja oppineeni siellä valtavasti. Juteltuani päivillä erään reippaan nuoren aitismin kirjon herran kanssa huomasin kuitenkin, että itse kirjon henkilöitä tapahtumassa oli kovin vähän. Päivien päätöspäivänä järjestettävään paneelikeskusteluun osallistuneista henkilöistä osa oli itse kirjon henkilöitä, mutta muuten kirjolaisiin ei tullut törmättyä useinkaan. Tästä inspiroituneena päätin osallistua ensi kertaa elämässäni tämän vuoden marraskuussa järjestettäville autismin kirjon henkilöiden omille Empowerment-päiville! =D  Talvipäivistä innostuneena tätä vuotta eteenpäin! x)_
+
+___
+
+Auta minua kehittämään Nepparia vastaamalla
+[tähän näkyvyys- ja kehittämiskyselyyn](https://docs.google.com/forms/d/176dqWqr1rtptN2gY9Z10OUQjiLbrq1T9Zu-S_kPgq-U/viewform) ! 
+Suuri kiitos!! =D
+
+___
