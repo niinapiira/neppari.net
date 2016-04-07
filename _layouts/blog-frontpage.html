@@ -9,6 +9,13 @@ is-part-of-blog: true
 <div class="welcome-message">
   <h3>Hei ja tervetuloa!</h3>
   <p>{{ site.blog.description }}</p>
+
+  {% capture content_size %}{{ content | strip | size }}{% endcapture %}
+  {% if content_size != '0' %}
+    <hr/>
+    <p>{{ content }}</p>
+    <hr/>
+  {% endif %}
 </div>
 
 <h3>Uusin napsahdus Nepparin blogissa:</h3>
