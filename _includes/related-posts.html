@@ -1,6 +1,6 @@
 <h3 class="related-posts-header">Lisää luettavaa</h3>
 <ul class="related-posts">
-  {% for post in site.related_posts limit:3 %}
+  {% for post in site.related_posts %}
     <li>
       <h3>
         <a href="{{ post.url }}">
@@ -12,7 +12,10 @@
       </h3>
     </li>
   {% endfor %}
+  <li><h3><a href="{{ site.blog.baseurl }}">
+    Blogin etusivulle
+  </a></h3></li>
   <li><h3><a href="{{ site.siteurl }}">
-    {{ site.long-title }}
+    Valmennuskeskus Nepparin kotisivuille
   </a></h3></li>
 </ul>
