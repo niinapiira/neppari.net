@@ -6,6 +6,7 @@ published: true
 
 
 
+
 ![Riksu laiturilla katsomassa merelle päin]({{site.baseurl}}/uploaded-images/riksu-laiturilla-katsomassa-merelle-pain.jpeg)
 
 
@@ -33,3 +34,11 @@ Tästä päästäänkin loppuyhteenvetoon, johon olen päätynyt vuosien harjoit
 
 
 _Myös ihmisten välisessä kommunikaatiossa tarvitaan kaikkien oppien, normien, sääntöjen ja tapojen lisäksi sitä samanlaista tutkivaa ja kiinnostunutta lähestymistapaa, mitä eläinten kanssa toimiessa käytetään.  Eläimiltä oppimani taidot liittyvät juuri vuorovaikutukseen ja yhteisymmärryksen saavuttamiseen, joita ei opita kirjasta lukemalla. Teoriat ja muiden opettamat viisaudet antavat kyllä perspektiiviä ja näkökulmia, joiden avulla on helpompi ratkaista ongelmia, mutta todellinen toisen elävän olennon ymmärtäminen vaatii aina ensin suuresti tahtoa ja sen jälkeen vasta taitoa. Jälkimmäistä voi opetella ja harjoitella, mutta tahtoa –sitä on oltava valmiina._
+
+___
+
+Auta minua kehittämään Nepparia vastaamalla
+[tähän näkyvyys- ja kehittämiskyselyyn](https://docs.google.com/forms/d/176dqWqr1rtptN2gY9Z10OUQjiLbrq1T9Zu-S_kPgq-U/viewform) ! 
+Suuri kiitos!! =D
+
+___
