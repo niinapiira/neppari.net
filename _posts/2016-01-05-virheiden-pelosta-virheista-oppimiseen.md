@@ -4,6 +4,7 @@ published: true
 ---
 
 
+
 ![Rapistunut seinä]({{site.baseurl}}/uploaded-images/rajattu-rapistunut-seina.jpeg)
 
 **Virheiden tekeminen kuuluu elämään, emmekä voi välttää niitä millään. ”Virheistä oppii”. ”Virheet opettavat”. ”Virheiden kautta voittoon”. Sanontoja riittää kuvaamaan sitä tosiasiaa, että virheet ovat väistämättömiä elämän monimutkaisessa kulussa, mutta niistä voi myös hyötyä. Kuinka sitten virheitään voi katsoa rakentavasti silmästä silmään ja ottaa niistä aidosti opikseen?**
@@ -33,3 +34,11 @@ _Itselleni virheellisyyteni hyväksyminen ja sietäminen on varmaan ikuisuusproj
 
 Jos jostain tietää eläneensä täyttä elämään, niin siitä, että on tehnyt virheitä.
 Elämän ruletissa se, joka ei pelkää tehdä virheitä, uskaltaa pelata. Silloin voi hyvinkin olla, että voi voittaa.
+
+___
+
+Auta minua kehittämään Nepparia vastaamalla
+[tähän näkyvyys- ja kehittämiskyselyyn](https://docs.google.com/forms/d/176dqWqr1rtptN2gY9Z10OUQjiLbrq1T9Zu-S_kPgq-U/viewform) ! 
+Suuri kiitos!! =D
+
+___
