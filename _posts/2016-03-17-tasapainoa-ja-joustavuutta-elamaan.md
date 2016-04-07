@@ -7,6 +7,7 @@ published: true
 
 
 
+
 ![Vene rannalla]({{site.baseurl}}/uploaded-images/vene-rannalla.jpeg)
 
 **Valmennustyössä parasta on mielestäni intensiivinen asiakastyö, koska valmentaja opin asiakkailtani vähintään yhtä paljon kuin mitä he itse oppivat valmennusprosessistaan. Koska valmentaja ei ole varsinaisesti ohjaaja eikä opettaja, vaan ensisijaisesti rinnalla kulkija, on valmentajan asetuttava yhtä lailla oppijan rooliin kuin itse valmennettavankin. Olemme yhteisellä matkalla kohti tavoitettamme, enkä minä valmentajana tiedä työskentelyn etenemistä ja lopputukosta sen enempää kuin asiakaskaan. Ainut, mitä tiedän, on matkan tekemisen taito, mutta jokainen reissu eri valmennettavien kanssa on uniikki ja ainutlaatuinen. Ja siksi niin opettavainen.**
@@ -42,3 +43,5 @@ Itselleni vapautuminen koitti kohdattuani pelkoni ja opetellessani elämään ki
 Meillä kaikilla on valta ja mahdollisuus valita joka hetki, kuinka päätämme toimia tai olla toimimatta erilaisissa tilanteissa. Vaikka emme voi vaikuttaa useinkaan ympäristöömme ja itsemme ulkopuolisiin asioihin, voimme vaikuttaa siihen, miten asiasta ajattelemme ja kuinka tilanteessa toimimme. Jokaisella on siis valta päättää kuinka elää jokainen merkityksellinen hetki. Jokaisella on siis valta elää oman näköistä elämäänsä.
 
 _Jos sinun tai jonkun tuntemasi henkilön tulee painittua usein henkisten ja/tai fyysisten kipujen kipujen kanssa, suosittelen lukemaan Antti Heikkilän kirjan "Siunattu kipu". Kyseinen kirja pelasti minun elämäni ja vapautti taistelusta kipujani vastaan. Tämän kirjan ansiosta voin tänä päivänä jopa sanoa, että olen kiitollinen kivuistani, sillä ne ovat opettaneet minulle niin paljon itsestäni -ja opettavat varmasti jatkossakin. Olen oppinut toimimaan niiden kanssa joustavasti, jolloin voin löytää tasapainoa elämääni vaikeinakin hetkinä._ =)
+
+Auta minua kehittämään Nepparia vastaamalla [tähän](https://docs.google.com/forms/d/176dqWqr1rtptN2gY9Z10OUQjiLbrq1T9Zu-S_kPgq-U/viewform) näkyvyys- ja kehittämiskyselyyn! Suuri kiitos!! =D
