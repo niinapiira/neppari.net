@@ -4,6 +4,7 @@ published: true
 ---
 
 
+
 ![Kirkas pilvinen taivas]({{site.baseurl}}/uploaded-images/kirkas-pilvinen-taivas.jpeg)
 
 Innovatiivisuus on yleensä sana, jonka on tottunut kuulemaan puhuttaessa teknisten alojen kehittymisestä ja keksinnöistä. Innovatiivisuus on kuitenkin piirre, josta myös muut alat hyötyvät ja jonka avulla sosiaalialaakin saadaan kehitettyä laadukkaasti ja kestävästi.
@@ -30,3 +31,11 @@ Sosiaalialalla innovatiivisuus voi siis näkyä yhtä hyvin johtamisen kulttuuri
 Aina ei tarvitse olla kuitenkaan päättävissä elimissä voidakseen vaikuttaa työkulttuuriin ja toimintatapoihin, sen sijaan voi alkaa käyttämään luovia ratkaisuja niin omassa työssään, työyhteisössään, erikoistumisalallaan, ja koko sosiaalialan työkentässä, omien mahdollisuuksiensa mukaan. Asiakkaan tarpeiden ja yhteiskunnan rakenteiden välinen ristiriita ei saa kuitenkaan jäädä työntekijän kuormaksi, vaan johtajien on kannettava vastuunsa rakenteiden muuttamisesta niin, että ne mahdollistavat luovuuden työskentelyssä ja palvelevat mahdollisimman hyvin ihmisiä (eikä ihminen niitä). Toimimattomista rakenteista johtuvaa painetta ei voida kaataa myöskään yksilöiden niskaan (kuten työttömien kohdalla on tuntunut käyneen). **Jokainen työntekijä ja johtaja on vastuussa omasta tontistaan ja siitä, että ei omalla toiminnallaan tai muutosvastaisuudellaan aiheuta muille osapuolille rajoittavia rakenteita, jotka estävät luovan, innovatiivisen ja kehittävän työotteen.** Luovuus on se piirre minkä avulla ihmiskunta on kehittynyt huimaa vauhtia ja jota hyödyntämällä voimme saavuttaa tasavertaisen ja oikeudenmukaisen maailman kaikille yksilöille.
 
 _Minä haluan olla kiinni tässä päivässä ja tehdä työtä ajan hermolla, sekä kehittää itseäni ammattilaisena kohti tulevaisuutta. Minä haluan olla tulevaisuuden tekijä ja uuden rakentaja, ja tästä syystä haluan olla vahvasti viemässä sosiaalialaa kohti tulevaa. Minä en suostu jäämään kiinni vanhaan ja opittuun vain koska aina on ollut tapana tehdä niin, vaan aion herätä joka aamu uuteen päivää, uusiin mahdollisuuksiin, uusiin tuuliin ja ottaa vastaan kaiken sen mitä elämä tänään tarjoaa. Tätä asennetta tukemaan olen löytänyt jonkun viisaan ajatuksia siitä, että kiitollisuus on saavutettujen etujen kiinni pitämisen sijaan iloa siitä, että tänäänkin maailma tarjoaa minulle jotain hyvää. Eilen minulla saattoi olla jotain, mitä tänään ei enää ole. Se ei tee tästä päivästä huonompaa eikä minusta katkeraa. Se tekee tästä päivästä uutta ja uusi sisältää aina mahdollisuuden –jos vain uskallan siihen tarttua._
+
+___
+
+Auta minua kehittämään Nepparia vastaamalla
+[tähän näkyvyys- ja kehittämiskyselyyn](https://docs.google.com/forms/d/176dqWqr1rtptN2gY9Z10OUQjiLbrq1T9Zu-S_kPgq-U/viewform) ! 
+Suuri kiitos!! =D
+
+___
