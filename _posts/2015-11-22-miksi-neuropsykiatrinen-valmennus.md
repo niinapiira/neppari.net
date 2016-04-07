@@ -4,6 +4,7 @@ published: true
 ---
 
 
+
 ![Ahvenanmaan venesatama]({{site.baseurl}}/uploaded-images/ahvenanmaan-venesatama.jpeg)
 
 Neuropsykiatrisen valmennuksen malli on tuotu Suomeen Englannista ADHD-liiton toimesta jo 2000-luvun alussa. Suomessa mallia on edelleen kehitetty ja valmentajakoulutusta tarjotaan tällä hetkellä useissa eri oppilaitoksissa ympäri maata. Koulutuksen suosio ja tarjonta kertoo omalta osaltaan suuresta tarpeesta, sillä tukea tarvitseva neuropsykiatrinen kohderyhmä kasvaa jatkuvasti tietoisuuden ja diagnosoinnin lisääntyessä. Silti valtava kysyntä ja tämän hetkinen tarjonta eivät tunnu kohtaavan toisiaan Pirkanmaalla. Miksi valmennus olisi hyvä lisä palveluntarjonnassa, ja miksi sen käyttöä tulisi vahvistaa?
@@ -21,3 +22,11 @@ Valmennuksen ajatellaan usein olevan kallista palvelua, mutta valmennuksen kokon
 **Valmennus on edullinen ja tehokas keino sekä ennaltaehkäistä että ratkaista ongelmia ja ongelmavyyhtejä. Valmennukselle on selkeästi kysyntää ja se täydentääkin hyvin muita yhteiskunnan tarjoamia palveluita.** Valmennuksen syvin päämäärä on kuitenkin sama kuin muillakin yhteiskunnan hyvinvointia tukevilla palveluilla: sillä pyritään ehkäisemään kaikenikäisten henkilöiden syrjäytymistä opinnoista, työelämästä, yhteiskunnasta sekä omasta elämästään.
 
 _Jos haluamme, että yhteiskunnassamme kaikki kansalaiset saavat aidosti olla osa yhteisöä, on kaikille sallittava omanlainen paikka ja tapa olla maailmassa. Vain siten voimme hyödyntää jokaisen ainutlaatuisia taitoja ja vahvuuksia sekä mahdollistaa jokaiselle mielekkään elämänpolun löytyminen. Yhteisö voi hyvin kun sen yksilöt voivat hyvin. Ja yhteisö kehittyy parhaiten sen avulla, mitä erilaisempia yksilöitä se pitää sisällään. Siksi tarvitsemme tulevaisuudessa yhä enemmän yksilöllisiä, harkinnanvaraisia ja asiakaslähtöisiä palveluita tukemaan kaikkia kansalaisia elämän haasteiden kohtaamisessa ja niistä selviytymisessä. Tämä vaatii luottamusta sosiaalialan työntekijöiden ammattitaitoon työskennellä asiakkaiden kanssa laadukkaasti, pitkäjänteisesti ja tarpeenmukaisesti. Tämä vaatii tietysti myös ammattitaitoisia sosiaalialan työntekijöitä, jotka rajojen ylläpitämisen sijaan ovat valmiita murtamaan niitä ja muokkaamaan palveluita käyttäjiensä näköisiksi. Se vaatii aikaa ja rauhaa ihmisten kanssa työskentelyyn sekä aitoa uskoa siihen, että jokainen ihminen yhteisössä on osaava, kykenevä, arvokas ja tärkeä._
+
+___
+
+Auta minua kehittämään Nepparia vastaamalla
+[tähän näkyvyys- ja kehittämiskyselyyn](https://docs.google.com/forms/d/176dqWqr1rtptN2gY9Z10OUQjiLbrq1T9Zu-S_kPgq-U/viewform) ! 
+Suuri kiitos!! =D
+
+___
