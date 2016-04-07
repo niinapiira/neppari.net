@@ -46,6 +46,8 @@ _Jos sinun tai jonkun tuntemasi henkilön tulee painittua usein henkisten ja/tai
 
 ___
 
-Auta minua kehittämään Nepparia vastaamalla [tähän näkyvyys- ja kehittämiskyselyyn](https://docs.google.com/forms/d/176dqWqr1rtptN2gY9Z10OUQjiLbrq1T9Zu-S_kPgq-U/viewform) ! Suuri kiitos!! =D
+Auta minua kehittämään Nepparia vastaamalla
+[tähän näkyvyys- ja kehittämiskyselyyn](https://docs.google.com/forms/d/176dqWqr1rtptN2gY9Z10OUQjiLbrq1T9Zu-S_kPgq-U/viewform) ! 
+Suuri kiitos!! =D
 
 ___
