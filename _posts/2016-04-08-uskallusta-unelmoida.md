@@ -19,7 +19,7 @@ Yritykseni 1-vuotis-syntymäpäivä on konkreettinen todiste siitä, että olen 
 
 Opittuani tavaroista luopumisen jatkoin minimalismin harjoittamista karsimalla kulutusta, tekemistä, turhia ihmissuhteita yms. Huomaan ottaneeni joissain asioissa välillä turhan suuria harha-askelia liian kauas tavoitteeni tasosta, mutta olen sallinut itselleni nämä virheet ja palannut nöyränä takaisin itselleni sopivaan tasoon. Rajojani testaamalla olen kuitenkin oppinut rajoistani.
 
-Olen huomannut luopumisen taidon helpottavan elämääni valtavasti. Ilman sitä en olisi koskaan voinut ottaa askelta yrittäjyyteen, jonka vuoksi olen luopunut suuresta osasta vapaa-aikaani, taloudellisesta turvallisuudesta ja kaikesta kulutuksesta, työnantajan ja työkavereiden tuomasta tuesta, sekä rajoista. Nyt ymmärrän myös sen, että yrittäjänä pystyn toteuttamaan vapauden kaipuutani yhtä lailla, kuin olisin voinut tehdä matkalaukkuelämän myötä. 
+Olen huomannut luopumisen taidon helpottavan elämääni valtavasti. Ilman sitä en olisi koskaan voinut ottaa askelta yrittäjyyteen, jonka vuoksi olen joutunut (lue: suostunut) luopumaan suuresta osasta vapaa-aikaani, taloudellisesta turvallisuudesta ja kaikesta kulutuksesta, työnantajan ja työkavereiden tuomasta tuesta, sekä rajoista. Nyt ymmärrän myös sen, että yrittäjänä pystyn toteuttamaan vapauden kaipuutani yhtä lailla, kuin olisin voinut tehdä matkalaukkuelämän myötä. 
 
 En ole koskaan ollut 
 
