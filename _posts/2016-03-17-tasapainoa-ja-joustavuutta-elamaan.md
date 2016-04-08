@@ -18,7 +18,7 @@ Totuus on, että elämää ei voi koskaan täysin hallita, mutta itsemme kautta 
 Tasapainoa tarvitaan niin sisäisessä maailmassamme kuin sisäisen ja ulkoisen maailman välisissä suhteissa. Kaikkea voi olla liikaa tai liian vähän, on kysymys sitten tietynlaisista ajatuksista, käyttäytymisestä, työstä, vapaa-ajasta tai vaikka ruuasta ja vedestä. Oletko muuten tietoinen, että ryppyjen silottamiseen käytettävä Botox-aine on hermomyrkkyä ja ilmeisesti yksi maailman myrkyllisimmistä asioista!? Oikein käytettynä se mitä ilmeisemmin toimii kauneuden ylläpitäjänä, mutta se on kuitenkin pienissäkin määrin tapaavaa myrkkyä.
 Ja mitä veteen tulee, niin myös sitä voi juoda liikaa. Määrä saisi ilmeisesti olla niin suuri, että normaalisti ihmisen olisi hyvin vaikea jaksaa juoda sellaista määrää. Mutta yhtä kaikki: rajansa kaikella.
 
-## Rajat
+### Rajat
 
 Ja tämä pätee elämässä aika lailla kaikkeen. Rajat. Jokaisen yksilön on hyvä löytää omat henkilökohtaiset rajansa, jotta pystyy helpommin tasapainottelemaan elämän muutoksissa ja muuttuvissa tilanteissa. Tasapainon löytäminen tapahtuu omien rajojen hahmottamisen kautta ja tämä vaatii itsetuntemusta, kokemuksia sekä avoimuutta omien rajojen tutkimisessa. Liian tiukaksi luomamme rajat estävät meitä elämästä täyttä elämää ja liian löysät rajat vaikeuttavat valintojen ja päätösten tekoa sekä tekojemme tarkoituksenmukaisuutta. Siksi tarvitsemme rajojemmekin kanssa joustavuutta.
 
