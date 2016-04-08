@@ -20,6 +20,8 @@ Olen aina ollut luonnostani hyvin ratkaisukeskeinen. Välillä liiankin, mutta e
 
 Olen huomannut omalla kohdallani ja työssäni, että ratkaisujen ei yleensä tarvitse olla kovin suuria auttaakseen. Pienetkin ratkaisun hippuset antavat sen verran voimaa ja toivoa, että ne saavat uskomaan parempaan. Usein juuri pelkkä TUNNE eteenpäin menemisestä riittää palauttamaan uskon ja toivon huonolla hetkellä, sillä silloin huomaa selviytyvänsä. Edes askel kerrallaan.
 
+Jos elämässä kuitenkin haluaa saavuttaa jotain itselleen merkityksellistä, on hyvä olla jonkinnäköisiä suuntaviivoja ja kompasseja apuna erilaisten polkujen sekamelskassa. Jos ei halua rajat liiaksi elämän suomia mahdollisuuksia tai muuten suunnitella elämäänsä liikaa valmiiksi, voi yksi hyvä kompassi olla unelmat. =)
+
 ### Polkuni kohti unelmaa
 
 Yritykseni 1-vuotis-syntymäpäivä on konkreettinen todiste siitä, että olen kulkenut elämässä eteenpäin ja saavuttanut jotain itselleni tärkeää. Jos minun pitäisi määritellä yksi hetki elämässäni, josta näen yrittäjyyden ja valmentajan polkuni alkaneen, se voisi olla hetki, jolloin päätin alkaa elämään minimalistisemmin. Kaipasin siihen aikaan elämääni kovasti yksinkertaisuutta. Ystävän esimerkistä inspiroituneena päätin alkaa kulkemaan kohti tätä tavoitettani, sillä näin sen johtavan kohti jotain suurempaa mahdollisuutta, unelmaani. Sen hetkinen unelmani ei kuitenkaan ollut yrittäminen, vaan päinvastoin, maailman matkaaminen. Kaipasin vapautta, jonka ajattelin mahdollistuvan vähäisen tavaramäärän avulla, sillä voisin aina vain pakata laukkuni ja lähteä. En halunnut jämähtää paikoilleni.
