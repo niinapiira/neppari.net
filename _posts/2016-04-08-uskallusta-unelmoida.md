@@ -23,12 +23,23 @@ Olen huomannut luopumisen taidon helpottavan elämääni valtavasti. Ilman sitä
 
 ### Unelmointia arjessa
 
-Omaan aika levottoman sielun, ja siksi en ole koskaan ollut varsinaisesti mitään luostari-tyyppiä, mutta jostain syystä olen usein haaveillut sellaisestakin elämästä. Haaveilussa on kuitenkin juuri se hyvä puoli, että se luo aivoille mielikuvia, joita aivot lukevat kuin oikeaita tapahtumia. Näin ollen olen periaatteessa elänyt mieleni avulla tätä askeettista luostari-elämää, kasvatellen oman ruokani ja meditoiden usean kerran päivässä. ;)
-Tämä unelma voi hyvinkin toteutua joku päivä, jos päätän tarttua tilaisuuksiin jotka minua siihen veisivät, mutta tällä hetkellä nautin arjestani ja työstäni vielä niin paljon, että en ole valmis luopumaan niistä sielunrauhan vuoksi. X)
+Omaan aika levottoman sielun, ja siksi en ole koskaan ollut varsinaisesti mitään luostari-tyyppiä, mutta jostain syystä olen usein haaveillut sellaisestakin elämästä. Haaveilussa on kuitenkin juuri se hyvä puoli, että se luo aivoille mielikuvia, joita aivot lukevat kuin oikeaita tapahtumia. Näin ollen olen periaatteessa elänyt mieleni avulla tätä askeettista luostari-elämää, kasvatellen oman ruokani ja meditoiden usean kerran päivässä.
+Tämä unelma voi hyvinkin toteutua joku päivä, jos päätän tarttua tilaisuuksiin jotka minua siihen veisivät, mutta tällä hetkellä nautin arjestani ja työstäni vielä niin paljon, että en ole valmis luopumaan niistä henkisen kehittymisen vuoksi.
 
 Minä olen huomannut nauttivani sielun rauhasta vetäytymisen sijaan juuri arjessa, läheisten keskuudessa eläessäni, asiakkaitani kohdatessa, ihmisiä auttaessani,  koiran kanssa ulkoillessani, kutoessani ja siivotessani. Kaiken sen keskellä, josta päiväni luonnostaan muodostuvat. Tavallisen elämän ja touhuilun äärellä - en yksinäisyyteen ja hiljaisuuteen vetäytyen. Harrastan siis arjen meditointia ja mindfulnessia, ja huomaan saavuttaneeni sillä tähän mennessä itseäni tyydyttävän henkisen kehityksen tason.
 
 ### Yrittäjyydestä tasapainoa
 
+Levottoman sieluni on ollut aina vaikea sietää arjen tuttua ja turvallista kaavaa, joka toistaa itseään päivästä toiseen. Tämä tekee arjestani raskasta puurtamista, vaikka pääni taas selkeästi toivoisi juuri rutiinien tuomaa selkeyttä, joka helpottaa aivojen tekemää työtä. Sieluni kaipaa kuitenkin niin vahvasti seikkaluja, ettei se salli mielelleni sen toivomaa rauhaa ja harmoniaa. Tämän ristiriidan välisen tasapainon löytäminen on ollut ikuinen murheenkryyni ratkaisukeskeiselle toimintatavalleni, sillä en ole yrityksistä huolimatta saanut tilannetta ratkaistua. Paitsi vuosi sitten! =D
 
+Yrittäjyyden myötä sielulleni on tarjoutunut mahdollisuus heittäytyä uuteen ja tuntemattomaan, seikkailla joka päivä vapauden tuomassa rajattomuudessa, tarttua mielenkiintoisiin haasteisiin ja mahdollisuuksiin sekä pysyä vireänä jatkuvan epävarmuuden myötä. Toisaalta yrittäjyys on myös kovaa työtä, joka vaatii yhdeltä ihmiseltä niin paljon, että työntekoon on pakko luoda rutiinien ja tapojen myötä tehokkuutta ja helpottavia taitoja. Ja mieleni pitää tästä. =)
+Tasapainotellessani luovasti näiden kahden erilaisen elementin välillä, pystyn tarjoamaan itselleni tasapainoon vaadittavat puolet, vastakohdat jotka täydentävät ja tukevat toisiaan.
+
+### Uskallusta unelmoida
+
+En olisi koskaan uskonut saavuttavani sielun rauhaa ja onnellisuutta näin vaativasta ja rajattomasta tavasta toteuttaa työtä, itseään ja elämää. En edes koskaan edes uskaltanut unelmoida tästä, mutta nyt, saavutettuani sen, uskallan kertoa unelmoineeni siitä aina jollain tavalla. Vapaudesta. Oman itsensä johtamisesta. Toisten auttamisesta ja hyvien asioiden mahdollistamisesta. Oman itsensä luovasta toteuttamisesta.
+
+Unelmoinnissa parasta on se, että unelmat voivat aina toteutua. Se on kuin ilmaista lottoa, jossa ei voi hävitä. Unelmointi on eteenpäin katsomista avoimin silmin ja mahdollisuuksia havainnoiden. Unelmoidessa ei jäädä tuijottamaan matkan varrella näkyviä esteitä ja vaikeuksia, vaan keskitytään lopussa häämöttävään kuvaan siitä, mitä elämässä arvostaa, toivoo, ja haluaa toteuttaa. Ja kuten minullakin kävi, unelmani toteutui eri muodossa kuin olin alunperin ajatellut, mutta se toteutui kuitenkin. Siksi on hyvä katsoa aina unelmansa taakse ja huomata se, mitä oikeasti kaipaa elämäänsä. Sen kun voi saavuttaa niin monella eri tapaa, että ei kannata jumittua vain yhteen mielikuvaan. Antaa unelman kantaa. Se kun on kyyti, joka vie varmasti perille, jos ei sano liian tarkkaa osoitetta. ;)
+
+_En ole koskaan oikein uskaltanut unelmoida ääneen, selkeästi, sillä on pelottavaa paljastaa sisimmästään suurimmat piilevät haavekuvat, joiden toteutumiseen ei oikein itsekään täysin usko. Ja suuri osa unelmista on jopa itsessään aika pelottavia toteutuessaan! Yrittäjyys on tarkkaan mietittynä niin arvaamatonta, hallitsematonta ja pelottavaa, että on parasta olla ajattelematta asiaa liikaa. Eräs rakas ihminen on opettanut minulle kauan sitten jo, että elämää ei kannata miettiä ja analysoida liikaa. Heittäytyy vain sen aalloille ja toimii tilanteen mukaan, itseensä luottaen._
 
