@@ -49,7 +49,7 @@ _Meillä kaikilla on valta ja mahdollisuus valita joka hetki, kuinka päätämme
 
 ___
 
-_Ps. Jos sinun tai jonkun tuntemasi henkilön tulee painittua usein henkisten ja/tai fyysisten kipujen kipujen kanssa, suosittelen lukemaan Antti Heikkilän kirjan "Siunattu kipu". Kyseinen kirja pelasti minun elämäni ja vapautti taistelusta kipujani vastaan. Tämän kirjan ansiosta voin tänä päivänä jopa sanoa, että olen kiitollinen kivuistani, sillä ne ovat opettaneet minulle niin paljon itsestäni -ja opettavat varmasti jatkossakin. Olen oppinut toimimaan niiden kanssa joustavasti, jolloin voin löytää tasapainoa elämääni vaikeinakin hetkinä._ =)
+_Ps. Jos sinun tai jonkun tuntemasi henkilön tulee painittua usein henkisten ja/tai fyysisten kipujen kipujen kanssa, suosittelen lukemaan Antti Heikkilän kirjan "Siunattu kipu". Kyseinen kirja pelasti minun elämäni ja vapautti taistelusta kipujani vastaan. Tämän kirjan ansiosta voin tänä päivänä jopa sanoa, että olen jopa kiitollinen kivuistani, sillä ne ovat opettaneet minulle niin paljon itsestäni -ja opettavat varmasti jatkossakin. Olen oppinut toimimaan niiden kanssa joustavasti, jolloin voin löytää tasapainoa elämääni vaikeinakin hetkinä._ =)
 
 ___
 
