@@ -1,5 +1,5 @@
 ---
-"page-title": Uskallusta unelvoida
+"page-title": Uskallusta unelmoida
 published: true
 ---
 
