@@ -13,16 +13,22 @@ Olen aina ollut luonnostani hyvin ratkaisukeskeinen. Välillä liiankin, mutta e
 
 Olen huomannut omalla kohdallani ja työssäni, että ratkaisujen ei yleensä tarvitse olla kovin suuria auttaakseen. Pienetkin ratkaisun hippuset antavat sen verran voimaa ja toivoa, että ne saavat uskomaan parempaan. Usein juuri pelkkä TUNNE eteenpäin menemisestä riittää palauttamaan uskon ja toivon huonolla hetkellä, sillä silloin huomaa selviytyvänsä. Edes askel kerrallaan.
 
-### Polku kohti unelmaa
+### Polkuni kohti unelmaa
 
 Yritykseni 1-vuotis-syntymäpäivä on konkreettinen todiste siitä, että olen kulkenut elämässä eteenpäin ja saavuttanut jotain itselleni tärkeää. Jos minun pitäisi määritellä yksi hetki elämässäni, josta näen yrittäjyyden ja valmentajan polkuni alkaneen, se voisi olla hetki, jolloin päätin alkaa elämään minimalistisemmin. Kaipasin siihen aikaan elämääni kovasti yksinkertaisuutta. Ystävän esimerkistä inspiroituneena päätin alkaa kulkemaan kohti tätä tavoitettani, sillä näin sen johtavan kohti jotain suurempaa mahdollisuutta, unelmaani. Sen hetkinen unelmani ei kuitenkaan ollut yrittäminen, vaan päinvastoin, maailman matkaaminen. Kaipasin vapautta, jonka ajattelin mahdollistuvan vähäisen tavaramäärän avulla, sillä voisin aina vain pakata laukkuni ja lähteä. En halunnut jämähtää paikoilleni.
 
 Opittuani tavaroista luopumisen jatkoin minimalismin harjoittamista karsimalla kulutusta, tekemistä, turhia ihmissuhteita yms. Huomaan ottaneeni joissain asioissa välillä turhan suuria harha-askelia liian kauas tavoitteeni tasosta, mutta olen sallinut itselleni nämä virheet ja palannut nöyränä takaisin itselleni sopivaan tasoon. Rajojani testaamalla olen kuitenkin oppinut rajoistani.
 
-Olen huomannut luopumisen taidon helpottavan elämääni valtavasti. Ilman sitä en olisi koskaan voinut ottaa askelta yrittäjyyteen, jonka vuoksi olen joutunut (lue: suostunut) luopumaan suuresta osasta vapaa-aikaani, taloudellisesta turvallisuudesta, kulutuksesta, työnantajan ja työkavereiden tuomasta tuesta, sekä rajoista. Nyt ymmärrän kuitenkin sen, että yrittäjänä pystyn toteuttamaan vapauden kaipuutani yhtä lailla, kuin mitä olisin voinut tehdä matkalaukkuelämän myötä. Itseasiassa, yrittäjyys tarjoaa minulle paremmin sopivan vapauden elementtejä, sillä sen myötä voin pysyä lähellä rakkaita ihmisiä, luoda hienoja ihmissuhteita, saada aikaan pitkäjänteistä työtä ja tuloksia sekä hahmottaa paikallistasolla asioita selkeämmin. Yrittäjyys on minulle ennen kaikkea vapautta, mutta yrittäjänä minun on myös ymmärrettävä, että tilanteen niin vaatiessa, saatan joutua luopumaan myös tästä joku päivä.
+Olen huomannut luopumisen taidon helpottavan elämääni valtavasti. Ilman sitä en olisi koskaan voinut ottaa askelta yrittäjyyteen, jonka vuoksi olen joutunut (lue: suostunut) luopumaan suuresta osasta vapaa-aikaani, taloudellisesta turvallisuudesta, kulutuksesta, työnantajan ja työkavereiden tuomasta tuesta, sekä rajoista. Nyt ymmärrän kuitenkin sen, että yrittäjänä pystyn toteuttamaan vapauden kaipuutani yhtä lailla, kuin mitä olisin voinut tehdä matkalaukkuelämän myötä. Itseasiassa, yrittäjyys tarjoaa minulle paremmin sopivan vapauden elementtejä, sillä sen myötä voin pysyä lähellä rakkaita ihmisiä, luoda hienoja ihmissuhteita, saada aikaan pitkäjänteistä työtä ja tuloksia sekä hahmottaa paikallistasolla asioita selkeämmin. Yrittäjyys on minulle ennen kaikkea vapautta, mutta yrittäjänä minun on myös ymmärrettävä, että tilanteen niin vaatiessa, saatan joutua luopumaan myös siitä joku päivä.
 
+### Unelmointia arjessa
 
+Omaan aika levottoman sielun, ja siksi en ole koskaan ollut varsinaisesti mitään luostari-tyyppiä, mutta jostain syystä olen usein haaveillut sellaisestakin elämästä. Haaveilussa on kuitenkin juuri se hyvä puoli, että se luo aivoille mielikuvia, joita aivot lukevat kuin oikeaita tapahtumia. Näin ollen olen periaatteessa elänyt mieleni avulla tätä askeettista luostari-elämää, kasvatellen oman ruokani ja meditoiden usean kerran päivässä. ;)
+Tämä unelma voi hyvinkin toteutua joku päivä, jos päätän tarttua tilaisuuksiin jotka minua siihen veisivät, mutta tällä hetkellä nautin arjestani ja työstäni vielä niin paljon, että en ole valmis luopumaan niistä sielunrauhan vuoksi. X)
 
-En ole koskaan ollut 
+Minä olen huomannut nauttivani sielun rauhasta vetäytymisen sijaan juuri arjessa, läheisten keskuudessa eläessäni, asiakkaitani kohdatessa, ihmisiä auttaessani,  koiran kanssa ulkoillessani, kutoessani ja siivotessani. Kaiken sen keskellä, josta päiväni luonnostaan muodostuvat. Tavallisen elämän ja touhuilun äärellä - en yksinäisyyteen ja hiljaisuuteen vetäytyen. Harrastan siis arjen meditointia ja mindfulnessia, ja huomaan saavuttaneeni sillä tähän mennessä itseäni tyydyttävän henkisen kehityksen tason.
+
+### Yrittäjyydestä tasapainoa
+
 
 
