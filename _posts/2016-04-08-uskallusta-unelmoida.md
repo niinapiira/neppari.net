@@ -37,9 +37,9 @@ Tasapainotellessani luovasti näiden kahden erilaisen elementin välillä, pysty
 
 ### Uskallusta unelmoida
 
-En olisi koskaan uskonut saavuttavani sielun rauhaa ja onnellisuutta näin vaativasta ja rajattomasta tavasta toteuttaa työtä, itseään ja elämää. En edes koskaan edes uskaltanut unelmoida tästä, mutta nyt, saavutettuani sen, uskallan kertoa unelmoineeni siitä aina jollain tavalla. Vapaudesta. Oman itsensä johtamisesta. Toisten auttamisesta ja hyvien asioiden mahdollistamisesta. Oman itsensä luovasta toteuttamisesta.
+En olisi koskaan uskonut saavuttavani sielun rauhaa ja onnellisuutta näin vaativasta ja rajattomasta tavasta toteuttaa työtä, itseäni ja elämää. En edes koskaan uskaltanut unelmoida tästä, mutta nyt, saavutettuani sen, uskallan kertoa unelmoineeni siitä aina jollain tavalla. Vapaudesta. Oman itsensä johtamisesta. Toisten auttamisesta ja hyvien asioiden mahdollistamisesta. Itsensä luovasta toteuttamisesta.
 
 Unelmoinnissa parasta on se, että unelmat voivat aina toteutua. Se on kuin ilmaista lottoa, jossa ei voi hävitä. Unelmointi on eteenpäin katsomista avoimin silmin ja mahdollisuuksia havainnoiden. Unelmoidessa ei jäädä tuijottamaan matkan varrella näkyviä esteitä ja vaikeuksia, vaan keskitytään lopussa häämöttävään kuvaan siitä, mitä elämässä arvostaa, toivoo, ja haluaa toteuttaa. Ja kuten minullakin kävi, unelmani toteutui eri muodossa kuin olin alunperin ajatellut, mutta se toteutui kuitenkin. Siksi on hyvä katsoa aina unelmansa taakse ja huomata se, mitä oikeasti kaipaa elämäänsä. Sen kun voi saavuttaa niin monella eri tapaa, että ei kannata jumittua vain yhteen mielikuvaan. Antaa unelman kantaa. Se kun on kyyti, joka vie varmasti perille, jos ei sano liian tarkkaa osoitetta. ;)
 
-_En ole koskaan oikein uskaltanut unelmoida ääneen, selkeästi, sillä on pelottavaa paljastaa sisimmästään suurimmat piilevät haavekuvat, joiden toteutumiseen ei oikein itsekään täysin usko. Ja suuri osa unelmista on jopa itsessään aika pelottavia toteutuessaan! Yrittäjyys on tarkkaan mietittynä niin arvaamatonta, hallitsematonta ja pelottavaa, että on parasta olla ajattelematta asiaa liikaa. Eräs rakas ihminen on opettanut minulle kauan sitten jo, että elämää ei kannata miettiä ja analysoida liikaa. Heittäytyy vain sen aalloille ja toimii tilanteen mukaan, itseensä luottaen._
+
 
