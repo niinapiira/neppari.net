@@ -31,7 +31,7 @@ Opittuani tavaroista luopumisen jatkoin minimalismin harjoittamista karsimalla k
 
 Olen huomannut luopumisen taidon helpottavan elämääni valtavasti. Ilman sitä en olisi koskaan voinut ottaa askelta yrittäjyyteen, jonka vuoksi olen joutunut (lue: suostunut) luopumaan suuresta osasta vapaa-aikaani, taloudellisesta turvallisuudesta, kulutuksesta, työnantajan ja työkavereiden tuomasta tuesta, sekä rajoista.
 
-Nyt ymmärrän kuitenkin sen, että yrittäjänä pystyn toteuttamaan vapauden kaipuutani yhtä lailla, kuin mitä olisin voinut tehdä matkalaukkuelämän myötä. Itseasiassa, yrittäjyys tarjoaa minulle paremmin sopivia vapauden elementtejä, sillä sen myötä voin pysyä lähellä rakkaita ihmisiä, luoda hienoja ihmissuhteita, saada aikaan pitkäjänteistä työtä ja tuloksia sekä hahmottaa paikallistasolla asioita selkeämmin. Yrittäjyys on minulle ennen kaikkea vapautta, mutta yrittäjänä minun on myös ymmärrettävä, että tilanteen niin vaatiessa, saatan joutua luopumaan myös siitä joku päivä.
+Nyt ymmärrän kuitenkin sen, että yrittäjänä pystyn toteuttamaan vapauden kaipuutani yhtä lailla, kuin mitä olisin voinut tehdä matkalaukkuelämän myötä. Itseasiassa, yrittäjyys tarjoaa minulle paremmin sopivia vapauden elementtejä, sillä sen myötä voin pysyä lähellä rakkaita ihmisiä, luoda hienoja ihmissuhteita, saada aikaan pitkäjänteistä työtä ja tuloksia sekä hahmottaa paikallistasolla asioita selkeämmin. Yrittäjyys on minulle ennen kaikkea vapautta, mutta yrittäjänä minun on myös ymmärrettävä, että tilanteen niin vaatiessa saatan joutua luopumaan myös yrityksestäni joku päivä.
 
 ### Unelmointia arjessa
 
