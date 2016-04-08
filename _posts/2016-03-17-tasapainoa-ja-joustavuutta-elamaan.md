@@ -11,7 +11,7 @@ published: true
 
 ![Vene rannalla]({{site.baseurl}}/uploaded-images/vene-rannalla.jpeg)
 
-**Valmennustyössä parasta on mielestäni intensiivinen asiakastyö, koska valmentaja opin asiakkailtani vähintään yhtä paljon kuin mitä he itse oppivat valmennusprosessistaan. Viimeisin oppini, jonka olen valmentajana saanut, liittyy elämän tasapainoon ja ihmisen joustavuuteen. Näiden teemojen äärellä olen saanut viipyä viime aikoina erityisen paljon ja tällä kertaa pysähdyin kokoamaan ajatukseni tasapainon ja joustavuuden tärkeydestä, suhteesta toisiinsa sekä merkityksestä ihmisen elämän hallinnalle.**
+**Valmennustyössä parasta on mielestäni intensiivinen asiakastyö, koska valmentajana opin asiakkailtani vähintään yhtä paljon kuin mitä he itse oppivat valmennusprosessistaan. Viimeisin oppini, jonka olen valmentajana saanut, liittyy elämän tasapainoon ja ihmisen joustavuuteen. Näiden teemojen äärellä olen saanut viipyä viime aikoina erityisen paljon ja tällä kertaa pysähdyin kokoamaan ajatukseni tasapainon ja joustavuuden tärkeydestä, suhteesta toisiinsa sekä merkityksestä ihmisen elämän hallinnalle.**
 
 Totuus on, että elämää ei voi koskaan täysin hallita, mutta itsemme kautta meillä on voima hallita oman elämämme valintoja ja suuntaviivoja. Elämän kokonaisuuden moninaisuus ja monimutkaisuus helpottuu huomattavasti, kun pyrkii tietoisesti arjen valinnoissaan aina tasapainoon ja joustavuuteen. Nämä kaksi kulkevat vahvasti käsikädessä, sillä joustavuudella luodaan tasapainoa ja tasapaino mahdollistaa joustavuuden.
 
