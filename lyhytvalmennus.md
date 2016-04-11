@@ -18,11 +18,17 @@ polaroid: ""
 
 
 Nepparissa on tarjolla myös lyhytvalmennusta, jonka tarkoituksena on
+
 - tarjota selkeyttä elämään
+
 - jäsentää vaikeaa elämäntilannetta
+
 - määritellä ydinongelmat
+
 - tarjota keinoja ongelmien ratkaisemiseen
+
 - kartoittaa mahdolliset tukitoimet, joista asiakas voisi hyötyä sekä
+
 - käydä läpi etuudet ja palvelut joita asiakas voi hakea
 
 
