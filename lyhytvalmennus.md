@@ -17,7 +17,14 @@ polaroid: ""
 
 
 
-Nepparissa on tarjolla myös lyhytvalmennusta, jonka tarkoituksena on tarjota selkeyttä ja jäsennystä asiakkaan elämää sekä kartoittaa mahdolliset tukitoimet, joihin asiakas voi hakeutua. Lyhytvalmennus sopii niin kirjon henkilöille itselleen kuin heidän läheisilleen.
+Nepparissa on tarjolla myös lyhytvalmennusta, jonka tarkoituksena on
+- tarjota selkeyttä elämään
+- jäsentää vaikeaa elämäntilannetta
+- määritellä ydinongelmat
+- tarjota keinoja ongelmien ratkaisemiseen sekä
+- kartoittaa mahdolliset tukitoimet, joihin asiakas voi hakeutua.
+
+Lyhytvalmennus sopii niin kirjon henkilöille itselleen kuin heidän läheisilleen.
 
 Lyhytvalmennus kestää tilanteesta riippuen noin 1-5krt ja sen pituudesta voidaan sopia tarpeen mukaan yksi tapaaminen kerrallaan.
 
