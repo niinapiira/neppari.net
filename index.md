@@ -17,9 +17,10 @@ polaroid: ""
 
 
 
+
 Tukea elämään valmennuksella!
 
-Neppari tarjoaa valmennusta, koulutusta, konsultaatiota ja yhteistyötä neuropsykiatrisia haasteita kohdanneille nuorille, aikuisille ja perheille sekä heidän kanssaan työskenteleville ammattilaisille.
+Neppari tarjoaa neuropsykiatrista valmennusta, koulutusta, konsultaatiota ja yhteistyötä neuropsykiatrisia haasteita kohdanneille nuorille, aikuisille ja perheille sekä heidän kanssaan työskenteleville ammattilaisille.
 
 Nepparin tuella voidaan helpottaa vaikeita elämäntilanteita sekä tarjota kokonaisvaltaista tukea neurokirjon henkilöiden arjen ja asioiden sujumiseen.
 
