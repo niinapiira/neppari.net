@@ -17,7 +17,7 @@ polaroid: ""
 
 
 
-Nepparissa on tarjolla myös lyhytvalmennusta, jonka tarkoituksena on
+Lyhytvalmennuksen tarkoituksena on
 
 - tarjota selkeyttä elämään
 
