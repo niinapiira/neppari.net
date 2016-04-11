@@ -27,7 +27,7 @@ Neuropsykiatrinen valmennus on selkeästi neurokirjon henkilöille kohdennettu t
 
 Tämä monipuolinen ohjaus- ja tukimuoto pitää sisältää mm. tukikeskusteluita, harjoituksia, kotitehtäviä, toiminnallisia ja luovia menetelmiä, tavoitteiden luomista ja seurantaa, sekä muita yksilöllisesti valittuja menetelmiä.
 
-Valmennus on tavoitteellinen oppimisprosessi, jossa työskennellään valmennettavan tarpeista käsin. Valmennus voidaan toteuttaa Nepparin toimitiloissa, julkisissa paikoissa kuten kahviloissa, sekä valmennettavan kotona, koulussa, työpaikalla tai harrastuspaikoissa. Valmentaja voi jalkautua myös asiointiavuksi esimerkiksi virastoihin tai kauppoihin sekä tueksi vaikka lääkärin vastaanotolle. 
+Valmennus on tavoitteellinen oppimisprosessi, jossa työskennellään valmennettavan omista tarpeista käsin. Valmennus voidaan toteuttaa Nepparin toimitiloissa, julkisissa paikoissa kuten kahviloissa, sekä valmennettavan kotona, koulussa, työpaikalla tai harrastuspaikoissa. Valmentaja voi jalkautua myös asiointiavuksi esimerkiksi virastoihin tai kauppoihin sekä tueksi vaikka lääkärin vastaanotolle. 
 
 Neuropsykiatrisella valmennuksella tuetaan vahvuuksia ja harjoitellaan uusia toimintatapoja. Tällaisia taitoja voi olla mm. arjen- ja elämänhallinnan taidot, ongelmanratkaisutaidot, vuorovaikutustaidot tai vaikka tunnetaidot.
 
