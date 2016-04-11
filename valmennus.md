@@ -30,7 +30,7 @@ Valmennus on tavoitteellinen oppimisprosessi, jossa työskennellään valmennett
 
 Neuropsykiatrisella valmennuksella tuetaan vahvuuksia ja harjoitellaan uusia toimintatapoja. Tällaisia taitoja voi olla mm. arjen- ja elämänhallinnan taidot, ongelmanratkaisutaidot, vuorovaikutustaidot tai vaikka tunnetaidot.
 
-Valmennus on hyvin kokonaisvaltainen tukimuoto, joka kattaa koko elämän kirjon. Valmennuksessa huomioidaan aina henkilön muutkin tukiverkostot, kuten perhe, sosiaalityö, asumisen ja työllistymisen tuki, lääkäri, yms. Valmennus täydentää hyvin muita yhteiskunnan tarjoamia palveluita ja sillä pyritään ehkäisemään kaikenikäisten henkilöiden syrjäytymistä opinnoista, työelämästä, yhteiskunnasta sekä omasta elämästään.
+Valmennus on hyvin kokonaisvaltainen tukimuoto, joka kattaa koko elämän kirjon. Valmennuksessa huomioidaan aina henkilön muutkin tukiverkostot, kuten perhe, sosiaalityö, asumisen ja työllistymisen tuki, lääkäri, yms. Valmennus täydentää hyvin muita tukipalveluita kuten asumisen tukea tai ammatillista kuntoutusta.
 
 Neuropsykiatrinen valmennus on ennen kaikkea voimaantumisprosessi, jota ei ole mahdollista tuottaa toiselle, mutta jota voidaan edesauttaa luomalla sille mahdollisuudet. Voimaantuminen saavutetaan hallinnan ja kontrollin tunteen kautta, joka syntyy mahdollisuudesta vaikuttaa omaan elämään sekä osallistua omia asioita koskevaan päätöksentekoon ja niiden toimeenpanoon.
 
