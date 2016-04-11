@@ -18,7 +18,7 @@ polaroid: ""
 
 *Kaipaatko osaavaa ja ymmärtävää tukea?*
 
-Silloin Neppari on oikea paikka sinulle! Voit hakeutua valmennukseeni esimerkiksi keskustelemalla asiasta lääkärin/sosiaalityöntekijän kanssa tai ottamalla suoraan minuun yhteyttä.
+Silloin Neppari on oikea paikka sinulle! Voit hakeutua nepsy-valmennukseeni esimerkiksi keskustelemalla asiasta lääkärin/sosiaalityöntekijän kanssa tai ottamalla suoraan minuun yhteyttä.
 
 ## Mitä Nepparista saa?
 
