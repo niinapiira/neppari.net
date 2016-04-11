@@ -17,7 +17,7 @@ polaroid: ""
 
 
 
-Lyhytvalmennuksen tarkoituksena on
+Lyhytvalmennuksen tarkoituksena on:
 
 - tarjota selkeyttä elämään
 
