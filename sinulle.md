@@ -12,10 +12,9 @@ polaroid: ""
 
 
 
+*Tarvitsetko apua selvitäksesi ADHD:n, ADD:n, lievän autismin/Aspergerin, Touretten tai opipimisvaikeuksien kanssa? Tai painiskeleeko läheisesi neuropsykiatristen haasteiden kanssa?*
 
-*Painiskeletko sinä tai läheisesi neuropsykiatristen haasteiden kanssa?*
-
-*Koetko että tarvitset helpotusta jokapäiväiseen elämääsi?*
+*Koetko että tarvitset helpotusta jokapäiväiseen elämään?*
 
 *Kaipaatko osaavaa ja ymmärtävää tukea?*
 
