@@ -21,8 +21,11 @@ Nepparissa on tarjolla myös lyhytvalmennusta, jonka tarkoituksena on
 - tarjota selkeyttä elämään
 - jäsentää vaikeaa elämäntilannetta
 - määritellä ydinongelmat
-- tarjota keinoja ongelmien ratkaisemiseen sekä
-- kartoittaa mahdolliset tukitoimet, joihin asiakas voi hakeutua.
+- tarjota keinoja ongelmien ratkaisemiseen
+- kartoittaa mahdolliset tukitoimet, joista asiakas voisi hyötyä sekä
+- käydä läpi etuudet ja palvelut joita asiakas voi hakea
+
+
 
 Lyhytvalmennus sopii niin kirjon henkilöille itselleen kuin heidän läheisilleen.
 
