@@ -28,7 +28,7 @@ Neuropsykiatrisesta valmennuksesta puhuttaessa käytetään myös sanoja nepsy-v
 
 Valmennus on tavoitteellinen oppimisprosessi, jossa työskennellään valmennettavan tarpeista käsin. Valmennus voidaan toteuttaa Nepparin toimitiloissa, julkisissa paikoissa kuten kahviloissa, sekä valmennettavan kotona, koulussa, työpaikalla tai harrastuspaikoissa. Valmentaja voi jalkautua myös asiointiavuksi esimerkiksi virastoihin tai kauppoihin sekä tueksi vaikka lääkärin vastaanotolle. 
 
-Neuropsykiatrisella valmennuksella tuetaan vahvuuksia ja harjoitellaan uusia toimintatapoja. Valmennuksella harjaannutetaan taitoja mm. arjen ja elämän hallintaan, ongelmanratkaisuun, vuorovaikutussuhteisiin sekä omassa toimintaympäristössä selviytymiseen.
+Neuropsykiatrisella valmennuksella tuetaan vahvuuksia ja harjoitellaan uusia toimintatapoja. Tällaisia taitoja voi olla mm. arjen- ja elämänhallinnan taidot, ongelmanratkaisutaidot, vuorovaikutustaidot tai vaikka tunnetaidot.
 
 Valmennus on hyvin kokonaisvaltainen tukimuoto, joka kattaa koko elämän kirjon. Valmennuksessa huomioidaan aina henkilön muutkin tukiverkostot, kuten perhe, sosiaalityö, asumisen ja työllistymisen tuki, lääkäri, yms. Valmennus täydentää hyvin muita yhteiskunnan tarjoamia palveluita ja sillä pyritään ehkäisemään kaikenikäisten henkilöiden syrjäytymistä opinnoista, työelämästä, yhteiskunnasta sekä omasta elämästään.
 
