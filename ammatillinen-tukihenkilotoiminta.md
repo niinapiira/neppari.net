@@ -18,7 +18,10 @@ polaroid: ""
 
 
 
-Ammatillinen tukihenkilötoiminta on valmennuksen sijaan tai valmennusjakson jälkeen toteutettavaa tukea, jossa työskentely ei ole niin intensiivistä ja vaativaa kuin itse valmennus. Tukihenkilötoiminnalle ei tarvitse luoda selkeitä tavoitteita eikä yhdessä toimimista tarvitse jatkuvasti arvioida. Ammatillisessa tukihenkilötoiminnassa valmentaja toimii enemmän valmennettavan taustatukena, ollen läsnä ja varalla, toimien mallintamisesimerkkinä ja tarjoten henkistä tukea sekä rakentavaa ihmissuhdetta. Ammatillisen tukihenkilötoiminnan kautta valmentaja voi myös tarjota valmennettavalle uusia kokemuksia ja onnistumisen iloa esimerkiksi erilaisten vapaa-ajan toimintojen kautta.
+
+Ammatillinen tukihenkilötoiminta on tukea, jossa työskentely ei ole niin intensiivistä ja vaativaa kuin valmennus.
+
+Tukihenkilötoiminnalle ei tarvitse luoda selkeitä tavoitteita eikä yhdessä toimimista tarvitse jatkuvasti arvioida. Ammatillisessa tukihenkilötoiminnassa valmentaja toimii enemmän valmennettavan taustatukena, ollen läsnä ja varalla, toimien mallintamisesimerkkinä ja tarjoten henkistä tukea sekä rakentavaa ihmissuhdetta. Ammatillisen tukihenkilötoiminnan kautta valmentaja voi myös tarjota valmennettavalle uusia kokemuksia ja onnistumisen iloa esimerkiksi erilaisten vapaa-ajan toimintojen kautta.
 
 Ammatillisessa tukihenkilötoiminnassa toimitaan entistä enemmän luonnollisissa elinympäristöissä, kuten valmennettavan kotona, harrastuksissa, työssä tai vapaa-ajanviettopaikoissa. Tämä tukitoiminta voi näkyä arjessa esim. yhdessä kokkailuna, yhdessä harrastamisena, tukikeskusteluina ja vaikka asioidenhoitotukena. Ammatillisessa tukihenkilötoiminnassa valmentaja tarjoaa turvallisen aikuisen läsnäoloa tilanteissa, joissa valmennettava kaipaa tukihenkilöä.
 
