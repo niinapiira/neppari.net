@@ -26,7 +26,7 @@ Neuropsykiatrinen valmennus on selkeästi neurokirjon henkilöille kohdennettu t
 
 Neuropsykiatrisesta valmennuksesta puhuttaessa käytetään myös sanoja nepsy-valmennus, couchaus ja koutsaus. Se sopii kaikille joilla on erityispiirteinään ADHD, ADD, lievä autismi/Asperger, Tourette tai oppimisvaikeuksia.
 
-Valmennus on tavoitteellinen prosessi, jossa työskennellään valmennettavan tarpeista käsin. Valmennus voidaan toteuttaa Nepparin toimitiloissa, julkisissa paikoissa kuten kahviloissa, sekä valmennettavan kotona, koulussa, työpaikalla tai harrastuspaikoissa. Valmentaja voi jalkautua myös asiointiavuksi esimerkiksi virastoihin tai kauppoihin sekä tueksi vaikka lääkärin vastaanotolle. 
+Valmennus on tavoitteellinen oppimisprosessi, jossa työskennellään valmennettavan tarpeista käsin. Valmennus voidaan toteuttaa Nepparin toimitiloissa, julkisissa paikoissa kuten kahviloissa, sekä valmennettavan kotona, koulussa, työpaikalla tai harrastuspaikoissa. Valmentaja voi jalkautua myös asiointiavuksi esimerkiksi virastoihin tai kauppoihin sekä tueksi vaikka lääkärin vastaanotolle. 
 
 Neuropsykiatrisella valmennuksella tuetaan sekä olemassa olevia vahvuuksia että uusien toimintatapojen harjoitteluprosessia. Valmennuksella harjaannutetaan taitoja mm. arjen ja elämän hallintaan, ongelmanratkaisuun, vuorovaikutussuhteisiin sekä omassa toimintaympäristössä selviytymiseen.
 
