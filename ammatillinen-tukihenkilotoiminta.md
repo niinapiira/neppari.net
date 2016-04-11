@@ -21,9 +21,11 @@ polaroid: ""
 
 Ammatillinen tukihenkilötoiminta on tukea, jossa työskentely ei ole niin intensiivistä ja vaativaa kuin valmennus.
 
+Ammatillisessa tukihenkilötoiminnassa valmentaja tarjoaa turvallisen aikuisen läsnäoloa tilanteissa, joissa valmennettava kaipaa tukihenkilöä.
+
 Tukihenkilötoiminnalle ei tarvitse luoda selkeitä tavoitteita eikä yhdessä toimimista tarvitse jatkuvasti arvioida. Ammatillisessa tukihenkilötoiminnassa valmentaja toimii enemmän valmennettavan taustatukena, ollen läsnä ja varalla, toimien mallintamisesimerkkinä ja tarjoten henkistä tukea sekä rakentavaa ihmissuhdetta. Ammatillisen tukihenkilötoiminnan kautta valmentaja voi myös tarjota valmennettavalle uusia kokemuksia ja onnistumisen iloa esimerkiksi erilaisten vapaa-ajan toimintojen kautta.
 
-Ammatillisessa tukihenkilötoiminnassa toimitaan entistä enemmän luonnollisissa elinympäristöissä, kuten valmennettavan kotona, harrastuksissa, työssä tai vapaa-ajanviettopaikoissa. Tämä tukitoiminta voi näkyä arjessa esim. yhdessä kokkailuna, yhdessä harrastamisena, tukikeskusteluina ja vaikka asioidenhoitotukena. Ammatillisessa tukihenkilötoiminnassa valmentaja tarjoaa turvallisen aikuisen läsnäoloa tilanteissa, joissa valmennettava kaipaa tukihenkilöä.
+Ammatillisessa tukihenkilötoiminnassa voidaan toimia valmennettavan kotona, harrastuksissa, työssä tai vapaa-ajanviettopaikoissa. Tukihenkilön kanssa voi esim. kokkailla, harrastaa, käydä tukikeskusteluita tai vaikka hoitaa yhdessä asioita. 
 
 Valmennusjakson jälkeen toteutetussa ammatillisessa tukihenkilötoiminnassa valmentajan ja valmennettavan hyvää työskentelysuhdetta hyödynnetään myös vähemmän intensiivisessä tuen tarpeessa.  Tämä rennompi tukimuoto on hyvä keino saatella asiakas intensiivisen valmennuksen jälkeen kohti itsenäisyyttä, samalla varmistaen ettei valmennettava tipu pois tukitoimien piiristä. Ammatillisella tukihenkilötoiminnalla valmennettava saa tukea myös valmennuksessa opittujen toimintatapojen harjoitteluun, jolloin yhdessä toimimisella voidaan juurruttaa ja syventää valmennuksessa syntyneitä tuloksia samalla kun harjoitellaan uusia taitoja yhdessä tekemisen kautta.
 
