@@ -32,7 +32,7 @@ Neuropsykiatrisella valmennuksella tuetaan vahvuuksia ja harjoitellaan uusia toi
 
 Valmennus on hyvin kokonaisvaltainen tukimuoto, joka kattaa koko elämän kirjon. Valmennuksessa huomioidaan aina henkilön muutkin tukiverkostot, kuten perhe, sosiaalityö, asumisen ja työllistymisen tuki, lääkäri, yms. Valmennus täydentää hyvin muita tukipalveluita kuten asumisen tukea tai ammatillista kuntoutusta.
 
-Neuropsykiatrinen valmennus on ennen kaikkea voimaantumisprosessi, jota ei ole mahdollista tuottaa toiselle, mutta jota voidaan edesauttaa luomalla sille mahdollisuudet. Voimaantuminen saavutetaan hallinnan ja kontrollin tunteen kautta, joka syntyy mahdollisuudesta vaikuttaa omaan elämään sekä osallistua omia asioita koskevaan päätöksentekoon ja niiden toimeenpanoon.
+Neuropsykiatrinen valmennus on ennen kaikkea voimaantumisprosessi, joka saavutetaan hallinnan ja kontrollin tunteen kautta. Valmentaja auttaa asiakasta ottamaan elämän omiin käsiinsä sekä osallistumaan omia asioita koskevaan päätöksentekoon.
 
 *Valmennuksen hinnasta sovitaan yksilöllisesti tapauskohtaisesti, sillä hintaan vaikuttaa sopimuksen pituus, mahdollinen arvonlisävero, asiakkaan tilanne, mahdolliset matkakulut sekä  raportointi- ja lausuntotarve. Pienenä toimijana Nepparin neuropsykiatrisen valmennuksen hinta on voitu pitää mahdollisimman alhaisena, tällä hetkellä perushinta on 55e/h (+mahdollinen alv 24%). Kokonaishinnasta ja tapaamisten pituudesta sovitaan asiakaskohtaisesti kirjallisella sopimuksella.*
 
