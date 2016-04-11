@@ -23,7 +23,9 @@ Neuropsykiatrisesta valmennuksesta puhuttaessa käytetään myös sanoja nepsy-v
 
 Neuropsykiatrinen valmennus on hyvin yksilöllisesti räätälöityä työskentelyä, sillä jokainen nepsy-piirteinen henkilö kohtaa elämässään omanlaisia haasteitaan.
 
-Neuropsykiatrinen valmennus on selkeästi neurokirjon henkilöille kohdennettu tukimuoto, joka on edullinen ja tehokas keino toteuttaa sosiaalista kuntoutusta. Tämä monipuolinen ohjaus- ja tukimuoto pitää sisältää mm. tukikeskusteluita, harjoituksia, kotitehtäviä, toiminnallisia ja luovia menetelmiä, tavoitteiden luomista ja seurantaa, sekä muita yksilöllisesti valittuja menetelmiä.
+Neuropsykiatrinen valmennus on selkeästi neurokirjon henkilöille kohdennettu tukimuoto, joka on edullinen ja tehokas keino toteuttaa sosiaalista kuntoutusta.
+
+Tämä monipuolinen ohjaus- ja tukimuoto pitää sisältää mm. tukikeskusteluita, harjoituksia, kotitehtäviä, toiminnallisia ja luovia menetelmiä, tavoitteiden luomista ja seurantaa, sekä muita yksilöllisesti valittuja menetelmiä.
 
 Valmennus on tavoitteellinen oppimisprosessi, jossa työskennellään valmennettavan tarpeista käsin. Valmennus voidaan toteuttaa Nepparin toimitiloissa, julkisissa paikoissa kuten kahviloissa, sekä valmennettavan kotona, koulussa, työpaikalla tai harrastuspaikoissa. Valmentaja voi jalkautua myös asiointiavuksi esimerkiksi virastoihin tai kauppoihin sekä tueksi vaikka lääkärin vastaanotolle. 
 
