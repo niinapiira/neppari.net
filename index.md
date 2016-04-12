@@ -18,19 +18,12 @@ polaroid: ""
 
 
 
+
 Tukea elämään valmennuksella!
 
 Neppari tarjoaa neuropsykiatrista valmennusta, koulutusta, konsultaatiota ja yhteistyötä neuropsykiatrisia haasteita kohdanneille nuorille, aikuisille ja perheille sekä heidän kanssaan työskenteleville ammattilaisille.
 
 Nepparin tuella voidaan helpottaa vaikeita elämäntilanteita sekä tarjota kokonaisvaltaista tukea neurokirjon henkilöiden arjen ja asioiden sujumiseen.
-
-___
-
-## Näkyvyyskysely 1-vuotiaasta Nepparista! =D
-
-1-vuotta täyttävä Valmennuskeskus Neppari on rakas yritys, jonka avulla pyrin valmentajana lisäämään tietoutta neuropsykitrisista diagnooseista.
-
-Vastaamalla [tähän näkyvyys- ja kehittämiskyselyyn](https://docs.google.com/forms/d/176dqWqr1rtptN2gY9Z10OUQjiLbrq1T9Zu-S_kPgq-U/viewform) , autat minua kehittämään Nepparia entistä hyödyllisemmäksi ja antoisammaksi. =)
 
 ___
 
@@ -56,5 +49,13 @@ Puh.040 934 9954
 Sähköposti: niina@neppari.net
 
 Facebooksivu: [facebook.com/valmennuskeskus.neppari](https://www.facebook.com/valmennuskeskus.neppari/)
+
+___
+
+## Näkyvyyskysely 1-vuotiaasta Nepparista! =D
+
+1-vuotta täyttävä Valmennuskeskus Neppari on rakas yritys, jonka avulla pyrin valmentajana lisäämään tietoutta neuropsykitrisista diagnooseista.
+
+Vastaamalla [tähän näkyvyys- ja kehittämiskyselyyn](https://docs.google.com/forms/d/176dqWqr1rtptN2gY9Z10OUQjiLbrq1T9Zu-S_kPgq-U/viewform) , autat minua kehittämään Nepparia entistä hyödyllisemmäksi ja antoisammaksi. =)
 
 ___
