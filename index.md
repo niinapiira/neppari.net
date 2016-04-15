@@ -27,28 +27,13 @@ Nepparin tuella voidaan helpottaa vaikeita elämäntilanteita sekä tarjota koko
 
 ___
 
-## Uusi nuorten pienryhmätoiminta alkaa huhtikuussa!
+## Uusi autismin kirjon nuorten pienryhmä täynnä!
 
-Neppari aloittaa yhteistyössä TSAU!ry:n kanssa kokeilumuotoisen pienryhmätoiminnan autismin kirjon nuorille, joilla on tarve pienryhmätoiminnalle ja yksilölliselle tuelle.
+Neppari on aloittanut pienryhmätoiminnan yhteistyössä TSAU!ry:n kanssa, jossa kokeillaan pienimuotoisen ryhmätoiminnan hyötyjä autismin kirjon nuorille.
 
-Ryhmä aloittaa huhtikuussa ja tarkoituksena olisi kokoontua kerran
-viikossa n.10krt ennen kesätaukoa ja loppukesästä/alkusyksystä vielä n. 3-5krt.
+Ryhmä on aloittanut huhtikuussa.
 
-Lisäksi ryhmäläiset saavat n.1-3 yksilö/perhetapaamista ennen ryhmän alkua, sen aikana tai loputtua.
-
-Ryhmä kootaan ja toteutetaan tarpeen mukaan, jolloin ryhmässä toteutetut toiminnot ja tapaamisajankohdat sekä -paikat sovitaan ryhmäläisten tarpeiden ja mahdollisuuksien mukaan.
-Tästä syystä tapaamispaikat ja ajat voivat vaihdella!
-Ryhmässä tullaan todennäköisesti keskittymään paljon toiminnallisiin aktiviteetteihin, joiden lomassa voidaan keskustella ja tutustua.
-
-Kiinnostuneet voivat olla suoraan yhteyksissä ohjaajaan:
-
-Niina Piira
-
-Puh.040 934 9954
-
-Sähköposti: niina@neppari.net
-
-Facebooksivu: [facebook.com/valmennuskeskus.neppari](https://www.facebook.com/valmennuskeskus.neppari/)
+Jatkossa samanlaisesta pienryhmätoiminnasta kiinnostuneet voivat olla yhteyksissä joko [TSAU!ry:hyn](http://www.tsau.net/) tai Nepparin valmentajaan. Pyrimme hakemaan jatkossakin rahoitusta nuorten suoraan tukemiseen ja erityisesti ryhmämuotoiseen toimintaan, jos lisätarvetta ilmenee. =)
 
 ___
 
