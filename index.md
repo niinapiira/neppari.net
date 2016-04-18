@@ -27,12 +27,12 @@ Nepparin tuella voidaan helpottaa vaikeita elämäntilanteita sekä tarjota koko
 
 ___
 
-## Uusi autismin kirjon nuorten pienryhmä täynnä!
+## Uusi maksuton autismin kirjon nuorten pienryhmä täynnä!
 
 Neppari on aloittanut pienryhmätoiminnan yhteistyössä TSAU!ry:n kanssa.
 Toiminnalla kokeillaan pienimuotoisen ryhmätoiminnan hyötyjä autismin kirjon nuorille.
 
-Ryhmä on aloittanut huhtikuussa.
+Ryhmä on aloittanut huhtikuussa ja on osallistujille maksuton.
 
 Jatkossa samanlaisesta pienryhmätoiminnasta kiinnostuneet voivat olla yhteyksissä joko [TSAU!ry:hyn](http://www.tsau.net/) tai Nepparin valmentajaan. Pyrimme hakemaan jatkossakin rahoitusta nuorten suoraan tukemiseen ja erityisesti ryhmämuotoiseen toimintaan, jos lisätarvetta ilmenee. =)
 
