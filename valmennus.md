@@ -19,17 +19,17 @@ polaroid: ""
 
 
 
-Neuropsykiatrisesta valmennuksesta puhuttaessa käytetään myös sanoja nepsy-valmennus, couchaus ja koutsaus. Se sopii kaikille joilla on erityispiirteinään ADHD, ADD, lievä autismi/Asperger, Tourette tai oppimisvaikeuksia.
+Neuropsykiatrinen valmennus, eli tuttavallisemmin nepsy-valmennus, sopii kaikille joilla on erityispiirteinään ADHD, ADD, lievä autismi/Asperger, Tourette tai oppimisvaikeuksia. Valmennuksesta puhuttaessa käytetään myös sanoja adhd-coachaus tai koutsaus sekä autismikuntoutus.
 
-Neuropsykiatrinen valmennus on hyvin yksilöllisesti räätälöityä työskentelyä, sillä jokainen nepsy-piirteinen henkilö kohtaa elämässään omanlaisia haasteitaan.
+Nepsy-valmennus on hyvin yksilöllisesti räätälöityä työskentelyä, jolla autetaan nepsy-piirteistä henkilöä elämään hyvää elämää hänen omanlaistensa haasteiden kanssa.
 
-Neuropsykiatrinen valmennus on selkeästi neurokirjon henkilöille kohdennettu tukimuoto, joka on edullinen ja tehokas keino toteuttaa sosiaalista kuntoutusta.
+Neuropsykiatrinen valmennus on neurokirjon henkilöille kohdennettu oma tukimuoto, joka on edullinen ja tehokas keino toteuttaa sosiaalista kuntoutusta.
 
-Tämä monipuolinen ohjaus- ja tukimuoto pitää sisältää mm. tukikeskusteluita, harjoituksia, kotitehtäviä, toiminnallisia ja luovia menetelmiä, tavoitteiden luomista ja seurantaa, sekä muita yksilöllisesti valittuja menetelmiä.
+Nepsy-valmennus on monipuolinen ohjaus- ja tukimuoto, joka pitää sisältää mm. tukikeskusteluita, harjoituksia, kotitehtäviä, toiminnallisia ja luovia menetelmiä, tavoitteiden luomista ja seurantaa, sekä muita yksilöllisesti valittuja menetelmiä.
 
-Valmennus on tavoitteellinen oppimisprosessi, jossa työskennellään valmennettavan omista tarpeista käsin. Valmennus voidaan toteuttaa Nepparin toimitiloissa, julkisissa paikoissa kuten kahviloissa, sekä valmennettavan kotona, koulussa, työpaikalla tai harrastuspaikoissa. Valmentaja voi jalkautua myös asiointiavuksi esimerkiksi virastoihin tai kauppoihin sekä tueksi vaikka lääkärin vastaanotolle. 
+Valmennuksella tuetaan vahvuuksia ja harjoitellaan uusia taitoja, kuten arjen- ja elämänhallinnan taidot, ongelmanratkaisutaidot, tunnetaidot ja vuorovaikutustaidot.
 
-Neuropsykiatrisella valmennuksella tuetaan vahvuuksia ja harjoitellaan uusia toimintatapoja. Tällaisia taitoja voi olla mm. arjen- ja elämänhallinnan taidot, ongelmanratkaisutaidot, vuorovaikutustaidot tai vaikka tunnetaidot.
+Valmennus on tavoitteellinen oppimisprosessi, jossa työskennellään valmennettavan omista tarpeista ja valinnoista käsin. Valmennus voidaan toteuttaa Nepparin toimitiloissa, julkisissa paikoissa kuten kahviloissa, sekä valmennettavan kotona, koulussa, työpaikalla tai harrastuspaikoissa. Valmentaja voi jalkautua myös asiointiavuksi esimerkiksi virastoihin tai kauppoihin sekä tueksi vaikka lääkärin vastaanotolle. Nepparin valmennusta voi saada myös [etänä](/etavalmennus).
 
 Valmennus on hyvin kokonaisvaltainen tukimuoto, joka kattaa koko elämän kirjon. Valmennuksessa huomioidaan aina henkilön muutkin tukiverkostot, kuten perhe, sosiaalityö, asumisen ja työllistymisen tuki, lääkäri, yms. Valmennus täydentää hyvin muita tukipalveluita kuten asumisen tukea tai ammatillista kuntoutusta.
 
