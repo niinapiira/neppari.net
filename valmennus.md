@@ -21,7 +21,7 @@ polaroid: ""
 
 Neuropsykiatrinen valmennus, eli nepsy-valmennus, sopii kaikille joilla on erityispiirteinään ADHD, ADD, lievä autismi/Asperger, Tourette tai oppimisvaikeuksia.
 
-Neuropaykiatisesta valmennuksesta puhuttaessa käytetään myös sanoja adhd-coachaus tai koutsaus sekä autismikuntoutus.
+Neuropsykiatisesta valmennuksesta puhuttaessa käytetään myös sanoja adhd-coachaus tai koutsaus sekä autismikuntoutus.
 
 Nepsy-valmennus on yksilöllisesti räätälöityä työskentelyä, jolla autetaan nepsy-piirteistä henkilöä elämään hyvää elämää haasteiden ja erityistarpeidensa kanssa.
 
