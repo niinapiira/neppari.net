@@ -14,20 +14,15 @@ polaroid: ""
 
 
 
+- Jäsentää vaikeaa elämäntilannetta
 
+- Auttaa määrittelemään ydinongelmat
 
+- Tarjoaa tukea ongelmien ratkaisemiseen
 
-Lyhytvalmennuksen tarkoituksena on:
+- Kartoittaa tarpeet, sekä tukitoimet joista asiakas voisi hyötyä
 
-- jäsentää vaikeaa elämäntilannetta
-
-- määritellä ydinongelmat
-
-- tarjota keinoja ongelmien ratkaisemiseen
-
-- kartoittaa mahdolliset tukitoimet, joista asiakas voisi hyötyä sekä
-
-- käydä läpi etuudet ja palvelut joita asiakas voi hakea
+- Auttaa hahmottamaan etuudet ja palvelut joita asiakas voi hakea
 
 
 
