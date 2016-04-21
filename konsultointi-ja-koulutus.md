@@ -55,4 +55,4 @@ Nepparin tilat eivät sovi ryhmätapaamisiin, joten ryhmäkoulutuksiin kannattaa
 
 Nautin myös **luennoinnista** ja tulen mielelläni kertomaan erilaisiin yhteisöihin ja tilaisuuksiin työstäni ja kohderyhmästäni yleisemällälläkin tasolla. 
 
-Jos tarvitset tämän tyyppistä koulutusta, kysy ihmeessä minulta lisätietoja ja hinta-arviota joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
+Jos tarvitset tämän tyyppistä nepsy-koulutusta tai konsultaatiota, kysy ihmeessä minulta lisätietoja ja hinta-arviota joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
