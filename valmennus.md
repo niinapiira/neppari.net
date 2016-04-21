@@ -37,6 +37,6 @@ Valmennus on hyvin kokonaisvaltainen tukimuoto, joka kattaa koko elämän kirjon
 
 Neuropsykiatrinen valmennus on ennen kaikkea voimaantumisprosessi, joka saavutetaan hallinnan ja kontrollin tunteen kautta. Valmentaja auttaa asiakasta ottamaan elämän omiin käsiinsä sekä osallistumaan omia asioita koskevaan päätöksentekoon.
 
-*Valmennuksen hinnasta sovitaan yksilöllisesti tapauskohtaisesti, sillä hintaan vaikuttaa sopimuksen pituus, mahdollinen arvonlisävero, asiakkaan tilanne, mahdolliset matkakulut sekä  raportointi- ja lausuntotarve. Pienenä toimijana Nepparin neuropsykiatrisen valmennuksen hinta on voitu pitää mahdollisimman alhaisena, tällä hetkellä perushinta on 55e/h (+mahdollinen alv 24%). Kokonaishinnasta ja tapaamisten pituudesta sovitaan asiakaskohtaisesti kirjallisella sopimuksella.*
+*Valmennuksen perushinta on 55€/h, johon lisätään tarvittaessa ja tapauskohtaisesti arvonlisävero sekä matka- ja raportointikulut. Valmennusprosessista, tapaamisten pituudesta ja paikasta sekä työskentelyn tavoitteista sovitaan asiakaskohtaisesti kirjallisella sopimuksella.*
 
 Jos haluat kuulla lisää tai varata ajan valmennukseen, ota yhteyttä puhelimitse tai [sähköpostilla](/ota-yhteytta).
