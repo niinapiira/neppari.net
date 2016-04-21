@@ -26,7 +26,7 @@ polaroid: ""
 
 
 
-Lyhytvalmennus sopii niin kirjon henkilöille itselleen kuin heidän läheisilleen.
+Lyhytvalmennus sopii sekä kirjon henkilöille itselleen että heidän läheisilleen.
 
 Lyhytvalmennus kestää tilanteesta riippuen noin 1-5krt ja sen pituudesta voidaan sopia tarpeen mukaan yksi tapaaminen kerrallaan.
 
