@@ -29,7 +29,7 @@ Nepparin valmentajan osaamista voi nyt tilata myös konsultointiin, koulutukseen
 **Koulutuksissani ja työpajoissani** avaan positiivisella ja voimauttavalla tavalla niin neuropsykiatrista kuin ratkaisukeskeistä maailmaa, jotta kohderyhmäni mielenkiintoiset yksilöt saisivat yhteiskunnassamme kunnioittavaa kohtelua, hyvää palvelua, sopivaa tukea ja yksilöllisiä ratkaisuja selvitäkseen arjen haasteiden kanssa. Työlläni pyrinkin siihen, että kohderyhmän henkilöiden vahvuuksia osattaisiin huomata ja uskallettaisiin hyödyntää tulevaisuudessa enemmän niin kuntoutuksessa, opinnoissa kuin työelämässäkin.
 Neuropsykiatrisen tiedon ja ymmärryksen avulla tarjoan näkökulmaa yksilöiden kokemiin haasteisiin sekä tuon luovaa ratkaisukeskeisyyttä ongelmien ratkomiseen.
 
-Tämän hetkisiä koulutus/työpajapakettejani ovat:
+Tämän hetkisiä nepsy-koulutus/työpajapakettejani ovat:
 
 
 * Perustietoa neuropsykiatrisista diagnooseista
