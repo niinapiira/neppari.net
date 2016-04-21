@@ -19,8 +19,6 @@ polaroid: ""
 
 Lyhytvalmennuksen tarkoituksena on:
 
-- tarjota selkeyttä elämään
-
 - jäsentää vaikeaa elämäntilannetta
 
 - määritellä ydinongelmat
