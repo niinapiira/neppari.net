@@ -34,7 +34,7 @@ Toiminnalla kokeillaan pienimuotoisen ryhmätoiminnan hyötyjä autismin kirjon 
 
 Ryhmä on aloittanut huhtikuussa ja on osallistujille maksuton.
 
-Jatkossa samanlaisesta pienryhmätoiminnasta kiinnostuneet voivat olla yhteyksissä joko [TSAU!ry:hyn](http://www.tsau.net/) tai Nepparin valmentajaan. Pyrimme hakemaan jatkossakin rahoitusta nuorten suoraan tukemiseen ja erityisesti ryhmämuotoiseen toimintaan, jos lisätarvetta ilmenee. =)
+Jatkossa samanlaisesta pienryhmätoiminnasta kiinnostuneet voivat olla yhteyksissä joko [TSAU!ry:hyn](http://www.tsau.net/) tai [Nepparin valmentajaan](/ota-yhteytta). Pyrimme hakemaan jatkossakin rahoitusta nuorten suoraan tukemiseen ja erityisesti ryhmämuotoiseen toimintaan, jos lisätarvetta ilmenee. =)
 
 ___
 
