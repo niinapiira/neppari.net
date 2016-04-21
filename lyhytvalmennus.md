@@ -30,7 +30,7 @@ Lyhytvalmennus sopii sekä kirjon henkilöille itselleen että heidän läheisil
 
 Lyhytvalmennus kestää tilanteesta riippuen noin 1-5krt ja tapaamiset voidaan sopia tarpeen mukaan yksi kerrallaan.
 
-Lyhytvalmennuksessa työskentely voi olla hyvinkin intensiivistä ja kestää kerrallaan 1-2h.
+Lyhytvalmennuksessa työskentely voi kestää kerrallaan 1-2h.
 
 Tapaamisten tavoitteena on löytää elämälle suunta, johon etenemällä voi löytää tasapainoa ja hyvinvointia.
 
