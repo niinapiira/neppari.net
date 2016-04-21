@@ -21,7 +21,7 @@ polaroid: ""
 
 Tukea elämään valmennuksella!
 
-Neppari tarjoaa Pirkanmaalla neuropsykiatrista [valmennusta](/valmennus), [vanhempien valmennusta](/vanhempien-valmennus), [tukihenkilötoimintaa](/ammatillinen-tukihenkilotoiminta), [koulutusta](/konsultointi-ja-koulutus), [konsultaatiota](/konsultointi-ja-koulutus) sekä yhteistyötä neuropsykiatrisia haasteita kohdanneille nuorille, aikuisille ja perheille sekä heidän kanssaan työskenteleville ammattilaisille.
+Neppari tarjoaa Pirkanmaalla neuropsykiatrista [valmennusta](/valmennus), [vanhempien valmennusta](/vanhempien-valmennus), [tukihenkilötoimintaa](/ammatillinen-tukihenkilotoiminta), [koulutusta](/konsultointi-ja-koulutus), [konsultaatiota](/konsultointi-ja-koulutus) sekä yhteistyötä neuropsykiatrisia haasteita kohdanneille nuorille, aikuisille ja perheille sekä ammattilaisille.
 
 Nepparin tuella voidaan helpottaa vaikeita elämäntilanteita sekä tarjota kokonaisvaltaista tukea neurokirjon henkilöiden arjen ja asioiden sujumiseen.
 
