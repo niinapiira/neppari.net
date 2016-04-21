@@ -20,7 +20,7 @@ polaroid: ""
 
 
 
-Nepsy-koulutusta ja -konsultaatiota!
+Neuropsykiatrista koulutusta ja -konsultaatiota!
 
 Nepparin valmentajan osaamista voi nyt tilata myös konsultointiin, koulutukseen, työpajaan tai luennointiin. Valmentajan tietotaitoa voi hyödyntää niin omassa työssään, työyhteisössä, erilaisissa tapahtumissa, osana koulutuskokonaisuuksia tai yksittäisten asiakaskeissien kohdalla.
 
