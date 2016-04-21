@@ -20,7 +20,7 @@ polaroid: ""
 
 - Tarjoaa tukea ongelmien ratkaisemiseen
 
-- Kartoittaa tarpeet, sekä tukitoimet joista asiakas voisi hyötyä
+- Kartoittaa yksilölliset tarpeet, sekä tukitoimet joista asiakas voisi hyötyä
 
 - Auttaa hahmottamaan etuudet ja palvelut joita asiakas voi hakea
 
