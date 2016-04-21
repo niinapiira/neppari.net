@@ -28,7 +28,7 @@ polaroid: ""
 
 Lyhytvalmennus sopii sekä kirjon henkilöille itselleen että heidän läheisilleen.
 
-Lyhytvalmennus kestää tilanteesta riippuen noin 1-5krt ja sen pituudesta voidaan sopia tarpeen mukaan yksi tapaaminen kerrallaan.
+Lyhytvalmennus kestää tilanteesta riippuen noin 1-5krt ja tapaamiset voidaan sopia tarpeen mukaan yksi kerrallaan.
 
 Lyhytvalmennuksessa työskentely voi olla hyvinkin intensiivistä ja kestää kerrallaan 1-2h.
 
