@@ -26,7 +26,7 @@ polaroid: ""
 
 
 
-Lyhytvalmennus sopii sekä kirjon henkilöille itselleen että heidän läheisilleen.
+Lyhytvalmennus sopii sekä neurokirjon henkilöille itselleen että heidän läheisilleen.
 
 Lyhytvalmennus kestää tilanteesta riippuen noin 1-5krt ja tapaamiset voidaan sopia tarpeen mukaan yksi kerrallaan.
 
