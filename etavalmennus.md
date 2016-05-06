@@ -22,4 +22,4 @@ Kasvotusten tapahtuvassa valmennuksessa voidaan myös hyödyntää etävalmennus
 
 > Etävalmennuksen hinta on 45e/h + mahdollinen alv 24%. 
 
-> Etävalmennuksen sisältö, aikataulu ja viestimiskanava voidaan sopia etukäteen joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
+> Etävalmennuksen sisältö, aikataulu ja viestimiskanava sovitaan etukäteen joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
