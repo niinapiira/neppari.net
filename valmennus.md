@@ -33,7 +33,7 @@ Valmennus voidaan toteuttaa Nepparin toimitiloissa, julkisissa paikoissa kuten k
 
 Nepsy-valmennus on hyvin kokonaisvaltainen tukimuoto, joka kattaa koko elämän kirjon. Valmennuksessa huomioidaan aina henkilön muutkin tukiverkostot, kuten perhe, sosiaalityö, asumisen ja työllistymisen tuki, lääkäri, yms. Valmennus täydentää hyvin muita tukipalveluita kuten asumisen tukea tai ammatillista kuntoutusta.
 
-Neuropsykiatrinen valmennus on ennen kaikkea voimaantumisprosessi, joka saavutetaan hallinnan ja kontrollin tunteen kautta. Valmentaja auttaa asiakasta ottamaan elämän omiin käsiinsä sekä osallistumaan omia asioita koskevaan päätöksentekoon.
+Valmentaja auttaa asiakasta voimaantumaan ja ottamaan elämän omiin käsiinsä sekä osallistumaan omia asioita koskevaan päätöksentekoon.
 
 > Nepparin valmennuksen perushinta on 55€/h, johon lisätään tarvittaessa ja tapauskohtaisesti arvonlisävero sekä matka- ja raportointikulut. Valmennusprosessista, tapaamisten pituudesta ja paikasta sekä työskentelyn tavoitteista sovitaan asiakaskohtaisesti kirjallisella sopimuksella.
 
