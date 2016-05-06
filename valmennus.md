@@ -35,6 +35,6 @@ Nepsy-valmennus on hyvin kokonaisvaltainen tukimuoto, joka kattaa koko elämän 
 
 
 
-> Nepparin valmennuksen perushinta on 55€/h, johon lisätään tarvittaessa arvonlisävero 24% sekä matka- ja raportointikulut. Valmennusprosessista, tapaamisten pituudesta ja paikasta sekä työskentelyn tavoitteista sovitaan asiakaskohtaisesti kirjallisella sopimuksella.
+> Nepparin valmennuksen perushinta on 55€/h, johon lisätään tarvittaessa arvonlisävero 24% sekä matka- ja raportointikulut. Valmennusprosessista, tapaamisten pituudesta ja paikasta sekä tavoitteista sovitaan asiakaskohtaisesti kirjallisella sopimuksella.
 
 > Jos haluat kuulla lisää tai varata ajan valmennukseen, ota yhteyttä puhelimitse tai [sähköpostilla](/ota-yhteytta).
