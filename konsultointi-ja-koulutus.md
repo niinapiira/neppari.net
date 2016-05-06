@@ -52,8 +52,8 @@ Tämän hetkisiä nepsy-koulutus/työpajapakettejani ovat:
 
 Paketeista voi saada koulutusta erikseen tai kokoamalla niistä sopivan kokonaisuuden. Koulutuksen hinta sovitaan erikseen ja se koostuu mm. koulutuksen kestosta, matkakustannuksista, materiaaleista sekä arvonlisäverosta.
 
-Nepparin tilat eivät sovi ryhmätapaamisiin, joten ryhmäkoulutuksiin kannattaa varata erikseen sopiva tila.
+> Nepparin tilat eivät sovi ryhmätapaamisiin, joten ryhmäkoulutuksiin kannattaa varata erikseen sopiva tila.
 
-Nautin myös **luennoinnista** ja tulen mielelläni kertomaan erilaisiin yhteisöihin ja tilaisuuksiin työstäni ja kohderyhmästäni yleisemällälläkin tasolla. 
+> Nautin myös **luennoinnista** ja tulen mielelläni kertomaan erilaisiin yhteisöihin ja tilaisuuksiin työstäni ja kohderyhmästäni yleisemällälläkin tasolla. 
 
-Jos tarvitset tämän tyyppistä nepsy-koulutusta tai konsultaatiota, kysy ihmeessä minulta lisätietoja ja hinta-arviota joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
+> Jos tarvitset tämän tyyppistä nepsy-koulutusta tai konsultaatiota, kysy ihmeessä minulta lisätietoja ja hinta-arviota joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
