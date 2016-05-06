@@ -13,7 +13,7 @@ polaroid: ""
 
 
 
-Lyhytvalmennuksen tavoitteena on löytää elämälle suunta, johon etenemällä voi löytää tasapainoa ja hyvinvointia:
+Lyhytvalmennuksen tavoitteena on löytää omalle elämälle oikea suunta:
 
 
 - Jäsentämällä vaikeaa elämäntilannetta
