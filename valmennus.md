@@ -27,7 +27,7 @@ Nepsy-valmennus on yksilöllisesti räätälöityä tukea, jolla autetaan nepsy-
 
 Nepsy-valmennus pitää sisällään mm. tukikeskusteluita, harjoituksia, kotitehtäviä, toiminnallisia ja luovia menetelmiä, tavoitteiden luomista ja seurantaa, sekä muita yksilöllisesti valittuja menetelmiä.
 
-Neuropsykiatrisella valmennuksella tuetaan vahvuuksia ja harjoitellaan uusia taitoja, kuten arjen- ja elämänhallinnan taidot, ongelmanratkaisutaidot, tunnetaidot ja vuorovaikutustaidot. Nepparin neurosykiatrista valmennusta voi saada myös [lyhytvalmennuksena](/lyhytvalmennus), jossa selkeytetään elämää, ongelmia ja ratkaisuja.
+Neuropsykiatrisella valmennuksella tuetaan vahvuuksia ja harjoitellaan uusia taitoja, kuten arjen- ja elämänhallinnan taidot, ongelmanratkaisutaidot, tunnetaidot ja vuorovaikutustaidot. Valmennusta voi saada myös [lyhytvalmennuksena](/lyhytvalmennus).
 
 Valmennus voidaan toteuttaa Nepparin toimitiloissa, julkisissa paikoissa kuten kahviloissa, sekä valmennettavan kotona, koulussa, työpaikalla tai harrastuspaikoissa. Valmentaja voi jalkautua myös asiointiavuksi esimerkiksi virastoihin tai kauppoihin sekä tueksi vaikka lääkärin vastaanotolle. Nepparin neuropsykiatrista valmennusta voi saada myös [etänä](/etavalmennus).
 
