@@ -25,7 +25,7 @@ Neppari tarjoaa neuropsykiatrista kuntoututusta [valmennuksen](/valmennus), [van
 
 Nepparin palvelut on tarkoitettu kaiken ikäisille neuropsykiatrisia haasteita kohdanneille nuorille, aikuisille ja perheille sekä ammattilaisille.
 
-Nepparista saa apua, tukea, ohjausta ja kuntoutuspalveluita asiakkaan tarpeiden mukaan joustavasti, eritryistarpeet huomioiden ja voimaannuttaen.
+Nepparista saa apua, tukea, ohjausta ja kuntoutuspalveluita asiakkaan tarpeiden mukaan joustavasti, eritryistarpeet huomioiden ja voimauttavalla työotteella.
 
 Nepparin tuella voidaan helpottaa vaikeita elämäntilanteita sekä tarjota kokonaisvaltaista tukea neurokirjon henkilöiden arjen ja asioiden sujumiseen.
 
