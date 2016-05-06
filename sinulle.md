@@ -20,9 +20,13 @@ polaroid: ""
 
 Silloin Neppari on oikea paikka sinulle!
 
+
+## Miten valmennukseen hakeudutaan?
+
 Voit hakeutua Nepparin nepsy-valmennukseen pyytämällä maksusitoumusta lääkäriltä, te-toimistosta tai sosiaalityöntekijältä.
 
 Voit myös olla suoraan minuun yhteydessä, niin pohditaan yhdessä tilannettasi!
+
 
 ## Mitä Nepparista saa?
 
