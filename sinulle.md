@@ -19,7 +19,7 @@ polaroid: ""
 *Kaipaatko osaavaa ja ymmärtävää tukea?*
 
 
-Silloin Neppari on oikea paikka sinulle!
+--> Silloin Neppari on oikea paikka sinulle!
 
 
 ## Miten valmennukseen hakeudutaan?
