@@ -24,8 +24,8 @@ Vanhempien valmennuksessa voidaan käydä läpi diagnoosin saannin ensitietoa, k
 
 Vanhempien valmennus sopii erittäin hyvin myös perheeseen, jossa itse nepsy-lapsi, nuori tai aikuinen ei ole motivoitunut valmennukseen. Vanhemmat voivat viedä valmennuksen avulla toimivia tukikeinoja itse suoraan kotiin ja lapsensa elämään.
 
-_Vanhempien valmennus on hinnaltaan 55e/h Nepparin toimistolla.
+> Vanhempien valmennus on hinnaltaan 55e/h Nepparin toimistolla.
 Oman lapsen valmennusprosessiin sisältyessään vanhempien valmennuksesta ei peritä arvonlisäveroa, mutta itsenäisenä palvelumuotona hintaan lisätään arvonlisävero 24%.
-Jos vanhemmat toivovat tapaamista kotonaan tai muualla erikseen sovitulla paikalla, lisätään hintaan mahdolliset matkakulut._
+Jos vanhemmat toivovat tapaamista kotonaan tai muualla erikseen sovitulla paikalla, lisätään hintaan mahdolliset matkakulut.
 
-Vanhempien valmennuksesta voit kysellä lisää ottamalla suoraan yhteyttä joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
+> Vanhempien valmennuksesta voit kysellä lisää ottamalla suoraan yhteyttä joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
