@@ -21,4 +21,6 @@ Minun tapani työskennellä on hyvin joustavaa, ketterää ja asiakkaan erityist
 
 Kokemukseni on kertynyt erityisesti nuorten ja aikuisten nepsy-henkilöiden kanssa työskentelystä, mutta autan erittäin mielelläni myös lapsiperheitä, pariskuntia ja esimerkiksi työtiimejä.
 
-Laaja-alainen osaamiseni ja tukeni ulottuu kaikille niille elämän alueille, joilla haasteita kohdataan. Minulle mikään haaste ei ole mahdoton eikä kukaan ihminen toivoton.
+Laaja-alainen osaamiseni ja tukeni ulottuu kaikille niille elämän alueille, joilla haasteita kohdataan.
+
+> Minulle mikään haaste ei ole mahdoton eikä kukaan ihminen toivoton.
