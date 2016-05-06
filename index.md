@@ -25,7 +25,7 @@ Neppari tarjoaa neuropsykiatrista kuntoututusta [valmennuksen](/valmennus), [van
 
 Nepparin palvelut on tarkoitettu kaiken ikäisille ADHD:n, ADD:n, Autismin kirjon, Touretten ja oppimisvaikeuksien kanssa eläville nuorille, aikuisille ja perheille sekä heidän kanssaan toimiville ammattilaisille.
 
-Nepparista saa apua, tukea, ohjausta ja kuntoutuspalveluita asiakkaan tarpeiden mukaan joustavasti, eritryistarpeet huomioiden ja voimauttavalla työotteella.
+Nepparista saa apua, tukea, ohjausta ja kuntoutuspalveluita asiakkaan tarpeiden mukaan joustavasti, erityistarpeet huomioiden ja voimauttavalla työotteella.
 
 Nepparin tuella voidaan helpottaa vaikeita elämäntilanteita sekä tarjota kokonaisvaltaista tukea neurokirjon henkilöiden arjen ja asioiden sujumiseen.
 
