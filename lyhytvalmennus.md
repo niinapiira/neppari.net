@@ -18,7 +18,7 @@ polaroid: ""
 
 - Auttaa määrittelemään ydinongelmat
 
-- Tarjoaa tukea ongelmien ratkaisemiseen
+- Tarjoaa ideoita ongelmien ratkaisemiseen
 
 - Kartoittaa yksilölliset tarpeet, sekä tukitoimet joista asiakas voisi hyötyä
 
