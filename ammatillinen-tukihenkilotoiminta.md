@@ -25,7 +25,7 @@ Tukihenkilötoiminnassa valmentaja toimii tukena ollen läsnä, toimimalla malli
 
 Ammatillisen tukihenkilötoiminnan kautta tarjoutuu mahdollisuus saada uusia kokemuksia ja onnistumisen iloa erilaisten toimintojen kautta.
 
-Ammatillisessa tukihenkilötoiminnassa voidaan toimia tuettavan kotona, harrastuksissa, työssä tai vapaa-ajanviettopaikoissa. Tukihenkilötoiminnassa voidaan esimimerkiksi kokkailla, harrastaa, käydä tukikeskusteluita tai vaikka hoitaa asioita yhdessä. 
+Ammatillisessa tukihenkilötoiminnassa voidaan toimia tuettavan kotona, harrastuksissa, työssä tai vapaa-ajanviettopaikoissa. Yhdessä voidaan esimimerkiksi kokkailla, harrastaa, käydä tukikeskusteluita tai vaikka hoitaa asioita. 
 
 Myös tukihenkilötoiminnassa voidaan harjoitella uusia taitoja yhdessä tekemisen kautta.
 
