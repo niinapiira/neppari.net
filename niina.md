@@ -15,7 +15,7 @@ Minä olen Niina Piira, ratkaisukeskeinen neuropsykiatrinen valmentaja ja sosiaa
 
 Olen koulutuksiltani neuropsykiatrinen valmentaja, sosionomi AMK sekä nuorison- ja vapaa-ajanohjaaja. Työkokemusta minulla on laajasti yli 15-vuotiselta sosiaalialan uralta.
 
-Tarjoan Tampereelta käsin neuropsykiatrista valmennusta ja ammatillista tukihenkilötoimintaa kaiken ikäisille pirkanmaalaisille nepsy-henkilöille, jotka tarvitsevat tukea arjessaan ja jaksamisessaan.
+Teen Pirkanmaalla neuropsykiatrista valmennusta ja ammatillista tukihenkilötoimintaa sekä koulutusta, konsultaatiota ja yhteistyötä paikallisten toimijoiden kanssa.
 
 Jaan käytännönläheistä valmennusosaamistani myös konsultoinnin ja koulutuksen myötä eri alojen ammattilaisille, jotka kohtaavat neurokirjon henkilöitä ja kaipaavat keinoja toimia heidän kanssaan.
 
