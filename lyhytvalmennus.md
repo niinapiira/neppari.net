@@ -13,16 +13,17 @@ polaroid: ""
 
 
 
+Tapaamisten tavoitteena on löytää elämälle suunta, johon etenemällä voi löytää tasapainoa ja hyvinvointia:
 
-- Jäsentää vaikeaa elämäntilannetta
+- Jäsentämällä vaikeaa elämäntilannetta
 
-- Auttaa määrittelemään ydinongelmat
+- Auttamalla määrittelemään ydinongelmat
 
-- Tarjoaa ideoita ongelmien ratkaisemiseen
+- Tarjoamalla keinoja ongelmien ratkaisemiseen
 
-- Kartoittaa yksilölliset tarpeet, sekä tukitoimet joista asiakas voisi hyötyä
+- Kartoittamalla yksilölliset tarpeet, sekä tukitoimet joista asiakas voisi hyötyä
 
-- Auttaa hahmottamaan etuudet ja palvelut joita asiakas voi hakea
+- Auttamalla hahmottamaan etuudet ja palvelut joita asiakas voi hakea
 
 
 
@@ -32,7 +33,6 @@ Lyhytvalmennus kestää tilanteesta riippuen noin 1-5krt ja tapaamiset voidaan s
 
 Lyhytvalmennuksessa työskentely voi kestää kerrallaan 1-2h.
 
-Tapaamisten tavoitteena on löytää elämälle suunta, johon etenemällä voi löytää tasapainoa ja hyvinvointia.
 
 > Lyhytvalmennuksen hinta on 55e/h + mahdollinen alv 24%.
 
