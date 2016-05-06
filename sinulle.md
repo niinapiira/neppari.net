@@ -21,6 +21,7 @@ polaroid: ""
 Silloin Neppari on oikea paikka sinulle!
 
 Voit hakeutua Nepparin nepsy-valmennukseen pyytämällä maksusitoumusta lääkäriltä, te-toimistosta tai sosiaalityöntekijältä.
+
 Voit myös olla suoraan minuun yhteydessä, niin pohditaan yhdessä tilannettasi!
 
 ## Mitä Nepparista saa?
