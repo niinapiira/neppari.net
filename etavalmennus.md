@@ -14,7 +14,7 @@ published: true
 
 Nepparin valmennusta on mahdollista saada myös etänä omalta koneelta tai kännykältä käsin missä ikinä oletkin.
 
-Mahdollisia viestimiskanavia voi olla esimerkiksi sähköposti, Skype, Messenger, jne.
+Mahdollisia viestimiskanavia voi olla esimerkiksi sähköposti, Skype, Facebookin Messenger, jne.
 
 > Etävalmennusuhteessa maksu hoidetaan aina ennen etävalmennustapaamista.
 
