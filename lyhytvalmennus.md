@@ -13,7 +13,8 @@ polaroid: ""
 
 
 
-Tapaamisten tavoitteena on löytää elämälle suunta, johon etenemällä voi löytää tasapainoa ja hyvinvointia:
+Lyhytvalmennuksen tavoitteena on löytää elämälle suunta, johon etenemällä voi löytää tasapainoa ja hyvinvointia:
+
 
 - Jäsentämällä vaikeaa elämäntilannetta
 
