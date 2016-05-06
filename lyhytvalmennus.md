@@ -34,6 +34,6 @@ Lyhytvalmennuksessa työskentely voi kestää kerrallaan 1-2h.
 
 Tapaamisten tavoitteena on löytää elämälle suunta, johon etenemällä voi löytää tasapainoa ja hyvinvointia.
 
-Lyhytvalmennuksen hinta on 55e/h + mahdollinen alv 24%.
+> Lyhytvalmennuksen hinta on 55e/h + mahdollinen alv 24%.
 
-Voit kysyä lisää tietoa tai varata ajan lyhytvalmennukseen joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
+> Voit kysyä lisää tietoa tai varata ajan lyhytvalmennukseen joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
