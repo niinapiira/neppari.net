@@ -19,7 +19,6 @@ Teen Pirkanmaalla neuropsykiatrista valmennusta ja ammatillista tukihenkilötoim
 
 Minun tapani työskennellä on hyvin joustavaa, ketterää ja asiakkaan erityistarpeita huomioivaa. Käytän valmennuksessa paljon vuorovaikutusta helpottavia menetelmiä, kuten voimauttavaa vuorovaikutusta ja luovia menetelmiä (piirtäminen, kirjallisuusterapian menetelmät ja ajatusten visualisointi kuvin ja esinein).
 
-
 Laaja-alainen osaamiseni ja tukeni ulottuu kaikille niille elämän alueille, joilla haasteita kohdataan.
 
 > Minulle mikään haaste ei ole mahdoton eikä kukaan ihminen toivoton.
