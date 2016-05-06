@@ -16,6 +16,8 @@ Nepparin valmennusta on mahdollista saada myös etänä omalta koneelta tai kän
 
 Mahdollisia viestimiskanavia voi olla esimerkiksi sähköposti, Skype, Messenger, jne.
 
-> Etävalmennusuhteessa maksu hoidetaan aina ennen etävalmennustapaamista. Etävalmennuksen hinta on 45e/h + mahdollinen alv 24%. 
+> Etävalmennusuhteessa maksu hoidetaan aina ennen etävalmennustapaamista.
+
+> Etävalmennuksen hinta on 45e/h + mahdollinen alv 24%. 
 
 > Etävalmennuksen sisältö, aikataulu ja viestimiskanava voidaan sopia etukäteen joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
