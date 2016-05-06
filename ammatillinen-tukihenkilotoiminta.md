@@ -29,7 +29,7 @@ Ammatillisessa tukihenkilötoiminnassa voidaan toimia tuettavan kotona, harrastu
 
 Tukihenkilötoiminnassa voidaan myös harjoitella uusia taitoja.
 
-Ammatillinen tukihenkilötoiminta voi olla hyvin pitkäaikainenkin tukimuoto, jolloin yhteistyö mahdollistaa tuen mm. mielenterveyden haasteisiin.
+Ammatillinen tukihenkilötoiminta voi olla hyvin pitkäaikainenkin tukimuoto, jolloin hyvä tukisuhde mahdollistaa tuen mm. mielenterveyden haasteisiin.
 
 > Ammatillisen tukihenkilötoiminnan perushinta on 60e/1,5h, 80e/2h, 100e/2,5h, 120e/3h (+mahdolliset alv 24%).
 
