@@ -54,6 +54,6 @@ Paketeista voi saada koulutusta erikseen tai kokoamalla niistä sopivan kokonais
 
 > Nepparin tilat eivät sovi ryhmätapaamisiin, joten ryhmäkoulutuksiin kannattaa varata erikseen sopiva tila.
 
-> Nautin myös **luennoinnista** ja tulen mielelläni kertomaan erilaisiin yhteisöihin ja tilaisuuksiin työstäni ja kohderyhmästäni yleisemällälläkin tasolla. 
+> Nautin myös **luennoinnista** ja tulen mielelläni kertomaan erilaisiin yhteisöihin ja tilaisuuksiin työstäni ja kohderyhmästäni yleisemälläkin tasolla. 
 
 > Jos tarvitset tämän tyyppistä nepsy-koulutusta tai konsultaatiota, kysy ihmeessä minulta lisätietoja ja hinta-arviota joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
