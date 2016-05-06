@@ -21,7 +21,9 @@ polaroid: ""
 
 Ammatillinen tukihenkilötoiminta tarjoaa rakentavan ja turvallisen tukisuhteen arkeen, harrastuksiin, työelämään tai esimerkiksi harjoittelutilanteisiin.
 
-Tukihenkilötoiminnassa valmentaja toimii valmennettavan tukena ollen läsnä, toimimalla mallintamisesimerkkinä ja tarjoten henkistä tukea sekä rakentavaa ihmissuhdetta. Ammatillisen tukihenkilötoiminnan kautta valmentaja voi myös tarjota valmennettavalle uusia kokemuksia ja onnistumisen iloa esimerkiksi erilaisten vapaa-ajan toimintojen kautta.
+Tukihenkilötoiminnassa valmentaja toimii valmennettavan tukena ollen läsnä, toimimalla mallintamisesimerkkinä ja tarjoten henkistä tukea sekä rakentavaa ihmissuhdetta.
+
+Ammatillisen tukihenkilötoiminnan kautta valmentaja voi myös tarjota valmennettavalle uusia kokemuksia ja onnistumisen iloa esimerkiksi erilaisten vapaa-ajan toimintojen kautta.
 
 Ammatillisessa tukihenkilötoiminnassa voidaan toimia valmennettavan kotona, harrastuksissa, työssä tai vapaa-ajanviettopaikoissa. Tukihenkilön kanssa voi esim. kokkailla, harrastaa, käydä tukikeskusteluita tai vaikka hoitaa yhdessä asioita. 
 
