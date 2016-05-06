@@ -27,7 +27,7 @@ Ammatillisen tukihenkilötoiminnan kautta tarjoutuu mahdollisuus saada uusia kok
 
 Ammatillisessa tukihenkilötoiminnassa voidaan toimia tuettavan kotona, harrastuksissa, työssä tai vapaa-ajanviettopaikoissa. Yhdessä voidaan esimerkiksi kokkailla, harrastaa, keskustella tai vaikka hoitaa asioita. 
 
-Yhdessä tekemisen kautta tukihenkilötoiminnassa voidaan myös harjoitella uusia taitoja.
+Tukihenkilötoiminnassa voidaan myös harjoitella uusia taitoja.
 
 Ammatillinen tukihenkilötoiminta voi olla hyvin pitkäaikainenkin tukimuoto, jolloin yhteistyö mahdollistaa tuen mm. mielenterveyden haasteisiin.
 
