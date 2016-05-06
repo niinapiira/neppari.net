@@ -23,7 +23,7 @@ Neuropsykiatrinen valmennus, eli nepsy-valmennus, on kuntoutusmuoto kaikille ADH
 
 Neuropsykiatisesta valmennuksesta puhuttaessa käytetään myös sanoja adhd-coachaus tai koutsaus sekä autismikuntoutus.
 
-Nepsy-valmennus on yksilöllisesti räätälöityä työskentelyä, jolla autetaan nepsy-piirteistä henkilöä elämään hyvää elämää erityishaasteiden ja -tarpeiden kanssa.
+Nepsy-valmennus on yksilöllisesti räätälöityä tukea, jolla autetaan nepsy-piirteistä henkilöä elämään hyvää elämää erityishaasteiden kanssa erityistarpeet huomioiden.
 
 Nepsy-valmennus on monipuolinen ohjaus- ja tukimuoto, joka pitää sisältää mm. tukikeskusteluita, harjoituksia, kotitehtäviä, toiminnallisia ja luovia menetelmiä, tavoitteiden luomista ja seurantaa, sekä muita yksilöllisesti valittuja menetelmiä.
 
