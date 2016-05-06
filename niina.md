@@ -17,8 +17,6 @@ Olen koulutuksiltani neuropsykiatrinen valmentaja, sosionomi AMK sekä nuorison-
 
 Teen Pirkanmaalla neuropsykiatrista valmennusta ja ammatillista tukihenkilötoimintaa sekä koulutusta, konsultaatiota ja yhteistyötä paikallisten toimijoiden kanssa.
 
-Jaan käytännönläheistä valmennusosaamistani myös konsultoinnin ja koulutuksen myötä eri alojen ammattilaisille, jotka kohtaavat neurokirjon henkilöitä ja kaipaavat keinoja toimia heidän kanssaan.
-
 Minun tapani työskennellä on hyvin joustavaa, ketterää ja asiakkaan erityistarpeita huomioivaa. Käytän valmennuksessa paljon vuorovaikutusta helpottavia menetelmiä, kuten luovia menetelmiä: esimerkkinä piirtäminen, kirjallisuusterapian menetelmät ja ajatusten visualisointi kuvin ja esinein.
 
 Kokemukseni on kertynyt erityisesti nuorten ja aikuisten nepsy-henkilöiden kanssa työskentelystä, mutta autan erittäin mielelläni myös lapsiperheitä, pariskuntia ja esimerkiksi työtiimejä.
