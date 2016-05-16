@@ -25,7 +25,8 @@ Neppari tarjoaa neuropsykiatrista kuntoututusta [valmennuksen](/valmennus), [van
 Nepparin palvelut on tarkoitettu kaiken ikäisille ADHD:n, ADD:n, Autismin kirjon, Touretten ja oppimisvaikeuksien kanssa eläville nuorille, aikuisille ja perheille sekä heidän kanssaan toimiville ammattilaisille.
 
 Soita ja kysy lisää! =)
-Tai ota yhteyttä [sähköpstitse](/ota yhteyttä)!
+
+Tai ota yhteyttä [sähköpostitse](/ota yhteyttä)!
 
 ___
 
