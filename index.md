@@ -5,7 +5,6 @@
 "navigation-order": 1
 "show-in-navigation": true
 published: true
-polaroid: ""
 ---
 
 
@@ -27,9 +26,9 @@ Nepparin palvelut on tarkoitettu kaiken ikäisille ADHD:n, ADD:n, Autismin kirjo
 
 Nepparista saa apua, tukea, ohjausta ja kuntoutuspalveluita asiakkaan tarpeiden mukaan joustavasti, erityistarpeet huomioiden ja voimauttavalla työotteella.
 
-Nepparin tuella voidaan helpottaa vaikeita elämäntilanteita sekä tarjota kokonaisvaltaista tukea neurokirjon henkilöiden arjen ja asioiden sujumiseen.
+___
 
-Nepparissa myös kehitetään jatkuvasti uusia menetelmiä ja tukimuotoja.
+Nepparin [blogista](/blogi) voit lukea ajankohtaisia ajatuksiani voimaantumisesta, valmennuksesta sekä yrittäjyydestä. Blogissa käsittelen rakentavasti ja ratkaisukeskeisesti yksilön hyvinvointia, ihmisyyttä sekä sosiaalialaa niiden tukipilarina.
 
 ___
 
