@@ -4,8 +4,8 @@
 published: true
 permalink: /blogi/
 "link-title": Blogi
-"navigation-order": 99
-"show-in-navigation": false
+"navigation-order": 90
+"show-in-navigation": true
 "is-new": false
 polaroid: ""
 ---
