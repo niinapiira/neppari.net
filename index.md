@@ -1,9 +1,9 @@
 ---
-"page-title": "Elämän haasteena ADHD, ADD, Asperger, Tourette, lievä autismi?"
-"page-type": "front-page"
-"link-title": Esittely
-"navigation-order": 1
-"show-in-navigation": true
+page-title: 'Elämän haasteena ADHD, ADD, Asperger, Tourette, lievä autismi?'
+page-type: front-page
+link-title: Esittely
+navigation-order: 1
+show-in-navigation: true
 published: true
 ---
 
@@ -31,14 +31,6 @@ ___
 ## Nepparin blogi!
 
 [Blogistani](/blogi) voit lukea ajatuksiani voimaantumisesta, valmennuksesta sekä yrittäjyydestä. Blogissa käsittelen rakentavasti ja ratkaisukeskeisesti yksilön hyvinvointia, ihmisyyttä sekä sosiaalialaa niiden tukipilarina.
-
-___
-
-## Näkyvyyskysely 1-vuotiaasta Nepparista! =D
-
-1-vuotta täyttävä Valmennuskeskus Neppari on rakas yritys, jonka avulla pyrin valmentajana lisäämään tietoutta neuropsykitrisista diagnooseista.
-
-Vastaamalla [tähän näkyvyys- ja kehittämiskyselyyn](https://docs.google.com/forms/d/176dqWqr1rtptN2gY9Z10OUQjiLbrq1T9Zu-S_kPgq-U/viewform), autat minua kehittämään Nepparia entistä hyödyllisemmäksi ja antoisammaksi. =)
 
 ___
 
