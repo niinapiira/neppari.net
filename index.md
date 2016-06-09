@@ -28,7 +28,7 @@ Soita tai laita [sähköpostia](/ota yhteyttä) ja kysy lisää! =)
 
 ___
 
-## Miten Neppariin pääsee asiakkaaksi?
+## Miten Neppariin hakeudutaan?
 
 Voit hakeutua Nepparin tukipalveluihin pyytämällä maksusitoumusta lääkäriltä, te-toimistosta tai sosiaalityöntekijältä.
 
