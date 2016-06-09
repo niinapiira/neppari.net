@@ -1,11 +1,9 @@
 ---
-"page-title": Sinulle
-"page-type": normal
-"navigation-order": 2
-"show-in-navigation": true
+page-title: Sinulle
+page-type: normal
+navigation-order: 2
+show-in-navigation: true
 published: true
-"link-title": ""
-polaroid: ""
 ---
 
 
@@ -21,12 +19,6 @@ polaroid: ""
 
 SILLOIN NEPPARI ON OIKEA PAIKKA SINULLE!
 
-
-## Miten valmennukseen hakeudutaan?
-
-Voit hakeutua Nepparin nepsy-valmennukseen pyytämällä maksusitoumusta lääkäriltä, te-toimistosta tai sosiaalityöntekijältä.
-
-Voit myös olla suoraan minuun yhteydessä, niin pohditaan yhdessä tilannettasi!
 
 
 ## Mitä Nepparista saa?
