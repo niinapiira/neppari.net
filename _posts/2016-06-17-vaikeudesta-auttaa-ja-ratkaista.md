@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 page-title: Vaikeudesta auttaa ja ratkaista
 ---
 ## Törmään usein työssäni ahdistuksen kokemuksiin ja tuntemuksiin eri asiakkaiden kanssa ja olen viimeaikoina jäänyt pohtimaan ja miettimään erityisen paljon tätä sisäistä kokemustani, joka yrittää kertoa minulle jotain.
