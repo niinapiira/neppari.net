@@ -1,5 +1,5 @@
 ---
-"page-title": "Nepsy-piirteinen henkilö ei ole yhtä kuin neuropsykiatrinen diagnoosinsa"
+page-title: Nepsy-piirteinen henkilö ei ole yhtä kuin neuropsykiatrinen diagnoosinsa
 published: true
 ---
 
@@ -7,7 +7,7 @@ published: true
 
 ![Vanhan sairaalan kukkula]({{site.baseurl}}/uploaded-images/vanhan-sairaalan-kukkula.jpeg)
 
-Puhumme usein neuropsykiatrisen diagnoosin omaavasta yksilöstä nepsy-henkilönä tai diagnoosin kautta esimerkiksi ADHD-, Asperger- ja Tourette-henkilönä, koska nämä lyhenteet nopeuttavat viestiämme. Näin diagnoosilähtöisesti ei ole kuitenkaan tarkoituksenmukaista ajatella, sillä silloin lokeroimme ihmisiä yhden ainoan osa-alueen perusteella. Meistä jokainen on valtava kokonaisuus ihmisyyden eri puolia ja nepsy-piirteet ovat vain osa niitä ainutlaatuisia yksilöitä, joita saan kohdata ja auttaa työssäni valmentajana.
+**Puhumme usein neuropsykiatrisen diagnoosin omaavasta yksilöstä nepsy-henkilönä tai diagnoosin kautta esimerkiksi ADHD-, Asperger- ja Tourette-henkilönä, koska nämä lyhenteet nopeuttavat viestiämme. Näin diagnoosilähtöisesti ei ole kuitenkaan tarkoituksenmukaista ajatella, sillä silloin lokeroimme ihmisiä yhden ainoan osa-alueen perusteella. Meistä jokainen on valtava kokonaisuus ihmisyyden eri puolia ja nepsy-piirteet ovat vain osa niitä ainutlaatuisia yksilöitä, joita saan kohdata ja auttaa työssäni valmentajana.**
 
 Neuropsykiatrisia piirteitä uskotaan olleen aina ihmisten joukossa, ja oletuksena on, että ne ovat jollain tavoin hyödyttäneet ihmiskuntaa ajan saatossa. Nyky-yhteiskunnan monimutkaisuus ja rakenteet haastavat kuitenkin nepsy-piirteisiä henkilöitä erityisen paljon ja korostuneet haasteet peittävät helposti alleen heidän vahvuutensa. Vahvuuksiaan ei ole muutenkaan helppo päästä hyödyntämään ainakaan yhä vaativammassa työelämässä, missä ammatillisen osaamisen lisäksi korostetaan usein tarpeettoman paljon esimerkiksi sosiaalisia taitoja. Neuropsykiatriset haasteet ja erityistarpeet eivät kuitenkaan ole niitä huomionarvoisimpia seikkoja nepsy-piirteisen henkilön elämässä, vaan on hyödyllisempää keskittyä itse asiassa siihen mikä sujuu, mikä onnistuu, missä hän on hyvä ja minkä tyyppisissä asioissa hänellä on jopa erityislahjoja. Juuri vahvuuksien avulla onkin mahdollista löytää keinoja kehittää niitä heikkouksia ja haasteita, joihin törmätään esimerkiksi työelämässä.
 
