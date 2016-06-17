@@ -2,7 +2,7 @@
 published: true
 page-title: Vaikeudesta auttaa ja ratkaista
 ---
-## Törmään usein työssäni ahdistuksen kokemuksiin ja tuntemuksiin eri asiakkaiden kanssa ja olen viimeaikoina jäänyt pohtimaan ja miettimään erityisen paljon tätä sisäistä kokemustani, joka yrittää kertoa minulle jotain.
+**Törmään usein työssäni ahdistuksen kokemuksiin ja tuntemuksiin eri asiakkaiden kanssa ja olen viimeaikoina jäänyt pohtimaan ja miettimään erityisen paljon tätä sisäistä kokemustani, joka yrittää kertoa minulle jotain.**
 
 ![Riksu ja aurinko lattialla]({{site.baseurl}}/uploaded-images/riksu-ja-aurinko-lattialla.jpeg)
 
