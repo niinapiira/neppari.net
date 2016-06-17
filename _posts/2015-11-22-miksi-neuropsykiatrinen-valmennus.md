@@ -1,5 +1,5 @@
 ---
-"page-title": "Miksi neuropsykiatrinen valmennus?"
+page-title: Miksi neuropsykiatrinen valmennus?
 published: true
 ---
 
@@ -7,7 +7,7 @@ published: true
 
 ![Ahvenanmaan venesatama]({{site.baseurl}}/uploaded-images/ahvenanmaan-venesatama.jpeg)
 
-Neuropsykiatrisen valmennuksen malli on tuotu Suomeen Englannista ADHD-liiton toimesta jo 2000-luvun alussa. Suomessa mallia on edelleen kehitetty ja valmentajakoulutusta tarjotaan tällä hetkellä useissa eri oppilaitoksissa ympäri maata. Koulutuksen suosio ja tarjonta kertoo omalta osaltaan suuresta tarpeesta, sillä tukea tarvitseva neuropsykiatrinen kohderyhmä kasvaa jatkuvasti tietoisuuden ja diagnosoinnin lisääntyessä. Silti valtava kysyntä ja tämän hetkinen tarjonta eivät tunnu kohtaavan toisiaan Pirkanmaalla. Miksi valmennus olisi hyvä lisä palveluntarjonnassa, ja miksi sen käyttöä tulisi vahvistaa?
+**Neuropsykiatrisen valmennuksen malli on tuotu Suomeen Englannista ADHD-liiton toimesta jo 2000-luvun alussa. Suomessa mallia on edelleen kehitetty ja valmentajakoulutusta tarjotaan tällä hetkellä useissa eri oppilaitoksissa ympäri maata. Koulutuksen suosio ja tarjonta kertoo omalta osaltaan suuresta tarpeesta, sillä tukea tarvitseva neuropsykiatrinen kohderyhmä kasvaa jatkuvasti tietoisuuden ja diagnosoinnin lisääntyessä. Silti valtava kysyntä ja tämän hetkinen tarjonta eivät tunnu kohtaavan toisiaan Pirkanmaalla. Miksi valmennus olisi hyvä lisä palveluntarjonnassa, ja miksi sen käyttöä tulisi vahvistaa?**
 
 Neuropsykiatriset erityispiirteet johtuvat neurobiologisen kehityksen poikkeavuuksista, jotka aiheuttavat aivojen rakenteen ja toiminnan erilaisuutta. Tämä fysiologinen erilaisuus saa aikaan muun muassa sen, että nepsy-henkilöt hahmottavat maailmaa hyvin eri tavoin; tapa ymmärtää asioiden merkityksiä, mieltää ympäristöä ja tulkita tietoa voi olla huomattavan erilainen. Luonnollisesti nämä poikkeavuudet vaikuttavat myös mieleen, ajatteluun ja tunteisiin sekä käyttäytymiseen. **Valmennuksella pyritäänkin ensisijaisesti vahvistamaan yksilön mielekästä suhdetta itseensä, joka on lähtökohta kaikelle hyvinvoinnille.** Tämä tekee valmennuksesta miellyttävän tavan työskennellä sekä valmentajalle että valmennettavalle, joka muuten voi kokea ulkopuolisen avun hyvinkin raskaaksi.
 
