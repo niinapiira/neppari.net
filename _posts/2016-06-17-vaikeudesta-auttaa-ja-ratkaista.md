@@ -24,6 +24,6 @@ Vapauttaessamme itsemme, työtoverimme, yhteistyökumppanimme, asiakkaamme ja al
 
 Ja mitä haittaa edellä mainitusta ratkaisusta olisi? Kaikki on järjestelykysymyksiä meidän ammattilaisten puolelta, mutta nepsy-henkilöltä aikainen aamupala voi olla yksinkertaisesti liikaa vaadittu. Hänen osaltaan ongelma ei välttämättä ratkeaisi koskaan, tai sen harjoittelu voisi uuvuttaa ja masentaa - niin asiakkaan kuin työntekijätkin. Joskus on hyvä päästä ja päästää helpolla, jos lopputulos palvelee asiakkaan kuntoutustavoitteita. Asioiden tekeminen eri tavalla ei useinkaan vaikuta lopputulokseen, eli tavoitteiden saavuttamiseen, joten sosiaalisen paineen tiedostaminen ja siitä poisoppiminen avartaa mielemme toimimaan luovien ja aidosti asiakasta palvelevien ratkaisujen löytämiseksi. Ei se tapa vaan se tulos. =)
 
-__
+___
 
 _Usein me ammattilaiset otamme vastuullemme asiakkaiden haasteita ja pyrimme keksimään keinoja ratkaista heidän haasteitaan. Mutta me emme voi kuitenkaan koskaan vaikuttaa asiakkaaseemme kovin paljoa, hänen päivittäisiin valintoihinsa, päätöksiinsä, biologiaansa, maailmankatsomukseensa tms. joka voi vaikuttaa ongelman olemassaoloon. Mutta ympäristöön, järjestettyyn arkeen ja omaan suhtautumiseemme me voimme vaikuttaa. Ratkaisuja voi siis haastavissa tilanteissa lähteäkin hakemaan ennemmin läheltä kuin kaukaa: niistä asioista joihin voimme helposti ja nopeasti vaikuttaa jokapäiväisessä työssä ja arjessa._
