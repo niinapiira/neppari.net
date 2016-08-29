@@ -42,13 +42,23 @@ ___
 
 ___
 
-## Uusi maksuton autismin kirjon nuorten pienryhmä täynnä!
+## Uuden autismin kirjon nuorten pienryhmän tarvetta selvtellään!
 
 Neppari on aloittanut pienryhmätoiminnan yhteistyössä [TSAU!ry:n](http://www.tsau.net/) kanssa.
-Toiminnalla kokeillaan pienimuotoisen ryhmätoiminnan hyötyjä autismin kirjon nuorille.
+Toiminnalla kokeillaan pienimuotoisen ryhmätoiminnan hyötyjä autismin kirjon nuorille (n.13-18-v).
 
-Ryhmä on aloittanut huhtikuussa ja on osallistujille maksuton.
+Ryhmä pyritään järjestämään nuorille maksuttomaksi, joten ryhmätoimintaan haetaan rahoitusta tarpeen mukaisesti. Tästä syystä tieto tarpeellisuudesta on tärkeää.
 
-Jatkossa samanlaisesta pienryhmätoiminnasta kiinnostuneet voivat olla yhteyksissä joko [TSAU!ry:hyn](http://www.tsau.net/) tai [Nepparin valmentajaan](/ota-yhteytta). Pyrimme hakemaan jatkossakin rahoitusta nuorten suoraan tukemiseen ja erityisesti ryhmämuotoiseen toimintaan, jos lisätarvetta ilmenee. =)
+Ensimmäinen ryhmä aloitti huhtikuussa.
+
+Jatkossa samanlaisesta pienryhmätoiminnasta kiinnostuneet voivat olla yhteyksissä joko [TSAU!ry:hyn](http://www.tsau.net/) tai [Nepparin valmentajaan](/ota-yhteytta). Pyrimme hakemaan jatkossakin rahoitusta nuorten suoraan tukemiseen ja erityisesti ryhmämuotoiseen toimintaan, kun tarvetta ilmenee. =)
 
 ___
+
+## Neppari on mukana järjestämässä Neuropsykiatriset valmentajat ry:n 10-vuotisjuhlaseminaaria Helsingissä 4.11.2016! =)
+
+Lisätietoja tapahtumasta: http://www.neuropsykiatrisetvalmentajat.fi/koulutuksia.php
+
+
+
+
