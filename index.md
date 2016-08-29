@@ -42,7 +42,7 @@ ___
 
 ___
 
-## Uuden autismin kirjon nuorten pienryhmän tarvetta selvtellään!
+## Uuden autismin kirjon nuorten pienryhmän tarvetta selvitellään!
 
 Neppari on aloittanut pienryhmätoiminnan yhteistyössä [TSAU!ry:n](http://www.tsau.net/) kanssa.
 Toiminnalla kokeillaan pienimuotoisen ryhmätoiminnan hyötyjä autismin kirjon nuorille (n.13-18-v).
