@@ -37,9 +37,10 @@ Nepparin tukipalveluihin voi hakea maksusitoumusta lääkäriltä, te-toimistost
 ___
 
 
-## Neppari on mukana Neuropsykiatriset valmentajat ry:n 10-vuotisjuhlaseminaarissa Helsingissä 4.11.2016! =)
+## Tule mukaan Neuropsykiatriset valmentajat ry:n 10-vuotisjuhlaseminaariin Helsinkiin 4.11.2016! =)
 
 Ohjelmassa on ajankohtaisia luentoja sekä kokemusasiantuntijoiden tarinoita.
+
 Katso lisätietoja tapahtumasta: http://www.neuropsykiatrisetvalmentajat.fi/koulutuksia.php
 
 __
