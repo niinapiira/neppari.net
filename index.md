@@ -28,7 +28,7 @@ Soita tai laita [sähköpostia](/ota yhteyttä) ja kysy lisää! =)
 
 ___
 
-## Miten Neppariin hakeudutaan?
+## Miten Nepparin valmennusta saa?
 
 Voit olla joko suoraan minuun yhteydessä tai puhua valmennustarpeesta lääkärin, sosiaalityöntekijän tai muun ammattilaisen kanssa.
 
