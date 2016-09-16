@@ -45,7 +45,7 @@ Katso lisätietoja tapahtumasta: http://www.neuropsykiatrisetvalmentajat.fi/koul
 
 __
 
-## Nepparin blogi!
+## Nepparin blogista tietoa valmennuksesta sekä neuropsykiatrisesta maailmasta!
 
 [Blogistani](/blogi) voit lukea ajatuksiani voimaantumisesta, valmennuksesta sekä yrittäjyydestä. Blogissa käsittelen rakentavasti ja ratkaisukeskeisesti yksilön hyvinvointia, ihmisyyttä sekä sosiaalialaa niiden tukipilarina.
 
