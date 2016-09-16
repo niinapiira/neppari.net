@@ -30,11 +30,19 @@ ___
 
 ## Miten Neppariin hakeudutaan?
 
-Voit hakeutua Nepparin tukipalveluihin pyytämällä maksusitoumusta lääkäriltä, te-toimistosta tai sosiaalityöntekijältä.
+Voit olla joko suoraan minuun yhteydessä tai puhua valmennustarpeesta lääkärin, sosiaalityöntekijän tai muun ammattilaisen kanssa.
 
-Voit myös olla suoraan minuun yhteydessä, niin pohditaan yhdessä tilannettasi!
+Nepparin tukipalveluihin voi hakea maksusitoumusta lääkäriltä, te-toimistosta tai sosiaalityöntekijältä.
 
 ___
+
+
+## Neppari on mukana Neuropsykiatriset valmentajat ry:n 10-vuotisjuhlaseminaarissa Helsingissä 4.11.2016! =)
+
+Ohjelmassa on ajankohtaisia luentoja sekä kokemusasiantuntijoiden tarinoita.
+Katso lisätietoja tapahtumasta: http://www.neuropsykiatrisetvalmentajat.fi/koulutuksia.php
+
+__
 
 ## Nepparin blogi!
 
@@ -54,11 +62,4 @@ Ensimmäinen ryhmä aloitti huhtikuussa.
 Jatkossa samanlaisesta pienryhmätoiminnasta kiinnostuneet voivat olla yhteyksissä joko [TSAU!ry:hyn](http://www.tsau.net/) tai [Nepparin valmentajaan](/ota-yhteytta). Pyrimme hakemaan jatkossakin rahoitusta nuorten suoraan tukemiseen ja erityisesti ryhmämuotoiseen toimintaan, kun tarvetta ilmenee. =)
 
 ___
-
-## Neppari on mukana järjestämässä Neuropsykiatriset valmentajat ry:n 10-vuotisjuhlaseminaaria Helsingissä 4.11.2016! =)
-
-Lisätietoja tapahtumasta: http://www.neuropsykiatrisetvalmentajat.fi/koulutuksia.php
-
-
-
 
