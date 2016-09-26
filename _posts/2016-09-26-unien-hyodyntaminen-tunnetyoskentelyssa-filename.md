@@ -5,7 +5,7 @@ page-title: Unien hyödyntäminen tunnetyöskentelyssä
 
 ![sumu.jpeg]({{site.baseurl}}/uploaded-images/sumu.jpeg)
 
-Unen merkityksestä ihmiselle on tehty useita eri teorioita ja unta tutkitaan nykyisellään mm. modernin teknologian avulla. On teorioita, joiden mukaan aivot siivouksen lisäksi hyödyntävät unta uhkiin varautumisessa sekä sosiaalisuuden ylläpitämisessä. Itse olen hyödyntänyt unia mm. tunnetyöskentelyn alustoina ja motivaattoreina esimerkiksi häiritsevien ja toistuvien painajaisten kanssa.
+**Unen merkityksestä ihmiselle on tehty useita eri teorioita ja unta tutkitaan nykyisellään mm. modernin teknologian avulla. On teorioita, joiden mukaan aivot siivouksen lisäksi hyödyntävät unta uhkiin varautumisessa sekä sosiaalisuuden ylläpitämisessä. Itse olen hyödyntänyt unia mm. tunnetyöskentelyn alustoina ja motivaattoreina esimerkiksi häiritsevien ja toistuvien painajaisten käsittelyyn.**
 
 Pelkäsin lapsena ja nuorena lähes kuollakseni pimeää, todennäköisesti hyvin vilkkaan ja visuaalisen miel(ikuvituks)eni ansiosta. En muista mitään tapahtumaa, joka olisi laukaissut nämä pelot ja painajaiset, mutta muistan tosielämän tilanteita, joissa jouduin kohtaamaan näitä pelkoja. Yleensä selvisin niistä voittajana, mutta ilmeisesti ne eivät riittäneet vakuuttamaan mieltäni siitä, että nämä pelot olivat turhia. Mieleni alkoi syöttämään minulle näitä pelkoja tilanteissa, joissa en voinut hallita tietoisuuttani ja sitä, mitä mieleni nostaa tietoisuuteeni: unissani.
 
@@ -58,5 +58,3 @@ Törmättyäni nuoruudessa J.K.Rowlingin Harry Potter -kirjasarjaan, rakastuin t
 
 Ei muuta kuin pelkoja kohti! =)
 Rohkeutta päiviisi ja hyviä unia öihisi. :)
-
-
