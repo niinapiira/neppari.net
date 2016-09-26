@@ -3,6 +3,7 @@ published: false
 page-title: Unien hyödyntäminen tunnetyöskentelyssä
 ---
 
+![sumu.jpeg]({{site.baseurl}}/uploaded-images/sumu.jpeg)
 
 Unen merkityksestä ihmiselle on tehty useita eri teorioita ja unta tutkitaan nykyisellään mm. modernin teknologian avulla. On teorioita, joiden mukaan aivot siivouksen lisäksi hyödyntävät unta uhkiin varautumisessa sekä sosiaalisuuden ylläpitämisessä. Itse olen hyödyntänyt unia mm. tunnetyöskentelyn alustoina ja motivaattoreina esimerkiksi häiritsevien ja toistuvien painajaisten kanssa.
 
