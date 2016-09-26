@@ -64,7 +64,7 @@ Varsinkin tiedostamattomat pelkomme estävät meitä usein elämästä sellaista
 
 ## Vaikeudet kuuluvat elämään
 
-Kun hyväksymme, että vaikeudet kuuluvat elämään, voimme tehdä elämässämme tietoisia valintoja: välttelenkö hankaluuksia vai lähdenkö rohkeasti tavoittelemaan haluamaani asiaa!? 
+Kun hyväksymme, että vaikeudet kuuluvat elämään, voimme tehdä elämässämme tietoisia valintoja: välttelenkö hankaluuksia vai lähdenkö rohkeasti tavoittelemaan haluamiani asioita!? 
 
 Emme pääse koskaan täysin eroon epämiellyttävistä tunteista, muistoista, ajatuksista ja kokemuksista, mutta juuri siitä syystä onkin tärkeää kohdata hankalat asiat, ettemme anna niiden pelotella ja pilata elämää jatkuvasti. Pelot on hyvä kohdata, sillä pelkoihin liittyy usein toimintaa estäviä ajatuksia ”siitä ei selviä”, ”se aiheuttaisi jotain aivan kamalaa” tai ”siitä ei koidu mitään hyvää”. Nämä ajatukset osoitetaan epätodeksi kokemuksella, toimimalla vastoin pelon ohjeita. Pelkojen kohtaaminen on myös ainut tapa voida toteuttaa oman näköistä elämää, sillä antaessa peloille päätösvallan elämässään, tulee todennäköisesti välttelemään itselleen tärkeitä asioita. Tämä siitä syystä, että elämä kun on sekä-että, saamme hyvän mukana aina myös pahaa: rakkauden mukana tulee kaipuuta ja surua, rikkauden mukana menetteämisen pelkoa ja kateutta.
 
