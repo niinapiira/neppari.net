@@ -68,8 +68,8 @@ Kun hyväksymme, että vaikeudet kuuluvat elämään, voimme tehdä elämässäm
 
 Emme pääse koskaan täysin eroon epämiellyttävistä tunteista, muistoista, ajatuksista ja kokemuksista, mutta juuri siitä syystä onkin tärkeää kohdata hankalat asiat, ettemme anna niiden pelotella ja pilata elämää jatkuvasti. Pelot on hyvä kohdata, sillä pelkoihin liittyy usein toimintaa estäviä ajatuksia ”siitä ei selviä”, ”se aiheuttaisi jotain aivan kamalaa” tai ”siitä ei koidu mitään hyvää”. Nämä ajatukset osoitetaan epätodeksi kokemuksella, toimimalla vastoin pelon ohjeita. Pelkojen kohtaaminen on myös ainut tapa voida toteuttaa oman näköistä elämää, sillä antaessamme pelkojen tehdä päätöksiä puolestamme, tulee todennäköisesti välttelemään itselleen tärkeitä asioita. Tämä siitä syystä, että hyvän mukana tulee aina myös pahaa: rakkauden mukana tulee kaipuuta ja surua, rikkauden mukana menetteämisen pelkoa ja kateutta.
 
-Kohtaa siis rohkeasti kaikki mitä elämä tarjoaa, ja muista, että pelot eivät voi meitä satuttaa!
-Kun olet valmis ottamaan vastaan kaiken mitä elämä tuo tullessaan, saat todennäkisesti hyvin paljon. =)
+Kohdataan siis rohkeasti kaikki mitä elämä tarjoaa, ja muistetaan, että pelot eivät voi meitä satuttaa!
+Kun on valmis ottamaan vastaan kaiken mitä elämä tuo tullessaan, saa todennäkisesti hyvin paljon. =)
 
 ___
 
