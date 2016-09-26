@@ -18,6 +18,8 @@ Jos vaadimme asiakkailta tai keneltä tahansa liikoja, tulemme aiheuttaneeksi tu
 
 Yllättävän usein ratkaisevat tekijät ovat hyvin yksikertaisia, vaikkakin ehkä sosiaalisesti epäsovinnaisia. Kuten erioikeudet. Jos kuitenkin ajatellaan asiaa autismin kirjon henkilön näkökulmasta, ei "tasa-arvoiset oikeudet" riitä heille, koska heidän tarpeensa ei vastaa valtaväestöä. Erioikeudet ovat autistiselle henkilölle oikeudenmukaisuutta, koska ne mahdollistavat yksilöllisten tarpeiden huomioimisen. Ne mahdollistavat tavallisen hyvän elämän. Itse asiassa juuri erioikeudet mahdollistavat tasa-arvoisuuden valtaväestön kanssa.
 
+## Tasa-arvosta oikeudenmukaisuuteen
+
 Kun yksilöllä on hyvin yksilölliset tarpeet, tarvitaan myös yksilöllisiä ratkaisuja. Fyysisiin vammoihin tarjotaan apuvälineitä ja tukihenkilöitä, sosiaalisiin vammoihin (eli vaikeuksiin sopeutua vallitsevaan yhteiskuntaan) täytyy tarjota vastaantulemista, helpotuksia, apuvälineitä ja tukea. Ja joskus hieman epäsovinnaisempia luovia ratkaisuja.
 
 Epäsovinnaisuus on yhteisössä sosiaalisesti määritelty raja siitä, mitä voi ja mitä ei voi. Nämä päätetyt rajat eivät ole universaaleja totuuksia, vaan ne ovat eri kulttuurissa erilaisina vallitsevia valintoja. Meidän ei kuitenkaan tarvitse antaa niiden turhaan rajata itseämme ja toisiamme, jos laki ei niin määrää. Voimme päättää toisin ja voimme muuttaa epäsovinnaisuuden rajaa.
