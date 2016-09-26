@@ -35,7 +35,7 @@ Jouduin siis lopulta kohtaamaan pelkoni.
 
 ## Painajaisten eli pelkojen kohtaaminen
 
-Kaikki edellämainittu taistelu painajaisista eroon pyrkiessäni ei ollut onneksi turhaa, sillä
+Vaikka en lopulta hyötynytkään  painajaisteni kanssa edellämainituista taidoista, niiden avulla opin mielen(i) toiminnasta valtavasti.
 a) Olin oppinut käyttämään tietoisuuttani niin, että pystyin hallitsemaan sen kohdistamisen, myös unissani.
 b) Olin oppinut näkemään selkounia, joka miellyttävissä, neutraaleissa ja erityisesti tylsissä unissa osoittautui oikein mukavalta taidolta voidessani päättää täysin mihin menen ja mitä teen.
 c) Olin tuonut pelkoni tietoisuuteen lähes päivittäin ajattelemalla niitä, jolloin käsitelin niitä aktiivisesti ja työskentelin näiden vaikeiden tunteitteni kanssa.
@@ -56,9 +56,11 @@ En tiedä, kuinka paljon tämä kokemuksen tuoma oppi on poikinut minulle hyvä�
 
 ## Miksi työstää piileviä pelkojani?
 
-Vaikka itse unitilannetta ei pystyisi hyödyntämään pelkojen kohtaamiseen, koska ei tiedosta olevansa unessa, voi pahoista unista hyötyä. Painajaiset ja unissa koetut epämiellyttävät kokemukset mahdollistavat alitajunnassamme piilevien ajatusten, tunteiden ja kokemusten tunnistamisen. Nämä sisimpään piiloutuneet salaisuutemme pyrkivät unissa pintaan ja haluavat tulla tietoisiksi ja näkyviksi. Puhumalla unistaan ja pohtimalla niitä saa mielensä sisällöistä paljon tietoa, ja käsittelemällä niitä voi työstää itselleen hankalia tunteita ja ajatuksia sekä kokemuksia.
+Vaikka itse unitilannetta ei pystyisi hyödyntämään pelkojen kohtaamiseen, koska ei tiedosta olevansa unessa, voi pahoista unista hyötyä. Painajaiset ja unissa koetut epämiellyttävät kokemukset mahdollistavat alitajunnassamme piilevien ajatusten, tunteiden ja kokemusten tunnistamisen. Nämä sisimpään piiloutuneet salaisuutemme pyrkivät unissa pintaan ja haluavat tulla tietoisiksi ja näkyviksi. Puhumalla unistaan ja pohtimalla niitä saa mielensä sisällöistä paljon tietoa ja käsittelemällä niitä voi työstää itselleen hankalia tunteita ja ajatuksia sekä kokemuksia.
 
-Unien tulkintaan ei tarvita erikoisosaamista tai unia selittäviä kirjoja, vaan riittää, että pohtii unissa toistuvia asioita: se on todennäköisesti tärkeä asia, jonka kanssa haluaisi päästä sopuun. Kukaan ei voi muuttaa menneisyyttä ja huonoja kokemuksia, eikä poistaa kokonaan pelkoja ja niiden aiheita, mutta vaikeiden kokemusten näkyväksi saattaminen purkaa niihin liitettyjä vahvoja tunteita ja haitallisia ajatuksia. Työstämällä niitä luodaan kokemukselle tilaa.
+Hankalia asioita on hyvä työstää, koska varsinkin tiedostamattomina ne usein estävät meitä elämästä sellaista elämää kuin haluamme. Todellisuuden ja unelmien välinen ristiriita johtuu usein siitä, että emme uskalla astua polulle kohti unelmiaan: se kun on täynnä kiviä, koloja ja juurrakoita. Emme halua tieten tahtoin asettaa itseämme alttiiksi vaikeuksille ja ongelmille. Tai näin mielemme meille vakuuttaa.
+
+Unien tulkintaan ei tarvita erikoisosaamista, vaan riittää, että pohtii unissa toistuvia teemoja: se on todennäköisesti tärkeä asia, jonka kanssa haluaisi päästä sopuun. Kukaan ei voi muuttaa menneisyyttä ja huonoja kokemuksia, eikä poistaa kokonaan pelkoja ja niiden aiheita, mutta vaikeiden kokemusten näkyväksi saattaminen purkaa niihin liitettyjä vahvoja tunteita ja haitallisia ajatuksia. 
 
 Emme pääse koskaan täysin eroon epämiellyttävistä tunteista, muistoista, ajatuksista ja kokemuksista, mutta juuri siitä syystä onkin tärkeää kohdata hankalat asiat, ettemme anna niiden pelotella ja pilata elämää jatkuvasti. Pelot on hyvä kohdata, sillä pelkoihin liittyy usein toimintaa estäviä ajatuksia ”siitä ei selviä”, ”se aiheuttaisi jotain aivan kamalaa” tai ”siitä ei koidu mitään hyvää”. Nämä ajatukset osoitetaan epätodeksi kokemuksella, toimimalla vastoin pelon ohjeita. Pelkojen kohtaaminen on myös ainut tapa voida toteuttaa oman näköistä elämää, sillä antaessa peloille päätösvallan elämässään, tulee todennäköisesti välttelemään itselleen tärkeitä asioita. Tämä siitä syystä, että elämä kun on sekä-että, saamme hyvän mukana aina myös pahaa: rakkauden mukana tulee kaipuuta ja surua, rikkauden mukana menetteämisen pelkoa ja kateutta.
 
