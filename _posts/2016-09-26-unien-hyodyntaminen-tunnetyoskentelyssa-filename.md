@@ -54,6 +54,8 @@ Pikkuhiljaa, aivan kuten painajaiset olivat uniini tulleetkin ja vahvistuneetkin
 
 En tiedä, kuinka paljon tämä kokemuksen tuoma oppi on poikinut minulle hyvää elämän varrella, mutta olen kyllä usein saanut huomata olevani rohkea. Tällä en tarkoita sitä, ettenkö olisi enää pelännyt, vaan sitä, että olin oppinut kohtaamaan pelkoni ja elämään peloistani huolimatta. Työssäni neuropsykiatrisena valmentajana olen kertonut tästä kokemuksestani asiakkaille, joilla on esim. koulukiusaustaustaa. Olen rohkaissut heitä hyödyntämään pahoja uniaan tunnetyöskentelyyn, jonka avulla käsitellään hankalia kokemuksia ja pelkoja, jotta saisimme niiltä rauhan.
 
+## Miksi työstää piileviä pelkojani?
+
 Vaikka itse unitilannetta ei pystyisi hyödyntämään pelkojen kohtaamiseen, koska ei tiedosta olevansa unessa, voi pahoista unista hyötyä. Painajaiset ja unissa koetut epämiellyttävät kokemukset mahdollistavat alitajunnassamme piilevien ajatusten, tunteiden ja kokemusten tunnistamisen. Nämä sisimpään piiloutuneet salaisuutemme pyrkivät unissa pintaan ja haluavat tulla tietoisiksi ja näkyviksi. Puhumalla unistaan ja pohtimalla niitä saa mielensä sisällöistä paljon tietoa, ja käsittelemällä niitä voi työstää itselleen hankalia tunteita ja ajatuksia sekä kokemuksia.
 
 Unien tulkintaan ei tarvita erikoisosaamista tai unia selittäviä kirjoja, vaan riittää, että pohtii unissa toistuvia asioita: se on todennäköisesti tärkeä asia, jonka kanssa haluaisi päästä sopuun. Kukaan ei voi muuttaa menneisyyttä ja huonoja kokemuksia, eikä poistaa kokonaan pelkoja ja niiden aiheita, mutta vaikeiden kokemusten näkyväksi saattaminen purkaa niihin liitettyjä vahvoja tunteita ja haitallisia ajatuksia. Työstämällä niitä luodaan kokemukselle tilaa.
