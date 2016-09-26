@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 page-title: Unien hyödyntäminen tunnetyöskentelyssä
 ---
 
