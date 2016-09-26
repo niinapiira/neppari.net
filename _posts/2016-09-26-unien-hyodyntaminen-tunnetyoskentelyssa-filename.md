@@ -52,9 +52,9 @@ Elämä on sekä-että, joten halutessamme hyvää joudumme aina kohtaamaan myö
 
 Kohtaa siis rohkeasti kaikki mitä elämä tarjoaa, niin saat paljon. =)
 
+___
 
-Törmättyäni nuoruudessa J.K.Rowlingin Harry Potter -kirjasarjaan, rakastuin täysin tähän upeasti mielikuvitettuun kertomukseen siitä, mitä rohkeus on ja kuinka se voi näyttäytyä niin monella tapaa; eri ihmisissä ja eri tilanteissa. Nyt, kirjoittaessani tätä blogikirjoitusta, huomaan selvän yhteyden ankeuttaja-painajaiseni ja Rowlingin Potter-kirjojen esittelemän rohkeus-vinkin välillä: Kun jokin asia pelottaa oikein paljon, ajattele jotain oikein voimauttavaa tai hassua, rakasta tai positiivista. Esimerkiksi tapahtumaa, ihmistä, esinettä tai ajatusta. Ja, ajatellessasi näin, tunne kuinka tämä ajatus muuttaa pelon tunnetta. Heikentää sitä, tai vääristää. Kääntää ehkä päälaelleen. Saattaa saada sen jopa näyttämään huvittavalta. Näin huomaat, että esimerkiksi näkökulman muutoksella ja huumorilla voit saada pelkosi näkymään uudesta perspektiivistä ja sen avulla se menettää voimaansa sinuun ja voit kohdata sen helpommin.
+_Törmättyäni nuoruudessa J.K.Rowlingin Harry Potter -kirjasarjaan, rakastuin täysin tähän upeasti mielikuvitettuun kertomukseen siitä, mitä rohkeus on ja kuinka se voi näyttäytyä niin monella tapaa; eri ihmisissä ja eri tilanteissa. Nyt, kirjoittaessani tätä blogikirjoitusta, huomaan selvän yhteyden ankeuttaja-painajaiseni ja Rowlingin Potter-kirjojen esittelemän rohkeus-vinkin välillä: Kun jokin asia pelottaa oikein paljon, ajattele jotain oikein voimauttavaa tai hassua, rakasta tai positiivista. Esimerkiksi tapahtumaa, ihmistä, esinettä tai ajatusta. Ja, ajatellessasi näin, tunne kuinka tämä ajatus muuttaa pelon tunnetta. Heikentää sitä, tai vääristää. Kääntää ehkä päälaelleen. Saattaa saada sen jopa näyttämään huvittavalta. Näin huomaat, että esimerkiksi näkökulman muutoksella ja huumorilla voit saada pelkosi näkymään uudesta perspektiivistä ja sen avulla se menettää voimaansa sinuun ja voit kohdata sen helpommin._
 
-
-Ei muuta kuin pelkoja kohti! =)
-Rohkeutta päiviisi ja hyviä unia öihisi. :)
+_Ei muuta kuin pelkoja kohti! =)
+Rohkeutta päiviisi ja hyviä unia öihisi. :)_
