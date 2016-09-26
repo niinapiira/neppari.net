@@ -52,7 +52,7 @@ Se, miten tämä sovinto varsinaisesti tapahtui unen symbolisessa maailmassa, ei
 
 Pikkuhiljaa, aivan kuten painajaiset olivat uniini tulleetkin ja vahvistuneetkin, ne heikkenivät, vähenivät ja lopulta hävisivät. Muistot jäivät vahvoina, mutta niiden avulla voin pitää aina mielessäni sen, mitä painajaisiltani opin: Pelot ovat mielen luomaa, eivätkä ne voi minua satuttaa. Pelot on tehty kohdattaviksi ja kohdatessa ne menettävät voimansa. (Koska pelot ovat vain mielessä, eivät todellisuudessa.)
 
-En tiedä, kuinka paljon tämä kokemuksen tuoma oppi on poikinut minulle hyvää elämän varrella, mutta olen kyllä usein saanut huomata olevani rohkea. Tällä en tarkoita sitä, ettenkö olisi enää pelännyt, vaan sitä, että olin oppinut kohtaamaan pelkoni ja elämään peloistani huolimatta. Työssäni neuropsykiatrisena valmentajana olen kertonut tästä kokemuksestani asiakkaille, joilla on esim. koulukiusaustaustaa. Olen rohkaissut heitä hyödyntämään pahoja uniaan tunnetyöskentelyyn, jonka avulla käsitellään hankalia kokemuksia ja pelkoja, jotta saisimme niiltä rauhan.
+En osaa arvioida kuinka paljon tämä kokemuksen tuoma oppi on poikinut minulle hyvää elämän varrella, mutta olen kyllä usein saanut huomata olevani rohkea. Tällä en tarkoita sitä, ettenkö olisi enää pelännyt, vaan sitä, että olin oppinut kohtaamaan pelkoni ja elämään peloistani huolimatta. Työssäni neuropsykiatrisena valmentajana olen kertonut tästä kokemuksestani asiakkaille, joilla on esim. koulukiusaamis-painajaisia. Olen rohkaissut heitä hyödyntämään pahoja uniaan tunnetyöskentelyyn, jonka avulla käsitellään hankalia kokemuksia ja pelkoja, jotta saisimme niiltä rauhan.
 
 ## Miksi työstää piileviä pelkojani?
 
