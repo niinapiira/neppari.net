@@ -56,7 +56,7 @@ En osaa arvioida kuinka paljon tämä kokemuksen tuoma oppi on poikinut minulle 
 
 ## Miksi työstää piileviä pelkoja?
 
-Vaikka itse unitilannetta ei pystyisi hyödyntämään pelkojen kohtaamiseen, koska ei tiedosta olevansa unessa, voi pahoista unista hyötyä. Painajaiset ja unissa koetut epämiellyttävät kokemukset mahdollistavat alitajunnassamme piilevien ajatusten, tunteiden ja kokemusten tunnistamisen. Nämä sisimpään piiloutuneet salaisuutemme pyrkivät unissa pintaan ja haluavat tulla tietoisiksi ja näkyviksi. Puhumalla unistaan ja pohtimalla niitä saa mielensä sisällöistä paljon tietoa. Käsittelemällä niitä voi työstää itselleen hankalia tunteita ja ajatuksia sekä kokemuksia.
+Vaikka varsinaista unitilannetta ei pystyisi hyödyntämään pelkojen kohtaamiseen, koska ei tiedosta olevansa unessa, voi pahoista unista hyötyä. Painajaiset ja unissa koetut epämiellyttävät kokemukset mahdollistavat alitajunnassamme piilevien ajatusten, tunteiden ja kokemusten tunnistamisen. Nämä sisimpään piiloutuneet salaisuutemme pyrkivät unissa pintaan ja haluavat tulla tietoisiksi ja näkyviksi. Puhumalla unistaan ja pohtimalla niitä saa mielensä sisällöistä paljon tietoa. Käsittelemällä niitä voi työstää itselleen hankalia tunteita ja ajatuksia sekä kokemuksia.
 
 Unien ja mielensä sisältöjen tulkintaan ei tarvita erikoisosaamista, vaan riittää, että pohtii unissa toistuvia teemoja: ne kertovat todennäköisesti itselle tärkeästä asiasta, jonka kanssa haluaisi päästä sopuun. Kukaan ei voi muuttaa menneisyyttä ja huonoja kokemuksia, eikä poistaa kokonaan pelkoja ja niiden aiheita, mutta vaikeiden kokemusten näkyväksi saattaminen purkaa niihin liitettyjä vahvoja tunteita ja haitallisia ajatuksia. 
 
