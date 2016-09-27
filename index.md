@@ -43,7 +43,8 @@ Ohjelmassa on ajankohtaisia luentoja sekä kokemusasiantuntijoiden tarinoita.
 
 Katso lisätietoja tapahtumasta: http://www.neuropsykiatrisetvalmentajat.fi/koulutuksia.php
 
-__
+___
+
 
 ## Nepparin blogista tietoa valmennuksesta sekä neuropsykiatrisesta maailmasta!
 
@@ -63,4 +64,3 @@ Ensimmäinen ryhmä aloitti huhtikuussa.
 Jatkossa samanlaisesta pienryhmätoiminnasta kiinnostuneet voivat olla yhteyksissä joko [TSAU!ry:hyn](http://www.tsau.net/) tai [Nepparin valmentajaan](/ota-yhteytta). Pyrimme hakemaan jatkossakin rahoitusta nuorten suoraan tukemiseen ja erityisesti ryhmämuotoiseen toimintaan, kun tarvetta ilmenee. =)
 
 ___
-
