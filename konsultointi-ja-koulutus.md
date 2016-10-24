@@ -1,7 +1,7 @@
 ---
 "page-title": Konsultointi ja koulutus
 "page-type": normal
-"navigation-order": 8
+"navigation-order": 9
 "show-in-navigation": true
 published: true
 permalink: "/konsultointi-ja-koulutus/"
