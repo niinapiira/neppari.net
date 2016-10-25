@@ -17,3 +17,5 @@ Valmennusta on mahdollista saada myös [etänä](/etavalmennus).
 > Ammattilaisten valmennuksen perushinta on 65e/krt, sisältäen arvonlisäveron. Hintaan lisätään tarvittaessa matkakulut.
 
 > Valmennusprosessista, tapaamisten pituudesta ja paikasta sekä tavoitteista sovitaan asiakaskohtaisesti kirjallisella sopimuksella.
+
+> Jos haluat kuulla lisää tai varata ajan valmennukseen, ota yhteyttä puhelimitse tai [sähköpostilla](/ota-yhteytta).
