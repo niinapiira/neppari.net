@@ -12,7 +12,8 @@ Valmennuksessa ammattilainen voi etsiä omaa potentiaaliaan ja vahvuuksiaan sek�
 
 Valmennuksessa valmentaja jakaa omaa osaamistaan ja antaa ammattilaiselle henkilökohtaisen kokemuksen valmentavasta ja voimavarakeskeisestä työotteesta.
 
+Valmennusta on mahdollista saada myös [etänä](/etavalmennus).
+
 > Ammattilaisten valmennuksen perushinta on 65e/krt, sisältäen arvonlisäveron. Hintaan lisätään tarvittaessa matkakulut.
 
 > Valmennusprosessista, tapaamisten pituudesta ja paikasta sekä tavoitteista sovitaan asiakaskohtaisesti kirjallisella sopimuksella.
-
