@@ -10,7 +10,7 @@ Ammattilaisille tarkoitettua valmennusta voi hyödyntää paitsi vertais-mentoro
 
 Valmennuksessa ammattilainen voi etsiä omaa potentiaaliaan ja vahvuuksiaan sekä saada ratkaisukeskeistä näkökulmaa ja keinoja haastavaan työhönsä.
 
-Valmennuksessa valmentaja jakaa omaa osaamistaan ja antaa ammattilaiselle henkilökohtaisen kokemuksen valmentavasta ja voimavarakeskeisestä työotteesta.
+Ammattilaisten valmennuksessa valmentaja jakaa omaa osaamistaan ja antaa ammattilaiselle henkilökohtaisen kokemuksen valmentavasta ja voimavarakeskeisestä työotteesta.
 
 Valmennusta on mahdollista saada myös [etänä](/etavalmennus).
 
