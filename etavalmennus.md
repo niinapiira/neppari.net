@@ -1,10 +1,8 @@
 ---
-"page-title": Etävalmennus
-"link-title": ""
-"page-type": normal
-"navigation-order": 4
-"show-in-navigation": true
-polaroid: ""
+page-title: Etävalmennus
+page-type: normal
+navigation-order: 4
+show-in-navigation: true
 permalink: /etavalmennus/
 published: true
 ---
@@ -14,7 +12,7 @@ published: true
 
 Nepparin valmennusta on mahdollista saada myös etänä omalta koneelta tai kännykältä käsin missä ikinä oletkin.
 
-Mahdollisia viestimiskanavia voi olla esimerkiksi sähköposti, Skype, Facebookin Messenger, tms.
+Mahdollisia viestimiskanavia voi olla esimerkiksi puhelin, sähköposti, Skype, Facebookin Messenger, tms.
 
 Etävalmennusuhteessa maksu hoidetaan aina ennen etävalmennustapaamista.
 
