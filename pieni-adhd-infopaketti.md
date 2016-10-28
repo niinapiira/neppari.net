@@ -29,11 +29,11 @@ On tärkeää ymmärtää, että ADHD:ta on huomattu olevan montaa eri "lajia".
 Tämä johtuu siitä, että ADHD ei ole varsinainen sairaus, joka olisi aina selkeästi rajattavissa ja todennettavissa.
 Jokaisen ihmisen ajatellaan olevan neurologisesti samalla janalla, mutta yksilöllisistä eroavaisuuksista johtuen jokainen kokee ja törmää aivojen aiheuttamiin haasteisiin eri tavoin.
 
-Aiheuttavat harvoin haittaa <-----------------------> Aiheuttavat usein haittaa
+Aiheuttaa harvoin haittaa <-----------------------> Aiheuttaa usein haittaa
 
-Yksilöllisiä eroavaisuuksia aiheuttaa mm. biologia, kokemukset, ympäristö, ja psyykkinen tila.
+Yksilöllisiä eroavaisuudet johtuvat mm. biologiasta, kokemuksista, ympäristöstä, ja psyykkisestä tilasta.
 
-Tästä johtuen jokainen ADHD-piirteinen ei välttämättä yllä aivan siihen päähän janaa, jossa ihmiselle annetaan diagnoosi. Toisaalta taas jokainen kokee joskus ADHD-tyyppisiä piirteitä itsessään, mutta harvemmin ne aiheuttavat suuria ongelmia.
+Tästä johtuen jokainen ADHD-piirteinen ei välttämättä yllä aivan siihen päähän janaa, jossa ihmiselle annetaan diagnoosi. Toisaalta tämä auttaa ymmärtämään, että jokainen kokee joskus ADHD-tyyppisiä piirteitä itsessään, mutta harvoilla ne aiheuttavat suuria ongelmia.
 
 Oleellista siis ei ole se, onko itsellä kaikki piirteet tai vastaavatko kuvaukset täysin itseä, vaan se, kuinka nämä piirteet hankaloittavat elämää ja johtuvatko ne aidosti aivojen neurologiasta vai muutettavissa olevista asioista. Neurologia on aivojemme synnynnäinen tapa toimia ja reagoida, joten ADHD-piirteiden oletetaan näkyneen jollain tavalla jo lapsena.
 
@@ -44,7 +44,7 @@ Ammattiapu ei ole aina tarpeen, vaan hyvät ihmissuhteet, avoimuus, vertaistuki 
 
 Jos piirteet ovat kuitenkin niin vahvoja tai häiritseviä, että ne vaikeuttavat huomattavasti opintoja, työelämää, ystävyyssuhteita, parisuhdetta, perhe-elämää, vanhemmuutta, jaksamista tai vaikka taloudenhoitoa, voi olla hyvä keskustella asiasta ammattilaisen kanssa. Yhdessä on helpompi punnita omaa tilannetta.
 
-Asiaa tuntevan ammattilaisen kanssa voit miettiä löytyykö sinulta vahvuuksia joilla voit kompensoida haastavia piirteitä tai onko elämässäsi valmiiksi ihmissuhteita, tapoja ja keinoja joiden avulla voit pärjätä haasteidesi kanssa.
+Asiaa tuntevan ammattilaisen tai läheisen kanssa voit miettiä löytyykö sinulta vahvuuksia joilla voit kompensoida haastavia piirteitä tai onko elämässäsi valmiiksi ihmissuhteita, tapoja ja keinoja joiden avulla voit pärjätä haasteidesi kanssa.
 
 Jos helposti toteutettavat tukitoimet eivät tunnu auttavan, on hyvä keskustella lääkärin tai sosiaalityöntekijän kanssa vahvempien tukitoimien tarpeesta, esimerkiksi neuropsykiatrisesta valmennuksesta.
 
