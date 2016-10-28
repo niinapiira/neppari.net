@@ -53,7 +53,9 @@ Oleellista siis ei ole se, onko itsellä kaikki piirteet tai vastaavatko kuvauks
 
 a) kuinka nämä piirteet hankaloittavat elämää ja jaksamista ja
 
-b) johtuvatko ne aidosti aivojen neurologiasta vai joistain muutettavissa ja parannettavissa olevista asioista. Neurologia on aivojemme synnynnäinen tapa toimia ja reagoida, joten ADHD-piirteiden oletetaan näkyneen jollain tavalla jo lapsena.
+b) johtuvatko ne aidosti aivojen neurologiasta vai joistain muutettavissa ja parannettavissa olevista asioista.
+
+> Neurologia on aivojemme synnynnäinen tapa toimia ja reagoida, joten ADHD-piirteiden oletetaan näkyneen jollain tavalla jo lapsena. Kaikilla ei kuitenkaan ole selkeitä oireta kuten ylivilkkautta.
 
 ___
 
