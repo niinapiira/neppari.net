@@ -43,7 +43,11 @@ Yksilöllisiä eroavaisuudet johtuvat mm. biologiasta, kokemuksista, ympäristö
 
 Tästä johtuen jokainen ADHD-piirteinen ei välttämättä yllä aivan siihen päähän janaa, jossa ihmiselle annetaan diagnoosi. Toisaalta tämä auttaa ymmärtämään, että jokainen kokee joskus ADHD-tyyppisiä piirteitä itsessään, mutta harvoilla ne aiheuttavat suuria ongelmia.
 
-Oleellista siis ei ole se, onko itsellä kaikki piirteet tai vastaavatko kuvaukset täysin itseä, vaan se, kuinka nämä piirteet hankaloittavat elämää ja johtuvatko ne aidosti aivojen neurologiasta vai muutettavissa olevista asioista. Neurologia on aivojemme synnynnäinen tapa toimia ja reagoida, joten ADHD-piirteiden oletetaan näkyneen jollain tavalla jo lapsena.
+Oleellista siis ei ole se, onko itsellä kaikki piirteet tai vastaavatko kuvaukset täysin itseä, vaan se
+
+a) kuinka nämä piirteet hankaloittavat elämää ja
+
+b) johtuvatko ne aidosti aivojen neurologiasta vai muutettavissa olevista asioista. Neurologia on aivojemme synnynnäinen tapa toimia ja reagoida, joten ADHD-piirteiden oletetaan näkyneen jollain tavalla jo lapsena.
 
 ## Milloin hakea apua tilanteeseensa?
 
