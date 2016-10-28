@@ -23,10 +23,16 @@ Tässä joitain piirteitä, jotka voivat viitata ADHD:hen:
 - tavaroiden hukkuminen
 - asioiden unohtelu
 
-On tärkeää ymmärtää, että ADHD:ta on huomattu olevan montaa eri "lajia", koska ADHD ei ole varsinainen sairaus, joka olisi selkeästi rajattavissa ja todennettavissa. Jokaisen ihmisen ajatellaan olevan neurologisesti samalla janalla, joka pitää sisällään muitakin piirteitäö kuin vain ADHD.
+## Voiko minulla sitten olla ADHD?
+
+On tärkeää ymmärtää, että ADHD:ta on huomattu olevan montaa eri "lajia", koska ADHD ei ole varsinainen sairaus, joka olisi selkeästi rajattavissa ja todennettavissa.
+Jokaisen ihmisen ajatellaan olevan neurologisesti samalla janalla, mutta yksilöllisistä eroavaisuuksista johtuen jokainen kokee ja törmää aivojen aiheuttamiin haasteisiin eri tavoin.
 
 Aiheuttavat harvoin haittaa <-----------------------> Aiheuttavat usein haittaa
 
+Tästä johtuen jokainen ADHD-piirteinen ei välttämättä yllä aivan siihen päähän janaa, jossa ihmiselle annetaan diagnoosi. Toisaalta taas jokainen kokee joskus ADHD-tyyppisiä piirteitä itsessään, mutta harvemmin ne aiheuttavat suuria ongelmia.
+
+Oleellista siis ei ole se, onko itsellä kaikki piirteet tai vastaavatko kuvaukset täysin itseä, vaan 
 
 ## Milloin hakea apua tilanteeseensa?
 
