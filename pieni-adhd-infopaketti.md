@@ -11,6 +11,10 @@ Siksi se vaikuttaa henkilön toimintakykyyn ja oman toiminnan tavoitteelliseen o
 
 > Olen koonnut tälle sivulle pienen infopaketin, jonka avulla sinun on helpompi selvittää, voisiko sinulla olla viitteitä ADHD:sta, ja miten voit tutkia asiaa sekä saada haasteisiisi apua.
 
+Sisältö:
+Tietoa ADHD:sta
+Vaikeaa? Ota yhteyttä – autan mielelläni!
+
 ___
 
 ## Tietoa ADHD:sta
@@ -37,7 +41,7 @@ Tässä joitain piirteitä, jotka voivat viitata ADHD:hen:
 
 ___
 
-## Voiko minulla sitten olla ADHD?
+## Voiko minulla olla ADHD?
 
 On tärkeää ymmärtää, että ADHD:ta on huomattu olevan montaa eri "lajia".
 Tämä johtuu siitä, että ADHD ei ole varsinainen sairaus, joka olisi aina selkeästi rajattavissa ja todennettavissa.
