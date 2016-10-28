@@ -12,13 +12,21 @@ Siksi se vaikuttaa henkilön toimintakykyyn ja oman toiminnan tavoitteelliseen o
 > Olen koonnut tälle sivulle pienen infopaketin, jonka avulla sinun on helpompi selvittää, voisiko sinulla olla viitteitä ADHD:sta, ja miten voit tutkia asiaa sekä saada haasteisiisi apua.
 
 Sisältö:
+
 Tietoa ADHD:sta
+
 Voiko minulla olla ADHD?
+
 Milloin on hyvä hakea apua tilanteeseeni?
+
 Jos epäilet että sinulla voisi olla ADHD ->ohjeet!
+
 Miksi neuropsykiatrinen valmennus voi auttaa sinua?
+
 Näin pääset käytännössä valmennukseen!
+
 Miten valmennukseen on varaa?
+
 Vaikeaa? Ota yhteyttä – autan mielelläni!
 
 ___
