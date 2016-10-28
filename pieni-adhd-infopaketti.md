@@ -132,7 +132,9 @@ ___
 Ota yhteyttä johonkin lähelläsi toimivaan neuropsykiatriseen valmentajaan ja keskustele tilanteestasi.
 Voit myös puhua asiasta sosiaalityöntekijäsi, lääkärisi tai muun ammattilaisen kanssa.
 
-[Nepparin](/) valmennukseen pääsevät kaikki pirkanmaalaiset ja miksi ei kauempaakin kulkevat. Diagnoosia ei tarvita, vaan pelkkä tuen tarve riittää. Voit varata ajan valmennuksen alkukartoitukseen joko [sähköpostitse](/ota-yhteytta), laittamalla [facebookin messengerviestin](https://www.facebook.com/valmennuskeskus.neppari/) tai soittamalla/tekstaamalla minulle numeroon 040-9349954. =)
+[Nepparin](/) valmennukseen pääsevät kaikki pirkanmaalaiset ja miksi ei kauempaakin kulkevat. Diagnoosia ei tarvita, vaan pelkkä tuen tarve riittää.
+
+Voit varata ajan valmennuksen alkukartoitukseen joko [sähköpostitse](/ota-yhteytta), laittamalla [facebookin messengerviestin](https://www.facebook.com/valmennuskeskus.neppari/) tai soittamalla/tekstaamalla minulle numeroon 040-9349954. =)
 
 ___
 
