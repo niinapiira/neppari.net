@@ -23,9 +23,9 @@ Jos epäilet että sinulla voisi olla ADHD ->ohjeet!
 
 Miksi neuropsykiatrinen valmennus voi auttaa sinua?
 
-Näin pääset käytännössä valmennukseen!
-
 Miten valmennukseen on varaa?
+
+Näin pääset käytännössä valmennukseen!
 
 Vaikeaa? Ota yhteyttä – autan mielelläni!
 
