@@ -3,7 +3,7 @@ page-title: Pieni ADHD-infopaketti
 page-type: normal
 navigation-order: 99
 show-in-navigation: false
-published: false
+published: true
 ---
 
 ADHD on oireyhtymä, joka vaikuttaa henkilön aktiivisuuteen ja tarkkaavuuteen hankaloittaen keskittymistä ja aiheuttaen joillain myös yliaktiivisuutta ja impulsiivisuutta.
