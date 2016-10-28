@@ -45,7 +45,7 @@ Tästä johtuen jokainen ADHD-piirteinen ei välttämättä yllä aivan siihen p
 
 Oleellista siis ei ole se, onko itsellä kaikki piirteet tai vastaavatko kuvaukset täysin itseä, vaan se
 
-a) kuinka nämä piirteet hankaloittavat elämää ja
+a) kuinka nämä piirteet hankaloittavat elämää ja jaksamista ja
 
 b) johtuvatko ne aidosti aivojen neurologiasta vai muutettavissa olevista asioista. Neurologia on aivojemme synnynnäinen tapa toimia ja reagoida, joten ADHD-piirteiden oletetaan näkyneen jollain tavalla jo lapsena.
 
