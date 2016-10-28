@@ -77,7 +77,7 @@ ___
 ## Jos epäilet että sinulla voisi olla ADHD:
 
 * Voit lukea virallista ja tutkittua tietoa ADHD:sta [täältä](http://www.kaypahoito.fi/web/kh/suositukset/suositus?id=hoi50061#NaN).
-* Voit käydä läpi erilaisia oireita [tästä](https://paivitasala.wordpress.com/testeja/addadhd-testi/).
+* Voit käydä läpi erilaisia oireita [täältä](https://paivitasala.wordpress.com/testeja/addadhd-testi/).
 * Voit saada neuvontaa ja löytää oppaita ADHD:seen [täältä](http://www.adhd-liitto.fi/).
 * Voit saada vertaistukea kasvotusten mm. [täältä](http://adhd-aikuiset.org/portal/) ja [täältä](http://www.adhd-liitto.fi/vertaistuki/vertaistukiryhmat).
 * Voit saada vertaistukea verkossa mm. [täältä](https://www.facebook.com/groups/ADHD.vt/), [täältä](https://www.facebook.com/groups/ADHDn.arki/), vanhemmat [täältä](https://www.facebook.com/groups/630577190335018/?fref=ts) ja nuoret [täältä](https://www.facebook.com/groups/adhdnuortenvt/?fref=ts).
