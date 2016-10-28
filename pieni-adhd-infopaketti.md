@@ -54,12 +54,13 @@ ___
 
 ## Jos epäilet että sinulla voisi olla ADHD:
 
-* Voit lukea virallista tietoa ADHD:sta [täältä](http://www.kaypahoito.fi/web/kh/suositukset/suositus?id=hoi50061#NaN) ja [täältä](http://adhdtutuksi.fi/)
+* Voit lukea virallista ja tutkittua tietoa ADHD:sta [täältä](http://www.kaypahoito.fi/web/kh/suositukset/suositus?id=hoi50061#NaN) ja [täältä](http://adhdtutuksi.fi/)
 * Voit käydä läpi erilaisia oireita [tästä](https://paivitasala.wordpress.com/testeja/addadhd-testi/)
 * Voit saada neuvontaa ja löytää oppaita ADHD:seen [täältä](http://www.adhd-liitto.fi/)
 * Voit saada vertaistukea kasvotusten mm. [täältä](http://adhd-aikuiset.org/portal/) ja [täältä](http://www.adhd-liitto.fi/vertaistuki/vertaistukiryhmat)
 * Voit saada vertaistukea verkossa mm. [täältä](https://www.facebook.com/groups/ADHD.vt/), [täältä](https://www.facebook.com/groups/ADHDn.arki/), vanhemmat [täältä](https://www.facebook.com/groups/630577190335018/?fref=ts) ja nuoret [täältä](https://www.facebook.com/groups/adhdnuortenvt/?fref=ts).
-
+* Voit hakeutua tutkimuksiin omalääkärin kautta. Tutkimuksia varten sinun on hyvä pyytää oma vanhempi mukaan lääkäriin, koska oireita tulee olla selvästi näkyvissä jo lapsuudessa. Mukaan kannattaa kerätä asiakirjoja myös kaikista hoitopaikoistasi: lastenneuvolasta, päiväkodista, kouluterveydenhuollosta, perheneuvolasta, psykologilta, terapeutilta ja esim. sosiaalitoimesta. Myös koulutodistukset voivat olla hyvä näyttää lääkärille. Tutkimuksissa selvitetään yleensä myös muut mahdolliset syyt haasteillesi: päihteet, psyykkinen vointi ja elimelliset sairaudet.
+* Voit saada erilaisia tukitoimia myös ilman diagnoosia, oireiden ja haasteiden perusteella. Tällaisia tukitoimia voi olla vanhempainohjaus ja päiväkodin tai koulun erityistuki, kognitiivinen käyttäytymisterapia, toimintaterapia, neuropsykologinen kuntoutus, sopeutumisvalmennuskurssit sekä [neuropsykiatrinen valmennus](/valmennus)
 ___
 
 ## Miksi neuropsykiatrinen valmennus voi auttaa sinua?
