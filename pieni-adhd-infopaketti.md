@@ -19,7 +19,7 @@ ADHD ei aiheuta ainoastaan ongelmia, vaan aivojen toiminnan erilaisuus saa aikaa
 
 Tässä joitain piirteitä, jotka voivat viitata ADHD:hen:
 
-- vaikeus keskittyä ja välillä niin vahva keskittyminen, että ajantaju katoaa
+- vaikeus keskittyä ja toisaalta välillä niin vahva keskittyminen, että ajantaju katoaa
 
 - vaikeus seurata keskustelua, ohjeita ja vaativia tehtäviä
 
