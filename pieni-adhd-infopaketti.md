@@ -51,7 +51,9 @@ Oleellista siis ei ole se, onko itsellä kaikki piirteet tai vastaavatko kuvauks
 
 a) kuinka nämä piirteet hankaloittavat elämää ja jaksamista ja
 
-b) johtuvatko ne aidosti aivojen neurologiasta vai muutettavissa olevista asioista. Neurologia on aivojemme synnynnäinen tapa toimia ja reagoida, joten ADHD-piirteiden oletetaan näkyneen jollain tavalla jo lapsena.
+b) johtuvatko ne aidosti aivojen neurologiasta vai joistain muutettavissa ja parannettavissa olevista asioista. Neurologia on aivojemme synnynnäinen tapa toimia ja reagoida, joten ADHD-piirteiden oletetaan näkyneen jollain tavalla jo lapsena.
+
+___
 
 ## Milloin on hyvä hakea apua tilanteeseensa?
 
@@ -78,6 +80,8 @@ ___
 * Voit hakeutua tutkimuksiin omalääkärin kautta. Tutkimuksia varten sinun on hyvä pyytää oma vanhempi mukaan lääkäriin, koska oireita tulee olla selvästi näkyvissä jo lapsuudessa. Mukaan kannattaa kerätä asiakirjoja myös kaikista hoitopaikoistasi: lastenneuvolasta, päiväkodista, kouluterveydenhuollosta, perheneuvolasta, psykologilta, terapeutilta ja esim. sosiaalitoimesta. Myös koulutodistukset voivat olla hyvä näyttää lääkärille. Tutkimuksissa selvitetään yleensä myös muut mahdolliset syyt haasteillesi: päihteet, psyykkinen vointi ja elimelliset sairaudet.
 * Voit saada erilaisia tukitoimia myös ilman diagnoosia, oireiden ja haasteiden perusteella. Tällaisia tukitoimia voi olla vanhempainohjaus ja päiväkodin tai koulun erityistuki, kognitiivinen käyttäytymisterapia, toimintaterapia, neuropsykologinen kuntoutus, sopeutumisvalmennuskurssit tai näitä kaikkia mainittuja sisältävä [neuropsykiatrinen valmennus](/valmennus).
 
+___
+
 ## Miksi neuropsykiatrinen valmennus voi auttaa sinua?
 
 Neuropsykiatrinen valmennus on suunniteltu tueksi juuri ADHD-piirteiden kanssa painiville henkilöille. Valmennus sopii kaiken ikäisille ja tasoisille henkilöille ja se sisältää monipuolisesti erilaisia tukimenetelmiä.
@@ -103,6 +107,8 @@ Neuropsykiatriseen valmennukseen ei voi vielä tällä hetkellä saada KELA:lta 
 Ellei sinulla tai perheelläsi ole varaa maksaa valmennusta itse, voit pyytää maksusitoumusta kunnaltasi. Maksusitoumusta voi anoa sosiaalitoimesta ja lääkäriltä, joissain kunnissa myös te-toimistosta. Kunnat tarjoavat maksusitoumuksia neuropsykiatriseen valmennukseen hyvin vaihtelevasti, mutta kokiessasi aidosti vahvaa tuen tarvetta ei kannata luovuttaa heti ensimmäisten kieltävien päätösten edessä. Pyydä apua ja tukea myös hakuprosessiin esim. läheisiltä tai tutulta ammattilaiselta.
 
 Joillain kunnilla voi olla myös omia valmentajia tai sopimus jonkun valmennuspalvelun kanssa. Jos kuitenkin haluaisit jonkun tietyn valmentajan tueksesi, on sinulla oikeus vaikuttaa itseäsi koskeviin päätöksiin  perustuslaki, lastensuojelulaki, lait potilaan ja sosiaalihuollon asiakkaan asemasta ja oikeuksista, hallintolaki, vammasilaki, 
+
+___
 
 ## Vaikeaa? Ota yhteyttä – autan mielelläni!
 
