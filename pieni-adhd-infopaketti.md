@@ -115,12 +115,7 @@ Valmentaja on ammattilainen muutoksen ohjaamisessa, mutta valmentaja ei lähde o
 
 Niiltä osin, kun ADHD estää sinua toimimasta haluamallasi tavalla tukitoimista huolimatta, valmentaja auttaa sinua oppimaan armollisuutta, myötätuntoa ja hyväksyntää itseäsi kohtaan. Kaikkea ei voi muuttaa, mutta silloin voi oppia hyväksymään. =)
 
-## Näin pääset käytännössä valmennukseen:
-
-Ota yhteyttä johonkin lähelläsi toimivaan neuropsykiatriseen valmentajaan ja keskustele tilanteestasi.
-Voit myös puhua asiasta sosiaalityöntekijäsi, lääkärisi tai muun ammattilaisen kanssa.
-
-[Nepparin](/) valmennukseen pääsevät kaikki pirkanmaalaiset ja miksi ei kauempaakin kulkevat. Diagnoosia ei tarvita, vaan pelkkä tuen tarve riittää. Voit varata ajan valmennuksen alkukartoitukseen joko [sähköpostitse](/ota-yhteytta), laittamalla [facebookin messengerviestin](https://www.facebook.com/valmennuskeskus.neppari/) tai soittamalla/tekstaamalla minulle numeroon 040-9349954. =)
+___
 
 ## Miten valmennukseen on varaa?
 
@@ -128,7 +123,16 @@ Neuropsykiatriseen valmennukseen ei voi vielä tällä hetkellä saada KELA:lta 
 
 Ellei sinulla tai perheelläsi ole varaa maksaa valmennusta itse, voit pyytää maksusitoumusta kunnaltasi. Maksusitoumusta voi anoa sosiaalitoimesta ja lääkäriltä, joissain kunnissa myös te-toimistosta. Kunnat tarjoavat maksusitoumuksia neuropsykiatriseen valmennukseen hyvin vaihtelevasti, mutta kokiessasi aidosti vahvaa tuen tarvetta ei kannata luovuttaa heti ensimmäisten kieltävien päätösten edessä. Pyydä apua ja tukea myös hakuprosessiin esim. läheisiltä tai tutulta ammattilaiselta.
 
-Joillain kunnilla voi olla myös omia valmentajia tai sopimus jonkun valmennuspalvelun kanssa. Jos kuitenkin haluaisit jonkun tietyn valmentajan tueksesi, on sinulla oikeus vaikuttaa itseäsi koskeviin päätöksiin  perustuslaki, lastensuojelulaki, lait potilaan ja sosiaalihuollon asiakkaan asemasta ja oikeuksista, hallintolaki, vammasilaki, 
+Joillain kunnilla voi olla myös omia valmentajia tai sopimus jonkun valmennuspalvelun kanssa. Jos kuitenkin haluaisit jonkun tietyn valmentajan tueksesi, on sinulla oikeus vaikuttaa itseäsi koskeviin päätöksiin (perustuslaki, lastensuojelulaki, lait potilaan ja sosiaalihuollon asiakkaan asemasta ja oikeuksista, hallintolaki, vammaislaki).
+
+___
+
+## Näin pääset käytännössä valmennukseen:
+
+Ota yhteyttä johonkin lähelläsi toimivaan neuropsykiatriseen valmentajaan ja keskustele tilanteestasi.
+Voit myös puhua asiasta sosiaalityöntekijäsi, lääkärisi tai muun ammattilaisen kanssa.
+
+[Nepparin](/) valmennukseen pääsevät kaikki pirkanmaalaiset ja miksi ei kauempaakin kulkevat. Diagnoosia ei tarvita, vaan pelkkä tuen tarve riittää. Voit varata ajan valmennuksen alkukartoitukseen joko [sähköpostitse](/ota-yhteytta), laittamalla [facebookin messengerviestin](https://www.facebook.com/valmennuskeskus.neppari/) tai soittamalla/tekstaamalla minulle numeroon 040-9349954. =)
 
 ___
 
