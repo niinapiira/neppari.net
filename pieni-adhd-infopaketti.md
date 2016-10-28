@@ -9,7 +9,7 @@ published: true
 ADHD on oireyhtymä, joka vaikuttaa henkilön aktiivisuuteen ja tarkkaavuuteen hankaloittaen keskittymistä ja aiheuttaen joillain myös yliaktiivisuutta ja impulsiivisuutta.
 Siksi se vaikuttaa henkilön toimintakykyyn ja oman toiminnan tavoitteelliseen ohjaamiseen.
 
-Olen koonnut tälle sivulle pienen infopaketin, jonka avulla sinun on helpompi selvittää, voisiko sinulla olla viitteitä ADHD:sta, ja miten voit tutkia asiaa sekä saada haasteisiisi apua.
+> Olen koonnut tälle sivulle pienen infopaketin, jonka avulla sinun on helpompi selvittää, voisiko sinulla olla viitteitä ADHD:sta, ja miten voit tutkia asiaa sekä saada haasteisiisi apua.
 
 ___
 
