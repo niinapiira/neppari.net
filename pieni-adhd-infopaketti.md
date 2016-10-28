@@ -19,7 +19,7 @@ Voiko sinullakin olla ADHD?
 
 Milloin on hyvä hakea apua tilanteeseesi?
 
-Jos epäilet että sinulla voisi olla ADHD ->ohjeet!
+Jos epäilet että sinulla voisi olla ADHD --> ohjeet!
 
 Miksi neuropsykiatrinen valmennus voi auttaa sinua?
 
