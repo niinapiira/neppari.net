@@ -91,7 +91,7 @@ ___
 Neuropsykiatrinen valmennus on suunniteltu tueksi juuri ADHD-piirteiden kanssa painiville henkilöille. Valmennus sopii kaiken ikäisille ja tasoisille henkilöille ja se sisältää monipuolisesti erilaisia tukimenetelmiä.
 Valmennus suunnitellaan ja toteutetaan aina juuri sinulle parhaiten sopivalla tavalla, joustavasti ja tarpeitasi huomioiden.
 
-Mutta ennen kaikkea valmennuksen toimivuus perustuu siihen, että siinä huomioidaan sinun elämäsi kokonaisuutena! Valmentaja voi auttaa sinua kaikessa, missä toinen ihminen voi olla toiselle tukena: niin kotonasi, kaupassa, virastoissa kuin lääkärillä, niin vapaa-ajalla, työssä kuin ihmissuhteissa, niin raha-asioissa, arjenhallinnassa, tunnetyöskentelyssä kuin siisteydessäkin. Valmentaja ei ole kuitenkaan pelkkä tukihenkilö, vaan valmentaja valmentaa sinua järjestämään elämäsi niin, että se sujuu.
+Mutta ennen kaikkea valmennuksen toimivuus perustuu siihen, että siinä huomioidaan sinun elämäsi kokonaisuutena! Valmentaja voi auttaa sinua kaikessa, missä toinen ihminen voi olla toiselle tukena: niin kotonasi, kaupassa, virastoissa kuin lääkärillä, niin vapaa-ajalla, työssä kuin ihmissuhteissa, niin raha-asioissa, arjenhallinnassa, tunnetyöskentelyssä kuin siisteydessäkin. Valmentaja ei ole kuitenkaan pelkkä tukihenkilö, vaan valmentaja valmentaa sinua järjestämään itse elämäsi niin, että se sujuu.
 
 Valmentaja on ammattilainen muutoksen ohjaamisessa, mutta valmentaja ei lähde ohjaamaan sinua. Sinä päätät edelleen itse kaiken omasta elämästäsi ja tiedät itse, mihin pystyt ja mihin ryhdyt. Valmentaja toimii tukenasi auttaen sinua pääsemään tavoitteisiisi ja auttaen sinua ymmärtämään aivojesi toimintaa. Näin saat oman toimintasi ja elämäsi mahdollisimman hyvin hallintaasi.
 
