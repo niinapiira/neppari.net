@@ -62,9 +62,9 @@ Ammattiapu ei ole aina tarpeen, vaan hyvät ihmissuhteet, avoimuus, vertaistuki 
 
 Jos piirteet ovat kuitenkin niin vahvoja tai häiritseviä, että ne vaikeuttavat huomattavasti opintoja, työelämää, ystävyyssuhteita, parisuhdetta, perhe-elämää, vanhemmuutta, jaksamista tai vaikka taloudenhoitoa, voi olla hyvä keskustella asiasta ammattilaisen kanssa. Yhdessä on helpompi punnita omaa tilannetta.
 
-Asiaa tuntevan ammattilaisen tai läheisen kanssa voit miettiä löytyykö sinulta vahvuuksia joilla voit kompensoida haastavia piirteitä tai onko elämässäsi valmiiksi ihmissuhteita, tapoja ja keinoja joiden avulla voit pärjätä haasteidesi kanssa.
+Asiaa tuntevan ammattilaisen tai muun henkilön kanssa voit miettiä löytyykö sinulta vahvuuksia joilla voit kompensoida haastavia piirteitä tai onko elämässäsi valmiiksi ihmissuhteita, tapoja ja keinoja joiden avulla voit pärjätä haasteidesi kanssa.
 
-Jos helposti toteutettavat tukitoimet eivät tunnu auttavan, on hyvä keskustella lääkärin tai sosiaalityöntekijän kanssa vahvempien tukitoimien tarpeesta, esimerkiksi neuropsykiatrisesta valmennuksesta.
+Jos helposti toteutettavat tukitoimet (läheiset, koulu, työtoverit ja sosiaalityö) eivät tunnu auttavan, on hyvä keskustella lääkärin tai sosiaalityöntekijän kanssa vahvempien tukitoimien tarpeesta, esimerkiksi neuropsykiatrisesta valmennuksesta.
 
 > Hyvänä ohjenuorana tuen tarpeesta voi pitää ajatusta siitä, että elämä on kaikille haastavaa, mutta pelkkää selviytymistä sen ei pitäisi olla!
 
