@@ -60,6 +60,8 @@ ___
 * Voit saada vertaistukea kasvotusten mm. [täältä](http://adhd-aikuiset.org/portal/) ja [täältä](http://www.adhd-liitto.fi/vertaistuki/vertaistukiryhmat)
 * Voit saada vertaistukea verkossa mm. [täältä](https://www.facebook.com/groups/ADHD.vt/), [täältä](https://www.facebook.com/groups/ADHDn.arki/), vanhemmat [täältä](https://www.facebook.com/groups/630577190335018/?fref=ts) ja nuoret [täältä](https://www.facebook.com/groups/adhdnuortenvt/?fref=ts).
 
+___
+
 ## Miksi neuropsykiatrinen valmennus voi auttaa sinua?
 
 Neuropsykiatriseen valmennus on aivan parasta, koska... Neljä lausetta
