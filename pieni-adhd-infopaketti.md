@@ -11,6 +11,8 @@ Siksi se vaikuttaa henkilön toimintakykyyn ja oman toiminnan tavoitteelliseen o
 
 Olen koonnut tälle sivulle pienen infopaketin, jonka avulla sinun on helpompi selvittää, voisiko sinulla olla viitteitä ADHD:sta, ja miten voit tutkia asiaa sekä saada haasteisiisi apua.
 
+___
+
 ## Tietoa ADHD:sta
 
 ADHD-piirteet voivat ilmetä hyvin monella tavalla ja jokainen ADHD-piirteitä omaava henkilö eroaa toisistaan aivan kuten jokainen meistä.
@@ -30,6 +32,8 @@ Tässä joitain piirteitä, jotka voivat viitata ADHD:hen:
 - tavaroiden hukkuminen
 
 - asioiden unohtelu
+
+___
 
 ## Voiko minulla sitten olla ADHD?
 
