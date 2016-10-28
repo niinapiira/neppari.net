@@ -48,7 +48,7 @@ Asiaa tuntevan ammattilaisen tai läheisen kanssa voit miettiä löytyykö sinul
 
 Jos helposti toteutettavat tukitoimet eivät tunnu auttavan, on hyvä keskustella lääkärin tai sosiaalityöntekijän kanssa vahvempien tukitoimien tarpeesta, esimerkiksi neuropsykiatrisesta valmennuksesta.
 
-> Hyvänä ohjenuorana voi pitää ajatusta siitä, että elämä on kaikille haastavaa, mutta pelkkää selviytymistä sen ei pitäisi olla!
+> Hyvänä ohjenuorana tuen tarpeesta voi pitää ajatusta siitä, että elämä on kaikille haastavaa, mutta pelkkää selviytymistä sen ei pitäisi olla!
 
 ___
 
@@ -77,6 +77,8 @@ Niiltä osin, kun ADHD estää sinua toimimasta haluamallasi tavalla tukitoimist
 
 Ota yhteyttä johonkin lähelläsi toimivaan neuropsykiatriseen valmentajaan ja keskustele tilanteestasi.
 Voit myös puhua asiasta sosiaalityöntekijäsi, lääkärisi tai muun ammattilaisen kanssa.
+
+[Nepparin](http://neppari.net/) valmennukseen pääsevät kaikki pirkanmaalaiset ja miksi ei kauempaakin kulkevat. Diagnoosia ei tarvita, vaan pelkkä tuen tarve riittää. Ajan valmennuksen alkukartoitukseen voi varata joko [sähköpostitse](/ota yhteyttä), laittamalla [facebookin messengerviestin](www.facebook.com/valmennuskeskus.neppari/) tai soittamalla/tekstaamalla minulle numeroon 040-9349954. =)
 
 ## Miten valmennukseen on varaa?
 
