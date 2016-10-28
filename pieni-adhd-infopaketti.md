@@ -15,7 +15,7 @@ Sisältö:
 
 Tietoa ADHD:sta
 
-Voiko minulla olla ADHD?
+Voiko sinullakin olla ADHD?
 
 Milloin on hyvä hakea apua tilanteeseeni?
 
@@ -55,7 +55,7 @@ Tässä joitain piirteitä, jotka voivat viitata ADHD:hen:
 
 ___
 
-## Voiko minulla olla ADHD?
+## Voiko sinullakin olla ADHD?
 
 On tärkeää ymmärtää, että ADHD:ta on huomattu olevan montaa eri "lajia".
 Tämä johtuu siitä, että ADHD ei ole varsinainen sairaus, joka olisi aina selkeästi rajattavissa ja todennettavissa.
