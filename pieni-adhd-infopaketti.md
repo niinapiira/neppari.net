@@ -59,7 +59,7 @@ b) johtuvatko ne aidosti aivojen neurologiasta vai joistain muutettavissa ja par
 
 ___
 
-## Milloin on hyvä hakea apua tilanteeseensa?
+## Milloin on hyvä hakea apua tilanteeseeni?
 
 Koska kaikilla ihmisillä ADHD-piirteet eivät aiheuta vakavia vaikeuksia elämään, on jokaisen punnittava itse sitä, tarvitseeko apua ja tukea pärjätäkseen mahdollisten AHDH-piirteidensä kanssa.
 Ammattiapu ei ole aina tarpeen, vaan hyvät ihmissuhteet, avoimuus, vertaistuki ja armollisuus itseään kohtaan voivat riittää siihen, että hyväksyy itsensä ja rajansa ja pystyy luovimaan elämässään haasteidensa kanssa.
