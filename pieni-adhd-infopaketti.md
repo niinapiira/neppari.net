@@ -60,19 +60,29 @@ ___
 * Voit saada vertaistukea kasvotusten mm. [täältä](http://adhd-aikuiset.org/portal/) ja [täältä](http://www.adhd-liitto.fi/vertaistuki/vertaistukiryhmat)
 * Voit saada vertaistukea verkossa mm. [täältä](https://www.facebook.com/groups/ADHD.vt/), [täältä](https://www.facebook.com/groups/ADHDn.arki/), vanhemmat [täältä](https://www.facebook.com/groups/630577190335018/?fref=ts) ja nuoret [täältä](https://www.facebook.com/groups/adhdnuortenvt/?fref=ts).
 * Voit hakeutua tutkimuksiin omalääkärin kautta. Tutkimuksia varten sinun on hyvä pyytää oma vanhempi mukaan lääkäriin, koska oireita tulee olla selvästi näkyvissä jo lapsuudessa. Mukaan kannattaa kerätä asiakirjoja myös kaikista hoitopaikoistasi: lastenneuvolasta, päiväkodista, kouluterveydenhuollosta, perheneuvolasta, psykologilta, terapeutilta ja esim. sosiaalitoimesta. Myös koulutodistukset voivat olla hyvä näyttää lääkärille. Tutkimuksissa selvitetään yleensä myös muut mahdolliset syyt haasteillesi: päihteet, psyykkinen vointi ja elimelliset sairaudet.
-* Voit saada erilaisia tukitoimia myös ilman diagnoosia, oireiden ja haasteiden perusteella. Tällaisia tukitoimia voi olla vanhempainohjaus ja päiväkodin tai koulun erityistuki, kognitiivinen käyttäytymisterapia, toimintaterapia, neuropsykologinen kuntoutus, sopeutumisvalmennuskurssit sekä [neuropsykiatrinen valmennus](/valmennus)
-___
+* Voit saada erilaisia tukitoimia myös ilman diagnoosia, oireiden ja haasteiden perusteella. Tällaisia tukitoimia voi olla vanhempainohjaus ja päiväkodin tai koulun erityistuki, kognitiivinen käyttäytymisterapia, toimintaterapia, neuropsykologinen kuntoutus, sopeutumisvalmennuskurssit tai näitä kaikkia mainittuja sisältävä [neuropsykiatrinen valmennus](/valmennus).
 
 ## Miksi neuropsykiatrinen valmennus voi auttaa sinua?
 
-Neuropsykiatriseen valmennus on aivan parasta, koska... Neljä lausetta
+Neuropsykiatrinen valmennus on suunniteltu tueksi juuri ADHD-piirteiden kanssa painiville henkilöille. Valmennus sopii kaiken ikäisille ja tasoisille henkilöille ja se sisältää monipuolisesti erilaisia tukimenetelmiä.
+Valmennus suunnitellaan ja toteutetaan aina juuri sinulle parhaiten sopivalla tavalla, joustavasti ja tarpeitasi huomioiden.
+
+Mutta ennen kaikkea valmennuksen toimivuus perustuu siihen, että siinä huomioidaan sinun elämäsi kokonaisuutena! Valmentaja voi auttaa sinua kaikessa, missä toinen ihminen voi olla toiselle tukena: niin kotonasi, kaupassa, virastoissa kuin lääkärillä, niin vapaa-ajalla, työssä kuin ihmissuhteissa, niin raha-asioissa, arjenhallinnassa, tunnetyöskentelyssä kuin siisteydessäkin. Valmentaja ei ole kuitenkaan pelkkä tukihenkilö, vaan valmentaja valmentaa sinua järjestämään elämäsi niin, että se sujuu.
+
+Valmentaja on ammattilainen muutoksen ohjaamisessa, mutta valmentaja ei lähde ohjaamaan sinua. Sinä päätät edelleen itse kaiken omasta elämästäsi ja tiedät itse, mihin pystyt ja mihin ryhdyt. Valmentaja toimii tukenasi auttaen sinua pääsemään tavoitteisiisi ja auttaen sinua ymmärtämään aivojesi toimintaa. Näin saat oman toimintasi ja elämäsi mahdollisimman hyvin hallintaasi.
+
+Niiltä osin, kun ADHD estää sinua toimimasta haluamallasi tavalla tukitoimista huolimatta, valmentaja auttaa sinua oppimaan armollisuutta, myötätuntoa ja hyväksyntää itseäsi kohtaan. Kaikkea ei voi muuttaa, mutta silloin voi oppia hyväksymään. =)
 
 ## Näin pääset käytännössä valmennukseen:
 
-Ota yhteyttä neuropsykiatriseen valmentajaan ja keskustele tilanteestasi.
+Ota yhteyttä johonkin lähelläsi toimivaan neuropsykiatriseen valmentajaan ja keskustele tilanteestasi.
 Voit myös puhua asiasta sosiaalityöntekijäsi, lääkärisi tai muun ammattilaisen kanssa.
 
-Neuropsykiatriseen valmennukseen ei voi vielä tällä hetkellä saada KELA:lta tukea. Sen takia, ellet voi maksaa valmennusta itse, tarvitset maksusitoumuksen kunnaltasi. Maksusitoumusta voi pyytää sosiaalitoimesta ja lääkäriltä, joissain kunnissa myös te-toimistosta.
+## Miten valmennukseen on varaa?
+
+Neuropsykiatriseen valmennukseen ei voi vielä tällä hetkellä saada KELA:lta varsinaista tukea, mutta voit käyttää Kelasta saamaasi eläkettä, hoitotukea ja kuntoutustukea valmennuksen kustannuksiin.
+
+Ellei sinulla tai perheelläsi ole varaa maksaa valmennusta itse, voit pyytää maksusitoumusta kunnaltasi. Maksusitoumusta voi anoa sosiaalitoimesta ja lääkäriltä, joissain kunnissa myös te-toimistosta. Kunnat tarjoavat maksusitoumuksia neuropsykiatriseen valmennukseen hyvin vaihtelevasti, mutta kokiessasi aidosti vahvaa tuen tarvetta ei kannata luovuttaa heti ensimmäisten kieltävien päätösten edessä. Pyydä apua ja tukea myös hakuprosessiin esim. läheisiltä tai tutulta ammattilaiselta.
 
 ## Vaikeaa? Ota yhteyttä – autan mielelläni!
 
