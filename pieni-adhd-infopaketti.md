@@ -64,7 +64,7 @@ Jos piirteet ovat kuitenkin niin vahvoja tai häiritseviä, että ne vaikeuttava
 
 Asiaa tuntevan ammattilaisen tai muun henkilön kanssa voit miettiä löytyykö sinulta vahvuuksia joilla voit kompensoida haastavia piirteitä tai onko elämässäsi valmiiksi ihmissuhteita, tapoja ja keinoja joiden avulla voit pärjätä haasteidesi kanssa.
 
-Jos helposti toteutettavat tukitoimet (läheiset, koulu, työtoverit ja sosiaalityö) eivät tunnu auttavan, on hyvä keskustella lääkärin tai sosiaalityöntekijän kanssa vahvempien tukitoimien tarpeesta, esimerkiksi neuropsykiatrisesta valmennuksesta.
+Jos helposti toteutettavat tukitoimet (läheiset, koulu, työtoverit ja sosiaalityö) eivät tunnu auttavan, on hyvä keskustella lääkärin tai sosiaalityöntekijän kanssa vahvempien tukitoimien tarpeesta, esimerkiksi [neuropsykiatrisesta valmennuksesta](/valmennus).
 
 > Hyvänä ohjenuorana tuen tarpeesta voi pitää ajatusta siitä, että elämä on kaikille haastavaa, mutta pelkkää selviytymistä sen ei pitäisi olla!
 
