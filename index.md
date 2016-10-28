@@ -41,7 +41,7 @@ ___
 
 Ohjelmassa on ajankohtaisia luentoja sekä kokemusasiantuntijoiden tarinoita.
 
-Katso lisätietoja tapahtumasta: http://www.neuropsykiatrisetvalmentajat.fi/koulutuksia.php
+Katso lisätietoja tapahtumasta: [http://www.neuropsykiatrisetvalmentajat.fi/koulutuksia.php](http://www.neuropsykiatrisetvalmentajat.fi/koulutuksia.php)
 
 ___
 
@@ -56,7 +56,7 @@ Tapahtumassa on myös kaverikoiria, yllätysesiintyjiä sekä meitä näytteille
 
 TAPAHTUMA ON ILMAINEN!
 
-Katso lisää: www.autismiliitto.fi/ikatapahtuma
+Katso lisää: [www.autismiliitto.fi/ikatapahtuma](www.autismiliitto.fi/ikatapahtuma)
 
 ___
 
