@@ -46,7 +46,7 @@ Katso lisätietoja tapahtumasta: http://www.neuropsykiatrisetvalmentajat.fi/koul
 ___
 
 
-## Neppari mukana autismin kirjon tapahtumassa Tampereen messukeskuksessa 14.12.! =)
+## Neppari mukana autisminkirjon tapahtumassa Tampereen messukeskuksessa 14.12.! =)
 
 Olemme jotain erityistä - autismin kirjon tapahtuma keskiviikkona 14.12.2016 klo 10-15:30 Tampereen Messu- ja Urheilukeskuksessa.
 
