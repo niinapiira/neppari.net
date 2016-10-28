@@ -48,7 +48,7 @@ ___
 
 ## Neppari mukana autisminkirjon tapahtumassa Tampereen messukeskuksessa 14.12.! =)
 
-Olemme jotain erityistä - autismin kirjon tapahtuma keskiviikkona 14.12.2016 klo 10-15:30 Tampereen Messu- ja Urheilukeskuksessa.
+Olemme jotain erityistä - autisminkirjon tapahtuma keskiviikkona 14.12.2016 klo 10-15:30 Tampereen Messu- ja Urheilukeskuksessa.
 
 Tapahtumassa luennoi aikuisena diagnosoitu Cos Michael.
 
