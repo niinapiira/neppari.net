@@ -46,9 +46,17 @@ Katso lisätietoja tapahtumasta: http://www.neuropsykiatrisetvalmentajat.fi/koul
 ___
 
 
-## Nepparin blogista tietoa valmennuksesta sekä neuropsykiatrisesta maailmasta!
+## Neppari mukana autismin kirjon tapahtumassa Tampereen messukeskuksessa 14.12.! =)
 
-[Blogistani](/blogi) voit lukea ajatuksiani voimaantumisesta, valmennuksesta sekä yrittäjyydestä. Blogissa käsittelen rakentavasti ja ratkaisukeskeisesti yksilön hyvinvointia, ihmisyyttä sekä sosiaalialaa niiden tukipilarina.
+Olemme jotain erityistä - autismin kirjon tapahtuma keskiviikkona 14.12.2016 klo 10-15:30 Tampereen Messu- ja Urheilukeskuksessa.
+
+Tapahtumassa luennoi aikuisena diagnosoitu Cos Michael.
+
+Tapahtumassa on myös kaverikoiria, yllätysesiintyjiä sekä meitä näytteilleasettajia. =)
+
+TAPAHTUMA ON ILMAINEN!
+
+Katso lisää: www.autismiliitto.fi/ikatapahtuma
 
 ___
 
@@ -64,3 +72,10 @@ Ensimmäinen ryhmä aloitti huhtikuussa.
 Jatkossa samanlaisesta pienryhmätoiminnasta kiinnostuneet voivat olla yhteyksissä joko [TSAU!ry:hyn](http://www.tsau.net/) tai [Nepparin valmentajaan](/ota-yhteytta). Pyrimme hakemaan jatkossakin rahoitusta nuorten suoraan tukemiseen ja erityisesti ryhmämuotoiseen toimintaan, kun tarvetta ilmenee. =)
 
 ___
+
+## Nepparin blogista tietoa valmennuksesta sekä neuropsykiatrisesta maailmasta!
+
+[Blogistani](/blogi) voit lukea ajatuksiani voimaantumisesta, valmennuksesta sekä yrittäjyydestä. Blogissa käsittelen rakentavasti ja ratkaisukeskeisesti yksilön hyvinvointia, ihmisyyttä sekä sosiaalialaa niiden tukipilarina.
+
+___
+
