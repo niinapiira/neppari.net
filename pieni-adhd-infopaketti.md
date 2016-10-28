@@ -13,7 +13,9 @@ Olen koonnut tälle sivulle pienen infopaketin, jonka avulla sinun on helpompi s
 
 ## Tietoa ADHD:sta
 
-ADHD-piirteet voivat ilmetä hyvin monella tavalla ja jokainen ADHD-piirteitä omaava henkilö eroaa toisistaan aivan kuten jokainen meistä. ADHD ei aiheuta ihmiselle ainoastaan ongelmia, vaan saa aivojen toiminnan erilaisuuden kautta aikaan myös vahvuuksia, joillaisia ilman ADHD:ta ei välttämättä olisi. Esimerkiksi monet yrittäjät ja kilpaurheilijat ovat hyötyneet ADHD-piirteiden tuomista vahvuuksista.
+ADHD-piirteet voivat ilmetä hyvin monella tavalla ja jokainen ADHD-piirteitä omaava henkilö eroaa toisistaan aivan kuten jokainen meistä.
+
+ADHD ei aiheuta ihmiselle ainoastaan ongelmia, vaan saa aivojen toiminnan erilaisuuden kautta aikaan myös vahvuuksia, joillaisia ilman ADHD:ta ei välttämättä olisi. Esimerkiksi monet yrittäjät ja kilpaurheilijat ovat hyötyneet ADHD-piirteiden tuomista vahvuuksista.
 
 Tässä joitain piirteitä, jotka voivat viitata ADHD:hen:
 - vaikeus keskittyä ja välillä niin vahva keskittyminen, että ajantaju katoaa
