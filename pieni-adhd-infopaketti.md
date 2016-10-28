@@ -49,7 +49,7 @@ a) kuinka nämä piirteet hankaloittavat elämää ja jaksamista ja
 
 b) johtuvatko ne aidosti aivojen neurologiasta vai muutettavissa olevista asioista. Neurologia on aivojemme synnynnäinen tapa toimia ja reagoida, joten ADHD-piirteiden oletetaan näkyneen jollain tavalla jo lapsena.
 
-## Milloin hakea apua tilanteeseensa?
+## Milloin on hyvä hakea apua tilanteeseensa?
 
 Koska kaikilla ihmisillä ADHD-piirteet eivät aiheuta vakavia vaikeuksia elämään, on jokaisen punnittava itse sitä, tarvitseeko apua ja tukea pärjätäkseen mahdollisten AHDH-piirteidensä kanssa.
 Ammattiapu ei ole aina tarpeen, vaan hyvät ihmissuhteet, avoimuus, vertaistuki ja armollisuus itseään kohtaan voivat riittää siihen, että hyväksyy itsensä ja rajansa ja pystyy luovimaan elämässään haasteidensa kanssa.
