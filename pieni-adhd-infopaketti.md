@@ -68,4 +68,4 @@ Neuropsykiatriseen valmennukseen ei voi vielä tällä hetkellä saada KELA:lta 
 
 ## Vaikeaa? Ota yhteyttä – autan mielelläni!
 
-Jos olet pirkanmaalainen, voit laittaa minulle esimerkiksi [sähköpostia]( ja kysyä tarkentavia kysymyksiä tuen mahdollisuuksista Tampereen seudulla.
+Jos olet pirkanmaalainen, voit laittaa minulle esimerkiksi [sähköpostia](/ota yhteyttä) ja kysyä tarkentavia kysymyksiä tuen mahdollisuuksista Tampereen seudulla. =)
