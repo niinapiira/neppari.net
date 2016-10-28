@@ -86,6 +86,8 @@ Neuropsykiatriseen valmennukseen ei voi vielä tällä hetkellä saada KELA:lta 
 
 Ellei sinulla tai perheelläsi ole varaa maksaa valmennusta itse, voit pyytää maksusitoumusta kunnaltasi. Maksusitoumusta voi anoa sosiaalitoimesta ja lääkäriltä, joissain kunnissa myös te-toimistosta. Kunnat tarjoavat maksusitoumuksia neuropsykiatriseen valmennukseen hyvin vaihtelevasti, mutta kokiessasi aidosti vahvaa tuen tarvetta ei kannata luovuttaa heti ensimmäisten kieltävien päätösten edessä. Pyydä apua ja tukea myös hakuprosessiin esim. läheisiltä tai tutulta ammattilaiselta.
 
+Joillain kunnilla voi olla myös omia valmentajia tai sopimus jonkun valmennuspalvelun kanssa. Jos kuitenkin haluaisit jonkun tietyn valmentajan tueksesi, on sinulla oikeus vaikuttaa itseäsi koskeviin päätöksiin  perustuslaki, lastensuojelulaki, lait potilaan ja sosiaalihuollon asiakkaan asemasta ja oikeuksista, hallintolaki, vammasilaki, 
+
 ## Vaikeaa? Ota yhteyttä – autan mielelläni!
 
 Jos olet pirkanmaalainen, voit laittaa minulle esimerkiksi [sähköpostia](/ota yhteyttä) ja kysyä tarkentavia kysymyksiä tuen mahdollisuuksista Tampereen seudulla. =)
