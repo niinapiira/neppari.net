@@ -113,3 +113,5 @@ ___
 ## Vaikeaa? Ota yhteyttä – autan mielelläni!
 
 Jos olet pirkanmaalainen, voit laittaa minulle esimerkiksi [sähköpostia](/ota yhteyttä) ja kysyä tarkentavia kysymyksiä tuen mahdollisuuksista Tampereen seudulla. =)
+
+Jos asut muualla kuin Pirkanmaalla, ota yhteyttä [ADHD-liittoon](http://www.adhd-liitto.fi/yhteystiedot/puhelinneuvonta) niin he neuvovat sinua eteenpäin. =)
