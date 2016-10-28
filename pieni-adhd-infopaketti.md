@@ -48,12 +48,17 @@ Asiaa tuntevan ammattilaisen tai läheisen kanssa voit miettiä löytyykö sinul
 
 Jos helposti toteutettavat tukitoimet eivät tunnu auttavan, on hyvä keskustella lääkärin tai sosiaalityöntekijän kanssa vahvempien tukitoimien tarpeesta, esimerkiksi neuropsykiatrisesta valmennuksesta.
 
+> Hyvänä ohjenuorana voi pitää ajatusta siitä, että elämä on kaikille haastavaa, mutta pelkkää selviytymistä sen ei pitäisi olla!
+
+___
+
 ## Jos epäilet että sinulla voisi olla ADHD:
 
-* Voit käydä läpi erilaisia oireita [tästä](https://paivitasala.wordpress.com/testeja/addadhd-testi/)
 * Voit lukea virallista tietoa ADHD:sta [täältä](http://www.kaypahoito.fi/web/kh/suositukset/suositus?id=hoi50061#NaN) ja [täältä](http://adhdtutuksi.fi/)
-* Voit saada neuvontaa ja löytää oppaita ADHD:hen [täältä](http://www.adhd-liitto.fi/)
-* Voit kysyä vertaistukea mm. [täältä](http://adhd-aikuiset.org/portal/) ja [täältä](http://www.omavoima.info/vertaistukitoiminta)
+* Voit käydä läpi erilaisia oireita [tästä](https://paivitasala.wordpress.com/testeja/addadhd-testi/)
+* Voit saada neuvontaa ja löytää oppaita ADHD:seen [täältä](http://www.adhd-liitto.fi/)
+* Voit saada vertaistukea kasvotusten mm. [täältä](http://adhd-aikuiset.org/portal/) ja [täältä](http://www.adhd-liitto.fi/vertaistuki/vertaistukiryhmat)
+* Voit saada vertaistukea verkossa mm. [täältä](https://www.facebook.com/groups/ADHD.vt/), [täältä](https://www.facebook.com/groups/ADHDn.arki/), vanhemmat [täältä](https://www.facebook.com/groups/630577190335018/?fref=ts) ja nuoret [täältä](https://www.facebook.com/groups/adhdnuortenvt/?fref=ts).
 
 ## Miksi neuropsykiatrinen valmennus voi auttaa sinua?
 
