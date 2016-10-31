@@ -76,7 +76,9 @@ ___
 ## Uusi infopaketti ADHD:sta, tutkimuksista ja tukitoimista! =)
 
 Mietitkö sinä onko sinulla tai tutullasi mahdollisesti ADHD?
+
 Haluaisitko ajankohtaista tietoa ADHD:sta, tutkimuksista ja tukitoimista?
+
 Kaipaatko tämän tiedon selkeästi, lyhyesti ja ytimekkäästi?
 
 [Tässä](/pieni-adhd-infopaketti) sinulle tietopaketti aiheesta, sekä linkkejä hyviin tietolähteisiin. =)
