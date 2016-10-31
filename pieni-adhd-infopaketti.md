@@ -20,6 +20,7 @@ ADHD-piirteet voivat ilmetä hyvin monella tavalla ja jokainen ADHD-piirteitä o
 ADHD ei aiheuta ainoastaan ongelmia, vaan aivojen toiminnan erilaisuus saa aikaan myös vahvuuksia joillaisia ilman ADHD:ta ei välttämättä olisi. Esimerkiksi monet yrittäjät ja kilpaurheilijat ovat hyötyneet ADHD-piirteiden tuomista vahvuuksista.
 
 Tässä joitain piirteitä, jotka voivat viitata ADHD:hen:
+
 * vaikeus keskittyä ja toisaalta välillä niin vahva keskittyminen, että ajantaju katoaa
 * vaikeus seurata keskustelua, ohjeita ja vaativia tehtäviä
 * vaikeus suunnitella, aloittaa ja saattaa loppuun asioita
