@@ -35,6 +35,8 @@ Tässä joitain piirteitä, jotka voivat viitata ADHD:hen:
 
 > Lisää oirekuvia löydät [täältä](http://www.adhd-liitto.fi/adhd-tietoa) ja [täältä](http://adhdtutuksi.fi/) sekä [täältä](http://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=dlk00353).
 
+> Jos haluat lukea ADHD:sta ilman ylivilkkatta, katso [täältä](http://adhdtutuksi.fi/add-tarkkaavuushairio-nuorella/)
+
 ___
 
 ## Voiko sinullakin olla ADHD?
