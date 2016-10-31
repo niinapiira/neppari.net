@@ -65,19 +65,6 @@ ___
 
 ___
 
-
-## Milloin on hyvä hakea apua tilanteeseesi?
-
-Koska kaikilla ihmisillä ADHD-piirteet eivät aiheuta vakavia vaikeuksia elämään, on jokaisen punnittava itse sitä, tarvitseeko apua ja tukea pärjätäkseen mahdollisten AHDH-piirteidensä kanssa.
-Ammattiapu ei ole aina tarpeen, vaan hyvät ihmissuhteet, avoimuus, vertaistuki ja armollisuus itseään kohtaan voivat riittää siihen, että hyväksyy itsensä ja rajansa ja pystyy luovimaan elämässään haasteidensa kanssa. tilanteen ymmärrys myös koulussa ja työssä on tärkeää, jotta siellä osataan huomioida erityistarpeet.
-
-Jos piirteet ovat kuitenkin niin vahvoja tai häiritseviä, että ne vaikeuttavat huomattavasti opintoja, työelämää, ystävyyssuhteita, parisuhdetta, perhe-elämää, vanhemmuutta, jaksamista tai vaikka taloudenhoitoa, voi olla hyvä keskustella asiasta ammattilaisen kanssa ja hakeutua esimerkiksi [neuropsykiatriseen valmennukseen](/valmennus). 
-
-> Hyvänä ohjenuorana tuen tarpeesta voi pitää ajatusta siitä, että elämä on kaikille haastavaa, mutta pelkkää selviytymistä sen ei pitäisi olla!
-
-___
-
-
 ## Tukitoimia ja tutkimuksia?
 
 Voit hakeutua tutkimuksiin omalääkärin kautta.
@@ -92,6 +79,17 @@ Tutkimuksia varten sinun on hyvä:
 Tutkimuksissa selvitetään yleensä myös muut mahdolliset syyt haasteillesi: päihteet, psyykkinen vointi ja elimelliset sairaudet.
 
 Voit saada erilaisia tukitoimia myös ilman diagnoosia, oireiden ja haasteiden perusteella. Tällaisia tukitoimia voi olla vanhempainohjaus ja päiväkodin tai koulun erityistuki, kognitiivinen käyttäytymisterapia, toimintaterapia, neuropsykologinen kuntoutus, sopeutumisvalmennuskurssit tai näitä kaikkia mainittuja sisältävä [neuropsykiatrinen valmennus](/valmennus).
+
+___
+
+## Milloin on hyvä hakea apua tilanteeseesi?
+
+Koska kaikilla ihmisillä ADHD-piirteet eivät aiheuta vakavia vaikeuksia elämään, on jokaisen punnittava itse sitä, tarvitseeko apua ja tukea pärjätäkseen mahdollisten AHDH-piirteidensä kanssa.
+Ammattiapu ei ole aina tarpeen, vaan hyvät ihmissuhteet, avoimuus, vertaistuki ja armollisuus itseään kohtaan voivat riittää siihen, että hyväksyy itsensä ja rajansa ja pystyy luovimaan elämässään haasteidensa kanssa. tilanteen ymmärrys myös koulussa ja työssä on tärkeää, jotta siellä osataan huomioida erityistarpeet.
+
+Jos piirteet ovat kuitenkin niin vahvoja tai häiritseviä, että ne vaikeuttavat huomattavasti opintoja, työelämää, ystävyyssuhteita, parisuhdetta, perhe-elämää, vanhemmuutta, jaksamista tai vaikka taloudenhoitoa, voi olla hyvä keskustella asiasta ammattilaisen kanssa ja hakeutua esimerkiksi [neuropsykiatriseen valmennukseen](/valmennus). 
+
+> Hyvänä ohjenuorana tuen tarpeesta voi pitää ajatusta siitä, että elämä on kaikille haastavaa, mutta pelkkää selviytymistä sen ei pitäisi olla!
 
 ___
 
