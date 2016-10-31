@@ -45,7 +45,7 @@ Jokaisen ihmisen ajatellaan olevan neurologisesti samalla janalla, mutta yksilö
 
 Aiheuttaa harvoin haittaa <-----------------------> Aiheuttaa usein haittaa
 
-Oleellista siis ei ole se, onko itsellä kaikki piirteet tai vastaavatko kuvaukset täysin itseä, vaan se
+Oleellista siis ei ole se, onko itsellä kaikki piirteet tai vastaavatko kuvaukset täysin itseä, vaan se:
 
 a) kuinka nämä piirteet hankaloittavat elämää ja jaksamista ja
 
