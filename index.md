@@ -81,7 +81,7 @@ Haluaisitko ajankohtaista tietoa ADHD:sta, tutkimuksista ja tukitoimista?
 
 Kaipaatko tämän tiedon selkeästi, lyhyesti ja ytimekkäästi?
 
-[Tässä](/pieni-adhd-infopaketti) sinulle tietopaketti aiheesta, sekä linkkejä hyviin tietolähteisiin. =)
+[Tässä](/pieni-adhd-infopaketti) tietopaketti aiheesta, sekä linkkejä hyviin tietolähteisiin. =)
 
 ___
 
