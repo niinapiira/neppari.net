@@ -73,6 +73,16 @@ Jatkossa samanlaisesta pienryhmätoiminnasta kiinnostuneet voivat olla yhteyksis
 
 ___
 
+## Uusi infopaketti ADHD:sta, tutkimuksista ja tukitoimista! =)
+
+Mietitkö sinä onko sinulla tai tutullasi mahdollisesti ADHD?
+Haluaisitko ajankohtaista tietoa ADHD:sta, tutkimuksista ja tukitoimista?
+Kaipaatko tämän tiedon selkeästi, lyhyesti ja ytimekkäästi?
+
+[Tässä](/pieni-adhd-infopaketti) sinulle tietopaketti aiheesta, sekä linkkejä hyviin tietolähteisiin. =)
+
+___
+
 ## Nepparin blogista tietoa valmennuksesta sekä neuropsykiatrisesta maailmasta!
 
 [Blogistani](/blogi) voit lukea ajatuksiani voimaantumisesta, valmennuksesta sekä yrittäjyydestä. Blogissa käsittelen rakentavasti ja ratkaisukeskeisesti yksilön hyvinvointia, ihmisyyttä sekä sosiaalialaa niiden tukipilarina.
