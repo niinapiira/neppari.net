@@ -20,18 +20,12 @@ ADHD-piirteet voivat ilmetä hyvin monella tavalla ja jokainen ADHD-piirteitä o
 ADHD ei aiheuta ainoastaan ongelmia, vaan aivojen toiminnan erilaisuus saa aikaan myös vahvuuksia joillaisia ilman ADHD:ta ei välttämättä olisi. Esimerkiksi monet yrittäjät ja kilpaurheilijat ovat hyötyneet ADHD-piirteiden tuomista vahvuuksista.
 
 Tässä joitain piirteitä, jotka voivat viitata ADHD:hen:
-
-- vaikeus keskittyä ja toisaalta välillä niin vahva keskittyminen, että ajantaju katoaa
-
-- vaikeus seurata keskustelua, ohjeita ja vaativia tehtäviä
-
-- vaikeus suunnitella, aloittaa ja saattaa loppuun asioita
-
-- häiriintyminen kaikesta siitä mitä huomaa ympärillä
-
-- tavaroiden hukkuminen
-
-- asioiden unohtelu
+* vaikeus keskittyä ja toisaalta välillä niin vahva keskittyminen, että ajantaju katoaa
+* vaikeus seurata keskustelua, ohjeita ja vaativia tehtäviä
+* vaikeus suunnitella, aloittaa ja saattaa loppuun asioita
+* häiriintyminen kaikesta siitä mitä huomaa ympärillä
+* tavaroiden hukkuminen
+* asioiden unohtelu
 
 > Lisää oirekuvia löydät [täältä](http://www.adhd-liitto.fi/adhd-tietoa) ja [täältä](http://adhdtutuksi.fi/) sekä [täältä](http://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=dlk00353).
 
@@ -70,13 +64,11 @@ ___
 ## Tutkimuksia ja tukitoimia?
 
 Voit hakeutua tutkimuksiin omalääkärin kautta.
+
 Tutkimuksia varten sinun on hyvä:
-
-- pyytää oma vanhempi mukaan lääkäriin, koska oireita tulee olla jollain tavoin näkyvissä jo lapsuudessa
-
-- kerätä mukaan asiakirjoja myös kaikista hoitopaikoistasi: lastenneuvolasta, päiväkodista, kouluterveydenhuollosta, perheneuvolasta, psykologilta, terapeutilta ja esim. sosiaalitoimesta
-
-- ottaa mukaan koulutodistukset.
+* pyytää oma vanhempi mukaan lääkäriin, koska oireita tulee olla jollain tavoin näkyvissä jo lapsuudessa
+* kerätä mukaan asiakirjoja myös kaikista hoitopaikoistasi: lastenneuvolasta, päiväkodista, kouluterveydenhuollosta, perheneuvolasta, psykologilta, terapeutilta ja esim. sosiaalitoimesta
+* ottaa mukaan koulutodistukset.
 
 Tutkimuksissa selvitetään yleensä myös muut mahdolliset syyt haasteillesi: päihteet, psyykkinen vointi ja elimelliset sairaudet.
 
