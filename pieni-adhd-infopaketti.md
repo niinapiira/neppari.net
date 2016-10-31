@@ -67,6 +67,7 @@ ___
 Voit hakeutua tutkimuksiin omalääkärin kautta.
 
 Tutkimuksia varten sinun on hyvä:
+
 * pyytää oma vanhempi mukaan lääkäriin, koska oireita tulee olla jollain tavoin näkyvissä jo lapsuudessa
 * kerätä mukaan asiakirjoja myös kaikista hoitopaikoistasi: lastenneuvolasta, päiväkodista, kouluterveydenhuollosta, perheneuvolasta, psykologilta, terapeutilta ja esim. sosiaalitoimesta
 * ottaa mukaan koulutodistukset.
