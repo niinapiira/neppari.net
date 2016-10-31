@@ -38,6 +38,7 @@ ___
 
 On tärkeää ymmärtää, että ADHD:ta on huomattu olevan montaa eri "lajia".
 Tämä johtuu siitä, että ADHD ei ole varsinainen sairaus, joka olisi aina selkeästi rajattavissa ja todennettavissa.
+
 Jokaisen ihmisen ajatellaan olevan neurologisesti samalla janalla, mutta yksilöllisistä eroavaisuuksista johtuen jokainen kokee ja törmää aivojen aiheuttamiin haasteisiin eri tavoin.
 
 Aiheuttaa harvoin haittaa <-----------------------> Aiheuttaa usein haittaa
@@ -79,6 +80,7 @@ ___
 ## Milloin on hyvä hakea apua tilanteeseesi?
 
 Koska kaikilla ihmisillä ADHD-piirteet eivät aiheuta vakavia vaikeuksia elämään, on jokaisen punnittava itse sitä, tarvitseeko apua ja tukea pärjätäkseen mahdollisten AHDH-piirteidensä kanssa.
+
 Ammattiapu ei ole aina tarpeen, vaan hyvät ihmissuhteet, avoimuus, vertaistuki ja armollisuus itseään kohtaan voivat riittää siihen, että hyväksyy itsensä ja rajansa ja pystyy luovimaan elämässään haasteidensa kanssa. Tilanteen ymmärrys myös koulussa ja työssä on tärkeää, jotta siellä osataan huomioida erityistarpeet.
 
 Jos piirteet ovat kuitenkin niin vahvoja tai häiritseviä, että ne vaikeuttavat huomattavasti opintoja, työelämää, ystävyyssuhteita, parisuhdetta, perhe-elämää, vanhemmuutta, jaksamista tai vaikka taloudenhoitoa, voi olla hyvä keskustella asiasta ammattilaisen kanssa ja hakeutua esimerkiksi [neuropsykiatriseen valmennukseen](/valmennus). 
