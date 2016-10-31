@@ -63,13 +63,11 @@ ___
 
 ## Tutkimuksia ja tukitoimia?
 
-Voit hakeutua tutkimuksiin omalääkärin kautta. Tutkimuksia varten sinun on hyvä:
+Voit hakeutua tutkimuksiin omalääkärin kautta. Tutkimuksissa selvitetään yleensä myös muut mahdolliset syyt haasteillesi: päihteet, psyykkinen vointi ja elimelliset sairaudet. Tutkimuksia varten sinun on hyvä:
 
 * pyytää oma vanhempi mukaan lääkäriin, koska oireita tulee olla jollain tavoin näkyvissä jo lapsuudessa
 * kerätä mukaan asiakirjoja myös kaikista hoitopaikoistasi: lastenneuvolasta, päiväkodista, kouluterveydenhuollosta, perheneuvolasta, psykologilta, terapeutilta ja esim. sosiaalitoimesta
 * ottaa mukaan koulutodistukset.
-
-Tutkimuksissa selvitetään yleensä myös muut mahdolliset syyt haasteillesi: päihteet, psyykkinen vointi ja elimelliset sairaudet.
 
 > Voit saada erilaisia tukitoimia myös ilman diagnoosia, oireiden ja haasteiden perusteella. Tällaisia tukitoimia voi olla vanhempainohjaus ja päiväkodin tai koulun erityistuki, kognitiivinen käyttäytymisterapia, toimintaterapia, neuropsykologinen kuntoutus, sopeutumisvalmennuskurssit tai näitä kaikkia mainittuja sisältävä [neuropsykiatrinen valmennus](/valmennus).
 
