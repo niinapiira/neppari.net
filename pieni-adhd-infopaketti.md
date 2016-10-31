@@ -11,24 +11,6 @@ Siksi se vaikuttaa henkilön toimintakykyyn ja oman toiminnan tavoitteelliseen o
 
 > Olen koonnut tälle sivulle pienen infopaketin, jonka avulla sinun on helpompi selvittää, voisiko sinulla olla viitteitä ADHD:sta, ja miten voit tutkia asiaa sekä saada haasteisiisi apua.
 
-Sisältö:
-
-Tietoa ADHD:sta
-
-Voiko sinullakin olla ADHD?
-
-Milloin on hyvä hakea apua tilanteeseesi?
-
-Jos epäilet että sinulla voisi olla ADHD -ohjeet!
-
-Miksi neuropsykiatrinen valmennus voi auttaa sinua?
-
-Miten valmennukseen on varaa?
-
-Näin pääset käytännössä valmennukseen!
-
-Vaikeaa? Ota yhteyttä – autan mielelläni!
-
 ___
 
 ## Tietoa ADHD:sta
@@ -63,10 +45,6 @@ Jokaisen ihmisen ajatellaan olevan neurologisesti samalla janalla, mutta yksilö
 
 Aiheuttaa harvoin haittaa <-----------------------> Aiheuttaa usein haittaa
 
-Yksilöllisiä eroavaisuudet johtuvat mm. biologiasta, kokemuksista, ympäristöstä, ja psyykkisestä tilasta.
-
-Tästä johtuen jokainen ADHD-piirteinen ei välttämättä yllä aivan siihen päähän janaa, jossa ihmiselle annetaan diagnoosi. Toisaalta tämä auttaa ymmärtämään, että jokainen kokee joskus ADHD-tyyppisiä piirteitä itsessään, mutta harvoilla ne aiheuttavat suuria ongelmia.
-
 Oleellista siis ei ole se, onko itsellä kaikki piirteet tai vastaavatko kuvaukset täysin itseä, vaan se
 
 a) kuinka nämä piirteet hankaloittavat elämää ja jaksamista ja
@@ -77,21 +55,6 @@ b) johtuvatko ne aidosti aivojen neurologiasta vai joistain muutettavissa ja par
 
 ___
 
-## Milloin on hyvä hakea apua tilanteeseesi?
-
-Koska kaikilla ihmisillä ADHD-piirteet eivät aiheuta vakavia vaikeuksia elämään, on jokaisen punnittava itse sitä, tarvitseeko apua ja tukea pärjätäkseen mahdollisten AHDH-piirteidensä kanssa.
-Ammattiapu ei ole aina tarpeen, vaan hyvät ihmissuhteet, avoimuus, vertaistuki ja armollisuus itseään kohtaan voivat riittää siihen, että hyväksyy itsensä ja rajansa ja pystyy luovimaan elämässään haasteidensa kanssa.
-
-Jos piirteet ovat kuitenkin niin vahvoja tai häiritseviä, että ne vaikeuttavat huomattavasti opintoja, työelämää, ystävyyssuhteita, parisuhdetta, perhe-elämää, vanhemmuutta, jaksamista tai vaikka taloudenhoitoa, voi olla hyvä keskustella asiasta ammattilaisen kanssa. Yhdessä on helpompi punnita omaa tilannetta.
-
-Asiaa tuntevan ammattilaisen tai muun henkilön kanssa voit miettiä löytyykö sinulta vahvuuksia joilla voit kompensoida haastavia piirteitä tai onko elämässäsi valmiiksi ihmissuhteita, tapoja ja keinoja joiden avulla voit pärjätä haasteidesi kanssa.
-
-Jos helposti toteutettavat tukitoimet (läheiset, koulu, työtoverit ja sosiaalityö) eivät tunnu auttavan, on hyvä keskustella lääkärin tai sosiaalityöntekijän kanssa vahvempien tukitoimien tarpeesta, esimerkiksi [neuropsykiatrisesta valmennuksesta](/valmennus).
-
-> Hyvänä ohjenuorana tuen tarpeesta voi pitää ajatusta siitä, että elämä on kaikille haastavaa, mutta pelkkää selviytymistä sen ei pitäisi olla!
-
-___
-
 ## Jos epäilet että sinulla voisi olla ADHD:
 
 * Voit lukea virallista ja tutkittua tietoa ADHD:sta [täältä](http://www.kaypahoito.fi/web/kh/suositukset/suositus?id=hoi50061#NaN).
@@ -99,21 +62,48 @@ ___
 * Voit saada neuvontaa ja löytää oppaita ADHD:seen [täältä](http://www.adhd-liitto.fi/).
 * Voit saada vertaistukea kasvotusten mm. [täältä](http://adhd-aikuiset.org/portal/) ja [täältä](http://www.adhd-liitto.fi/vertaistuki/vertaistukiryhmat).
 * Voit saada vertaistukea verkossa mm. [täältä](https://www.facebook.com/groups/ADHD.vt/), [täältä](https://www.facebook.com/groups/ADHDn.arki/), vanhemmat [täältä](https://www.facebook.com/groups/630577190335018/?fref=ts) ja nuoret [täältä](https://www.facebook.com/groups/adhdnuortenvt/?fref=ts).
-* Voit hakeutua tutkimuksiin omalääkärin kautta. Tutkimuksia varten sinun on hyvä pyytää oma vanhempi mukaan lääkäriin, koska oireita tulee olla selvästi näkyvissä jo lapsuudessa. Mukaan kannattaa kerätä asiakirjoja myös kaikista hoitopaikoistasi: lastenneuvolasta, päiväkodista, kouluterveydenhuollosta, perheneuvolasta, psykologilta, terapeutilta ja esim. sosiaalitoimesta. Myös koulutodistukset voivat olla hyvä näyttää lääkärille. Tutkimuksissa selvitetään yleensä myös muut mahdolliset syyt haasteillesi: päihteet, psyykkinen vointi ja elimelliset sairaudet.
-* Voit saada erilaisia tukitoimia myös ilman diagnoosia, oireiden ja haasteiden perusteella. Tällaisia tukitoimia voi olla vanhempainohjaus ja päiväkodin tai koulun erityistuki, kognitiivinen käyttäytymisterapia, toimintaterapia, neuropsykologinen kuntoutus, sopeutumisvalmennuskurssit tai näitä kaikkia mainittuja sisältävä [neuropsykiatrinen valmennus](/valmennus).
+
+___
+
+
+## Milloin on hyvä hakea apua tilanteeseesi?
+
+Koska kaikilla ihmisillä ADHD-piirteet eivät aiheuta vakavia vaikeuksia elämään, on jokaisen punnittava itse sitä, tarvitseeko apua ja tukea pärjätäkseen mahdollisten AHDH-piirteidensä kanssa.
+Ammattiapu ei ole aina tarpeen, vaan hyvät ihmissuhteet, avoimuus, vertaistuki ja armollisuus itseään kohtaan voivat riittää siihen, että hyväksyy itsensä ja rajansa ja pystyy luovimaan elämässään haasteidensa kanssa. tilanteen ymmärrys myös koulussa ja työssä on tärkeää, jotta siellä osataan huomioida erityistarpeet.
+
+Jos piirteet ovat kuitenkin niin vahvoja tai häiritseviä, että ne vaikeuttavat huomattavasti opintoja, työelämää, ystävyyssuhteita, parisuhdetta, perhe-elämää, vanhemmuutta, jaksamista tai vaikka taloudenhoitoa, voi olla hyvä keskustella asiasta ammattilaisen kanssa ja hakeutua esimerkiksi [neuropsykiatriseen valmennukseen](/valmennus). 
+
+> Hyvänä ohjenuorana tuen tarpeesta voi pitää ajatusta siitä, että elämä on kaikille haastavaa, mutta pelkkää selviytymistä sen ei pitäisi olla!
+
+___
+
+
+## Tukitoimia ja tutkimuksia?
+
+Voit hakeutua tutkimuksiin omalääkärin kautta.
+Tutkimuksia varten sinun on hyvä:
+
+- pyytää oma vanhempi mukaan lääkäriin, koska oireita tulee olla selvästi näkyvissä jo lapsuudessa
+
+- kerätä mukaan asiakirjoja myös kaikista hoitopaikoistasi: lastenneuvolasta, päiväkodista, kouluterveydenhuollosta, perheneuvolasta, psykologilta, terapeutilta ja esim. sosiaalitoimesta
+
+- ottaa mukaan koulutodistukset.
+
+Tutkimuksissa selvitetään yleensä myös muut mahdolliset syyt haasteillesi: päihteet, psyykkinen vointi ja elimelliset sairaudet.
+
+Voit saada erilaisia tukitoimia myös ilman diagnoosia, oireiden ja haasteiden perusteella. Tällaisia tukitoimia voi olla vanhempainohjaus ja päiväkodin tai koulun erityistuki, kognitiivinen käyttäytymisterapia, toimintaterapia, neuropsykologinen kuntoutus, sopeutumisvalmennuskurssit tai näitä kaikkia mainittuja sisältävä [neuropsykiatrinen valmennus](/valmennus).
 
 ___
 
 ## Miksi neuropsykiatrinen valmennus voi auttaa sinua?
 
-Neuropsykiatrinen valmennus on suunniteltu tueksi juuri ADHD-piirteiden kanssa painiville henkilöille. Valmennus sopii kaiken ikäisille ja tasoisille henkilöille ja se sisältää monipuolisesti erilaisia tukimenetelmiä.
-Valmennus suunnitellaan ja toteutetaan aina juuri sinulle parhaiten sopivalla tavalla, joustavasti ja tarpeitasi huomioiden.
+Neuropsykiatrinen valmennus on suunniteltu tueksi juuri ADHD-piirteiden kanssa painiville henkilöille. Valmennus suunnitellaan ja toteutetaan aina juuri sinulle parhaiten sopivalla tavalla, joustavasti ja tarpeitasi huomioiden.
 
-Mutta ennen kaikkea valmennuksen toimivuus perustuu siihen, että siinä huomioidaan sinun elämäsi kokonaisuutena! Valmentaja voi auttaa sinua kaikessa, missä toinen ihminen voi olla toiselle tukena: niin kotonasi, kaupassa, virastoissa kuin lääkärillä, niin vapaa-ajalla, työssä kuin ihmissuhteissa, niin raha-asioissa, arjenhallinnassa, tunnetyöskentelyssä kuin siisteydessäkin. Valmentaja ei ole kuitenkaan pelkkä tukihenkilö, vaan valmentaja valmentaa sinua järjestämään itse elämäsi niin, että se sujuu.
+Valmennuksen toimivuus perustuu mm. siihen, että siinä huomioidaan sinun elämäsi kokonaisuutena. Valmentaja voi auttaa sinua kaikessa, missä toinen ihminen voi olla toiselle tukena: niin kotonasi, kaupassa, virastoissa kuin lääkärillä, niin vapaa-ajalla, työssä kuin ihmissuhteissa, niin raha-asioissa, arjenhallinnassa, tunnetyöskentelyssä kuin siisteydessäkin.
 
-Valmentaja on ammattilainen muutoksen ohjaamisessa, mutta valmentaja ei lähde ohjaamaan sinua. Sinä päätät edelleen itse kaiken omasta elämästäsi ja tiedät itse, mihin pystyt ja mihin ryhdyt. Valmentaja toimii tukenasi auttaen sinua pääsemään tavoitteisiisi ja auttaen sinua ymmärtämään aivojesi toimintaa. Näin saat oman toimintasi ja elämäsi mahdollisimman hyvin hallintaasi.
+Valmentaja on ammattilainen muutoksen ohjaamisessa, ja sinä oman elämäsi ohjaamisessa. Päätät siis itse valmennuksessa, mihin pystyt ja mihin ryhdyt. Valmentaja valmentaa sinua järjestämään itse elämäsi niin, että se sujuu.
 
-Niiltä osin, kun ADHD estää sinua toimimasta haluamallasi tavalla tukitoimista huolimatta, valmentaja auttaa sinua oppimaan armollisuutta, myötätuntoa ja hyväksyntää itseäsi kohtaan. Kaikkea ei voi muuttaa, mutta silloin voi oppia hyväksymään. =)
+Valmentaja toimii tukenasi auttaen sinua pääsemään tavoitteisiisi ja auttaen sinua ymmärtämään aivojesi toimintaa. Näin saat oman toimintasi ja elämäsi mahdollisimman hyvin hallintaasi.
 
 ___
 
@@ -121,9 +111,7 @@ ___
 
 Neuropsykiatriseen valmennukseen ei voi vielä tällä hetkellä saada KELA:lta varsinaista tukea, mutta voit käyttää Kelasta saamaasi eläkettä, hoitotukea ja kuntoutustukea valmennuksen kustannuksiin.
 
-Ellei sinulla tai perheelläsi ole varaa maksaa valmennusta itse, voit pyytää maksusitoumusta kunnaltasi. Maksusitoumusta voi anoa sosiaalitoimesta ja lääkäriltä, joissain kunnissa myös te-toimistosta. Kunnat tarjoavat maksusitoumuksia neuropsykiatriseen valmennukseen hyvin vaihtelevasti, mutta kokiessasi aidosti vahvaa tuen tarvetta ei kannata luovuttaa heti ensimmäisten kieltävien päätösten edessä. Pyydä apua ja tukea myös hakuprosessiin esim. läheisiltä tai tutulta ammattilaiselta.
-
-Joillain kunnilla voi olla myös omia valmentajia tai sopimus jonkun valmennuspalvelun kanssa. Jos kuitenkin haluaisit jonkun tietyn valmentajan tueksesi, on sinulla oikeus vaikuttaa itseäsi koskeviin päätöksiin (perustuslaki, lastensuojelulaki, lait potilaan ja sosiaalihuollon asiakkaan asemasta ja oikeuksista, hallintolaki, vammaislaki).
+Ellei sinulla tai perheelläsi ole varaa maksaa valmennusta itse, voit pyytää maksusitoumusta kunnaltasi eli sosiaalitoimesta ja lääkäriltä, joissain kunnissa myös te-toimistosta.
 
 ___
 
