@@ -65,7 +65,7 @@ ___
 
 ___
 
-## Tukitoimia ja tutkimuksia?
+## Tutkimuksia ja tukitoimia?
 
 Voit hakeutua tutkimuksiin omalääkärin kautta.
 Tutkimuksia varten sinun on hyvä:
