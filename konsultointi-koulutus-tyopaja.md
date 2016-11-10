@@ -4,7 +4,7 @@ page-type: normal
 navigation-order: 9
 show-in-navigation: true
 published: true
-permalink: /konsultointi-ja-koulutus/
+permalink: /konsultointi-koulutus-tyopaja/
 ---
 
 
