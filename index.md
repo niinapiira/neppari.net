@@ -73,7 +73,7 @@ Jatkossa samanlaisesta pienryhmätoiminnasta kiinnostuneet voivat olla yhteyksis
 
 ___
 
-## Uusi infopaketti ADHD:sta, tutkimuksista ja tukitoimista! =)
+## Uusi infopaketti ADHD:sta, sen tutkimisesta sekä tukitoimista! =)
 
 Mietitkö sinä onko sinulla tai tutullasi mahdollisesti ADHD?
 
