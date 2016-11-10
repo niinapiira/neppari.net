@@ -20,7 +20,7 @@ published: true
 
 Tukea elämään valmennuksella!
 
-Neppari tarjoaa neuropsykiatrista kuntoututusta [neuropsykiatrisen valmennuksen](/valmennus), [vanhempien valmennuksen](/vanhempien-valmennus/), [ammattilaisten valmennuksen](/ammattilaisten-valmennus/) ja [tukihenkilötoiminnan](/ammatillinen-tukihenkilotoiminta)muodossa, sekä [koulutusta](/konsultointi-koulutus-tyopaja/), [konsultaatiota](/konsultointi-koulutus-tyopaja/), [työpajoja](/konsultointi-koulutus-tyopaja/) ja yhteistyötä.
+Neppari tarjoaa neuropsykiatrista kuntoututusta [neuropsykiatrisen valmennuksen](/valmennus), [vanhempien valmennuksen](/vanhempien-valmennus/), [ammattilaisten valmennuksen](/ammattilaisten-valmennus/) ja [tukihenkilötoiminnan](/ammatillinen-tukihenkilotoiminta) muodossa, sekä [koulutusta](/konsultointi-koulutus-tyopaja/), [konsultaatiota](/konsultointi-koulutus-tyopaja/), [työpajoja](/konsultointi-koulutus-tyopaja/) ja yhteistyötä.
 
 Nepparin apu on tarkoitettu kaiken ikäisille ADHD:n, ADD:n, Autismin kirjon, Touretten, oppimisvaikeuksien yms:n kanssa eläville nuorille, aikuisille ja perheille sekä heidän kanssaan toimiville ammattilaisille.
 
