@@ -26,6 +26,8 @@ Valmennuksen avulla perheelle voidaan etsiä keinoja arjen hallintaan ja jaksami
 
 Vanhempien valmennus sopii erittäin hyvin myös perheeseen, jossa itse nepsy-lapsi, nuori tai aikuinen ei ole motivoitunut valmennukseen. Vanhemmat voivat viedä valmennuksen avulla toimivia tukikeinoja itse suoraan kotiin ja lapsensa elämään.
 
+Valmennusta on mahdollista saada myös [etänä](/etavalmennus).
+
 > Vanhempien valmennus on hinnaltaan 55e/h (+mahdollinen arvonlisävero 24% sekä mahdolliset matkakulut).
 
 > Vanhempien valmennuksesta voit kysellä lisää ottamalla suoraan yhteyttä joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
