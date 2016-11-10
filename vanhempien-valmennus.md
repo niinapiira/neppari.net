@@ -20,7 +20,9 @@ Neppari tarjoaa valmennusta myös vanhemmille, joiden lapsella on todettu neurop
 
 Myös, jos vanhemmalla itsellään on diagnoosi tai elämää haastavia piirteitä, on valmennus mitä mainioin tapa saada tukea koko perheen arkeen ja jaksamiseen.
 
-Vanhempien valmennuksessa voidaan käydä läpi diagnoosin saannin ensitietoa, käsitellä mahdollisesti syntynyttä kriisiä ja miettiä yhdessä keinoja vastata oman lapsen erityistarpeisiin. Valmennuksen avulla perheelle voidaan etsiä keinoja arjen hallintaan ja jaksamiseen sekä erilaisia tukitoimia erityiseen tilanteeseen.
+Vanhempien valmennuksessa voidaan käydä läpi diagnoosin saannin ensitietoa, käsitellä mahdollisesti syntynyttä kriisiä ja miettiä yhdessä keinoja vastata omiin tai lapsen erityistarpeisiin.
+
+Valmennuksen avulla perheelle voidaan etsiä keinoja arjen hallintaan ja jaksamiseen sekä erilaisia tukitoimia erityiseen tilanteeseen.
 
 Vanhempien valmennus sopii erittäin hyvin myös perheeseen, jossa itse nepsy-lapsi, nuori tai aikuinen ei ole motivoitunut valmennukseen. Vanhemmat voivat viedä valmennuksen avulla toimivia tukikeinoja itse suoraan kotiin ja lapsensa elämään.
 
