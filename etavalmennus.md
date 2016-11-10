@@ -16,7 +16,7 @@ Mahdollisia viestimiskanavia voi olla esimerkiksi puhelin, sähköposti, Skype, 
 
 Kasvotusten tapahtuvassa valmennuksessa voidaan myös hyödyntää etävalmennusta osassa tapaamisista.
 
-> Etävalmennuksen kertahinta on 45e/h ja 80e/2h (+mahdollinen alv 24%). 
+> Etävalmennuksen kertakäynnin hinta on 45e/h ja 80e/2h (+mahdollinen alv 24%). 
 
 > Etävalmennuksen sisältö, aikataulu ja viestimiskanava sovitaan etukäteen joko puhelimitse tai sähköpostilla.
 
