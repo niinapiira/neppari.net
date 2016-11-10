@@ -1,12 +1,11 @@
 ---
-"page-title": Konsultointi ja koulutus
-"page-type": normal
-"navigation-order": 9
-"show-in-navigation": true
+page-title: Konsultointi ja koulutus
+page-type: normal
+navigation-order: 9
+show-in-navigation: true
 published: true
-permalink: "/konsultointi-ja-koulutus/"
-"link-title": ""
-polaroid: ""
+permalink: /konsultointi-ja-koulutus/
+link-title: 'Konsultointi, koulutus, työpaja'
 ---
 
 
