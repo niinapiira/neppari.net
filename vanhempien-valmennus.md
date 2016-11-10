@@ -16,7 +16,9 @@ published: true
 
 
 
-Neppari tarjoaa valmennusta myös vanhemmille, joiden lapsella on todettu neuropsykiatrinen diagnoosi tai piirteitä sellaisesta. Jos vanhemmalla itsellään on diagnoosi tai elämää haastavia piirteitä, on valmennus mitä mainioin tapa saada tukea koko perheen arkeen.
+Neppari tarjoaa valmennusta myös vanhemmille, joiden lapsella on todettu neuropsykiatrinen diagnoosi tai piirteitä sellaisesta.
+
+Myös, jos vanhemmalla itsellään on diagnoosi tai elämää haastavia piirteitä, on valmennus mitä mainioin tapa saada tukea koko perheen arkeen.
 
 Vanhempien valmennuksessa voidaan käydä läpi diagnoosin saannin ensitietoa, käsitellä mahdollisesti syntynyttä kriisiä ja miettiä yhdessä keinoja vastata oman lapsen erityistarpeisiin. Valmennuksen avulla perheelle voidaan etsiä keinoja arjen hallintaan ja jaksamiseen sekä erilaisia tukitoimia erityiseen tilanteeseen.
 
