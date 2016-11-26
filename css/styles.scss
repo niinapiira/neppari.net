@@ -1,6 +1,8 @@
 ---
 ---
 
+$desktop-threshold: "(min-width: 48em) and (min-height: 530px)";
+
 @import "poole";
 @import "syntax";
 @import "hyde";
@@ -13,3 +15,4 @@
 @import "content";
 @import "navigation";
 @import "simple-sharing-buttons";
+@import "sidebar-adjustements";
