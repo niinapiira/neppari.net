@@ -37,15 +37,6 @@ Nepparin tukipalveluihin ja kuntoutukseen voi hakea maksusitoumusta esimerkiksi 
 ___
 
 
-## Tule mukaan Neuropsykiatriset valmentajat ry:n 10-vuotisjuhlaseminaariin Helsinkiin 4.11.2016! =)
-
-Ohjelmassa on ajankohtaisia luentoja sekä kokemusasiantuntijoiden tarinoita.
-
-Katso lisätietoja tapahtumasta: [http://www.neuropsykiatrisetvalmentajat.fi/koulutuksia.php](http://www.neuropsykiatrisetvalmentajat.fi/koulutuksia.php)
-
-___
-
-
 ## Neppari mukana autisminkirjon tapahtumassa Tampereen messukeskuksessa 14.12.! =)
 
 Olemme jotain erityistä - autisminkirjon tapahtuma keskiviikkona 14.12.2016 klo 10-15:30 Tampereen Messu- ja Urheilukeskuksessa.
