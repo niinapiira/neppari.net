@@ -32,7 +32,7 @@ ___
 
 Voit olla joko suoraan minuun yhteydessä tai puhua valmennustarpeesta lääkärin, sosiaalityöntekijän tai muun ammattilaisen kanssa.
 
-Nepparin tukipalveluihin voi hakea maksusitoumusta lääkäriltä, te-toimistosta tai sosiaalitoimesta.
+Nepparin tukipalveluihin ja kuntoutukseen voi hakea maksusitoumusta esimerkiksi lääkäriltä, te-toimistosta tai sosiaalitoimesta.
 
 ___
 
