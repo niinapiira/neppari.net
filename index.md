@@ -39,7 +39,7 @@ ___
 
 ## Neppari mukana ilmaisessa autisminkirjon tapahtumassa Tampereella 14.12.! =)
 
-[Olemme jotain erityistä](www.autismiliitto.fi/ikatapahtuma) - autisminkirjon tapahtuma keskiviikkona 14.12.2016 klo 10-15:30 Tampereen Messu- ja Urheilukeskuksessa.
+[Olemme jotain erityistä](http://www.autismiliitto.fi/ikatapahtuma) - autisminkirjon tapahtuma keskiviikkona 14.12.2016 klo 10-15:30 Tampereen Messu- ja Urheilukeskuksessa.
 
 Tapahtumassa luennoi aikuisena diagnosoitu Cos Michael.
 
@@ -47,7 +47,7 @@ Tapahtumassa on myös kaverikoiria, yllätysesiintyjiä sekä meitä näytteille
 
 TAPAHTUMA ON ILMAINEN!
 
-Katso lisätietoja: [www.autismiliitto.fi/ikatapahtuma](www.autismiliitto.fi/ikatapahtuma)
+Katso lisätietoja: [www.autismiliitto.fi/ikatapahtuma](http://www.autismiliitto.fi/ikatapahtuma)
 
 ___
 
