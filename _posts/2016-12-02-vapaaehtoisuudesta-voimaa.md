@@ -55,4 +55,5 @@ Minulle tärkeitä arvoja vapaaehtoistyössä ovat yhteisöllisyys, kokemusoppim
 ___
 
 _Vapaaehtoistyö tukee minun ammatillisuuttani, asiantuntijuuttani, työhyvintointiani ja myös mielenterveyttä, joten se antaa myös vähintään yhtä paljon kuin vie. Vaikka kiireisenä yrittäjänä voisin käyttää vapaa-aikani myös itseeni tai läheisiini, koen, että antamalla myös muille, saan valtavasti itselleni. Vapaaehtoistyö on tärkeää työtä, jonka arvo ei ole mitattavissa luvuissa, rahoissa, siihen käytetyssä ajassa tai panostuksessa. Se on mitattavissa meissä ihmisissä, meidän luomissa yhteisöissä sekä yhteiskunnassamme, jota luomme ja kehitämme itse omalla toiminnallamme. Jokainen meistä. Sinäkin. =)_
+
 ___
