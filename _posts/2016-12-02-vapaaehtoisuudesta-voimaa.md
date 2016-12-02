@@ -27,7 +27,7 @@ Yhteiskunnan tasolla vapaaehtoistyö on motivoiva kokemus omasta merkityksellisy
 Vapaaehtoistyöllä voi kokemukseni mukaan vaikuttaa ennen kaikkea hyvin vahvasti yksilön elämään ja kokemukseen itsestään, kun voi loistaa omilla taidoillaan ja vahvuuksillaan. Ihmisen hyvinvoinnille on tutkimusten mukaan erittäin tärkeää saada olla myös antajan roolissa, eli auttamassa ja edistämässä muiden ja yhteisiä asioita.
 Usein vapaaehtoistyössä myös hyödynnetään ja suvaitaan erilaisuutta ja moninaista osaamista paremmin kuin palkkatyössä. Esimerkkeinä tästä ovat mm. kokemattomat nuoret, mielenterveysongelmista toipuvat aikuiset tai neuropsykiatristen haasteiden kanssa elävät henkilöt. 
 
-Erilaisten yksilöiden vahvuuksien hyödyntäminen mahdollistaa jokaiselle kokemuksen omasta tärkeydestä yhteisössämme, työskennellessä yhteisen hyvän eteen. Tämä kokemus on ollut minunkin elämänpolkuni kannalta mittaamattoman arvokas ja johtanut osaltaan siihen, että kaikista vaikeuksista huolimatta uskon itseeni ja uskallan kokeilla rajojani.
+Erilaisten yksilöiden vahvuuksien hyödyntäminen mahdollistaa jokaiselle kokemuksen omasta tärkeydestä yhteisössämme, työskennellessä yhteisen hyvän eteen. Tämä kokemus on ollut minunkin elämänpolkuni kannalta mittaamattoman arvokas ja johtanut minun osaltani siihen, että kaikista vaikeuksista huolimatta uskon itseeni ja uskallan kokeilla rajojani.
 
 ## Vapaaehtoistyön merkitys
 
