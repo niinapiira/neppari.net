@@ -37,17 +37,18 @@ Nepparin tukipalveluihin ja kuntoutukseen voi hakea maksusitoumusta esimerkiksi 
 ___
 
 
-## Neppari mukana ilmaisessa autisminkirjon tapahtumassa Tampereella 14.12.! =)
+## Neppari etsii valmentaja-kollegoita yhteiseen ryhmätyönohjaukseen! =)
 
-[Olemme jotain erityistä](http://www.autismiliitto.fi/ikatapahtuma) - autisminkirjon tapahtuma keskiviikkona 14.12.2016 klo 10-15:30 Tampereen Messu- ja Urheilukeskuksessa.
+Hei nepsy-valmentajat! =)
 
-Tapahtumassa luennoi aikuisena diagnosoitu Cos Michael.
+Olisiko sinulla tarvetta työnohjaukselle?
+Haluaisitko kokeilla ryhmätyönohjausta?
 
-Tapahtumassa on myös kaverikoiria, yllätysesiintyjiä sekä meitä näytteilleasettajia. =)
+Olen kokoamassa nepsy-valmentajia työnohjausryhmään, jota ohjaisi työnohjaaja ja nepsy-valmentaja Helsingistä.
 
-TAPAHTUMA ON ILMAINEN!
+Ryhmässä työnohjaus tulisi halvemmaksi kuin yksin toteutettu työnohjaus ja kokemusten jakaminen laajentaa ymmärrystä. Keväällä 2017 ryhmään tulisi sitoutua 4krt ja jatkoa mietitään tarpeen mukaan.
 
-Katso lisätietoja: [www.autismiliitto.fi/ikatapahtuma](http://www.autismiliitto.fi/ikatapahtuma)
+[Ilmoita minulle](/ota-yhteytta) kiinnostuksesi ryhmästä, niin jatketaan keskustelua kiinnostuneiden kanssa tarkemmin. =)
 
 ___
 
