@@ -30,9 +30,9 @@ ___
 
 ## Miten Nepparin valmennusta saa?
 
-Voit olla joko suoraan minuun yhteydessä tai puhua valmennustarpeesta lääkärin, sosiaalityöntekijän tai muun ammattilaisen kanssa.
+Nepparissa on taas tilaa uusille asiakkaille, joten voit olla joko suoraan minuun yhteydessä tai puhua valmennustarpeesta lääkärin, sosiaalityöntekijän tai muun ammattilaisen kanssa.
 
-Nepparin tukipalveluihin ja kuntoutukseen voi hakea maksusitoumusta esimerkiksi lääkäriltä, te-toimistosta tai sosiaalitoimesta.
+Nepparin valmennushinnat on pidetty matalina, jotta jokaisella on varaa maksaa valmennus vaikka itse. Tukipalveluihin ja kuntoutukseen voi kuitenkin hakea myös maksusitoumusta esimerkiksi lääkäriltä, te-toimistosta tai sosiaalitoimesta. Maksusitoumuksen saaminen riippuu kuitenkin kunnasta jossa olet kirjoilla.
 
 ___
 
