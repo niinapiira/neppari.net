@@ -3,6 +3,8 @@ published: false
 page-title: Tukemalla hyvää minäkuvaa luomme mahdollisuuksia
 ---
 
+
+
 **Oletko koskaan miettinyt miksi uskolla itseen on suurempi vaikutus tulevaisuuteemme kuin ”todellisilla taidoilla ja kyvyillä”!? Oletko tavannut ihmisiä tai kokenut itse sen, kuinka mahdottomalta tuntuvatkin asiat toteutuvat? Tähän on selkeä vastaus aivoissamme ja sitä hyödyntämällä voimme saavuttaa itselle tärkeitä asioita vaikeuksistamme huolimatta.**
 
 Minäkuva on kokemusten ja palautteen myötä syntynyt ajatus ja mielikuva itsestämme sekä siitä, mitkä asiat näemme itsellemme mieluisaksi, epämieluisaksi, mahdolliseksi, mahdottomaksi, helpoksi ja vaikeaksi jne. Minäpystyvyys on osa minäkuvaa ja mielikuvaamme siitä, mihin kaikkeen uskomme pystyvämme ja mihin emme. Nämä uskomukset vaikuttavat suoraan käyttäytymiseemme ja siihen, mihin ryhdymme, miten toteutamme toimia ja miten arvioimme onnistumisemme. Minä kohtaan nepsy-valmentajan työssä jatkuvasti ihmisiä, jotka ovat oppineet näkemään itsensä kyvyttömämpänä kuin he todellisuudessa ovatkaan. Liian vähäinen luottamus itseen ja omiin mahdollisuuksiin ehkäisee kaikkea oppimista, ja muodostaa ilkeän oravanpyörän.
