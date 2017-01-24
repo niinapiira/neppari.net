@@ -3,7 +3,7 @@ published: false
 page-title: Tukemalla hyvää minäkuvaa luomme mahdollisuuksia
 ---
 
-
+![Majakka merenrannalla]({{site.baseurl}}/uploaded-images/majakka-merenrannalla.jpeg)
 
 **Oletko koskaan miettinyt miksi uskolla itseen on suurempi vaikutus tulevaisuuteemme kuin ”todellisilla taidoilla ja kyvyillä”!? Oletko tavannut ihmisiä tai kokenut itse sen, kuinka mahdottomalta tuntuvatkin asiat toteutuvat? Tähän on selkeä vastaus aivoissamme ja sitä hyödyntämällä voimme saavuttaa itselle tärkeitä asioita vaikeuksistamme huolimatta.**
 
