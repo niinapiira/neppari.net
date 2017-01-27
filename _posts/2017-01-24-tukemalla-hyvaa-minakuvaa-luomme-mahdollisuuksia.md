@@ -5,7 +5,7 @@ page-title: Tukemalla hyvää minäkuvaa luomme mahdollisuuksia
 
 ![Majakka merenrannalla]({{site.baseurl}}/uploaded-images/majakka-merenrannalla.jpeg)
 
-**Oletko koskaan miettinyt miksi uskolla itseen on suurempi vaikutus tulevaisuuteemme kuin ”todellisilla" taidoilla ja kyvyillä!? No oletko tavannut ihmisiä tai kokenut itse sen, kuinka mahdottomaltakin tuntuvat asiat toteutuvat? Tähän on selkeä vastaus aivoissamme ja sitä hyödyntämällä voimme jokainen saavuttaa tai auttaa muita saavuttamaan itselle tärkeitä asioita vaikeuksista huolimatta.**
+**Oletko koskaan miettinyt miksi uskolla itseen on suurempi vaikutus tulevaisuuteemme kuin ”todellisilla" taidoilla ja kyvyillä!? No oletko tavannut ihmisiä tai kokenut itse sen, kuinka mahdottomaltakin tuntuvat asiat toteutuvat? Tähän on selkeä vastaus aivoissamme ja sitä hyödyntämällä voimme jokainen saavuttaa itse tai auttaa muita saavuttamaan itselle tärkeitä asioita vaikeuksista huolimatta.**
 
 Minäkuva on kokemusten ja palautteen myötä syntynyt ajatuskokonaisuus ja mielikuva itsestämme sekä siitä, mitkä asiat näemme itsellemme mieluisaksi, epämieluisaksi, mahdolliseksi, mahdottomaksi, helpoksi ja vaikeaksi jne. Minäkuva syntyy siis peilaamalla itseämme suhteessa muihin, jolloinka toisilla ihmisillä on valtava vaikutus meihin.
 
