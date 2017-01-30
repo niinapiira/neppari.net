@@ -63,7 +63,7 @@ ___
 
 ## Tutkimuksia ja tukitoimia?
 
-Voit hakeutua tutkimuksiin omalääkärin kautta. Tutkimuksissa selvitetään yleensä myös muut mahdolliset syyt haasteillesi: päihteet, psyykkinen vointi ja elimelliset sairaudet. Tutkimuksia varten sinun on hyvä:
+Voit hakeutua tutkimuksiin omalääkärin kautta, joka arvioi tutkimuksen ja hoidon tarpeen. Tutkimuksissa selvitetään yleensä myös muut mahdolliset syyt haasteillesi: päihteet, psyykkinen vointi ja elimelliset sairaudet. Tutkimuksia varten sinun on hyvä:
 
 * pyytää oma vanhempi mukaan lääkäriin, koska oireita tulee olla jollain tavoin näkyvissä jo lapsuudessa
 * kerätä mukaan asiakirjoja myös kaikista hoitopaikoistasi: lastenneuvolasta, päiväkodista, kouluterveydenhuollosta, perheneuvolasta, psykologilta, terapeutilta ja esim. sosiaalitoimesta
