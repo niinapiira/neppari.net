@@ -14,6 +14,6 @@ Ammattilaisten valmennuksessa valmentaja jakaa omaa osaamistaan ja antaa ammatti
 
 Valmennusta on mahdollista saada myös [etänä](/etavalmennus).
 
-> Ammattilaisten valmennuksen kertakäynnin hinta on 62e/h ja 110e/2h (+mahdolliset matkakulut).
+> Ammattilaisten valmennuksen kertakäynnin hinta on 62e/h ja 115e/2h (+mahdolliset matkakulut).
 
 > Jos haluat kuulla lisää tai varata ajan valmennukseen, ota yhteyttä puhelimitse tai [sähköpostilla](/ota-yhteytta).
