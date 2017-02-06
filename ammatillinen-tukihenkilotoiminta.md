@@ -30,6 +30,6 @@ Tukihenkilötoiminnassa voidaan myös harjoitella uusia taitoja.
 
 Ammatillinen tukihenkilötoiminta voi olla hyvin pitkäaikainenkin tukimuoto, jolloin hyvä työskentelysuhde mahdollistaa tuen mm. mielenterveyden haasteisiin.
 
-> Ammatillisen tukihenkilötoiminnan kertakäynnin hinta on 70-100e/2h, 110-150e/3h, 145-200e/4h, 175-250e/5h, 200-300e/6h, 220-350e/7h (+mahdolliset alv 24%).
+> Ammatillisen tukihenkilötoiminnan kertakäynnin hinta on 70-100e/2h, 110-145e/3h, 145-185e/4h, 175-220e/5h, 200-250e/6h, 220-275e/7h (+mahdolliset alv 24%).
 
 > Jos olet kiinnostunut, voit kysyä minulta lisätietoja joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
