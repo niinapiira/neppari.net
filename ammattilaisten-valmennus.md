@@ -7,7 +7,7 @@ published: true
 ---
 Ammattilaisten valmennuksella työntekijä saa valmentavaa ja konsultoivaa tukea omaan työhönsä, hyvinvointiinsa, itsensä kehittämiseen sekä asiakkaiden kanssa toimimiseen. 
 
-Ammattilaisille tarkoitettua valmennusta voi hyödyntää paitsi vertais-mentorointina, myös omana henkilökohtaisena ammattivalmennuksena. Valmentaja toimii luottamuksellisena keskustelukumppanina, ratkaisukeskeisten kysymysten esittäjänä, reflektoijana sekä rinnalla kulkijana valmennettavan kehittymisprosessin ajan.
+Ammattilaisille tarkoitettua valmennusta voi hyödyntää paitsi vertais-mentorointina asiakaskeisseihin, myös itseä henkilökohtaisesti kehittävänä valmennuksena. Valmentaja toimii luottamuksellisena keskustelukumppanina, ratkaisukeskeisten kysymysten esittäjänä, reflektoijana sekä rinnalla kulkijana valmennettavan kehittymisprosessin ajan.
 
 Valmennuksessa ammattilainen voi vahvistaa omaa potentiaaliaan ja vahvuuksiaan sekä saada ratkaisukeskeistä näkökulmaa ja keinoja haastavaan työhönsä. Valmentaja tarjoaa uusia näkökulmia, omaa asiantuntijuuttaan ja kannustusta ammattilaisen tueksi.
 
