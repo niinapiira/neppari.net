@@ -1,17 +1,15 @@
 ---
-"page-title": "Neuropsykiatrinen valmentaja Niina&nbsp;Piira"
-"page-type": cv
-"show-in-navigation": false
+page-title: Neuropsykiatrinen valmentaja Niina&nbsp;Piira
+page-type: cv
+show-in-navigation: false
 published: true
-"link-title": ""
-"navigation-order": 50
-polaroid: ""
+navigation-order: 50
 ---
 
 
 ## Valmentaja
 
-Minä olen Niina Piira, ratkaisukeskeinen neuropsykiatrinen valmentaja ja sosiaalialan ammattilainen.
+Minä olen Niina Piira, ratkaisukeskeinen neuropsykiatrinen valmentaja ja laillistettu sosiaalialan ammattilainen.
 
 Olen koulutuksiltani neuropsykiatrinen valmentaja, sosionomi AMK sekä nuorison- ja vapaa-ajanohjaaja. Työkokemusta minulla on laajasti yli 15-vuotiselta sosiaalialan uralta.
 
