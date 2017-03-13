@@ -18,13 +18,13 @@ published: true
 
 
 
-Tukea elämään valmennuksella!
+Tukea suurella sydämellä ja vahvalla osaamisella!! =)
 
-Nepparin auttaa kaiken ikäisiä lapsia, nuoria, aikuisia ja perheitä, joilla on elämän haasteena AD(H)D, Autismin kirjo, Touretten oireyhtymä, oppimisvaikeuksia tai kielen kehityksen vaikeuksia. 
+Nepparin auttaa kaiken ikäisiä lapsia, nuoria, aikuisia ja perheitä, joilla on elämän haasteena AD(H)D, Autismin kirjo, Touretten oireyhtymä, oppimisvaikeuksia, kielen kehityksen vaikeuksia tai aivovamma. 
 
 Neppari toimii myös yhteistyökumppanina ammattilaisille, päättäjille ja kasvattajille.
 
-Soita tai laita [sähköpostia](/ota-yhteytta), niin pohditaan yhdessä tilannettasi! =)
+Soita tai laita [sähköpostia](/ota-yhteytta), niin kerron sinulle lisää! =)
 
 ___
 
