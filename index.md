@@ -62,12 +62,15 @@ ___
 
 ## Haluatko lukea valmennuksesta ja neuropsykiatrisesta maailmasta?
 
-[Blogistani](/blogi) voit lukea ajatuksiani voimaantumisesta, valmennuksesta sekä yrittäjyydestä. Blogissa käsittelen rakentavasti ja ratkaisukeskeisesti yksilön hyvinvointia, ihmisyyttä sekä sosiaalialaa niiden tukipilarina.
+[Blogistani](/blogi) voit lukea ajatuksiani voimaantumisesta, valmennuksesta sekä yrittäjyydestä. 
+
+Blogissa käsittelen ratkaisukeskeisesti yksilön hyvinvointia, ihmisyyttä sekä sosiaalialaa niiden tukipilarina.
 
 ___
 
 ## Kaipaatko ajankohtaista tietoa neuropsykiatriasta ja hyvinvoinnista?
 
-[Nepparin facebookista](https://facebook.com/valmennuskeskus.neppari) löydät päivittäin linkkejä ajankohtaisiin asioihin kuten tutkimuksiin, artikkeleihin ja uutisiin sekä muihin kirjoituksiin. Facebookissa voit myös seurata Nepparin toimintaa ja keskustella valmentaja-yrittäjän kanssa helposti messenger-viestein. =)
+[Nepparin facebookista](https://facebook.com/valmennuskeskus.neppari) löydät päivittäin linkkejä ajankohtaisiin asioihin kuten tutkimuksiin, artikkeleihin ja uutisiin sekä muihin kirjoituksiin. 
+Facebookissa voit myös seurata Nepparin toimintaa ja keskustella valmentaja-yrittäjän kanssa helposti messenger-viestein. =)
 
 ___
