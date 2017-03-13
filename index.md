@@ -32,7 +32,9 @@ ___
 
 Nepparissa on taas tilaa uusille asiakkaille, joten voit olla suoraan yhteydessä minuun tai puhua valmennustarpeesta lääkärin, sosiaalityöntekijän tai muun ammattilaisen kanssa.
 
-Nepparin valmennushinnat on pidetty matalina, jotta jokaisella on varaa maksaa valmennus vaikka itse. Tukipalveluihin ja kuntoutukseen voi kuitenkin hakea myös maksusitoumusta esimerkiksi lääkäriltä, te-toimistosta tai sosiaalitoimesta. Maksusitoumuksen saaminen riippuu kuitenkin kunnasta jossa olet kirjoilla.
+Nepparin valmennushinnat on pidetty matalina, jotta jokaisella on varaa maksaa valmennus myös itse.
+
+Tukipalveluihin ja kuntoutukseen voi kuitenkin hakea myös maksusitoumusta esimerkiksi lääkäriltä, te-toimistosta tai sosiaalitoimesta. Maksusitoumuksen saaminen riippuu kuitenkin kunnasta jossa olet kirjoilla.
 
 ___
 
