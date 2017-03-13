@@ -46,7 +46,7 @@ Neppari on toteuttanut [TSAU!ry:n](http://www.tsau.net/) kanssa yhteistyössä t
 
 Toiminta pyritään järjestämään maksuttomaksi, joten siihen haetaan rahoitusta tarpeen mukaisesti.
 
-Nuorten toiminnasta kiinnostuneet voivat olla yhteyksissä joko [TSAU!ry:hyn](http://www.tsau.net/) tai [Nepparin valmentajaan](/ota-yhteytta) niin mietitään yhdessä tilannettanne.
+Nuorten toiminnasta kiinnostuneet voivat olla yhteyksissä joko [TSAU!ry:hyn](http://www.tsau.net/) tai [Nepparin valmentajaan](/ota-yhteytta) niin mietitään yhdessä tilannettanne! =)
 
 ___
 
