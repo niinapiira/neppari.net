@@ -36,20 +36,17 @@ Nepparin valmennushinnat on pidetty matalina, jotta jokaisella on varaa maksaa v
 
 ___
 
-## Uuden autismin kirjon nuorten pienryhmän tarvetta selvitellään!
+## Kaipaako nuori tukea, tekemistä ja tovereita?
 
-Neppari on aloittanut pienryhmätoiminnan yhteistyössä [TSAU!ry:n](http://www.tsau.net/) kanssa.
-Toiminnalla kokeillaan pienimuotoisen vertaisryhmätoiminnan hyötyjä autismin kirjon nuorille (n.13-18-v).
+Neppari on toteuttanut [TSAU!ry:n](http://www.tsau.net/) kanssa yhteistyössä toimintaa nuorille autismin kirjon henkilöille ja rahoitusta uusille ryhmille haetaan aina tarpeen mukaan.
 
-Ryhmä pyritään järjestämään nuorille maksuttomaksi, joten ryhmätoimintaan haetaan rahoitusta tarpeen mukaisesti. Tästä syystä tieto tarpeellisuudesta on tärkeää.
+Toiminta pyritään järjestämään maksuttomaksi, joten siihen haetaan rahoitusta tarpeen mukaisesti.
 
-Ensimmäinen ryhmä aloitti huhtikuussa.
-
-Jatkossa samanlaisesta pienryhmätoiminnasta kiinnostuneet voivat olla yhteyksissä joko [TSAU!ry:hyn](http://www.tsau.net/) tai [Nepparin valmentajaan](/ota-yhteytta). Pyrimme hakemaan jatkossakin rahoitusta nuorten suoraan tukemiseen ja erityisesti ryhmämuotoiseen toimintaan, kun tarvetta ilmenee. =)
+Nuorten toiminnasta kiinnostuneet voivat olla yhteyksissä joko [TSAU!ry:hyn](http://www.tsau.net/) tai [Nepparin valmentajaan](/ota-yhteytta) niin mietitään yhdessä tilannettanne.
 
 ___
 
-## Uusi infopaketti ADHD:sta, sen tutkimisesta sekä tukitoimista! =)
+## Uusi infopaketti ADHD:sta, tutkimisista sekä tukitoimista!
 
 Mietitkö sinä onko sinulla tai tutullasi mahdollisesti ADHD?
 Haluaisitko ajankohtaista tietoa ADHD:sta, tutkimuksista ja tukitoimista?
@@ -59,13 +56,13 @@ Kaipaatko tätä tietoa selkeässä muodossa, lyhyesti ja ytimekkäästi?
 
 ___
 
-## Nepparin blogista tietoa valmennuksesta sekä neuropsykiatrisesta maailmasta!
+## Haluatko lukea valmennuksesta ja neuropsykiatrisesta maailmasta?
 
 [Blogistani](/blogi) voit lukea ajatuksiani voimaantumisesta, valmennuksesta sekä yrittäjyydestä. Blogissa käsittelen rakentavasti ja ratkaisukeskeisesti yksilön hyvinvointia, ihmisyyttä sekä sosiaalialaa niiden tukipilarina.
 
 ___
 
-## Nepparin facebookista ajankohtaista tietoa, linkkejä ja uutisia!
+## Kaipaatko ajankohtaista tietoa neuropsykiatriasta ja hyvinvoinnista?
 
 [Nepparin facebookista](https://facebook.com/valmennuskeskus.neppari) löydät päivittäin linkkejä ajankohtaisiin asioihin kuten tutkimuksiin, artikkeleihin ja uutisiin sekä muihin kirjoituksiin. Facebookissa voit myös seurata Nepparin toimintaa ja keskustella valmentaja-yrittäjän kanssa helposti messenger-viestein. =)
 
