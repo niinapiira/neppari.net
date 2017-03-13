@@ -71,6 +71,7 @@ ___
 ## Kaipaatko ajankohtaista tietoa neuropsykiatriasta ja hyvinvoinnista?
 
 [Nepparin facebookista](https://facebook.com/valmennuskeskus.neppari) löydät päivittäin linkkejä ajankohtaisiin asioihin kuten tutkimuksiin, artikkeleihin ja uutisiin sekä muihin kirjoituksiin. 
+
 Facebookissa voit myös seurata Nepparin toimintaa ja keskustella valmentaja-yrittäjän kanssa helposti messenger-viestein. =)
 
 ___
