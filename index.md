@@ -50,7 +50,7 @@ Nuorten toiminnasta kiinnostuneet voivat olla yhteyksissä joko [TSAU!ry:hyn](ht
 
 ___
 
-## Uusi infopaketti ADHD:sta, tutkimisista sekä tukitoimista!
+## Uusi infopaketti ADHD:sta, tutkimuksista sekä tukitoimista!
 
 Mietitkö sinä onko sinulla tai tutullasi mahdollisesti ADHD?
 Haluaisitko ajankohtaista tietoa ADHD:sta, tutkimuksista ja tukitoimista?
