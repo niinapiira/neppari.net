@@ -36,22 +36,6 @@ Nepparin valmennushinnat on pidetty matalina, jotta jokaisella on varaa maksaa v
 
 ___
 
-
-## Neppari etsii valmentaja-kollegoita yhteiseen ryhmätyönohjaukseen! =)
-
-Hei nepsy-valmentajat! =)
-
-Olisiko sinulla tarvetta työnohjaukselle?
-Haluaisitko kokeilla ryhmätyönohjausta?
-
-Olen kokoamassa nepsy-valmentajia työnohjausryhmään, jota ohjaisi työnohjaaja ja nepsy-valmentaja Helsingistä.
-
-Ryhmässä työnohjaus tulisi halvemmaksi kuin yksin toteutettu työnohjaus ja kokemusten jakaminen laajentaa ymmärrystä. Keväällä 2017 ryhmään tulisi sitoutua 4krt ja jatkoa mietitään tarpeen mukaan.
-
-[Ilmoita minulle](/ota-yhteytta) kiinnostuksesi ryhmästä, niin jatketaan keskustelua kiinnostuneiden kanssa tarkemmin. =)
-
-___
-
 ## Uuden autismin kirjon nuorten pienryhmän tarvetta selvitellään!
 
 Neppari on aloittanut pienryhmätoiminnan yhteistyössä [TSAU!ry:n](http://www.tsau.net/) kanssa.
