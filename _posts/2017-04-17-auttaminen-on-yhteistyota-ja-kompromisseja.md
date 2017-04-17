@@ -1,6 +1,6 @@
 ---
 published: false
-page-title: Yhteistyö on kompromissi
+page-title: Auttaminen on yhteistyötä ja kompromisseja
 ---
 ![Aurinko puiden takana]({{site.baseurl}}/uploaded-images/aurinko-puiden-takana.jpeg)
 
