@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 page-title: Auttaminen on yhteistyötä ja kompromisseja
 ---
 ![Aurinko puiden takana]({{site.baseurl}}/uploaded-images/aurinko-puiden-takana.jpeg)
