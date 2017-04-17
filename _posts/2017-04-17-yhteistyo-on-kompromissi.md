@@ -2,7 +2,7 @@
 published: false
 page-title: Yhteistyö on kompromissi
 ---
-
+![Aurinko puiden takana]({{site.baseurl}}/uploaded-images/aurinko-puiden-takana.jpeg)
 
 **Tilanne, jossa ammattilainen pyrkii auttamaan nepsy-asiakasta ja perhettä, on hankala monesta syystä, mutta eniten varmaan siksi, että jokainen yksilö ja perhe on niin erilainen. Ammattilainen tarvitsee tarpeeksi resursseja voidakseen kartoittaa jokaisen yksilöllisen tilanteen ja voidakseen hahmottaa perheen dynamiikkaan vaikuttavia asioita. Mitä pidemmälle vaikea tilanne on päässyt etenemään, sitä suuremmaksi se on usein myös kasvanut. Korjaavaa työtä voidaan ja pitää tehdä, ja usein se on ennaltaehkäisevää työtä tulevaisuutta ajatellen. Vaikka emme voi hoitaa pitkän historian muokkaamia vaikeuksia täysin samalla tavalla kuin varhaisella puuttumisella, on joitain yhteneviä piirteitä hyvä huomioida näissä kummassakin tapauksessa.**
 
@@ -37,5 +37,3 @@ Vanhempienkin on hyvä ymmärtää, että hyvä pohjatyö on tehtävä jossain v
 
 
 _Tähän kaikkeenhan on onneksi herätty vuosien varrella ja yhä enenevissä määrin panostetaan varhaiseen, matalan kynnyksen yksilölliseen tukeen. Ne nuoret ja aikuiset ja perheet, jotka ovat kuitenkin jo kasvaneet ilman tätä perustason vahvaa tukea, ja joutuneet sinnittelemään heikolla pohjalla, tarvitsevat myös apua ja tukea ongelmavyyhtien avaamisessa ja huonojen kokemustensa korjaamisessa. Tästä syystä minä haluan käyttää ammattitaitoani myös korjaavaan työhön, jolla voidaan auttaa niitä väliinputoajia, joilla myös on oikeus kurotella unelmiaan ja päästä potentiaaliinsa, sekä saada kokemusta osallisuudesta yhteiskunnassamme ja yhteisöissämme. Emme saa siis unohtaa varhaisen tuen rinnalta korjaavaa työtä, jolla voidaan parantaa niiden nepsy-henkilöiden hyvinvointia ja elämänlaatua, jotka ovat aikanaan jääneet vaille yhteiskuntamme tukitoimia ja yhteisömme ymmärrystä ja hyväksyntää. Heidän auttamisensa vaatii usein vahvaa osaamista ja kokemusta, jotta heidän ei tarvitsisi enää kokea elämässään lisää väärinymmärryksiä, ymmärtämättömyyttä tai heille sopimatonta auttamista._
-
-
