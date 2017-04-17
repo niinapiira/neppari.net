@@ -1,6 +1,6 @@
 ---
 published: false
-page-title: Yhteistyö on tiedon kompromissi
+page-title: Yhteistyö on kompromissi
 ---
 ![Aurinko puiden takana]({{site.baseurl}}/uploaded-images/aurinko-puiden-takana.jpeg)
 
