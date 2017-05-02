@@ -35,7 +35,7 @@ Sokeria kannattaa välttää, sillä se heikentää elimistön kykyä hyödyntä
 
 Vettä tulee juoda tarpeeksi paljon joka päivä.
 
-Kirja avaa jokaisella sivulla hyvin sitä, mihin ohjeet perustuvat ja kuinka jokaisen yksilöllistä tilannetta voi alkaa seuraamaan ja selvittämään.
+Kirja avaa jonkin verran sitä, mihin ohjeet perustuvat ja kuinka jokaisen yksilöllistä tilannetta voi alkaa seuraamaan ja selvittämään.
 Kirjoittajat antavat myös paljon vinkkejä siitä kuinka eri ruoka-aineita on syytä säilyttää, valmistaa ja syödä, jotta niistä saa parhaiten irti tarvitsemamme ainesosat.
 
 ___
