@@ -18,8 +18,8 @@ Korjaamalla tätä puutosta voidaan heidän mukaansa hoitaa AD(H)D:ta.
 Käytännössä kirja neuvoo lopettamaan biologisesti haitallisten aineiden käytön, kuten kemikaalien ja allergisoivien aineiden.
 Tätä varten on kiinnitettävä huomiota ruokavalion lisäksi myös hyvään sisäilmaan.
 
-Kirjoittajat suosittelevat ruokapäiväkirjan pitämistä, jossa kirjaa myös päivän aikana ilmenneet tunteet, mielialan ja fyysiset tilat.
-Mahdollisuuksien mukaan voi myös syödä pitkään vain 1-3:a eri ruoka.ainetta ja katsoa kuinka ne vaikuttavat kehoon.
+Kirjoittajat suosittelevat ruokapäiväkirjan pitämistä, jossa kirjataan myös päivän aikana ilmenneet tunteet, mielialan ja fyysiset tilat.
+Mahdollisuuksien mukaan voi myös syödä pitkään vain 1-3:a eri ruoka-ainetta ja katsoa kuinka ne vaikuttavat kehoon.
 Näin pyritään selvittämään henkilökohtaisia yliherkkyyksiä.
 
 Kirjoittajat neuvovat välttämään mm. ruoka-aineita, jotka suorastaan himottavat. Himo on heidän kertomansa mukaan vieroitusoire riippuvuudesta ja kertoo usein allergiasta.
