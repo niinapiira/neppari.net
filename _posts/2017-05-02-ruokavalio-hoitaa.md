@@ -2,7 +2,6 @@
 published: true
 page-title: Ruokavalio hoitaa?
 ---
-## Ruokavalio hoitaa?
 
 ![Ruokavalio kirja]({{site.baseurl}}/uploaded-images/ruokavalio-kirja.jpeg)
 
