@@ -4,14 +4,13 @@ page-title: Ruokavalio hoitaa
 ---
 ## Ruokavalio hoitaa
 
+![Ruokavalio kirja]({{site.baseurl}}/uploaded-images/ruokavalio-kirja.jpeg)
 
-
-Luin kyseisen kirjan ja ajattelin referoida oman ymmärrykseni kautta kirjan sanoman tiivistettynä.
-
+**Luin kyseisen kirjan ja ajattelin referoida oman ymmärrykseni kautta kirjan sanoman tiivistettynä.
 Kirjoittajat kertovat, että koska AD(H)D on biologinen tila, voidaan sitä myös hoitaa biologisesti, ruokavalion avulla.
 Keskittymisvaikeuksisilla ja autismin kirjon lapsilla onkin tunnetusti saatu vaihtelevia tuloksia aikaiseksi ruokavalio-interventiolla, mutta ihmisten yksilöllisyydestä johtuen sopivan ruokavalion löytäminen ei ole yksinkertainen juttu.
+Tukitoimilla pyritään auttamaan AD(H)D-henkilöä selviytymään oireiden kanssa, mutta tämän kirjan kirjoittajat haluavat käydä kiinni syvimpiin juurisyihin poistamalla oireita ilman lääkitystä.**
 
-Tukitoimilla pyritään auttamaan AD(H)D-henkilöä selviytymään oireiden kanssa, mutta tämän kirjan kirjoittajat haluavat käydä kiinni syvimpiin juurisyihin poistamalla oireita ilman lääkitystä.
 
 Kirjoittajat perustelevat AD(H)D:n lääkeetöntä hoitoa sillä, että tila johtuu kivennäis- ja hivenaineiden, entsyymien, välittäjäaineiden ja välttämättömien rasvahappojen puutoksesta.
 Korjaamalla tätä puutosta voidaan heidän mukaansa hoitaa AD(H)D:ta.
@@ -41,6 +40,6 @@ Kirjoittajat antavat myös paljon vinkkejä siitä kuinka eri ruoka-aineita on s
 
 ___
 
-Kirjassa on kerrottu lyhyesti myös mm. paastosta, ravintolisistä sekä erilaisista vaihtoehtohoidoista, joista osa on enemmän tutkittua kuin toiset. Suosittelen kyllä kirjan lukemista ja rohkeutta etsiä itselle sopivin ruokavalio, mutta paaston, ravintolisien ja vaihtoehtohoitojen suhteen suosittelen lääkärin ja/tai ravitsemusasiantuntijan konsultoimista. Myös raakamaidon vaaroista on uutisoitu, joten ainakin lasten suhteen niiden käyttöä on syytä punnita tarkkaan.
+_Kirjassa on kerrottu lyhyesti myös mm. paastosta, ravintolisistä sekä erilaisista vaihtoehtohoidoista, joista osa on enemmän tutkittua kuin toiset. Suosittelen kyllä kirjan lukemista ja rohkeutta etsiä itselle sopivin ruokavalio, mutta paaston, ravintolisien ja vaihtoehtohoitojen suhteen suosittelen lääkärin ja/tai ravitsemusasiantuntijan konsultoimista. Myös raakamaidon vaaroista on uutisoitu, joten ainakin lasten suhteen niiden käyttöä on syytä punnita tarkkaan._
 
 ___
