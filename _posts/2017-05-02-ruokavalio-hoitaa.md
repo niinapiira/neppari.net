@@ -16,7 +16,7 @@ Kirjoittajat perustelevat AD(H)D:n lääkeetöntä hoitoa sillä, että tila joh
 Korjaamalla tätä puutosta voidaan heidän mukaansa hoitaa AD(H)D:ta.
 
 Käytännössä kirja neuvoo lopettamaan biologisesti haitallisten aineiden käytön, kuten kemikaalien ja allergisoivien aineiden.
-Tätä varten on kiinnitettävä huomiota esimerkiksi myös hyvään sisäilmaan.
+Tätä varten on kiinnitettävä huomiota ruokavalion lisäksi myös hyvään sisäilmaan.
 
 Kirjoittajat suosittelevat ruokapäiväkirjan pitämistä, jossa kirjaa myös päivän aikana ilmenneet tunteet, mielialan ja fyysiset tilat.
 Mahdollisuuksien mukaan voi myös syödä pitkään vain 1-3:a eri ruoka.ainetta ja katsoa kuinka ne vaikuttavat kehoon.
