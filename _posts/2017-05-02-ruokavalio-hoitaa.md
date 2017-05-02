@@ -37,6 +37,4 @@ Vettä tulee juoda tarpeeksi paljon joka päivä.
 Kirja avaa jokaisella sivulla hyvin sitä, mihin ohjeet perustuvat ja kuinka jokaisen yksilöllistä tilannetta voi alkaa seuraamaan ja selvittämään.
 Kirjoittajat antavat myös paljon vinkkejä siitä kuinka eri ruoka-aineita on syytä säilyttää, valmistaa ja syödä, jotta niistä saa parhaiten irti tarvitsemamme ainesosat.
 
-Kirjan lopuksi on kerrottu lyhyesti myös erilaisista vaihtoehtohoidoista, joista osa on enemmän tutkittua ja uskottavaa kuin toiset.
-
-Suosittelen kyllä kirjan lukemista ja rohkeutta etsiä itselle sopivin ruokavalio, mutta vaihtoehtohoitojen suhteen suosittelen lääkärin konsultoimista.
+Kirjassa on kerrottu lyhyesti myös mm. paastosta, ravintolisistä sekä erilaisista vaihtoehtohoidoista, joista osa on enemmän tutkittua kuin toiset. Suosittelen kyllä kirjan lukemista ja rohkeutta etsiä itselle sopivin ruokavalio, mutta paaston, ravintolisien ja vaihtoehtohoitojen suhteen suosittelen lääkärin konsultoimista.
