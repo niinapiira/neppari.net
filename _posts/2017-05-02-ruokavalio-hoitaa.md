@@ -4,6 +4,8 @@ page-title: Ruokavalio hoitaa
 ---
 ## Ruokavalio hoitaa
 
+
+
 Luin kyseisen kirjan ja ajattelin referoida oman ymmärrykseni kautta kirjan sanoman tiivistettynä.
 
 Kirjoittajat kertovat, että koska AD(H)D on biologinen tila, voidaan sitä myös hoitaa biologisesti, ruokavalion avulla.
