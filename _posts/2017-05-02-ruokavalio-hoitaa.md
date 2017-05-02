@@ -43,7 +43,7 @@ ___
 
 _Kirjassa on kerrottu lyhyesti myös mm. paastosta, ravintolisistä sekä erilaisista vaihtoehtohoidoista, joista osa on enemmän tutkittua kuin toiset. Suosittelen kyllä kirjan lukemista ja rohkeutta etsiä itselle sopivin ruokavalio, mutta paaston, ravintolisien ja vaihtoehtohoitojen suhteen suosittelen lääkärin ja/tai ravitsemusasiantuntijan konsultoimista. Myös raakamaidon vaaroista on uutisoitu, joten ainakin lasten suhteen niiden käyttöä on syytä punnita tarkkaan._
 
-_Kirjan ovat kirjoittaneet amerikkalaiset ja tutkimukset, joihin viitataan, ovat usein myös amerikkalaisia, joten kokemuksen vuoksi en lähtisi uskomaan tutkimuksia suoraan vaan käyttäisin omaa maalaisjärkeä tulosten arvioimiseen sekä erilaisten ruokavalio vaihtoehtojen testaamiseen._
+_Kirjan ovat kirjoittaneet amerikkalaiset, ja tutkimukset joihin he viitaavat, ovat usein myös amerikkalaisia. Kokemuksen vuoksi en lähtisi uskomaan tutkimuksia suoraan vaan käyttäisin omaa maalaisjärkeä tulosten arvioimiseen sekä erilaisten ruokavalio vaihtoehtojen testaamiseen._
 
 _Suomen Käypä hoito-suosituksissa painotetaan myös, että tutkimusnäyttöä erilaisten vaihtoehtohoitojen hyödystä on vähän. Esimerkiksi lisäaineiden ja sakkaroosin välttäminen tai välttämättömien rasvahappojen, raudan tai magnesiumin lisäkäyttö eivät vaikuta suosituksen mukaan lasten ADHD-oireisiin. Homeopatiasta ei ole sen mukaan myöskään hyötyä lasten ja nuorten ADHD:n hoidossa. Sinkin lisäämisestä ruokavalioon ei ole Käypä hoidon mukaan luotettavaa näyttöä, mutta se saattaa parantaa stimulanttihoidon tehoa._
 
