@@ -2,7 +2,7 @@
 published: false
 page-title: Ihmisyyden normalisointi
 ---
-
+![pikku-kuppi.jpeg]({{site.baseurl}}/uploaded-images/pikku-kuppi.jpeg)
 
 ## Aivot, eli mieli, sekä keho reagoivat luonnollisesti erilaisiin asioihin ympäristössä. Olemme kuitenkin monet etääntyneet niin kauas näistä automaattisista toimintatavoista, että pidämme niitä helposti ongelmina ja oireina. Esimerkiksi monet mielenterveyshaasteet, ahdistus, pakkotoiminnot, syömisongelmat, motivaatiohaasteet jne. ovat sidoksissa hyvin luonnollisiin prosesseihin ihmisyydessä. Ihmisen käyttäytymisessä näkyy hänen reagointitapansa itsestä ja ympäristöstä tuleviin asioihin paitsi yleisesti tiedetyillä tavoilla, myös yksilöllisesti. Kaikki reaktiot ovat yritystä sopeutua ympäröivään tilanteeseen parhaiten osaamallaan tavalla. Jos ihminen ei osaa toimia yleisesti hyväksytyllä tavalla, voi reaktio näyttäytyä ulkopuolisista epäsopivalta ja jopa huonolta käytökseltä. 
 
@@ -43,4 +43,3 @@ Normalisoimalla ihmisyyden eri puolia luomme myös yhteyttä toisiin ihmisiin, s
 
 
 Me ollaan hypätty minun näkökulmastani historiallisesti erilaisuuden häpeästä erilaisuuden dramatisointiin. Parasta olisi varmaan tässäkin asiassa löytää kultainen keskitie. Ja hyväksyä, että meissä ihmisissä on kaikissa hyvin paljon erilaisia puolia ja toimintamekanismeja, joista emme tunne vieläkään kaikkia. Ihminen on äärimmäisen sopeutuvainen eliö, ja erilaiset oireet ovat ennen kaikkea osoitus tästä kyvystä. Ratkaisukeskeisestä näkökulmasta oireisiin voi siis suhtautua ymmärtäen niiden funktio auttaa ihmistä muuttamaan ympäristöään, sopeutumaan vaikeuksiin ja selviytymään niistä. Oire on merkki siitä, että ihminen tai perhe ei ole löytänyt oikeasti toimivaa keinoa, joten he selkeästi kaipaavat ulkopuolista apua ja tukea, jossa lyödään viisaat päät yhteen ja etsitään yhdessä keinoja helpottaa vaikeuksia ja elää kaikkien ihmisyyden puoliensa kanssa hyvää ja merkityksellistä elämää.
-
