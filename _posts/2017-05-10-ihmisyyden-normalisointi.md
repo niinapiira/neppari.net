@@ -39,7 +39,11 @@ Myötätunto on myös ymmärrystä siitä, että vahingon sattuessa ei ole oikea
 
 Toisen ihmisen oireiden rajaaminen, kontrollointi ja niistä rankaiseminen siirtävät ongelmaa, eivät ratkaise sitä. Jos ongelmat halutaan ratkaista, on niihin tartuttava avoimesti, katsomalla vaikeutta silmästä silmään, tutkimalla sitä ja selvittämällä mistä tarpeesta vaikeus kertoo. Myötätunnon avulla jaamme itsellemme ja toiselle ymmärrystä ja hyväksyntää, ja luomme maaperää haasteiden aidolle kohtaamiselle. Nepsy-henkilöitä tukiessa meidän täytyy muistaa, että toinen ihminen haluaa olla varma siitä, että olemme aidosti hänen puolellaan, ennen kuin hän voi avauta ja paljastaa heikoimmat kohtansa ja alkaa yhdessä tutkimaan ja muokkamaan niitä. Myötätunnolla voimme osoittaa ymmärryksemme toisen tuskasta, vaikeuksista ja valinnoista, ja myötätunnolla voimme lievittää tuskaa sekä suhtautua vaikeuksiin lempeästi mutta kohdaten ne aidosti.
 
+## Luodaan yhteys
+
 Normalisoimalla ihmisyyden eri puolia luomme yhteyttä toisiin ihmisiin, samaistumisen kokemusta, kun voimme jakaa yhteisiä ihmisyyden kokemuksia. Häpeän suurin syy on kuvitelma siitä, että ”olen varmasti ainut joka kokee tällaista tai on tällainen”. Normalisoimalla ihmisyyttämme rakennamme siltoja kohti toisiamme, olimme sitten kuinka erilaisia tahansa. Normalisoimalla voimme myös löytää kosketuspintaa myötätuntoiseen suhtautumiseen, kun ymmärrämme, että loppupeleissä meillä kaikilla on samat perustavanlaatuiset tarpeet, jotka haluavat tulla täytetyiksi, vaikka jokainen ilmentää näitä tarpeista eri tavoin. Myötätuntoinen ihminen aistii mikä tarve on päällimmäisenä vaikeuden kohdanneella ihmisellä ja auttaa sen täyttämisessä.
+
+Me olemme kaikki ihmisinä vajaita ja siksi tarvitsemme toisiamme, täydentämään itseämme. Me tarvitsemme toisiamme voidaksemme kohdata kipeimmät kohtamme itsessämme ja päästäksemme niiden yli, voittaaksemme pelkomme ja kehittyäksemme ihmisinä. Ihminen tulee ihmiseksi vain toisten ihmisten avulla. Ensi kerralla, kun sinussa herää tarve puhua toisesta häiriöisenä, vaikeana, haastavana tms., muista, että mitä vaikeampaa sinulla on hänen kanssaan, hänellä on todennäköisesti tuplasti vaikeampaa ja silti hän sinnittelee. Voisitko siis mennä vielä vähän matkaa häntä vastaan? =)
 
 ___
 
