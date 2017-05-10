@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 page-title: Ihmisyyden normalisointi
 ---
 ![pikku-kuppi.jpeg]({{site.baseurl}}/uploaded-images/pikku-kuppi.jpeg)
