@@ -1,5 +1,5 @@
 ---
-page-title: Pieni ADHD-infopaketti
+page-title: Pieni AD(H)D-infopaketti
 page-type: normal
 navigation-order: 99
 show-in-navigation: false
