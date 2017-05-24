@@ -41,6 +41,6 @@ _"Haluan Nepparin avulla saada vahvuuteni käyttöön neurokirjon henkilöiden a
 
 _"Minulla on taito nähdä hyvää jokaisessa ihmisessä, sekä tunnistaa kaikissa piilevä potentiaali."_
 
-_"Autan asiakasta katsomaan ongelmia ja haasteita laajasti eri näkökulmista,sekä löytämään keinoja niiden ratkaisemiseen tai niiden kanssa selviytymiseen."_
+_"Autan asiakasta katsomaan ongelmia ja haasteita laajasti eri näkökulmista, sekä löytämään keinoja niiden ratkaisemiseen tai niiden kanssa selviytymiseen."_
 
 _"Yritän elää niin kuin opetan, pidän huolta itsestäni, työni laadusta, ihmissuhteistani, yhteistyökumppanuuksista ja asiakkaista. Löydän jatkuvasti itsestäni ja työstäni kehittämisen kohtia ja valmennan myös itseäni muuntumaan ja selviytymään elämän eri vaiheista."_
