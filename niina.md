@@ -33,7 +33,7 @@ Käytän valmennuksessa paljon vuorovaikutusta helpottavia menetelmiä, kuten vo
 
 Laaja-alainen osaamiseni ja tukeni ulottuu kaikille niille elämän alueille, joilla haasteita kohdataan.
 
-Pitkä kokemukseni on tuonut paljon tietoa, keinoja ja kokemusta, ja jatkan osaamiseni päivitystä jatkuvasti.
+Pitkä kokemukseni on tuonut paljon tietoa, keinoja ja kokemusta, ja jatkan osaamiseni päivitystä jatkuvasti. Olen kerännyt vuosien varrella käyttööni laajan valikoiman toimivia valmennusmenetelmiä sekä työkaluja asiakkaiden käyttöön.
 
 > Minulle mikään haaste ei ole mahdoton eikä kukaan ihminen toivoton.
 
