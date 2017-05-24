@@ -27,7 +27,7 @@ Olen opiskellut myös jonkin verran
 
 Kokemukseni on kertynyt erityisesti nuorten ja aikuisten nepsy-henkilöiden kanssa työskentelystä, mutta autan erittäin mielelläni myös lapsiperheitä, pariskuntia ja esimerkiksi työtiimejä.
 
-Minun tapani työskennellä on hyvin joustavaa, ketterää ja asiakkaan erityistarpeita huomioivaa.
+Minun tapani työskennellä on hyvin joustavaa, ketterää ja asiakkaan erityistarpeita huomioivaa. Hyödynnän ihmistyössäni empaattisuuttani ja intuitiotani päästäkseni mahdollisimman hyvin asiakkaan kokemusmaailmaan sisään.
 
 Käytän valmennuksessa paljon vuorovaikutusta helpottavia menetelmiä, kuten voimauttavaa vuorovaikutusta ja luovia menetelmiä (kirjoittaminen, piirtäminen, kirjallisuusterapian menetelmät ja ajatusten visualisointi kuvin ja esinein).
 
