@@ -43,4 +43,4 @@ _"Minulla on taito nähdä hyvää jokaisessa ihmisessä, sekä tunnistaa kaikis
 
 _"Autan asiakasta katsomaan ongelmia ja haasteita laajasti eri näkökulmista,sekä löytämään keinoja niiden ratkaisemiseen tai niiden kanssa selviytymiseen."_
 
-_"Yritän elää niin kuin opetan, pidän huolta itsestäni, työni laadusta, ihmissuhteistani, yhteistyökumppanuuksista ja asiakkaista. Löydän jatkuvasti itsestäni ja työstäni kehittämisen kohtia ja valmennan myös itseäni selviytymään elämän eri vaiheista."_
+_"Yritän elää niin kuin opetan, pidän huolta itsestäni, työni laadusta, ihmissuhteistani, yhteistyökumppanuuksista ja asiakkaista. Löydän jatkuvasti itsestäni ja työstäni kehittämisen kohtia ja valmennan myös itseäni muuntumaan ja selviytymään elämän eri vaiheista."_
