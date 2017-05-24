@@ -11,7 +11,19 @@ navigation-order: 50
 
 Minä olen Niina Piira, ratkaisukeskeinen neuropsykiatrinen valmentaja ja laillistettu sosiaalialan ammattilainen.
 
-Olen koulutuksiltani neuropsykiatrinen valmentaja, sosionomi AMK sekä nuorison- ja vapaa-ajanohjaaja. Työkokemusta minulla on laajasti 20-vuotiselta sosiaalialan uralta.
+Olen koulutuksiltani neuropsykiatrinen valmentaja, sosionomi AMK, yrittäjä sekä nuorison- ja vapaa-ajanohjaaja. Työkokemusta minulla on laajasti 20-vuotiselta sosiaalialan uralta.
+
+Olen opiskellut myös jonkin verran
+- Tunnetaitoja ja sosiaalisen toimintakyvyn kuntoutusta (mm. Art, Friends, Sotoku)
+- NLP:tä
+- Positiivista psykologiaa
+- Avekkia, haastavaa käytöstä sekä puhejudoa
+- Toimivaa ja voimauttavaa vuorovaikutusta
+- Mindfulnessia ja meditaatiota
+- Psykologiaa ja eri terapieauuntauksia
+- Aivotutkimusta (neurologiaa) sekä neuropsykologiaa
+- Mielenterveystietoa
+- Hahmottamisen häiriöistä sekä erilaisesta oppimisesta
 
 Kokemukseni on kertynyt erityisesti nuorten ja aikuisten nepsy-henkilöiden kanssa työskentelystä, mutta autan erittäin mielelläni myös lapsiperheitä, pariskuntia ja esimerkiksi työtiimejä.
 
@@ -21,4 +33,14 @@ Käytän valmennuksessa paljon vuorovaikutusta helpottavia menetelmiä, kuten vo
 
 Laaja-alainen osaamiseni ja tukeni ulottuu kaikille niille elämän alueille, joilla haasteita kohdataan.
 
+Pitkä kokemukseni on tuonut paljon tietoa, keinoja ja kokemusta, ja jatkan osaamiseni päivitystä jatkuvasti.
+
 > Minulle mikään haaste ei ole mahdoton eikä kukaan ihminen toivoton.
+
+"Haluan Nepparin avulla saada vahvuuteni käyttöön neurokirjon henkilöiden avuksi sekä heidän ympäristönsä hyödyksi tekemällä sitä mikä on intohimoni: valmentamalla, kouluttamalla sekä vaikuttamistyöllä."
+
+"Minulla on taito nähdä hyvää jokaisessa ihmisessä, sekä tunnistaa kaikissa piilevä potentiaali."
+
+"Autan asiakasta katsomaan ongelmia ja haasteita laajasti eri näkökulmista,sekä löytämään keinoja niiden ratkaisemiseen tai niiden kanssa selviytymiseen."
+
+"Yritän elää niin kuin opetan, pidän huolta itsestäni, työni laadusta, ihmissuhteistani, yhteistyökumppanuuksista ja asiakkaista. Löydän jatkuvasti itsestäni ja työstäni kehittämisen kohtia ja valmennan myös itseäni selviytymään elämän eri vaiheista."
