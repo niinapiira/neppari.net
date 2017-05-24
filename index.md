@@ -40,16 +40,6 @@ Soita tai laita [sähköpostia](/ota-yhteytta), niin kerron lisää! =)
 
 ___
 
-## Kaipaako nuori tukea, tekemistä ja tovereita?
-
-Neppari on toteuttanut [TSAU!ry:n](http://www.tsau.net/) kanssa yhteistyössä toimintaa nuorille autismin kirjon henkilöille ja rahoitusta uusille ryhmille haetaan aina tarpeen mukaan.
-
-Toiminta pyritään järjestämään maksuttomaksi, joten siihen haetaan rahoitusta tarpeen mukaisesti.
-
-Nuorten toiminnasta kiinnostuneet voivat olla yhteyksissä joko [TSAU!ry:hyn](http://www.tsau.net/) tai [Nepparin valmentajaan](/ota-yhteytta) niin mietitään yhdessä tilannettanne! =)
-
-___
-
 ## Uusi infopaketti ADHD:sta, tutkimuksista sekä tukitoimista!
 
 Mietitkö sinä onko sinulla tai tutullasi mahdollisesti ADHD?
