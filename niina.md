@@ -20,7 +20,7 @@ Olen opiskellut myös jonkin verran:
 - Avekkia, haastavaa käytöstä sekä puhejudoa
 - Toimivaa ja voimauttavaa vuorovaikutusta
 - Mindfulnessia ja meditaatiota
-- Psykologiaa ja eri terapieauuntauksia
+- Psykologiaa ja eri terapiasuuntauksia
 - Aivotutkimusta (neurologiaa) sekä neuropsykologiaa
 - Mielenterveystietoa
 - Hahmottamisen häiriöistä sekä erilaisesta oppimisesta
