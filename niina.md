@@ -37,10 +37,10 @@ Laaja-alainen osaamiseni ja tukeni ulottuu kaikille niille elämän alueille, jo
 
 > Minulle mikään haaste ei ole mahdoton eikä kukaan ihminen toivoton.
 
-"Haluan Nepparin avulla saada vahvuuteni käyttöön neurokirjon henkilöiden avuksi sekä heidän ympäristönsä hyödyksi tekemällä sitä mikä on intohimoni: valmentamalla, kouluttamalla sekä vaikuttamistyöllä."
+_"Haluan Nepparin avulla saada vahvuuteni käyttöön neurokirjon henkilöiden avuksi sekä heidän ympäristönsä hyödyksi tekemällä sitä mikä on intohimoni: valmentamalla, kouluttamalla sekä vaikuttamistyöllä."_
 
-"Minulla on taito nähdä hyvää jokaisessa ihmisessä, sekä tunnistaa kaikissa piilevä potentiaali."
+_"Minulla on taito nähdä hyvää jokaisessa ihmisessä, sekä tunnistaa kaikissa piilevä potentiaali."_
 
-"Autan asiakasta katsomaan ongelmia ja haasteita laajasti eri näkökulmista,sekä löytämään keinoja niiden ratkaisemiseen tai niiden kanssa selviytymiseen."
+_"Autan asiakasta katsomaan ongelmia ja haasteita laajasti eri näkökulmista,sekä löytämään keinoja niiden ratkaisemiseen tai niiden kanssa selviytymiseen."_
 
-"Yritän elää niin kuin opetan, pidän huolta itsestäni, työni laadusta, ihmissuhteistani, yhteistyökumppanuuksista ja asiakkaista. Löydän jatkuvasti itsestäni ja työstäni kehittämisen kohtia ja valmennan myös itseäni selviytymään elämän eri vaiheista."
+_"Yritän elää niin kuin opetan, pidän huolta itsestäni, työni laadusta, ihmissuhteistani, yhteistyökumppanuuksista ja asiakkaista. Löydän jatkuvasti itsestäni ja työstäni kehittämisen kohtia ja valmennan myös itseäni selviytymään elämän eri vaiheista."_
