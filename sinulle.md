@@ -10,7 +10,7 @@ published: true
 
 
 
-*Painiskeletko sinä tai läheisesi ADHD:n, ADD:n, lievän autismin/Aspergerin, Touretten tai oppimisvaikeuksien kanssa?*
+*Painiskeletko sinä tai läheisesi ADHD:n, ADD:n, lievän autismin/Aspergerin, Touretten, oppimisvaikeuksien tai aivovamman kanssa?*
 
 *Koetko että tarvitset helpotusta jokapäiväiseen elämään?*
 
