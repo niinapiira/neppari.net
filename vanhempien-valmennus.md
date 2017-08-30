@@ -28,4 +28,4 @@ Valmennusta on mahdollista saada myös [etänä](/etavalmennus).
 
 > Vanhempien valmennuksen kertakäynnin hinta on 60€/h (+mahdolliset matka-, raportointi- ja lausuntokulut).
 
-> Vanhempien valmennuksesta voit kysellä lisää ottamalla suoraan yhteyttä joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
+> Jos haluat kuulla lisää tai varata ajan ilmaiseen tutustumistapaamiseen, ota yhteyttä joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
