@@ -20,4 +20,4 @@ Kasvotusten tapahtuvassa valmennuksessa voidaan myös hyödyntää etävalmennus
 
 > Etävalmennuksen sisältö, aikataulu ja viestimiskanava sovitaan etukäteen joko puhelimitse tai sähköpostilla.
 
-> Jos haluat kuulla lisää tai varata ajan valmennukseen, ota yhteyttä puhelimitse tai [sähköpostilla](/ota-yhteytta).
+> Jos haluat kuulla lisää tai varata ajan ilmaiseen tutustumistapaamiseen, ota yhteyttä puhelimitse tai [sähköpostilla](/ota-yhteytta).
