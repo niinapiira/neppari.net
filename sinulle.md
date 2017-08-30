@@ -39,4 +39,4 @@ Tavoitteellisuus on valmennuksen onnistumisen tärkein lähtökohta ja se vaatii
 
 Nepparin valmennuksessa saat mahdollisuuden tutustua itseesi syvällisemmin ja rakentaa uutta/vahvempaa pohjaa itsetunnolle ja itsetuntemukselle sekä sen myötä koko elämälle ja arjen hallinnalle.
 
-> Jos haluat kuulla lisää tai varata ajan ilmaiseen tutusmisetapaamiseen, ota yhteyttä joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
+> Jos haluat kuulla lisää tai varata ajan ilmaiseen tutustumistapaamiseen, ota yhteyttä joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
