@@ -36,4 +36,4 @@ Nepsy-valmennus on hyvin kokonaisvaltainen tukimuoto, joka kattaa koko elämän 
 
 > Valmennusprosessista, tapaamisten pituudesta ja paikasta sekä tavoitteista sovitaan asiakaskohtaisesti kirjallisella sopimuksella.
 
-> Jos haluat kuulla lisää tai varata ajan ilmaiseen tutusmisetapaamiseen, ota yhteyttä puhelimitse tai [sähköpostilla](/ota-yhteytta).
+> Jos haluat kuulla lisää tai varata ajan ilmaiseen tutustumistapaamiseen, ota yhteyttä puhelimitse tai [sähköpostilla](/ota-yhteytta).
