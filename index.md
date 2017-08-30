@@ -24,7 +24,7 @@ Nepparin auttaa kaiken ikäisiä lapsia, nuoria, aikuisia ja perheitä, joilla o
 
 Neppari toimii myös yhteistyökumppanina ammattilaisille, päättäjille ja kasvattajille.
 
-Soita tai laita [sähköpostia](/ota-yhteytta), niin kerron lisää! =)
+Jos haluat kuulla lisää tai varata ajan ilmaiseen tutustumistapaamiseen, niin ota yhteyttä joko puhelimitse tai [sähköpostilla](/ota-yhteytta)! =)
 
 ___
 
