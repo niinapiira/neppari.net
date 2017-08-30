@@ -20,7 +20,7 @@ published: true
 
 Tukea suurella sydämellä ja vahvalla osaamisella!! =)
 
-Nepparin auttaa kaiken ikäisiä lapsia, nuoria, aikuisia ja perheitä, joilla on elämän haasteena AD(H)D, Autismin kirjo, Tourette, oppimisvaikeuksia, kielen kehityksen vaikeuksia tai aivovamma. 
+Nepparin auttaa kaiken ikäisiä lapsia, nuoria, aikuisia ja perheitä, joilla on elämän haasteena AD(H)D, Autismi, Tourette, oppimisvaikeuksia, kielen kehityksen vaikeuksia tai aivovamma. 
 
 Neppari toimii myös yhteistyökumppanina ammattilaisille, päättäjille ja kasvattajille.
 
