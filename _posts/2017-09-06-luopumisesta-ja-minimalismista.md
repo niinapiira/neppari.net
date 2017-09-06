@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 page-title: Luopumisesta ja minimalismista
 ---
 ![koira ovella]({{site.baseurl}}/uploaded-images/koira-ovella.jpeg)
