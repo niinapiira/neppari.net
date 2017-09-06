@@ -37,7 +37,7 @@ Onneksi tulin asian suhteen järkiini ja ymmärsin, että sisäinen ääneni oli
 
 ## Luopumisen harjoittelu auttaa
 
-Luopuminen on syklistä, niin kuin kaikki elämässä. Se muuttuu koko ajan meidän, elämän ja tarpeidemme muuttuessa. Elämässä on hyvä opetella luopumista, koska sitä joutuu tekemään kuitenkin elämän myötä. Luopumisen harjoittelu on helpottanut minulle yleisesti elämässä asioiden luopumisesta ja huomaan siirtyväni entistä helpommin aina eteenpäin erilaisten luopumisten jälkeen. Tiedän, että tulen selviytymään, vaikka joutuisin luopumaan mistä vain asioista elämässäni, koska harjoitan siitä syntyvän tunteen kanssa elämistä koko ajan.
+Luopuminen on syklistä, niin kuin kaikki elämässä. Se muuttuu koko ajan meidän, elämän ja tarpeidemme muuttuessa. Elämässä on hyvä opetella luopumista, koska sitä joutuu tekemään kuitenkin elämän myötä. Luopumisen harjoittelu on helpottanut minulle yleisesti elämässä asioiden luopumisesta ja huomaan siirtyväni entistä helpommin aina eteenpäin erilaisten luopumisten jälkeen. Tiedän, että tulen selviytymään, vaikka joutuisin luopumaan mistä vain asioista elämässäni, koska harjoitan koko ajan elämää sen tunteen kanssa, joka luopumisesta syntyy.
 
 Tiedän myös, että luopumalla voin saada jotain muuta, jotain uutta ja joskus jopa jotain parempaa. Luopumalla yleellisyyksistä, oravanpyörästä ja stressaavasta elämästyylistä olen saanut asioita jotka ovat minulle paljon arvokkaampia: luovuutta, aikaa, näkemystä, uskallusta, rohekutta, kokemuksia, itsetuntemusta, itsetuntoa, läsnäoloa, rakkautta, ymmärrystä, myötätuntoa, mahdollisuuksia, inspiraatiota ja ennenkaikkea aidosti minun näköistäni elämää. =)
 
