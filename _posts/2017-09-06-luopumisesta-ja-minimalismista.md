@@ -41,6 +41,10 @@ Luopuminen on syklistä, niin kuin kaikki elämässä. Se muuttuu koko ajan meid
 
 Tiedän myös, että luopumalla voin saada jotain muuta, jotain uutta ja joskus jopa jotain parempaa. Luopumalla yleellisyyksistä, oravanpyörästä ja stressaavasta elämästyylistä olen saanut asioita jotka ovat minulle paljon arvokkaampia: luovuutta, aikaa, näkemystä, uskallusta, rohekutta, kokemuksia, itsetuntemusta, itsetuntoa, läsnäoloa, rakkautta, ymmärrystä, myötätuntoa, mahdollisuuksia, inspiraatiota ja ennenkaikkea aidosti minun näköistäni elämää. =)
 
+___
+
 _Luopuminen ja minimalismi on helpottanut ja parantanut huomattavasti elämääni myös mm. poistamalla akneni kun en enää myrkyttänyt itseäni niin suurella määrällä kosmetiikkaa, itsearvostukseni on noussut pilviin kun huomioin aidot tarpeeni paremmin, terveyteni on parantunut kun on vähemmän stressattavaa ja teen itse kaikki ruokani, jne.
 Yhteiskunnallisesti tai yhteisöllisesti vaikeina aikoina on hyvä miettiä myös yhteisöllistä minimalismia, eli laajempaa ajasta siitä "Tarvitseeko yhteisömme/yhteiskuntamme todella tätä?" Mikään luopumisen kohta ei ole mahdotonta, jos on valmis miettimään luovasti kuinka asian voi järjestää. ;)
 Tsemppiä luopumisharjoituksiin!_
+
+___
