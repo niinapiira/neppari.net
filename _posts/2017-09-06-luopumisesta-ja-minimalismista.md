@@ -18,7 +18,7 @@ Palatessani rahan kuluttamiseen tein luonnollisesti myös vääriä valintoja, s
 
 ## Luopuminen on arvojen punnitsemista
 
-Se, että rahaa on tai käyttää vähän, ei sinällään ole ongelma, vaan haasteita aiheuttaa myös se arvoristiriita, mistä kaikesta on valmis luopumaan. Itse olen aina ollut kuukausilahjoittajana useammassakin hyväntekeväisyysjärjestössä ja näistäkin jouduin luopumaan yrittäjyyteni myötä - en ollut varma onko tililläni joka kuukausi enää ylimääräistä rahaa jaettavaksi muille. Helpottaakseni tätä luopumista ajattelin kuitenkin, että jokainen antaa siitä mitä itsellä on paljon, ja itse pystyn antamaan tällä hetkellä enemmän tekemällä valmennusta yrittäjänä, kuin anatamalla joitain kymppejä joka kuukausi hyväntekeväisyyteen.
+Se, että rahaa on tai käyttää vähän, ei sinällään ole ongelma, vaan haasteita aiheuttaa myös se arvoristiriita, mistä kaikesta on valmis luopumaan. Itse olen aina ollut kuukausilahjoittajana useammassakin hyväntekeväisyysjärjestössä ja mm. näistä jouduin luopumaan yrittäjyyteni myötä - en ollut varma onko tililläni joka kuukausi enää ylimääräistä rahaa jaettavaksi muille. Helpottaakseni tätä luopumista ajattelin kuitenkin, että jokainen antaa siitä mitä itsellä on paljon, ja itse pystyn antamaan tällä hetkellä enemmän tekemällä valmennusta yrittäjänä, kuin anatamalla joitain kymppejä joka kuukausi hyväntekeväisyyteen.
 
 Shoppailua olen aina vihannut, joten siitä luopuminen oli minulle helppoa. Se vastasi täysin arvojani ja samalla helpotin elämääni, koska aamuisin on paljon mukavampi valita vaatteita kaapista, jossa ei ole liikaa tavaraa.
 
