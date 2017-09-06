@@ -1,6 +1,8 @@
 ---
 published: false
 ---
+
+
 ### "Jostain on luovuttava, että jotain voi saada." "Kun antaa, voi saada takaisin enemmän." "Kun luopuu, saa tilaa tärkeimmille." Mistä sinä olisit valmis luopumaan itselle tärkeän asian vuoksi?
 ### Luopuminen ja minimalismi eivät ole ratkaisuja kaikkiin nykyajan ihmisen ongelmiin, eivätkä ne ole itsessään arvokkaita ja hienoja asioita, elleivät ne vastaa johonkin tarpeeseen elämässä. Uskon kuitenkin, että jokaiselle tekee hyvää PYSÄHTYÄ aina välillä sen äärelle, mitä pitää itsestäänselvänä, ja pohtia sitä, mitä kaikkea oikeasti tarvitsee hyvään elämään ja onneen.
 
