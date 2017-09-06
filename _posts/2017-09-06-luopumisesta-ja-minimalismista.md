@@ -43,7 +43,7 @@ Tiedän myös, että luopumalla voin saada jotain muuta, jotain uutta ja joskus 
 
 ___
 
-_Luopuminen ja minimalismi ovat helpottaneet ja parantaneet huomattavasti elämääni myös mm. poistamalla akneni kun en enää myrkyttänyt itseäni niin suurella määrällä kosmetiikkaa, itsearvostukseni on noussut pilviin kun huomioin aidot tarpeeni paremmin, terveyteni on parantunut kun on vähemmän stressattavaa ja teen itse kaikki ruokani, jne.
+_Luopuminen ja minimalismi ovat helpottaneet ja parantaneet huomattavasti elämääni myös mm. poistamalla akneni kun en enää myrkyttänyt itseäni niin suurella määrällä kosmetiikkaa, nostamalla itsearvostukseni pilviin kun huomioin aidot tarpeeni paremmin, terveyteni on parantunut kun on vähemmän stressattavaa ja teen itse kaikki ruokani, jne.
 Yhteiskunnallisesti tai yhteisöllisesti vaikeina aikoina on hyvä miettiä myös yhteisöllistä minimalismia, eli laajempaa ajasta siitä "Tarvitseeko yhteisömme/yhteiskuntamme todella tätä?" Mikään luopumisen kohta ei ole mahdotonta, jos on valmis miettimään luovasti kuinka asian voi järjestää. ;)
 Tsemppiä luopumisharjoituksiin!_
 
