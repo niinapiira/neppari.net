@@ -46,7 +46,7 @@ Nuorilla on oma ryhmänsä ja läheiset pohtivat toisessa ryhmässä asioita oma
 
 Kurssi on maksuton, sillä se toteutetaan Sosiaali- ja terveysministeriön jakamilla Veikkauksen tuotoilla.
 
-Lisätietoja kurssista löydät [täältä](http://www.kvps.fi/tapahtumat/oma-elama-yhdessa-ja-erikseen-kurssi-2).
+Lisätietoja kurssista löydät [täältä.](http://www.kvps.fi/tapahtumat/oma-elama-yhdessa-ja-erikseen-kurssi-2)
 
 ___
 
