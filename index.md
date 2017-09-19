@@ -38,7 +38,19 @@ Soita tai laita [sähköpostia](/ota-yhteytta), niin kerron lisää! =)
 
 ___
 
-## Uusi infopaketti ADHD:sta, tutkimuksista sekä tukitoimista!
+##  Maksuton kurssi itsenäistymistä suunnitteleville nepsy-nuorille marras-joulukuussa!
+
+Neljässä osassa järjestettävä kurssi on tarkoitettu nuorille, joilla on neuropsykiatrisia piirteitä sekä heidän läheisilleen. Kurssi vahvistaa nuoren oman elämän suunnan löytymistä. Läheisten kanssa pohdimme asioita, jotka tukevat nuoren itsenäistymistä ja läheisen omaa elämänmuutosta silloin kun nuori aikuistuu ja muuttaa omaan kotiin.
+
+Nuorilla on oma ryhmänsä ja läheiset pohtivat toisessa ryhmässä asioita omalta kannaltaan. Kurssilla on myös jonkin verran molempien ryhmien yhteistä ohjelmaa.
+
+Kurssi on maksuton, sillä se toteutetaan Sosiaali- ja terveysministeriön jakamilla Veikkauksen tuotoilla.
+
+Lisätietoja kurssista löydät [täältä](http://www.kvps.fi/t…/oma-elama-yhdessa-ja-erikseen-kurssi-2).
+
+___
+
+## Infopaketti ADHD:sta, tutkimuksista sekä tukitoimista!
 
 Mietitkö sinä onko sinulla tai tutullasi mahdollisesti ADHD?
 Haluaisitko ajankohtaista tietoa ADHD:sta, tutkimuksista ja tukitoimista?
