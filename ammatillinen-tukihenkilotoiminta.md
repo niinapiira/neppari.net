@@ -4,7 +4,7 @@ page-type: normal
 navigation-order: 10
 show-in-navigation: true
 published: true
-link-title: Am. tukihenkilötoiminta
+link-title: Tukihenkilötoiminta
 ---
 
 
