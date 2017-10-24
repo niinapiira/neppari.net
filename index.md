@@ -38,7 +38,7 @@ Soita tai laita [sähköpostia](/ota-yhteytta), niin kerron lisää! =)
 
 ___
 
-## Neuropsykiatriset valmentajat ry:n syysseminaari Tampereelle 27.11.2017
+## Neuropsykiatriset valmentajat ry:n syysseminaari Tampereella 27.11.2017
 
 Kaikki aiheesta kiinnostuneet ovat tervetulleita yhdisyksen syysseminaariin 20e:n hintaan!
 
