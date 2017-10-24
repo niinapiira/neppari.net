@@ -56,7 +56,7 @@ Neljässä osassa järjestettävä kurssi on tarkoitettu nuorille, joilla on neu
 
 Nuorilla on oma ryhmänsä ja läheiset pohtivat toisessa ryhmässä asioita omalta kannaltaan. Kurssilla on myös jonkin verran molempien ryhmien yhteistä ohjelmaa.
 
-Kurssi on maksuton, sillä se toteutetaan Sosiaali- ja terveysministeriön jakamilla Veikkauksen tuotoilla.
+Kurssi on maksuton, sillä se toteutetaan Sosiaali- ja terveysministeriön jakamilla Veikkauksen tuotoilla. Neppari on mukana toteuttamassa kurssia. =)
 
 Lisätietoja kurssista löydät [täältä.](http://www.kvps.fi/tapahtumat/oma-elama-yhdessa-ja-erikseen-kurssi-2)
 
