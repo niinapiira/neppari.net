@@ -38,6 +38,17 @@ Soita tai laita [sähköpostia](/ota-yhteytta), niin kerron lisää! =)
 
 ___
 
+## Neuropsykiatriset valmentajat ry:n syysseminaariin Tampereelle 27.11.2017
+
+Kaikki aiheesta kiinnostuneet ovat tervetulleita yhdisyksen syysseminaariin 20e:n hintaan!
+
+Ohjelmassa on aamukahvit sekä luentoja kokemusasiantuntijalta, itsemyötätunnosta hyvinvoinnin tukena sekä aistisäätelyn haasteista ADHD aikuisen arjessa. Lopuksi lounastamme omakustanteisesti yhdessä verkostoituen.
+
+Ilmoittautuminen seminaariin ja syyskokoukseen tapahtuu seuraavan linkin kautta: https://goo.gl/forms/QVAuStk4YvtPPlG23 Ilmoittautumisen on oltava perillä 31.10. mennessä. Jälkikäteen vapaita paikkoja voi kysellä neuropsykiatrisetvalmentajatry@gmail.com
+
+Lisätietoja: http://www.neuropsykiatrisetvalmentajat.fi/koulutuksia.php
+___
+
 ##  Maksuton kurssi itsenäistymistä suunnitteleville nepsy-nuorille marras-joulukuussa!
 
 Neljässä osassa järjestettävä kurssi on tarkoitettu nuorille, joilla on neuropsykiatrisia piirteitä sekä heidän läheisilleen. Kurssi vahvistaa nuoren oman elämän suunnan löytymistä. Läheisten kanssa pohdimme asioita, jotka tukevat nuoren itsenäistymistä ja läheisen omaa elämänmuutosta silloin kun nuori aikuistuu ja muuttaa omaan kotiin.
