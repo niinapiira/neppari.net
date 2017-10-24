@@ -44,7 +44,7 @@ Kaikki aiheesta kiinnostuneet ovat tervetulleita yhdisyksen syysseminaariin 20e:
 
 Ohjelmassa on aamukahvit sekä luentoja kokemusasiantuntijalta, itsemyötätunnosta hyvinvoinnin tukena sekä aistisäätelyn haasteista ADHD aikuisen arjessa. Lopuksi lounastamme omakustanteisesti yhdessä verkostoituen.
 
-Ilmoittautuminen seminaariin ja syyskokoukseen tapahtuu [täältä](https://goo.gl/forms/QVAuStk4YvtPPlG23). Ilmoittautumisen on oltava perillä 31.10. mennessä. Jälkikäteen vapaita paikkoja voi kysellä neuropsykiatrisetvalmentajatry@gmail.com
+Ilmoittautuminen seminaariin ja syyskokoukseen tapahtuu [täältä](https://goo.gl/forms/QVAuStk4YvtPPlG23). Ilmoittautumisen on oltava perillä 31.10. mennessä. Jälkikäteen vapaita paikkoja voi kysellä **neuropsykiatrisetvalmentajatry@gmail.com**
 
 Lisätietoja: http://www.neuropsykiatrisetvalmentajat.fi/koulutuksia.php
 ___
