@@ -46,7 +46,8 @@ Ohjelmassa on aamukahvit sekä luentoja kokemusasiantuntijalta, itsemyötätunno
 
 Ilmoittautuminen seminaariin ja syyskokoukseen tapahtuu [täältä](https://goo.gl/forms/QVAuStk4YvtPPlG23). Ilmoittautumisen on oltava perillä 31.10. mennessä. Jälkikäteen vapaita paikkoja voi kysellä **neuropsykiatrisetvalmentajatry@gmail.com**
 
-Lisätietoja: http://www.neuropsykiatrisetvalmentajat.fi/koulutuksia.php
+Lisätietoja: [www.neuropsykiatrisetvalmentajat.fi](http://www.neuropsykiatrisetvalmentajat.fi/koulutuksia.php)
+
 ___
 
 ##  Maksuton kurssi itsenäistymistä suunnitteleville nepsy-nuorille marras-joulukuussa!
