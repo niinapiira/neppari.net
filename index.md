@@ -30,7 +30,7 @@ ___
 
 ## Miten Nepparin valmennusta saa?
 
-Nepparin asiakaspaikat ovat tälle keväälle aika lailla täynnä, joten tilaa ei ole uusille pitkäaikaisille asiakkaille.
+**Nepparin asiakaspaikat ovat tälle keväälle aika lailla täynnä, joten tilaa ei ole uusille pitkäaikaisille asiakkaille!**
 
 ___
 
