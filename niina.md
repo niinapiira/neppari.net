@@ -7,7 +7,7 @@ navigation-order: 50
 ---
 
 
-## Valmentaja
+## Valmentaja.
 
 Minä olen Niina Piira, ratkaisukeskeinen neuropsykiatrinen valmentaja ja laillistettu sosiaalialan ammattilainen.
 
