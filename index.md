@@ -26,11 +26,16 @@ Neppari toimii myös yhteistyökumppanina ammattilaisille, päättäjille ja kas
 
 Nepparin valmennushinnat on pidetty matalina, jotta jokaisella on varaa maksaa valmennus myös itse. Tukipalveluihin ja kuntoutukseen voi kuitenkin hakea myös maksusitoumusta esimerkiksi lääkäriltä, te-toimistosta tai sosiaalitoimesta.
 
+
 ___
 
 ## Miten Nepparin valmennusta saa?
 
+<!--
 **Nepparin asiakaspaikat ovat tälle keväälle aika lailla täynnä, joten tilaa ei ole uusille pitkäaikaisille asiakkaille!**
+-->
+
+**{{ site.absence-notification }}**
 
 ___
 

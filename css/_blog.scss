@@ -30,7 +30,7 @@ $avatar-border-width: 8px;
 		color: $accent-color;
 	}
 	a:hover, a:active {
-		color: darken($accent-color, 28%);
+		color: $faded-accent-color;
 	}
 }
 

@@ -10,3 +10,18 @@
 	@extend .small;
 	@extend .fainted;
 }
+
+$a-n-border-width: 0.5rem;
+$a-n-horizontal-margin: -1.5rem;
+$a-n-horizontal-padding: ($a-n-horizontal-margin * -1) - $a-n-border-width;
+.absence-notification {
+	border: $a-n-border-width solid lighten($faded-accent-color, 8%);
+	padding: $a-n-horizontal-padding;
+	margin: 0 0 3rem 0;
+	position: relative;
+}
+@media #{$desktop-threshold} {
+	.absence-notification {
+		margin: 0 $a-n-horizontal-margin 4rem $a-n-horizontal-margin;
+	}
+}

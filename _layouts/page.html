@@ -2,6 +2,12 @@
 layout: default
 ---
 
+{% if page.page-type == "front-page" or page.page-type == "form" %}
+	<div class="absence-notification">
+		{{ site.absence-notification }}
+	</div>
+{% endif %}
+
 <div class="page">
 
   {% include polaroid-image.html %}
