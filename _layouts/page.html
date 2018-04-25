@@ -22,3 +22,9 @@ layout: default
   {% endif %}
 
 </div>
+
+{% if page.page-type != "front-page" and page.page-type != "form" %}
+	<div class="absence-notification">
+		{{ site.absence-notification }}
+	</div>
+{% endif %}
