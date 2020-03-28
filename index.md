@@ -35,8 +35,6 @@ ___
 **Nepparin asiakaspaikat ovat tälle keväälle aika lailla täynnä, joten tilaa ei ole uusille pitkäaikaisille asiakkaille!**
 -->
 
-**{{ site.absence-notification }}**
-
 ___
 
 ## Infopaketti ADHD:sta, tutkimuksista sekä tukitoimista!
