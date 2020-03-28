@@ -31,9 +31,11 @@ ___
 
 ## Miten Nepparin valmennusta saa?
 
-<!--
-**Nepparin asiakaspaikat ovat tälle keväälle aika lailla täynnä, joten tilaa ei ole uusille pitkäaikaisille asiakkaille!**
--->
+Nepparissa on taas tilaa uusille asiakkaille, joten voit olla suoraan yhteydessä minuun tai puhua valmennustarpeesta lääkärin, sosiaalityöntekijän tai muun ammattilaisen kanssa.
+
+Nepparin valmennushinnat on pidetty matalina, jotta jokaisella on varaa maksaa valmennus myös itse. Tukipalveluihin ja kuntoutukseen voi kuitenkin hakea myös maksusitoumusta esimerkiksi lääkäriltä, te-toimistosta tai sosiaalitoimesta.
+
+Soita tai laita [sähköpostia](/ota-yhteytta), niin kerron lisää! =)
 
 ___
 
