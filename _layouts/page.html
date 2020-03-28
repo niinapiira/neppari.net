@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% if page.page-type == "front-page" or page.page-type == "form" %}
+{% if site.absence-notification and (page.page-type == "front-page" or page.page-type == "form") %}
 	<div class="absence-notification">
 		{{ site.absence-notification }}
 	</div>
@@ -23,7 +23,7 @@ layout: default
 
 </div>
 
-{% if page.page-type != "front-page" and page.page-type != "form" %}
+{% if site.absence-notification and (page.page-type != "front-page" and page.page-type != "form") %}
 	<div class="absence-notification">
 		{{ site.absence-notification }}
 	</div>
