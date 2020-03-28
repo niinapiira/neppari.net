@@ -34,7 +34,7 @@ Tämän hetkisiä nepsy-koulutus/työpajapakettejani ovat:
 * Valmentavan työoteen vahvuuksia
 * Ratkaisukeskeisyydestä voimaa
 * Toimiva tavoitteenasettelu
-* Sosiaalisuutta vuorovaikutustaidoilla
+* Voimauttavaa vuorovaikutusta
 * Tunnetaidot toimiviksi
 * Unelmatyöskentelyllä alkuun
 * Itsetuntemuksesta iloa
