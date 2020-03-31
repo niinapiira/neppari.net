@@ -82,4 +82,4 @@ Minun tapauksessani se tarkoittaa pääosin aviomiestä, joka hoitaa antaumuksel
 
 _____
 
-_Toivon voimia jokaiselle tähän raskaaseen elämänvaiheeseen, joka ei jatku ikuisesti ja jonka aikana on myös mahdollisuus saada ja antaa apua ja tukea! Hyödynnetään muiden tarjoamaa apua ja pyydetään sitä itse rohkeasti. Tarjotaan myös aktiivisesti tukea toisillemme, jos siihen on nyt aikaa ja mahdollisuus. Annetaan tilaa kaikille tunteille mitä tämä tilanne meissä herättää ja puhutaan tunteitamme ja ajatuksiamme auki. Pidetään kaikista huolta, ja muistetaan vaikeuksien edessä miettiä aina, mikä on kaikkein tärkeintä juuri nyt._
+_Toivon voimia jokaiselle tähän raskaaseen elämänvaiheeseen, joka ei jatku ikuisesti ja jonka aikana on myös mahdollisuus saada sekä antaa apua ja tukea! Hyödynnetään muiden tarjoamaa apua ja pyydetään sitä itse rohkeasti. Tarjotaan myös aktiivisesti tukea toisillemme, jos siihen on nyt aikaa ja mahdollisuus. Annetaan tilaa kaikille tunteille mitä tämä tilanne meissä herättää ja puhutaan tunteitamme ja ajatuksiamme auki. Pidetään kaikista huolta, ja muistetaan vaikeuksien edessä miettiä aina, mikä on kaikkein tärkeintä juuri nyt._
