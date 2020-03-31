@@ -9,7 +9,7 @@ Näillä keinoilla ainakin:_
 
 **Vähemmän on enemmän!**
 
-Lapsen ja omakotitalon myötä olen saanut tosissaan alkaa harrastaa minimalismia ja luopumista, jotta arjessa olisi vähemmän asioita, joihin käyttää aikaa ja energiaa. Minimalismia olen harjoitellut jo vuosikausia ja luopumistakin yrityksen alkuajoilta saakka, kuten [tästä blogikirjoituksestani] voi tarkemmin huomata. Kun on vähemmän valittavia asioita, on myös vähemmän siivottavaa ja tiskattavaa, vähemmän järjestettävää ja sotkettavaa jne. Kaikki vähänkin turha on karsittu pois: esim. tv:tä katson harvoin, ja sitä katsellessani teen aina samalla myös jotain muuta. Sen sijaan panostan vähäisen vapaa-ajan itselle tärkeisiin asioihin, kuten lapseen, liikkumiseen, lukemiseen, ystäviin ja pihatöihin.
+Lapsen ja omakotitalon myötä olen saanut tosissaan alkaa harrastaa minimalismia ja luopumista, jotta arjessa olisi vähemmän asioita, joihin käyttää aikaa ja energiaa. Minimalismia olen harjoitellut jo vuosikausia ja luopumistakin yrityksen alkuajoilta saakka, kuten [tästä blogikirjoituksesta](/blogi/luopumisesta-ja-minimalismista/) voi tarkemmin huomata. Kun on vähemmän valittavia asioita, on myös vähemmän siivottavaa ja tiskattavaa, vähemmän järjestettävää ja sotkettavaa jne. Kaikki vähänkin turha on karsittu pois: esim. tv:tä katson harvoin, ja sitä katsellessani teen aina samalla myös jotain muuta. Sen sijaan panostan vähäisen vapaa-ajan itselle tärkeisiin asioihin, kuten lapseen, liikkumiseen, lukemiseen, ystäviin ja pihatöihin.
 
 **Vanhoista standardeista luopuminen!**
 
