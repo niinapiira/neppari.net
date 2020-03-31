@@ -5,8 +5,8 @@ page-title: Helpompaa arkea
 
 ![Kahvikupit]({{site.baseurl}}/uploaded-images/kahvikupit.jpg)
 
-Nyt kun joudumme kaikki elämään erilaista ja erityisen kuormittavaa elämää poikkeustila vuoksi, on hyvä pysähtyä miettimään, kuinka omaa arkea voisi helpottaa ja keventää. Tässä ideoita joita olen itse käyttänyt enempi tai vähempi aktiivisesti, ja nepsy-valmentajan työssäni myös asiakkaille opettanut. Minä olen itse saanut arjessani yhdistää yrityksen pyörittäminen, liikkuvan työn, koiran, ihmissuhteet, kodin, terveellisen syömisen ja treenaamisen. Tällä hetkellä mahdutan arkeeni myös pienen lapsen sekä vanhan omakotitalon, joiden hoitamiseen suurin osa vapaa-ajastani kuluu. Kuinka tämä sitten onnistuu?
-Näillä keinoilla ainakin:
+_Nyt kun joudumme kaikki elämään erilaista ja erityisen kuormittavaa elämää poikkeustila vuoksi, on hyvä pysähtyä miettimään, kuinka omaa arkea voisi helpottaa ja keventää. Tässä ideoita joita olen itse käyttänyt enempi tai vähempi aktiivisesti, ja nepsy-valmentajan työssäni myös asiakkaille opettanut. Minä olen itse saanut arjessani yhdistää yrityksen pyörittäminen, liikkuvan työn, koiran, ihmissuhteet, kodin, terveellisen syömisen ja treenaamisen. Tällä hetkellä mahdutan arkeeni myös pienen lapsen sekä vanhan omakotitalon, joiden hoitamiseen suurin osa vapaa-ajastani kuluu. Kuinka tämä sitten onnistuu?
+Näillä keinoilla ainakin:_
 
 
 **Vähemmän on enemmän!**
