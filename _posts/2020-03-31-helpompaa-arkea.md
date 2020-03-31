@@ -5,7 +5,7 @@ page-title: Helpompaa arkea
 _Nyt kun joudumme kaikki elämään erilaista ja erityisen kuormittavaa elämää poikkeustila vuoksi, on hyvä pysähtyä miettimään, kuinka omaa arkea voisi helpottaa ja keventää. Tässä ideoita joita olen itse käyttänyt enempi tai vähempi aktiivisesti, ja nepsy-valmentajan työssäni myös asiakkaille opettanut. Minä olen itse saanut arjessani yhdistää yrityksen pyörittäminen, liikkuvan työn, koiran, ihmissuhteet, kodin, terveellisen syömisen ja treenaamisen. Tällä hetkellä mahdutan arkeeni myös pienen lapsen sekä vanhan omakotitalon, joiden hoitamiseen suurin osa vapaa-ajastani kuluu. Kuinka tämä sitten onnistuu?
 Näillä keinoilla ainakin:_
 
-
+![Kahvikupit]({{site.baseurl}}/uploaded-images/kahvikupit.jpg)
 
 **Vähemmän on enemmän!**
 
@@ -81,4 +81,3 @@ Minun tapauksessani se tarkoittaa pääosin aviomiestä, joka hoitaa antaumuksel
 _____
 
 _Voimia jokaiselle tähän raskaaseen elämänvaiheeseen, joka ei jatku ikuisesti ja jonka aikana on myös mahdollisuus saada ja antaa apua ja tukea! Hyödynnetään muiden tarjoamaa apua ja pyydetään sitä itse rohkeasti. Tarjotaan myös aktiivisesti tukea toisillemme, jos siihen on nyt aikaa ja mahdollisuus. Annetaan tilaa kaikille tunteille mitä tämä tilanne meissä herättää ja puhutaan tunteitamme ja ajatuksiamme auki. Pidetään kaikista huolta, ja muistetaan vaikeuksien edessä miettiä aina, mikä on kaikkein tärkeintä juuri nyt._
-
