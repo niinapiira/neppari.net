@@ -20,9 +20,9 @@ Miettiessäni elämääni nyt, tuoreena sosiaalialan yrittäjänä, huomaan olev
 
 Olen aina ollut luonnostani hyvin ratkaisukeskeinen. Välillä liiankin, mutta **elämä on opettanut myös sen hyväksymistä, että aina sisuallakaan ei voi ratkaista kaikkea.** Ratkaisukeskeisyyteni näkyy mm. siinä, että en muista koskaan olleeni mikään valittaja-tyyppi. Yleensä etsin kaikkiin ongelmiin aina hyvin nopeasti jonkin ratkaisun, on se sitten konkreettinen tai henkinen. Järjestellessäni esimerkiksi kotiani, saan mielenrauhaa myös muulta kaaokselta päässäni. Tai kun en ymmärrä jonkun ihmisen huonoja valintoja elämässä, pyrin valittamisen sijaan löytämään syyt hänen valintojensa takaa, jotta voin ymmärtää häntä. Tämä ainainen ymmärryksen ja ratkaisujen etsiminen rassaa varmasti läheisiäni, mutta löytäessäni valmennustyön, ymmärsin voivani hyödyntää taipumustani (eli taitoani) siihen! =D
 
-Olen huomannut omalla kohdallani ja työssäni, että ratkaisujen ei yleensä tarvitse olla kovin suuria auttaakseen. Pienetkin ratkaisun hippuset antavat sen verran voimaa ja toivoa, että ne saavat uskomaan parempaan. Usein juuri pelkkä TUNNE eteenpäin menemisestä riittää palauttamaan uskon ja toivon huonolla hetkellä, sillä silloin huomaa selviytyvänsä. Edes askel kerrallaan.
+Olen huomannut omalla kohdallani ja työssäni, että ratkaisujen ei yleensä tarvitse olla kovin suuria auttaakseen. **Pienetkin ratkaisun hippuset antavat sen verran voimaa ja toivoa, että ne saavat uskomaan parempaan.** Usein juuri pelkkä TUNNE eteenpäin menemisestä riittää palauttamaan uskon ja toivon huonolla hetkellä, sillä silloin huomaa selviytyvänsä. Edes askel kerrallaan.
 
-Jos elämässä kuitenkin haluaa saavuttaa jotain itselleen merkityksellistä, on hyvä olla jonkinnäköisiä suuntaviivoja ja kompasseja apuna erilaisten polkujen sekamelskassa. Jos ei halua rajata liiaksi elämän suomia mahdollisuuksia tai muuten suunnitella elämäänsä liikaa valmiiksi, voi yksi hyvä kompassi olla unelmat.
+Jos elämässä kuitenkin haluaa saavuttaa jotain itselleen merkityksellistä, **on hyvä olla jonkinnäköisiä suuntaviivoja ja kompasseja apuna erilaisten polkujen sekamelskassa.** Jos ei halua rajata liiaksi elämän suomia mahdollisuuksia tai muuten suunnitella elämäänsä liikaa valmiiksi, voi yksi hyvä kompassi olla unelmat.
 
 ### Polkuni kohti unelmaa
 
