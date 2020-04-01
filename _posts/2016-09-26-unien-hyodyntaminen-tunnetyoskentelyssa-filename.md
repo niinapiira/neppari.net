@@ -35,7 +35,7 @@ Jouduin siis lopulta kohtaamaan pelkoni.
 
 ## Painajaisten eli pelkojen kohtaaminen
 
-Vaikka en lopulta hyötynytkään  painajaisteni kanssa edellämainituista taidoista, niiden avulla opin mielen(i) toiminnasta valtavasti:
+Vaikka en lopulta hyötynytkään painajaisteni kanssa edellämainitusta taidosta, sen avulla opin mielen(i) toiminnasta valtavasti:
 a) Olin oppinut käyttämään tietoisuuttani niin, että pystyin hallitsemaan sen kohdistamisen, myös unissani.
 b) Olin oppinut näkemään selkounia, joka miellyttävissä, neutraaleissa ja erityisesti tylsissä unissa osoittautui oikein mukavalta taidolta voidessani päättää täysin mihin menen ja mitä teen.
 c) Olin tuonut pelkoni tietoisuuteen lähes päivittäin ajattelemalla niitä, jolloin käsitelin niitä aktiivisesti ja työskentelin näiden vaikeiden tunteitteni kanssa.
