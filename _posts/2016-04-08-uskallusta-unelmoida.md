@@ -22,7 +22,7 @@ Olen aina ollut luonnostani hyvin ratkaisukeskeinen. Välillä liiankin, mutta *
 
 Olen huomannut omalla kohdallani ja työssäni, että ratkaisujen ei yleensä tarvitse olla kovin suuria auttaakseen. **Pienetkin ratkaisun hippuset antavat sen verran voimaa ja toivoa, että ne saavat uskomaan parempaan.** Usein juuri pelkkä TUNNE eteenpäin menemisestä riittää palauttamaan uskon ja toivon huonolla hetkellä, sillä silloin huomaa selviytyvänsä. Edes askel kerrallaan.
 
-Jos elämässä kuitenkin haluaa saavuttaa jotain itselleen merkityksellistä, **on hyvä olla jonkinnäköisiä suuntaviivoja ja kompasseja apuna erilaisten polkujen sekamelskassa.** Jos ei halua rajata liiaksi elämän suomia mahdollisuuksia tai muuten suunnitella elämäänsä liikaa valmiiksi, voi yksi hyvä kompassi olla unelmat.
+**Jos elämässä kuitenkin haluaa saavuttaa jotain itselleen merkityksellistä, on hyvä olla jonkinnäköisiä suuntaviivoja ja kompasseja apuna erilaisten polkujen sekamelskassa.** Jos ei halua rajata liiaksi elämän suomia mahdollisuuksia tai muuten suunnitella elämäänsä liikaa valmiiksi, voi yksi hyvä kompassi olla unelmat.
 
 ### Polkuni kohti unelmaa
 
