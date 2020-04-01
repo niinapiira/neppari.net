@@ -12,7 +12,7 @@ page-title: Vaikeudesta auttaa ja ratkaista
 
 Yleensä ahdistuksen tunne herättelee minua miettimään asiakkaan tilannetta tavallista syvällisemmin ja laajemmin eri näkökulmista. Joka kerta ahdistuksestani on ollut minulle hyötyä, sillä pohdintaan ja analysointiin johtava ahdistus on joka kerta avannut silmäni ja saanut minut tarkastelemaan asioita ”laatikon ulkopuolelta”. **Kun perinteiset keinot toimia työssäni ja auttaa asiakkaitani eivät olekaan toimineet, olen saanut ahdistuksen myötä tilaisuuden tarkastella tilannetta ulkopuolisen silmin: Mikä tässä on oikeasti oleellista?** Mitä eri mahdollisuuksia näen ja miten nämä eri vaihtoehdot vaikuttaisivat asiakkaan elämään? Mitä minulta on jäänyt huomaamatta tai mennyt ohi? Mihin nyt kannattaa keskittyä, jotta asiakkaan tilanne saadaan neutralisoitua?
 
-Aika usein huomaan ahdistuksen tunteen heräävän siitä sisäisestä huomiostani, että keskistyn asiakkaan asiassa väärään asiaan tai väärästä näkökulmasta. Joskus aina huomaan myös sortuneeni vaatimaan liikoja joko asiakkaalta tai yleisesti hänen tilanteestaan. Silloin palaan miettimään asiakkaan tilannetta yhä vahvemmin hänen näkökulmastaan, joka on asiakaslähtöisen työn idea. Tämä on auttanut joka kerta.
+Aika usein huomaan ahdistuksen tunteen heräävän siitä sisäisestä huomiostani, että keskistyn asiakkaan asiassa väärään asiaan tai väärästä näkökulmasta. Joskus aina huomaan myös sortuneeni vaatimaan liikoja joko asiakkaalta tai yleisesti hänen tilanteestaan. **Silloin palaan miettimään asiakkaan tilannetta yhä vahvemmin hänen näkökulmastaan, joka on asiakaslähtöisen työn idea.** Tämä on auttanut joka kerta.
 
 ## Vaatimustaso kohdalleen
 
