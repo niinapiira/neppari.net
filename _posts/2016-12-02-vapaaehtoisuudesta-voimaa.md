@@ -7,7 +7,7 @@ page-title: Vapaaehtoisuudesta voimaa
 
 **Vapaaehtoistyö on tuntunut kulkeneen aina mukanani siitä lähtien kun sen rippikoulussa löysin. Olenkin tehnyt paljon vapaaehtoistyötä elämäni aikana. Nuorena toimin seurakunnan lapsi- ja nuorisotyössä, opiskeluaikoina mm. koulun lehden toimittajana ja kuntojumpan ohjaajana sekä tukihenkilönä asperger-lapselle. Ennen yrittäjyyttäni toimin anoppini omaishoitajana, joka oli minun tapauksessani vapaaehtoistyötä.**
 
-**Tällä hetkellä teen vapaa-ajallani vaikuttamistyötä paitsi yritykseni kautta, myös Neuropsykiatriset valmentajat ry:n hallituksessa ja sihteerinä.
+**Tällä hetkellä teen vapaa-ajallani vaikuttamistyötä paitsi yritykseni kautta, myös Neuropsykiatriset valmentajat ry:n hallituksessa ja sihteerinä. Tämän luottamustoimen kautta vapaaehtoisuuteni saa myös laajemman vaikuttamisen mahdollisuuden, sillä yhdistystoiminnalla pyritään vaikuttamaan myös koko maan laajuisiin teemoihin koskien nepsy-henkilöitä. 
 Mikä vapaaehtoistyössä sitten vetoaa niin paljon? Mihin sillä pystytään vaikuttamaan ja mitä hyötyjä se tuottaa? Ja miksi edelleen, kiireisenä yrittäjänä haluan antaa vähäistä aikaani muiden palvelemiseen!? ;)**
 
 Alun perin minut vei mukanaan vapaaehtoistyön yhdistelmä vapautta ja vapaaehtoisuutta sekä työn vastuullisuutta ja siitä saatavaa kokemusosaamista. Nuorena kaipasin aktiviteetteja, kokemusten karttumista sekä yhteisöä johon kuulua. Opiskelijana hain vapaaehtoistyöstä käytännön kokemuksia opintojen oheen ja nykyään työelämässä ollessani haen vapaaehtoisuudesta vastapainoa vaativalle työelämälle.
