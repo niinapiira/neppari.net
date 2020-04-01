@@ -6,7 +6,7 @@ page-title: Vaikeudesta auttaa ja ratkaista
 
 ![Riksu ja aurinko lattialla]({{site.baseurl}}/uploaded-images/riksu-ja-aurinko-lattialla.jpeg)
 
-**Törmään usein työssäni ahdistuksen kokemuksiin ja tuntemuksiin eri asiakkaiden kanssa ja olen viimeaikoina jäänyt pohtimaan ja miettimään erityisen paljon tätä sisäistä kokemustani, joka yrittää kertoa minulle jotain.**
+**Olen huomannut usein työssäni ahdistuvani eri asiakkaiden kanssa ja olen viimeaikoina jäänyt pohtimaan ja miettimään erityisen paljon tätä sisäistä kokemustani, joka yrittää kertoa minulle jotain.**
 
 Yleensä ahdistuksen tunne herättelee minua miettimään asiakkaan tilannetta tavallista syvällisemmin ja laajemmin eri näkökulmista. Joka kerta ahdistuksestani on ollut minulle hyötyä, sillä pohdintaan ja analysointiin johtava ahdistus on joka kerta avannut silmäni ja saanut minut tarkastelemaan asioita ”laatikon ulkopuolelta”. Kun perinteiset keinot toimia työssäni ja auttaa asiakkaitani eivät olekaan toimineet, olen saanut ahdistuksen myötä tilaisuuden tarkastella tilannetta ulkopuolisen silmin: Mikä tässä on oikeasti oleellista? Mitä eri mahdollisuuksia näen ja miten nämä eri vaihtoehdot vaikuttaisivat asiakkaan elämään? Mitä minulta on jäänyt huomaamatta tai mennyt ohi? Mihin nyt kannattaa keskittyä, jotta asiakkaan tilanne saadaan neutralisoitua?
 
