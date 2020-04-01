@@ -22,9 +22,9 @@ Yllättävän usein ratkaisevat tekijät ovat hyvin yksikertaisia, vaikkakin ehk
 
 ## Tasa-arvosta oikeudenmukaisuuteen
 
-Kun yksilöllä on hyvin yksilölliset tarpeet, tarvitaan myös yksilöllisiä ratkaisuja. Fyysisiin vammoihin tarjotaan apuvälineitä ja tukihenkilöitä, sosiaalisiin vammoihin (eli vaikeuksiin sopeutua vallitsevaan yhteiskuntaan) täytyy tarjota vastaantulemista, helpotuksia, apuvälineitä ja tukea. Ja joskus hieman epäsovinnaisempia luovia ratkaisuja.
+Kun yksilöllä on hyvin yksilölliset tarpeet, tarvitaan myös yksilöllisiä ratkaisuja. Fyysisiin vammoihin tarjotaan apuvälineitä ja tukihenkilöitä, sosiaalisiin vammoihin (eli vaikeuksiin sopeutua vallitsevaan yhteiskuntaan) täytyy tarjota vastaantulemista, helpotuksia, apuvälineitä ja tukea. **Ja joskus tarvitaan hieman epäsovinnaisempia, luovia ratkaisuja.**
 
-Epäsovinnaisuus on yhteisössä sosiaalisesti määritelty raja siitä, mitä voi ja mitä ei voi. Nämä päätetyt rajat eivät ole universaaleja totuuksia, vaan ne ovat eri kulttuurissa erilaisina vallitsevia valintoja. Meidän ei kuitenkaan tarvitse antaa niiden turhaan rajata itseämme ja toisiamme, jos laki ei niin määrää. Voimme päättää toisin ja voimme muuttaa epäsovinnaisuuden rajaa.
+Epäsovinnaisuus on yhteisössä sosiaalisesti määritelty raja siitä, mitä voi ja mitä ei voi. Nämä päätetyt rajat eivät ole universaaleja totuuksia, vaan ne ovat eri kulttuurissa erilaisina vallitsevia valintoja. Meidän ei kuitenkaan tarvitse antaa niiden turhaan rajata itseämme ja toisiamme, jos laki ei niin määrää. **Voimme päättää toisin ja voimme muuttaa epäsovinnaisuuden rajaa.**
 
 Vapauttaessamme itsemme, työtoverimme, yhteistyökumppanimme, asiakkaamme ja alaisemme luovaan ongelmanratkaisuun ilman epäsovinnaisuuden pelkoa, vapaudumme siitä sosiaalisesta pelosta, että meitä ja valintojamme ei hyväksyttäisi. Ei välttämättä hyväksytäkään heti kaikkien osalta, mutta tulokset puhuvat varmasti puolestaan ja saavat muutkin vakuuttuneeksi yksilöllisten ratkaisujen toimivuudesta. Jos ongelmana on esim. asiakkaan pääsy ajoissa aamupalalle, voimme ratkaista ongelman esim. a)myöhästämällä aamupalaa tai b)sallimalla tälle asiakkaalle myöhäisemmän aamupalan. Näin poistamme JOKAISELTA osapuolelta joka-aamuisen paineen ajoissa olemisesta, eikä ongelmaa enää ole. Myös työntekijän kuorma ainaisesta aamutaistelusta loppuu ja energiaa jää muuhun.
 
