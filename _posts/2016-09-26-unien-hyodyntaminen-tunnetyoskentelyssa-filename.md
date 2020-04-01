@@ -48,8 +48,9 @@ Luonnollisesti kävin saman taistelun samassa painajaisessa useana yönä, mutta
 
 ## Huumori antaa etäisyyttä ja uuden näkökulman vaikeisiin asioihin
 
+Se, miten tämä sovinto ankeuttajieni kanssa varsinaisesti tapahtui unen symbolisessa maailmassa, ei ole kirkkaana muistoissani, mutta minulla on mielikuva, että tässä vaiheessa nämä painajaiset olivat saaneet jo hieman humoristisiakin piirteitä. Muistan jopa naureskelleeni ankeuttajien voimattomuudelle niiden yrittäessä pelotella minua. Ne kun eivät voineet satuttaa minua, vain pelotella.
 
-Se, miten tämä sovinto varsinaisesti tapahtui unen symbolisessa maailmassa, ei ole kirkkaana muistoissani, mutta minulla on mielikuva, että tässä vaiheessa nämä painajaiset olivat saaneet jo hieman humoristisiakin piirteitä. Muistan jopa naureskelleeni ankeuttajien voimattomuudelle niiden yrittäessä pelotella minua. Ne kun eivät voineet satuttaa minua, vain pelotella. Epäilen, että huumorilla voi olla iso osa tämän ongelman ratkeamisessa, se kun on tapa kohdata kipeitä asioita uudesta näkökulmasta
+Epäilen, että huumorilla voi olla iso osa tämän ongelman ratkeamisessa, se kun on tapa kohdata kipeitä asioita uudesta näkökulmasta. Musta huumori on tunnetusti yleistä esimerkiksi selaisilla aloilla, joissa työskennellään henkisesti hyvin raskaiden aiheiden kanssa. Nauru myös rentouttaa, jonka vuoksi huumori keventää omaa oloa ja heikentää negatiivisten tunteiden vaikutusta meihin.
 
 ## Pelon voima heikkenee kun sitä katsoo silmästä silmään
 
