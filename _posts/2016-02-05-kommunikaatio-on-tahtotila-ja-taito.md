@@ -1,5 +1,5 @@
 ---
-"page-title": Kommunikointi on tahtotila ja taito
+page-title: Kommunikointi on tahtotila ja taito
 published: true
 ---
 
@@ -16,7 +16,7 @@ published: true
 
 Erityisesti niissä tapauksissa, kun kulttuurierot ovat olleet hivenen liian suuria, on jouduttu usein törmäyskurssille väärinymmärrysten vuoksi. Kuinkahan monta vuotta itsellänikin meni tottua siihen, että Etelä-Suomessa ihmisiä loukkaa liian suora puhe. Pohjoisessa olin tottunut siihen, että asiat sanotaan niin kuin ne ovat, joten muutettuani pääkaupunkiseudulle jouduin opettelemaan täysin uuden tavan olla vuorovaikutuksessa toisten kanssa. **Ehkä suurin oppi, jonka tässä prosessissa sain, oli se, että ei ole oikeaa ja väärää tapaa ilmaista itseään –on vain erilaisia tapoja.** Etelä-Suomessa nautin siitä, että keskustelussa panostetaan toisen kunnioittamiseen, pohjoisessa taas siitä, että ei tarvitse miettiä mitä toinen jostain asiasta ajattelee –hän sanoo sen kyllä suoraan.
 
-Olen aina ollut erittäin kiinnostunut ihmisten lisäksi eläimistä. Myös tämä intohimo on vaatinut minulta kommunikoinnin ja vuorovaikutuksen taitojen opettelua, sillä eläimet eivät toimi kuten me ihmiset. Suurin virheemme eläinten kanssa toimiessamme on niiden aikeiden, tekojen ja käyttäytymisen analysointi ihmisen näkökulmasta, inhimillistämällä eläimiä. Saman virheen toistamme herkästi lukemalla eri eläinlajeja toisista lajeista saamamme tiedon perusteella tai jopa toisten ihmisten kanssa lukemalla heitä meidän omasta näkökulmastamme. **Kaiken A ja O hyvässä kommunikaatiossa on siis varmasti avoimuus. Avoimuudella tarkoitan tässä yhteydessä tahtotilaa ymmärtää toista hänen omista lähtökohdistaan käsin**, ei minun luomasta kuplasta katsottuna.
+Olen aina ollut erittäin kiinnostunut ihmisten lisäksi eläimistä. Myös tämä intohimo on vaatinut minulta kommunikoinnin ja vuorovaikutuksen taitojen opettelua, sillä eläimet eivät toimi kuten me ihmiset. Suurin virheemme eläinten kanssa toimiessamme on niiden aikeiden, tekojen ja käyttäytymisen analysointi ihmisen näkökulmasta, inhimillistämällä eläimiä. Saman virheen toistamme herkästi lukemalla eri eläinlajeja toisista lajeista saamamme tiedon perusteella tai jopa toisten ihmisten kanssa lukemalla heitä meidän omasta näkökulmastamme. **Kaiken A ja O hyvässä kommunikaatiossa on siis varmasti avoimuus. Avoimuudella tarkoitan tässä yhteydessä tahtotilaa ymmärtää toista hänen omista lähtökohdistaan käsin**, ei minun omista oletuksista katsottuna.
 
 Omaan avoimuuteen auttaa valtavasti muutama helppo huomio omassa kommunikaatiossaan: kuuntelu, kysely ja kiinnostus. **Kuuntelemisen taidosta on puhuttu aina, lapsesta saakka. Ja lapset ovatkin mestareita siinä.** Kuinka monta kertaa olenkaan kuullut ystävieni hyssyttelevän puhuessani heidän lapsensa kuullen jostain ”kielletystä”. Vaikka lapset eivät näennäisesti vaikuttaisi kuuntelevan, heillä on kuulemma korvat höröllään kaikelle ympärillä tapahtuvalle.
 
