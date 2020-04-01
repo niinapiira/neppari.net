@@ -26,6 +26,8 @@ Näin kokonaisvaltaisessa työmuodossa korostuu usean valmennettavan kohdalla va
 
 **Valmennus on edullinen ja tehokas keino sekä ennaltaehkäistä että ratkaista ongelmia ja ongelmavyyhtejä. Valmennukselle on selkeästi kysyntää ja se täydentääkin hyvin muita yhteiskunnan tarjoamia palveluita.** Valmennuksen syvin päämäärä on kuitenkin sama kuin muillakin yhteiskunnan hyvinvointia tukevilla palveluilla: sillä pyritään ehkäisemään kaikenikäisten henkilöiden syrjäytymistä opinnoista, työelämästä, yhteiskunnasta sekä omasta elämästään.
 
+___
+
 _Me tarvitsemme erilaisuutta. Jos haluamme, että yhteiskunnassamme kaikki kansalaiset saavat aidosti olla osa yhteisöä, on kaikille sallittava omanlainen paikka ja tapa olla maailmassa.  Vain siten voimme hyödyntää jokaisen ainutlaatuisia taitoja ja vahvuuksia sekä mahdollistaa jokaiselle mielekkään elämänpolun löytyminen. Yhteisö voi hyvin kun sen yksilöt voivat hyvin. Ja yhteisö kehittyy parhaiten sen avulla, mitä erilaisempia yksilöitä se pitää sisällään. Siksi tarvitsemme tulevaisuudessa yhä enemmän yksilöllisiä, harkinnanvaraisia ja asiakaslähtöisiä palveluita tukemaan kaikkia kansalaisia elämän haasteiden kohtaamisessa ja niistä selviytymisessä. Tämä vaatii luottamusta sosiaalialan työntekijöiden ammattitaitoon työskennellä asiakkaiden kanssa laadukkaasti, pitkäjänteisesti ja tarpeenmukaisesti. Tämä vaatii tietysti myös ammattitaitoisia sote-alan työntekijöitä, jotka rajojen ylläpitämisen sijaan ovat valmiita murtamaan niitä ja muokkaamaan palveluita käyttäjiensä näköisiksi. Se vaatii aikaa ja rauhaa ihmisten kanssa työskentelyyn sekä aitoa uskoa siihen, että jokainen ihminen yhteisössä on osaava, kykenevä, arvokas ja tärkeä._
 
 ___
