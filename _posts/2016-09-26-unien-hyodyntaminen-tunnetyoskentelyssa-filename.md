@@ -46,7 +46,10 @@ Uni päättyi joko liikaan jännitykseen, eli voimakkaan tunteen aiheuttamaan he
 
 Luonnollisesti kävin saman taistelun samassa painajaisessa useana yönä, mutta joka yö kyllästyin yhä enempi samaan meuhkaamiseen ja samaan uneen. Joku yö päätin lopulta lopettaa taistelun ja meuhkaamisen, ja tehdä sovinnon ankeuttajien kanssa.
 
-Se, miten tämä sovinto varsinaisesti tapahtui unen symbolisessa maailmassa, ei ole kirkkaana muistoissani, mutta minulla on mielikuva, että tässä vaiheessa nämä painajaiset olivat saaneet jo hieman humoristisiakin piirteitä. Muistan jopa naureskelleeni ankeuttajien voimattomuudelle niiden yrittäessä pelotella minua. Ne kun eivät voineet satuttaa minua, vain pelotella.
+## Huumori antaa etäisyyttä ja uuden näkökulman pelkoon
+
+
+Se, miten tämä sovinto varsinaisesti tapahtui unen symbolisessa maailmassa, ei ole kirkkaana muistoissani, mutta minulla on mielikuva, että tässä vaiheessa nämä painajaiset olivat saaneet jo hieman humoristisiakin piirteitä. Muistan jopa naureskelleeni ankeuttajien voimattomuudelle niiden yrittäessä pelotella minua. Ne kun eivät voineet satuttaa minua, vain pelotella. Epäilen, että huumorilla voi olla iso osa tämän ongelman ratkeamisessa, se kun on tapa kohdata kipeitä asioita uudesta näkökulmasta
 
 ## Pelon voima heikkenee kun sitä katsoo silmästä silmään
 
