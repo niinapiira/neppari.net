@@ -34,8 +34,8 @@ ___
 
 _Itselleni virheellisyyteni hyväksyminen ja sietäminen on varmaan ikuisuusprojekti, jota saan harjoitella päivittäin siviilielämässäni, yrittäjän arjessani sekä ihmisenä kasvamisessa. Olen ymmärtänyt kuitenkin virheiden siunauksen ja alkanut hyödyntämään virheiden kautta saamaani tietoa. Yksi voimauttavimmista elämän opeistani on ollut ymmärrys siitä, että ilman kaikkia tekemiäni ja kohtaamiani virheitä elämässä, en olisi tänä päivänä valmentaja. Ilman omakohtaisia kokemuksia arjen vaikeuksista, en olisi koskaan saavuttanut sitä ymmärrystä, jonka avulla pystyn nykyisessä työssäni auttamaan ja tukemaan upeita asiakkaitani. Eivätkä virheet ole minunkaan kohdallani vain mennyttä historiaa, vaan virheet ja virheellisyys kulkevat edelleen mukanani, ja oletan niiden olevan osa arkeani myös lopun elämääni. Aion vast’edeskin uskaltaa tehdä asioita silläkin uhalla, että tulen jossain vaiheessa varmasti tekemään virheitä._
 
-Jos jostain tietää eläneensä täyttä elämään, niin siitä, että on tehnyt virheitä.
-Elämän ruletissa se, joka ei pelkää tehdä virheitä, uskaltaa pelata. Silloin voi hyvinkin olla, että voi voittaa.
+_Jos jostain tietää eläneensä täyttä elämään, niin siitä, että on tehnyt virheitä.
+Elämän ruletissa se, joka ei pelkää tehdä virheitä, uskaltaa pelata. Silloin voi hyvinkin olla, että voi voittaa._
 
 ___
 
