@@ -77,7 +77,7 @@ Paljon on kehittämistä edelleen, mutta onnistumisia on saavutettu paljon vuosi
 >
 > _"Lapseni on pitänyt keskusteluista valmentajan kanssa. Asioista keskusteleminen on ollut hyvää terapiaa. On hyvä, kun on  ollut keskustelukumppanina henkilö, joka ymmärtää neuropsykiatrisista ongelmista."_
 >
-> _"Vuorovaikutus on toimivaa, helppoa keskustella ja pohtia."_
+> _"Vuorovaikutus on toimivaa, on helppoa keskustella ja pohtia."_
 >
 > _"(Olen tyytyväinen valmentajan) empatiaan ja paneutumiseen asioissa."_
 >
