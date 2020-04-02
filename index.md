@@ -79,7 +79,7 @@ Paljon on kehittämistä edelleen, mutta onnistumisia on saavutettu paljon vuosi
 
 "Vuorovaikutus on toimivaa, helppoa keskustella ja pohtia."
 
-"(Olen tyytyväinen Valmentajan) empatiaan ja paneutumiseen asioissa."
+"(Olen tyytyväinen valmentajan) empatiaan ja paneutumiseen asioissa."
 
 "Todella asiantuntevaa, mutta kuitenkin helposti lähestyttävää yhteistyötä ja ammattitaitoa."
 
