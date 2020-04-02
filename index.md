@@ -118,3 +118,15 @@ Palautteita ryhmätyöskentelystä:
 > _"Ryhmän ohjaaja tekee työtä täydestä sydämestä, ja osaa hoitaa haastavatkin tilanteet jalat maassa - olla läsnä jämäkästi ja osoittaa samalla myötätuntoa & ymmärrystä herkästi nuorta kuunnellen."_
 >
 > _"Kaunis kiitos - ohjaaja osaa ottaa tilanteet hienosti hetki hetkeltä ja etsiä myötätunnolla ratkaisuja arjen haasteisiin. Kerrankin oikea ihminen oikeassa paikassa/ammatissa."_
+>
+> _"Turvallinen ja hyväksyvä ryhmä ja ohjaaja tukenut selvästi nuoren selviämistä ja antanut onnistumisen tunteen."_
+
+Ja koulutuspalautteita:
+
+> _"Erittäin hyvä koulutus ja oleellista asiaa kouluttaja osasi kertoa."_
+>
+> _"Paljon asiaa tiivisti, mutta käytännönläheisesti."_
+>
+> _"Oli helppo ymmärtää vaikeitakin asioita."_
+>
+> _"Oikein kattava kokonaisuus!"_
