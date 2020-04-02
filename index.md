@@ -60,3 +60,31 @@ Facebookissa voit myös seurata Nepparin toimintaa ja keskustella valmentaja-yri
 Blogissa käsittelen ratkaisukeskeisesti yksilön hyvinvointia, ihmisyyttä sekä sosiaalialaa niiden tukipilarina.
 
 ___
+
+## Asiakaskokemuksia
+
+Paljon on kehittämistä edelleen, mutta onnistumisia on saavutettu paljon vuosien varrella. =)
+
+"Toimit aktiivisesti nepsy-asioissa ja haet luovasti uusia väyliä tavoittaa & palvella  asiakkaitasi parhaalla mahdollisella tavalla."
+
+"Lapsen itsetunto on parantunut, hän luottaa enemmän itseensä ja koulunkäynti sujuu."
+
+"Valmennus on tuonut asiakkaalle keinoja arjenhallinnan ja koulunkäynnin tueksi, lisännyt ymmärrystä ja itsemyötätuntoa."
+
+"Asioiden hahmottaminen arjessa parantunut."
+
+"Läheinen on hyötynyt paljon saamastaan ohjauksesta arjen asioissa ja itsensä arvostamisessa."
+
+Lapseni on pitänyt keskusteluista valmentajan kanssa. Asioista keskusteleminen on ollut hyvää terapiaa. On hyvä, kun on  ollut keskustelukumppanina henkilö, joka ymmärtää neuropsykiatrisista ongelmista."
+
+"Vuorovaikutus on toimivaa, helppoa keskustella ja pohtia."
+
+"(Olen tyytyväinen Valmentajan) empatiaan ja paneutumiseen asioissa."
+
+"Todella asiantuntevaa, mutta kuitenkin helposti lähestyttävää yhteistyötä ja ammattitaitoa."
+
+"Teet huikean hyvää työtä ! =)"
+
+"Loistavaa valmennus työtä :)"
+
+"Aivan ihana ja helposti lähestyttävä (valmentaja). =) Ammattitaitoinen ja rento sekä huumorintajuinen mikä tekee puhumisen helpoksi."
