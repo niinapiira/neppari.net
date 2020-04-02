@@ -65,13 +65,13 @@ ___
 
 Paljon on kehittämistä edelleen, mutta onnistumisia on saavutettu paljon vuosien varrella. =)
 
-_"Niina toimii aktiivisesti nepsy-asioissa ja hakee luovasti uusia väyliä tavoittaa & palvella  asiakkaitasi parhaalla mahdollisella tavalla."_
+> _"Niina toimii aktiivisesti nepsy-asioissa ja hakee luovasti uusia väyliä tavoittaa & palvella  asiakkaitasi parhaalla mahdollisella tavalla."_
 
-_"Lapsen itsetunto on parantunut, hän luottaa enemmän itseensä ja koulunkäynti sujuu."_
+> _"Lapsen itsetunto on parantunut, hän luottaa enemmän itseensä ja koulunkäynti sujuu."_
 
-_"Valmennus on tuonut asiakkaalle keinoja arjenhallinnan ja koulunkäynnin tueksi, lisännyt ymmärrystä ja itsemyötätuntoa."_
+> _"Valmennus on tuonut asiakkaalle keinoja arjenhallinnan ja koulunkäynnin tueksi, lisännyt ymmärrystä ja itsemyötätuntoa."_
 
-_"Asioiden hahmottaminen arjessa on parantunut."_
+> _"Asioiden hahmottaminen arjessa on parantunut."_
 
 _"Läheinen on hyötynyt paljon saamastaan ohjauksesta arjen asioissa ja itsensä arvostamisessa."_
 
