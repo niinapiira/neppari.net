@@ -110,3 +110,7 @@ Palautteita ryhmätyöskentelystä:
 > _"Nuori reflektoi joka kerta tapaamisia ja niissä tekemiään havaintoja niin itsestä kuin muista ryhmäläisistä. Tapaamiset tuottivat selvästi iloa."_
 >
 > _"Myötätuntoisen suhtautumisen opettelu autismin kirjon piirteisiin on helpottanut niin nuoren kuin vanhemman tuntemaa syyllisyyttä hankalissa arkitilanteissa."_
+>
+> _"Nuori on kasvanut identiteetiltään vahvemmaksi ja hyväksyvämmäksi itseä kohtaan."_
+>
+> _"Nuori on oivaltanut, että elämää ja kivoja paikkoja on kodin seinien ulkopuolellakin. Myös oman käytöksen ymmärtäminen parani."_
