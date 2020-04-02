@@ -70,31 +70,31 @@ Paljon on kehittämistä edelleen, mutta onnistumisia on saavutettu paljon vuosi
 > _"Lapsen itsetunto on parantunut, hän luottaa enemmän itseensä ja koulunkäynti sujuu."_
 >
 > _"Valmennus on tuonut asiakkaalle keinoja arjenhallinnan ja koulunkäynnin tueksi, lisännyt ymmärrystä ja itsemyötätuntoa."_
-
+>
 > _"Asioiden hahmottaminen arjessa on parantunut."_
-
+>
 > _"Läheinen on hyötynyt paljon saamastaan ohjauksesta arjen asioissa ja itsensä arvostamisessa."_
-
+>
 > _"Lapseni on pitänyt keskusteluista valmentajan kanssa. Asioista keskusteleminen on ollut hyvää terapiaa. On hyvä, kun on  ollut keskustelukumppanina henkilö, joka ymmärtää neuropsykiatrisista ongelmista."_
-
+>
 > _"Vuorovaikutus on toimivaa, helppoa keskustella ja pohtia."_
-
+>
 > _"(Olen tyytyväinen valmentajan) empatiaan ja paneutumiseen asioissa."_
-
+>
 > _"Todella asiantuntevaa, mutta kuitenkin helposti lähestyttävää yhteistyötä ja ammattitaitoa."_
-
+>
 > _"Huikean hyvää työtä ! =)"_
-
+>
 > _"Loistavaa valmennustyötä :)"_
-
+>
 > _"Aivan ihana ja helposti lähestyttävä (valmentaja). =) Ammattitaitoinen ja rento sekä huumorintajuinen mikä tekee puhumisen helpoksi."_
-
+>
 > _"Olen saanut itselle ymmärrystä ADD- piirteistäni, hyviä näkökulmia, sekä tarvittavaa ohjausta ja tukea. Olen myös kokenut saavani valmennuksesta uskoa tulevaisuuteen."_
-
+>
 > _"Olen ymmärtänyt asioita mitä en ennen tätä ole ymmärtänyt."_
-
+>
 > _"Sain turhaa tressiä vähennettyä."_
-
+>
 > _"Hyvä kokonaisuus, eikä liian kallis. Sain apua siihen mitä tarvitsin ja nopeammin kuin osasin odottaa"._
-
+>
 > _"Huippu tyyppi!"_
