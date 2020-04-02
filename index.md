@@ -88,3 +88,9 @@ Lapseni on pitänyt keskusteluista valmentajan kanssa. Asioista keskusteleminen 
 "Loistavaa valmennus työtä :)"
 
 "Aivan ihana ja helposti lähestyttävä (valmentaja). =) Ammattitaitoinen ja rento sekä huumorintajuinen mikä tekee puhumisen helpoksi."
+
+"Olen saanut itselle ymmärrystä ADD- piirteistäni, hyviä näkökulmia, sekä tarvittavaa ohjausta ja tukea. Olen myös kokenut saavani valmennuksesta uskoa tulevaisuuteen."
+
+"Olen ymmärtänyt asioita mitä en ennen tätä ole ymmärtänyt."
+
+"Sain turhaa tressiä vähennettyä."
