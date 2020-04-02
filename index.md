@@ -65,6 +65,8 @@ ___
 
 Paljon on kehittämistä edelleen, mutta onnistumisia on saavutettu paljon vuosien varrella. =)
 
+Palautteita yksilötyöskentelystä:
+
 > _"Niina toimii aktiivisesti nepsy-asioissa ja hakee luovasti uusia väyliä tavoittaa & palvella  asiakkaita parhaalla mahdollisella tavalla."_
 >
 > _"Lapsen itsetunto on parantunut, hän luottaa enemmän itseensä ja koulunkäynti sujuu."_
@@ -98,3 +100,13 @@ Paljon on kehittämistä edelleen, mutta onnistumisia on saavutettu paljon vuosi
 > _"Hyvä kokonaisuus, eikä liian kallis. Sain apua siihen mitä tarvitsin ja nopeammin kuin osasin odottaa"._
 >
 > _"Huippu tyyppi!"_
+
+Palautteita ryhmätyöskentelystä:
+
+> _"Ryhmä on auttanut omien erityispiirteiden tunnistamisessa ja hyväksymisessä, ja siten vahvistanut oman identiteetin kasvua positiivisessa hengessä."_
+>
+> _"(Nuori on) saanut itseluottamusta lähteä yksin kotoa sekä halun löytää ystäviä."_
+>
+> _"Nuori reflektoi joka kerta tapaamisia ja niissä tekemiään havaintoja niin itsestä kuin muista ryhmäläisistä. Tapaamiset tuottivat selvästi iloa."_
+>
+> _"
