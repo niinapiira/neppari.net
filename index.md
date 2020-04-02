@@ -114,3 +114,7 @@ Palautteita ryhmätyöskentelystä:
 > _"Nuori on kasvanut identiteetiltään vahvemmaksi ja hyväksyvämmäksi itseä kohtaan."_
 >
 > _"Nuori on oivaltanut, että elämää ja kivoja paikkoja on kodin seinien ulkopuolellakin. Myös oman käytöksen ymmärtäminen parani."_
+>
+> _"Ryhmän ohjaaja tekee työtä täydestä sydämestä, ja osaa hoitaa haastavatkin tilanteet jalat maassa - olla läsnä jämäkästi ja osoittaa samalla myötätuntoa & ymmärrystä herkästi nuorta kuunnellen."_
+>
+> _"Kaunis kiitos - ohjaaja osaa ottaa tilanteet hienosti hetki hetkeltä ja etsiä myötätunnolla ratkaisuja arjen haasteisiin. Kerrankin oikea ihminen oikeassa paikassa/ammatissa."_
