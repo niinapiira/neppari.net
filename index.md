@@ -94,3 +94,5 @@ _"Olen saanut itselle ymmärrystä ADD- piirteistäni, hyviä näkökulmia, sek�
 _"Olen ymmärtänyt asioita mitä en ennen tätä ole ymmärtänyt."_
 
 _"Sain turhaa tressiä vähennettyä."_
+
+_Hyvä kokonaisuus, eikä liian kallis. Sain apua siihen mitä tarvitsin ja nopeammin kuin osasin odottaa._
