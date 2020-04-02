@@ -75,7 +75,7 @@ Paljon on kehittämistä edelleen, mutta onnistumisia on saavutettu paljon vuosi
 
 "Läheinen on hyötynyt paljon saamastaan ohjauksesta arjen asioissa ja itsensä arvostamisessa."
 
-Lapseni on pitänyt keskusteluista valmentajan kanssa. Asioista keskusteleminen on ollut hyvää terapiaa. On hyvä, kun on  ollut keskustelukumppanina henkilö, joka ymmärtää neuropsykiatrisista ongelmista."
+"Lapseni on pitänyt keskusteluista valmentajan kanssa. Asioista keskusteleminen on ollut hyvää terapiaa. On hyvä, kun on  ollut keskustelukumppanina henkilö, joka ymmärtää neuropsykiatrisista ongelmista."
 
 "Vuorovaikutus on toimivaa, helppoa keskustella ja pohtia."
 
