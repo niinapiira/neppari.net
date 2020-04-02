@@ -65,32 +65,32 @@ ___
 
 Paljon on kehittämistä edelleen, mutta onnistumisia on saavutettu paljon vuosien varrella. =)
 
-"Niina toimii aktiivisesti nepsy-asioissa ja hakee luovasti uusia väyliä tavoittaa & palvella  asiakkaitasi parhaalla mahdollisella tavalla."
+_"Niina toimii aktiivisesti nepsy-asioissa ja hakee luovasti uusia väyliä tavoittaa & palvella  asiakkaitasi parhaalla mahdollisella tavalla."_
 
-"Lapsen itsetunto on parantunut, hän luottaa enemmän itseensä ja koulunkäynti sujuu."
+_"Lapsen itsetunto on parantunut, hän luottaa enemmän itseensä ja koulunkäynti sujuu."_
 
-"Valmennus on tuonut asiakkaalle keinoja arjenhallinnan ja koulunkäynnin tueksi, lisännyt ymmärrystä ja itsemyötätuntoa."
+_"Valmennus on tuonut asiakkaalle keinoja arjenhallinnan ja koulunkäynnin tueksi, lisännyt ymmärrystä ja itsemyötätuntoa."_
 
-"Asioiden hahmottaminen arjessa on parantunut."
+_"Asioiden hahmottaminen arjessa on parantunut."_
 
-"Läheinen on hyötynyt paljon saamastaan ohjauksesta arjen asioissa ja itsensä arvostamisessa."
+_"Läheinen on hyötynyt paljon saamastaan ohjauksesta arjen asioissa ja itsensä arvostamisessa."_
 
-"Lapseni on pitänyt keskusteluista valmentajan kanssa. Asioista keskusteleminen on ollut hyvää terapiaa. On hyvä, kun on  ollut keskustelukumppanina henkilö, joka ymmärtää neuropsykiatrisista ongelmista."
+_"Lapseni on pitänyt keskusteluista valmentajan kanssa. Asioista keskusteleminen on ollut hyvää terapiaa. On hyvä, kun on  ollut keskustelukumppanina henkilö, joka ymmärtää neuropsykiatrisista ongelmista."_
 
-"Vuorovaikutus on toimivaa, helppoa keskustella ja pohtia."
+_"Vuorovaikutus on toimivaa, helppoa keskustella ja pohtia."_
 
-"(Olen tyytyväinen valmentajan) empatiaan ja paneutumiseen asioissa."
+_"(Olen tyytyväinen valmentajan) empatiaan ja paneutumiseen asioissa."_
 
-"Todella asiantuntevaa, mutta kuitenkin helposti lähestyttävää yhteistyötä ja ammattitaitoa."
+_"Todella asiantuntevaa, mutta kuitenkin helposti lähestyttävää yhteistyötä ja ammattitaitoa."_
 
-"Huikean hyvää työtä ! =)"
+_"Huikean hyvää työtä ! =)"_
 
-"Loistavaa valmennustyötä :)"
+_"Loistavaa valmennustyötä :)"_
 
-"Aivan ihana ja helposti lähestyttävä (valmentaja). =) Ammattitaitoinen ja rento sekä huumorintajuinen mikä tekee puhumisen helpoksi."
+_"Aivan ihana ja helposti lähestyttävä (valmentaja). =) Ammattitaitoinen ja rento sekä huumorintajuinen mikä tekee puhumisen helpoksi."_
 
-"Olen saanut itselle ymmärrystä ADD- piirteistäni, hyviä näkökulmia, sekä tarvittavaa ohjausta ja tukea. Olen myös kokenut saavani valmennuksesta uskoa tulevaisuuteen."
+_"Olen saanut itselle ymmärrystä ADD- piirteistäni, hyviä näkökulmia, sekä tarvittavaa ohjausta ja tukea. Olen myös kokenut saavani valmennuksesta uskoa tulevaisuuteen."_
 
-"Olen ymmärtänyt asioita mitä en ennen tätä ole ymmärtänyt."
+_"Olen ymmärtänyt asioita mitä en ennen tätä ole ymmärtänyt."_
 
-"Sain turhaa tressiä vähennettyä."
+_"Sain turhaa tressiä vähennettyä."_
