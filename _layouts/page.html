@@ -2,10 +2,12 @@
 layout: default
 ---
 
-{% if site.absence-notification and (page.page-type == "front-page" or page.page-type == "form") %}
-	<div class="absence-notification">
-		{{ site.absence-notification }}
-	</div>
+{% if site.absence-notification %}
+  {% if page.page-type == "front-page" or page.page-type == "form" %}
+  	<div class="absence-notification">
+  		{{ site.absence-notification }}
+  	</div>
+  {% endif %}
 {% endif %}
 
 <div class="page">
@@ -23,8 +25,10 @@ layout: default
 
 </div>
 
-{% if site.absence-notification and (page.page-type != "front-page" and page.page-type != "form") %}
-	<div class="absence-notification">
-		{{ site.absence-notification }}
-	</div>
+{% if site.absence-notification %}
+  {% if page.page-type != "front-page" and page.page-type != "form" %}
+  	<div class="absence-notification">
+  		{{ site.absence-notification }}
+  	</div>
+  {% endif %}
 {% endif %}
