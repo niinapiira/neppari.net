@@ -83,9 +83,9 @@ Paljon on kehittämistä edelleen, mutta onnistumisia on saavutettu paljon vuosi
 
 "Todella asiantuntevaa, mutta kuitenkin helposti lähestyttävää yhteistyötä ja ammattitaitoa."
 
-"Teet huikean hyvää työtä ! =)"
+"Huikean hyvää työtä ! =)"
 
-"Loistavaa valmennus työtä :)"
+"Loistavaa valmennustyötä :)"
 
 "Aivan ihana ja helposti lähestyttävä (valmentaja). =) Ammattitaitoinen ja rento sekä huumorintajuinen mikä tekee puhumisen helpoksi."
 
