@@ -15,7 +15,7 @@ Lapsen ja omakotitalon myötä olen saanut tosissaan alkaa harrastaa minimalismi
 
 ## Vanhoista standardeista luopuminen!
 
-Kaikessa, missä vaan voi kuvitella pystyvänsä elämään vähemmälläkin, kannattaa laskea rimaa. Tämä ei ole helppoa ja saattaa vaatia aikamoista itsetutkistelua. Asiat, joita voi tehdä keveämminkin, voivat kuitenkin olla aika yllättäviä, joten omaa elämää kannattaa tarkastella uskaliaan kriittisesti. Itse esimerkiksi inspiroiduin Marttojen ekologisuus haasteesta ja käytän nykyään vaatteita huomattavasti kauemmin ennen kuin pesen niitä. Vaatteiden tuuletus auttaa paljon sekä materiaalien valitseminen niin, etteivät ne esimerkiksi hikoiluta turhaa. Pyykkiä syntyy nykyään paljon vähemmän eikä aikaa kulu pyykkihuoltoon paljoakaan viikossa. Terveellistä ruokaa pyritään valmistamaan niin suuria määriä kerralla, että samaa ruokaa voi syödä pitkään tai pakastaa. 
+Kaikessa, missä vaan voi kuvitella pystyvänsä elämään vähemmälläkin, kannattaa laskea rimaa. Tämä ei ole helppoa ja saattaa vaatia aikamoista itsetutkistelua. Asiat, joita voi tehdä keveämminkin, voivat kuitenkin olla aika yllättäviä, joten omaa elämää kannattaa tarkastella uskaliaan kriittisesti. Itse esimerkiksi inspiroiduin Marttojen ekologisuus haasteesta ja käytän nykyään vaatteita huomattavasti kauemmin ennen kuin pesen niitä. Vaatteiden tuuletus auttaa paljon sekä materiaalien valitseminen niin, etteivät ne esimerkiksi hikoiluta turhaa. Pyykkiä syntyy nykyään paljon vähemmän eikä aikaa kulu pyykkihuoltoon paljoakaan viikossa. 
 
 ## Hyvät rutiinit ovat kultaakin kalliimpia!
 
