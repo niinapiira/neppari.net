@@ -4,8 +4,16 @@
 "show-in-navigation": false
 published: true
 "link-title": ""
-polaroid: ""
+polaroid: "index"
 ---
+
+Nepparin toimisto sijaitsee Tampereen alueella. Tällä hetkellä olen päättänyt, etten julkaise tarkkaa postiosoitetta verkkosivuillani.
+
+Sovin kuitenkin aina asiakkaan kanssa yksilöllisesti, missä ja miten valmennus on helpointa ja parasta järjestää. Näin korona-aikana olen mm. tavannut asiakkaita usein kävelylenkkien yhteydessä, jolloin seuraan liittyy haluttaessa myös ihana Riksu-koira :)
+
+Jos tapaamisjärjestelyissä jokin mietityttää, voit kysyä minulta lisätietoja joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
+
+<!--
 
 Nepparin toimisto sijaitsee Tampereella Kalevassa, hyvien liikenneyhteyksien päässä.
 
@@ -61,3 +69,5 @@ Reitti: Rautatieasemalta suunnataan Itsenäisyydenkadulle, joka kävellään toi
 {{ site.contact.address.city }}
 
 {% include kartta.html %}
+
+-->

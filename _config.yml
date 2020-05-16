@@ -55,11 +55,11 @@ defaults:
 contact:
   name:              'Niina Piira'
   address:
-    sidebar-version: 'Oravanpolku 5 A, Tampere'
-    guide-version:   'Oravanpolku 5, Tampere'
-    street-address:  'Oravanpolku 5 A'
+    sidebar-version: 'Tampere, Pirkanmaa'
+    guide-version:   'Tampere, Pirkanmaa'
+    street-address:  '33710, Tampere'
     city:            'Tampere'
-    post-number:     '33540'
+    post-number:     '33710'
     region:          'Pirkanmaa'
     country:         'Finland'
   location:
