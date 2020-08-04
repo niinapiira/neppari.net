@@ -70,7 +70,7 @@ Olen aktiivisesti pyrkinyt luomaan itselleni sellaista elämää, mistä voisin 
 
 ## Hyvät yöunet!
 
-Heti yrittäjäksi ryhtyessäni päätin, että uni on asia, johon haluan panostaa aikaani. Yksin työskennellessä tarvitsen terävää ja toimivaa päätä ja yrittäjänä ei ole varaa päästää itseään huonoon kuntoon. Pitkien yöunien myötä en ole enää sairastanut paljoakaan, mutta toki asiaan vaikuttaa varmaan myös stressin väheneminen, kun yrittäjän työ on täysin omissa käsissä.Uni on kuitenkin tärkein asia aivojen hyvinvoinnille, eikä ilman sitä selviydytä.
+Heti yrittäjäksi ryhtyessäni päätin, että uni on asia, johon haluan panostaa aikaani. Yksin työskennellessä tarvitsen terävää ja toimivaa päätä ja yrittäjänä ei ole varaa päästää itseään huonoon kuntoon. Pitkien yöunien myötä en ole enää sairastanut paljoakaan, mutta toki asiaan vaikuttaa varmaan myös stressin väheneminen, kun yrittäjän työ on täysin omissa käsissä. Uni on kuitenkin tärkein asia aivojen hyvinvoinnille, eikä ilman sitä selviydytä.
 
 ## Liikkuminen pitää pään ja kehon kunnossa!
 
