@@ -35,7 +35,7 @@ Nepparissa tulet kohdatuksi nepsy-tuntemukseni ja -ymmärrykseni kautta, jolloin
 
 Autan sinua löytämään tarvitsemasi etuudet, tukipalvelut, apuvälineet ja verkostot sekä sopivat tavat toteuttaa itseäsi niin harrastusten, kiinnostustenkohteiden, opintojen että työuran muodossa.
 
-Tavoitteellisuus on valmennuksen onnistumisen tärkein lähtökohta ja se vaatii sinulta motivaatiota, tahtotilaa sekä valmiutta kehittää itseäsi. Valmennuksen avulla saat tukea tavoitteidesi pohtimiseen, suunnittelemiseen sekä niiden saavuttamiseen.
+Tavoitteellisuus on valmennuksen onnistumisen tärkein lähtökohta ja se vaatii sinulta motivaatiota, tahtotilaa sekä valmiutta kehittää itseäsi. Valmennuksen avulla saat tukea koko prosessin ajan niin tavoitteidesi pohtimiseen, suunnittelemiseen kuin niiden saavuttamiseen.
 
 Nepparin valmennuksessa saat mahdollisuuden tutustua itseesi syvällisemmin ja rakentaa uutta/vahvempaa pohjaa itsetunnolle ja itsetuntemukselle sekä sen myötä koko elämälle ja arjen hallinnalle.
 
