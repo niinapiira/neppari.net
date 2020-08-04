@@ -19,7 +19,7 @@ Kaikessa, missä vaan voi kuvitella pystyvänsä elämään vähemmälläkin, ka
 
 ## Hyvät rutiinit ovat kultaakin kalliimpia!
 
-Vaikka ne tuppaavatkin olemaan usein tylsiä, auttavat ne varsinkin, jos elämässä ja päivissä on paljon liikkuvia osia. Kaikkea ei tarvitse automatisoida, vaan vain ne asiat, jotka hyödyttävät kokonaiskuvaa. Lapsiperheissä rutiinit ovat erityisen tärkeitä lasten hyvinvoinnille, sillä rutiinit auttavat lasta ennakoimaan elämää. Samasta syystä ne kuitenkin hyödyttävät meitä aikuisiakin, sillä automatisointi säästää huomattavasti aivojen kapasiteettia.
+Vaikka ne tuppaavatkin olemaan usein tylsiä, auttavat rutiinit varsinkin, jos elämässä ja päivissä on paljon liikkuvia osia. Kaikkea ei tarvitse automatisoida, vaan vain ne asiat, jotka hyödyttävät kokonaiskuvaa. Lapsiperheissä rutiinit ovat erityisen tärkeitä lasten hyvinvoinnille, sillä rutiinit auttavat lasta ennakoimaan elämää. Samasta syystä ne kuitenkin hyödyttävät meitä aikuisiakin, sillä automatisointi säästää huomattavasti aivojen kapasiteettia.
 
 ## Kalenterin tai tehtävälistan käyttö sekä suunnitelmallisuus! 
 
