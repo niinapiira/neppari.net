@@ -18,7 +18,7 @@ permalink: /konsultointi-koulutus-tyopaja/
 
 
 
-Nepparin valmentajan osaamista voi nyt tilata myös konsultointiin, koulutukseen, työpajaan tai luennointiin.
+Nepparin valmentajan osaamista voi tilata myös konsultointiin, koulutukseen, työpajaan tai luennointiin.
 
 Valmentajan tietotaitoa voi hyödyntää omassa työssään, työyhteisössä, erilaisissa tapahtumissa, osana koulutuskokonaisuuksia tai yksittäisten asiakaskeissien kohdalla.
 
