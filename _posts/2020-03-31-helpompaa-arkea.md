@@ -74,7 +74,7 @@ Heti yrittäjäksi ryhtyessäni päätin, että uni on asia, johon haluan panost
 
 ## Liikkuminen pitää pään ja kehon kunnossa!
 
-Viisas kehoni pakottaa minut kipujen kautta pitämään huolta itsestäni liikunnan keinoin, mutta myös pääni tarvitsee liikettä, ulkoilua, luonnossa liikkumista ja kehonhuoltoa. Uusimmat tutkimukset viittavat myös siihen, että keho ei pysty uusiutumaan, pysymään terveenä ja toimimaan normaalisti ilman liikettä.
+Viisas kehoni pakottaa minut kipujen kautta pitämään huolta itsestäni liikunnan keinoin, mutta myös pää tarvitsee liikettä, ulkoilua, luonnossa liikkumista ja kehonhuoltoa. Uusimmat tutkimukset viittavat myös siihen, että keho ei pysty uusiutumaan, pysymään terveenä ja toimimaan normaalisti ilman liikettä.
 
 ## Hyvät tukiverkostot!
 
