@@ -29,7 +29,7 @@ Tarkoituksenani on tarjota sinulle vahvaa tukea arkeesi ja omanlaisen elämänpo
 
 Tavoitteenani on auttaa sinua löytämään ainekset itsesi näköiseen ja hyvään elämään sekä saamaan ymmärrystä ja hyväksyntää ainutlaatuisena ja arvokkaana yksilönä.
 
-Nepparissa jokainen ihminen on ennen kaikkea persoona, joten käytän aikaani ja taitoani tutustuakseni yksilölliseen tapaasi hahmottaa maailmaa ja elämää.
+Nepparissa jokainen ihminen on ennen kaikkea yksilö ja ainutlaatuinen persoona, joten käytän aikaani ja taitoani tutustuakseni yksilölliseen tapaasi hahmottaa maailmaa ja elämää.
 
 Nepparissa tulet kohdatuksi nepsy-tuntemukseni ja -ymmärrykseni kautta, jolloin otan huomioon kaikki erityispiirteesi, tarpeesi ja niiden luomat vaatimukset.
 
