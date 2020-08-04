@@ -34,7 +34,7 @@ Näin isonkin projektin voi hoitaa ajan kanssa pienissä väleissä joka päivä
 ## Jaettu ostoslista kännykässä!
 
 Kännykän muistiinpanosovellus tarjoaa mahdollisuuden tehdä pysyvän mutta dynaamisen ostoslistan. Näin ne ostokset, jotka toistuvat viikosta toiseen samana, pysyvät ostoslistalla passiivisina ja ne voidaan aktivoida aina ostoslistaa tehdessä uudelleen. Kun ajan kanssa lista on kasvanut täyteen mittaansa, ei tarvitse miettiä erikseen mitä ostettavaa kaupasta on, kun käy vain listan läpi ja klikkailee aktiiviseksi kaikki mitä listalta tarvitsee. Kaupassa listalta klikkaillaan ostoksia passiiviseksi sitä myöten, kun kori täyttyy. Näin myös esim. puolison kanssa jaettua listaa voi käyttää yhdessä jopa yhtä aikaa, jolloin ostokset on mahdollista kerätä tuplasti nopeammassa ajassa yhdessä. 
-Pysyvä ostoslista mahdollistaa ja motivoi myös pysyttäytymään peruselintarvikkeiden suhteen samoissa hyviksi koetuissa tuotteissa, jolloin heräteostosten riski jää pienemmäksi.
+Pysyvä ostoslista mahdollistaa ja motivoi myös pidättäytymään peruselintarvikkeiden suhteen samoissa hyviksi koetuissa tuotteissa, jolloin heräteostosten riski jää pienemmäksi.
 
 ## Valmis (kiertävä) ruokalista helpottaa aterioiden suunnittelussa ja ostoslistan teossa pahimpina kiireaikoina!
 
