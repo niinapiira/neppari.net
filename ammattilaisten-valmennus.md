@@ -15,6 +15,4 @@ Valmentaja jakaa tässä työmuodossa myös omaa osaamistaan ja kokemuksiaan sek
 
 Valmennusta on mahdollista saada myös [etänä](/etavalmennus).
 
-> Ammattilaisten valmennuksen kertakäynnin hinta on 60e/h (+mahdolliset matkakulut).
-
 > Jos haluat kuulla lisää tai varata ajan valmennukseen, ota yhteyttä puhelimitse tai [sähköpostilla](/ota-yhteytta).
