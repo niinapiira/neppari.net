@@ -32,10 +32,6 @@ Nepsy-valmennus on hyvin kokonaisvaltainen tukimuoto, joka kattaa koko elämän 
 
 Valmennus täydentää hyvin muita tukipalveluita kuten asumisen tukea, ammatillista kuntoutusta tai vaikkapa terapioita.
 
-
-
-> Nepparin valmennuksen kertakäynnin hinta on 60€/h (+mahdolliset matka-, raportointi- ja lausuntokulut).
-
 > Valmennusprosessista, tapaamisten pituudesta ja paikasta sekä tavoitteista sovitaan asiakaskohtaisesti kirjallisella sopimuksella.
 
 > Jos haluat kuulla lisää tai varata ajan ilmaiseen tutustumistapaamiseen, ota yhteyttä puhelimitse tai [sähköpostilla](/ota-yhteytta).
