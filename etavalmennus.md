@@ -16,8 +16,6 @@ Mahdollisia viestimiskanavia voi olla esimerkiksi puhelin, whatsapp, sähköpost
 
 Kasvotusten tapahtuvassa valmennuksessa voidaan myös hyödyntää etävalmennusta osassa tapaamisista.
 
-> Etävalmennuksen kertatapaamisen hinta on 60e/h (+mahdolliset raportointi- ja lausuntokulut). 
-
 > Etävalmennuksen sisältö, aikataulu ja viestimiskanava sovitaan etukäteen joko puhelimitse tai sähköpostilla.
 
 > Jos haluat kuulla lisää tai varata ajan ilmaiseen tutustumistapaamiseen, ota yhteyttä puhelimitse tai [sähköpostilla](/ota-yhteytta).
