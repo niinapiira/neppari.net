@@ -69,7 +69,7 @@ Voit hakeutua tutkimuksiin omalääkärin kautta, joka arvioi tutkimuksen ja hoi
 * kerätä mukaan asiakirjoja myös kaikista hoitopaikoistasi: lastenneuvolasta, päiväkodista, kouluterveydenhuollosta, perheneuvolasta, psykologilta, terapeutilta ja esim. sosiaalitoimesta
 * ottaa mukaan koulutodistukset.
 
-> Erilaisia tukitoimia voi saada myös ilman diagnoosia, oireiden ja haasteiden perusteella. Tällaisia tukitoimia voi olla vanhempainohjaus ja päiväkodin tai koulun erityistuki, kognitiivinen käyttäytymisterapia, toimintaterapia, neuropsykologinen kuntoutus, sopeutumisvalmennuskurssit tai näitä kaikkia mainittuja sisältävä [neuropsykiatrinen valmennus](/valmennus).
+> Erilaisia tukitoimia voi saada myös ilman diagnoosia, oireiden ja haasteiden perusteella. Erilaisia tukitoimia voi olla psykoedukaatio eli tiedonjako ADHD:sta, vanhempainohjaus, päiväkodin tai koulun erityistuki, käyttäytymishoito, psykoterapia ja erityisesti kognitiivinen käyttäytymisterapia, toimintaterapia, neuropsykologinen kuntoutus, sopeutumisvalmennuskurssit tai näitä kaikkia mainittuja sisältävä [neuropsykiatrinen valmennus](/valmennus).
 
 ___
 
