@@ -75,7 +75,7 @@ Aikuisilla diagnoosin tekee ensisijaisesti psykiatrian erikoislääkäri tai opi
 * Pyritään saamaan informaatiota mahdollisimman monesta lähteestä, joten haastatellaan mahdollisuuksien mukaan toinen vanhemmista ja kumppani.
 * Käydään läpi myös muita ongelmia, esimerkiksi univaikeudet, oppimisvaikeudet, päihteidenkäyttö ja krooninen stressi.
 
-Tutkimuksia varten sinun on hyvä:
+### Tutkimuksia varten sinun on hyvä:
 * Miettiä ja listata valmiiksi oireita ja niiden ilmenemiseen liittyviä tekijöitä (ympäristö, väsymys, nälkä, virikkeet, tylsyys, ihmiset, jne.)
 * Pyytää oma vanhempi ja puoliso mukaan lääkäriin.
 * Kerätä mukaan asiakirjoja myös kaikista hoitopaikoistasi: lastenneuvolasta, päiväkodista, kouluterveydenhuollosta, perheneuvolasta, psykologilta, terapeutilta ja esim. sosiaalitoimesta.
