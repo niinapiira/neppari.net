@@ -82,7 +82,7 @@ Aikuisilla diagnoosin tekee ensisijaisesti psykiatrian erikoislääkäri tai opi
 * Ottaa mukaan koulutodistukset.
 
 
-> Erilaisia tukitoimia voi saada myös vaikka oma oireisto ei yltäisikään diagnoosiin saakka. Erilaisia tukitoimia voi olla psykoedukaatio eli tiedonjako ADHD:sta, vanhempainohjaus, päiväkodin tai koulun erityistuki, käyttäytymishoito, psykoterapia ja erityisesti kognitiivinen käyttäytymisterapia, toimintaterapia, neuropsykologinen kuntoutus, sopeutumisvalmennuskurssit tai näitä kaikkia mainittuja sisältävä [neuropsykiatrinen valmennus](/valmennus).
+> Erilaisia tukitoimia voi saada myös vaikka oma oireisto ei yltäisikään diagnoosiin saakka. Erilaisia tukitoimia voi olla psykoedukaatio eli tiedonjako ADHD:sta, vanhempainohjaus, päiväkodin tai koulun erityistuki, käyttäytymishoito, psykoterapia ja erityisesti kognitiivinen käyttäytymisterapia, toimintaterapia, neuropsykologinen kuntoutus, sopeutumisvalmennuskurssit sekä [neuropsykiatrinen valmennus](/valmennus).
 Myös vertaistuki on tärkeää.
 Monet paikalliset toimijat auttavat myös haasteiden kanssa selviämisessä ilman diagnooseja.
 
