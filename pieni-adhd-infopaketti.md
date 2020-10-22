@@ -64,8 +64,7 @@ Voit hakeutua tutkimuksiin oman terveyskeskuksen, oppilashuollon tai ylioppilaid
 
 Aikuisilla diagnoosin tekee ensisijaisesti psykiatrian erikoislääkäri tai opiskelu- ja terveydenhuollon lääkäri, joka tarvittaessa konsultoi adhd:hen perehtynyttä lääkäriä. Myös jotkut neurologian erikoislääkärit ovat perehtyneet adhd-diagnostiikkaan. Myös yksityisellä puolella tehdään adhd-diagnostiikkaa, mutta siellä hyvää diagnostista käytäntöä noudatetaan aika kirjavasti.
 
-### Hyvä diagnostinen käytäntö vaatii useita tapaamisia sekä tarpeeksi tutkimuksille varattua aikaa.
-### Tutkimuksiin on syytä kuuluu seuraavat osiot:
+### Hyvä diagnostinen käytäntö vaatii useita tapaamisia sekä tarpeeksi tutkimuksille varattua aikaa. Tutkimuksiin on syytä kuuluu seuraavat osiot:
 
 * Käydään läpi kehityshistoria ja nykyinen elämäntilanne.
 * Tilataan aiemmat sairauskertomustekstiti sekä tutkimustulokset.
