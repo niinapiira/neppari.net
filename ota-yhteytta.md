@@ -53,7 +53,7 @@ Nepparin toimiston osoitteen ja ohjeet miten löytää sinne [saat klikkaamalla 
 
 <form class="pure-form pure-form-stacked contact-form" name="ota-yhteytta" data-netlify="true" onsubmit="return checkInfo();" method="POST" action="/kiitos-viestistasi">
 
-    <input type="hidden" name="subject" value="Yhteydenotto Nepparin kotisivuilta! (Netlify)" />
+    <input type="hidden" name="subject" value="Yhteydenotto Nepparin kotisivuilta!" />
 
     <div class="contact-form-part">
         <label for="name">Nimesi</label>
@@ -77,8 +77,6 @@ Nepparin toimiston osoitteen ja ohjeet miten löytää sinne [saat klikkaamalla 
         <input id="telephone" type="tel" name="telephone" class="pure-input-2-3" style="display: none;"
             placeholder="Kirjoita puhelinnumerosi tähän">
     </div>
-
-    <input type="text" name="_gotcha" style="display:none" />
 
     <div class="contact-form-part">
         <label for="foo">Viestisi</label>
