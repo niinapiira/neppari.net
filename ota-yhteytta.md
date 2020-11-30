@@ -37,7 +37,7 @@ Nepparin toimiston osoitteen ja ohjeet miten löytää sinne [saat klikkaamalla 
             email = document.getElementById("email").value,
             telephone = document.getElementById("telephone").value;
 
-        document.getElementById("subject").value = "Yhteydenotto Nepparin kotisivuilta! (" + Date.now() + ")";
+        document.getElementById("subject").value = "Yhteydenotto Nepparin kotisivuilta – " + name + " (" + Date.now() + ")";
 
         if (name === "") {
             alert("Hei! Kirjoitathan myös nimesi sille varattuun kenttään, kiitos!");
@@ -55,7 +55,7 @@ Nepparin toimiston osoitteen ja ohjeet miten löytää sinne [saat klikkaamalla 
 
 <form class="pure-form pure-form-stacked contact-form" name="ota-yhteytta" data-netlify="true" onsubmit="return checkInfo();" method="POST" action="/kiitos-viestistasi">
 
-    <input type="hidden" id="subject" name="subject" value="Yhteydenotto Nepparin kotisivuilta!" />
+    <input type="hidden" id="subject" name="subject" value="Yhteydenotto Nepparin kotisivuilta" />
 
     <input type="hidden" name="Muista" value="KUN VASTAAT TÄHÄN VIESTIIN, MUISTA MUUTTAA VASTAANOTTAJAN SÄHKÖPOSTIOSOITE ITSE ALLA MAINITUKSI!" />
 
