@@ -55,6 +55,8 @@ Nepparin toimiston osoitteen ja ohjeet miten löytää sinne [saat klikkaamalla 
 
     <input type="hidden" name="subject" value="Yhteydenotto Nepparin kotisivuilta!" />
 
+    <input type="hidden" name="Muista" value="KUN VASTAAT TÄHÄN VIESTIIN, MUISTA MUUTTAA VASTAANOTTAJAN SÄHKÖPOSTIOSOITE ITSE ALLA MAINITUKSI!" />
+
     <div class="contact-form-part">
         <label for="name">Nimesi</label>
         <input id="name" type="text" name="name" class="pure-input-2-3" placeholder="Kirjoita nimesi tähän">
