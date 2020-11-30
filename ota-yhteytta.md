@@ -51,11 +51,10 @@ Nepparin toimiston osoitteen ja ohjeet miten löytää sinne [saat klikkaamalla 
     }
 </script>
 
-<form class="pure-form pure-form-stacked contact-form" onsubmit="return checkInfo();"
-    method="POST" action="//formspree.io/{{ site.contact.email.for-contacts }}">
+<form class="pure-form pure-form-stacked contact-form" data-netlify="true" onsubmit="return checkInfo();"
+    method="POST" action="{{ site.siteurl }}/kiitos-viestistasi">
 
-    <input type="hidden" name="_subject" value="Yhteydenotto Nepparin kotisivuilta!" />
-    <input type="hidden" name="_next" value="{{ site.siteurl }}/kiitos-viestistasi" />
+    <input type="hidden" name="subject" value="Yhteydenotto Nepparin kotisivuilta! (Netlify)" />
 
     <div class="contact-form-part">
         <label for="name">Nimesi</label>
