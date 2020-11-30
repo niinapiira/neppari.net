@@ -44,3 +44,7 @@ node_modules
 # Other
 .bundle
 .jekyll-cache
+
+# Git
+.git
+.gitignore
