@@ -24,8 +24,6 @@ Neppari auttaa kaiken ikäisiä lapsia, nuoria, aikuisia ja perheitä, joilla on
 
 Neppari toimii myös yhteistyökumppanina ammattilaisille, päättäjille ja kasvattajille.
 
-Nepparin valmennushinnat on pidetty matalina, jotta jokaisella on varaa maksaa valmennus myös itse. Tukipalveluihin ja kuntoutukseen voi kuitenkin hakea myös maksusitoumusta esimerkiksi lääkäriltä, te-toimistosta tai sosiaalitoimesta.
-
 ___
 
 ##  Keväällä Ahjolassa nepsy-kurssi kouluikäisten lasten ja nuorten vanhemmille!  
@@ -35,7 +33,6 @@ Tämä on matalan kynnyksen kurssi, jossa saa tietoa neuropsykiatrisista peruspu
 "Haluan tällä kurssilla vastata suureen tuen tarpeeseen, mitä kuormittuneissa nepsy-perheissä on."
 
 Ilmoittaututua voi [Ahjolan sivuilta.](https://opistopalvelut.fi/ahjola/course.php?l=fi&t=24818)
-
 
 ___
 
