@@ -28,11 +28,11 @@ ___
 
 ##  Keväällä Ahjolassa nepsy-kurssi kouluikäisten lasten ja nuorten vanhemmille!  
 
-Tämä on matalan kynnyksen kurssi, jossa saa tietoa neuropsykiatrisista peruspulmista, niiden syntymekanismeista, keinoja niiden helpottamiseksi sekä vinkkejä erilaisiin tukimuotoihin ja oman jaksamisen tukemiseen. Kurssilla saa myös ryhmän kesken vertaistukea ja jaamme omia kokemuksia. Kokoonnumme 6 kertaa 2 viikon välein ilta-aikaan ja viimeinen kurssikerta varataan kurssilaisten toiveiden pohjalta sovituille teemoille.
+Tämä on matalan kynnyksen kurssi, jossa saat tietoa neuropsykiatrisista peruspulmista, niiden syntymekanismeista, keinoja niiden helpottamiseksi sekä vinkkejä erilaisiin tukimuotoihin ja oman jaksamisen tukemiseen. Kurssilla saat myös ryhmän kesken vertaistukea ja jaamme omia kokemuksia. Kokoonnumme 6 kertaa 2 viikon välein ilta-aikaan ja viimeinen kurssikerta varataan kurssilaisten toiveiden pohjalta sovituille teemoille.
 
 "Haluan tällä kurssilla vastata suureen tuen tarpeeseen, mitä kuormittuneissa nepsy-perheissä on."
 
-Ilmoittaututua voi [Ahjolan sivuilta.](https://opistopalvelut.fi/ahjola/course.php?l=fi&t=24818)
+Ilmoittaututua voit [Ahjolan sivuilta.](https://opistopalvelut.fi/ahjola/course.php?l=fi&t=24818)
 
 ___
 
