@@ -7,11 +7,13 @@ published: true
 ---
 Ammattilaisten valmennuksessa työntekijä saa valmentavaa ja konsultoivaa tukea omaan työhönsä, hyvinvointiinsa, itsensä kehittämiseen sekä asiakkaiden kanssa toimimiseen. 
 
-Ammattilaisille tarkoitettua valmennusta voi hyödyntää konsultointina asiakaskeisseihin, sekä itseä henkilökohtaisesti ja ammatillisesti kehittävänä valmennuksena. Valmentaja toimii luottamuksellisena keskustelukumppanina, ratkaisukeskeisten kysymysten esittäjänä, reflektoijana sekä rinnalla kulkijana valmennettavan kehittymisprosessin ajan.
+Ammattilaisille tarkoitettua valmennusta voi hyödyntää lyhyenä konsultointina asiakaskeisseihin, sekä pidemmästi itseä henkilökohtaisesti ja ammatillisesti kehittävänä prosessina. Valmentaja toimii luottamuksellisena keskustelukumppanina, ratkaisukeskeisten kysymysten esittäjänä, reflektoijana sekä rinnalla kulkijana valmennettavan kehittymisprosessin ajan.
 
-Valmennuksessa ammattilainen voi vahvistaa omaa potentiaaliaan ja vahvuuksiaan sekä saada ratkaisukeskeistä näkökulmaa ja keinoja haastavaan työhönsä. Valmentaja tarjoaa uusia näkökulmia, omaa asiantuntijuuttaan ja kannustusta ammattilaisen tueksi.
+**Konsultoinnin** kautta haluan edistää neuropsykiatristen henkilöiden hyvinvointia auttamalla heidän ympärillä toimivia ihmisiä kohtaamaan ja tukemaan heitä yksilöllisesti neuropsykiatrisen ymmärryksen ja ratkaisukeskeisyyden kautta.
 
-Valmentaja jakaa tässä työmuodossa myös omaa osaamistaan ja kokemuksiaan sekä antaa ammattilaiselle henkilökohtaisen kokemuksen valmentavasta ja voimavarakeskeisestä työotteesta. Valmennuksessa myös selkeytetään ja jäsennetään ammattilaisen työtä sekä siihen liittyviä asioita, esimerkiksi työhyvinvoinnin näkökulmasta.
+**Valmennuksessa** ammattilainen voi vahvistaa omaa potentiaaliaan ja vahvuuksiaan sekä saada ratkaisukeskeistä näkökulmaa ja keinoja haastavaan työhönsä. Valmennuksessa myös selkeytetään ja jäsennetään ammattilaisen työtä sekä siihen liittyviä asioita, esimerkiksi työhyvinvoinnin näkökulmasta.
+
+Valmentajana tarjoan aina uusia näkökulmia, omaa asiantuntijuuttani sekä kannustusta ammattilaisen tueksi. Jaan osaamistani myös kokemusten muodossa ja annan sinulle henkilökohtaisen kokemuksen valmentavasta ja voimavarakeskeisestä työotteesta.
 
 Valmennusta on mahdollista saada myös [etänä](/etavalmennus).
 
