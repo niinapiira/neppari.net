@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 page-title: Itsemyötätunnon voima!
 ---
 ![Oulun auringonlasku]({{site.baseurl}}/uploaded-images/oulun-auringonlasku.jpeg)
