@@ -18,13 +18,9 @@ permalink: /koulutus-luennot-tyopajat/
 
 
 
-Nepparin valmentajan osaamista voi tilata myös koulutuksiin, luennointiin ja työpajoihin.
+Nepparin valmentajan osaamista voi tilata myös koulutuksiin, luennointiin ja työpajoihin. Valmentajan tietotaitoa voi hyödyntää omassa työssään, työyhteisössä, erilaisissa tapahtumissa sekä osana koulutuskokonaisuuksia.
 
-Valmentajan tietotaitoa voi hyödyntää omassa työssään, työyhteisössä, erilaisissa tapahtumissa sekä osana koulutuskokonaisuuksia.
-
-**Konsultoinnin** kautta haluan edistää neuropsykiatristen henkilöiden hyvinvointia auttamalla heidän ympärillä toimivia ihmisiä kohtaamaan ja tukemaan heitä yksilöllisesti neuropsykiatrisen ymmärryksen ja ratkaisukeskeisyyden kautta.
-
-**Koulutuksissani ja työpajoissani** avaan positiivisella ja voimauttavalla tavalla niin neuropsykiatrista kuin ratkaisukeskeistä maailmaa, jotta kohderyhmäni mielenkiintoiset yksilöt saisivat yhteiskunnassamme kunnioittavaa kohtelua, hyvää palvelua, sopivaa tukea ja yksilöllisiä ratkaisuja selvitäkseen arjen haasteiden kanssa. Neuropsykiatrisen tiedon ja ymmärryksen avulla tarjoan näkökulmaa yksilöiden kokemiin haasteisiin sekä tuon luovaa ratkaisukeskeisyyttä ongelmien ratkomiseen.
+**Koulutuksissani, luennoillani ja työpajoissani** avaan positiivisella ja voimauttavalla tavalla niin neuropsykiatrista kuin ratkaisukeskeistä maailmaa, jotta kohderyhmäni mielenkiintoiset yksilöt saisivat yhteiskunnassamme kunnioittavaa kohtelua, hyvää palvelua, sopivaa tukea ja yksilöllisiä ratkaisuja. Neuropsykiatrisen tiedon ja ymmärryksen avulla tarjoan näkökulmaa yksilöiden kokemiin haasteisiin sekä tuon luovaa ratkaisukeskeisyyttä ongelmien ratkomiseen ja arjesta selviytymiseen.
 
 Tämän hetkisiä nepsy-koulutus/työpajapakettejani ovat:
 
