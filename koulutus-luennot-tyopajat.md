@@ -18,9 +18,9 @@ permalink: /koulutus-luennot-tyopajat/
 
 
 
-Nepparin valmentajan osaamista voi tilata myös konsultointiin, koulutukseen, työpajaan tai luennointiin.
+Nepparin valmentajan osaamista voi tilata myös koulutuksiin, luennointiin ja työpajoihin.
 
-Valmentajan tietotaitoa voi hyödyntää omassa työssään, työyhteisössä, erilaisissa tapahtumissa, osana koulutuskokonaisuuksia tai yksittäisten asiakaskeissien kohdalla.
+Valmentajan tietotaitoa voi hyödyntää omassa työssään, työyhteisössä, erilaisissa tapahtumissa sekä osana koulutuskokonaisuuksia.
 
 **Konsultoinnin** kautta haluan edistää neuropsykiatristen henkilöiden hyvinvointia auttamalla heidän ympärillä toimivia ihmisiä kohtaamaan ja tukemaan heitä yksilöllisesti neuropsykiatrisen ymmärryksen ja ratkaisukeskeisyyden kautta.
 
