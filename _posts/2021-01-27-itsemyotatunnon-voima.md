@@ -1,5 +1,6 @@
 ---
 published: false
+page-title: Itsemyötätunnon voima!
 ---
 ## Näin vaikeina aikoina, kun korona heikentää kaikkien meidän hyvinvointia, työntekoa ja mahdollisuuksia, on erityisen tärkeää pysähtyä vähän väliä kysymään, mitä minulle kuuluu ja kuinka voisin auttaa itseäni jaksamaan siihen saakka, kunnes tilanne helpottaa. Tässä yksi keino, joka on auttanut minua ja monia muita.
 
