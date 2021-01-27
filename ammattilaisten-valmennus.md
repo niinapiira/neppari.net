@@ -5,7 +5,7 @@ navigation-order: 8
 show-in-navigation: true
 published: true
 ---
-Ammattilaisten valmennuksessa työntekijä saa valmentavaa ja konsultoivaa tukea omaan työhönsä, hyvinvointiinsa, itsensä kehittämiseen sekä asiakkaiden kanssa toimimiseen. 
+Ammattilaisten valmennuksessa työntekijä saa valmentavaa ja konsultoivaa tukea omaan työhönsä ja asiakkaiden kanssa toimimiseen, sekä omaan hyvinvointiinsa ja itsensä kehittämiseen. 
 
 Ammattilaisille tarkoitettua valmennusta voi hyödyntää lyhyenä konsultointina asiakaskeisseihin, sekä pidemmästi itseä henkilökohtaisesti ja ammatillisesti kehittävänä prosessina. Valmentaja toimii luottamuksellisena keskustelukumppanina, ratkaisukeskeisten kysymysten esittäjänä, reflektoijana sekä rinnalla kulkijana valmennettavan kehittymisprosessin ajan.
 
