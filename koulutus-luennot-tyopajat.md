@@ -42,7 +42,7 @@ Tämän hetkisiä nepsy-koulutus/työpajapakettejani ovat:
 * Oppiminen osana elämää
 * Luovia ja toiminnallisia menetelmiä
 
-Paketeista voi saada koulutusta erikseen tai kokoamalla niistä sopivan kokonaisuuden. Koulutuksen hinta sovitaan erikseen ja se koostuu mm. koulutuksen kestosta, matkakustannuksista, materiaaleista sekä arvonlisäverosta.
+Paketteja voi tilata joko erikseen tai kokoamalla niistä sopivan kokonaisuuden. Hinta sovitaan erikseen ja se koostuu mm. koulutuksen kestosta, matkakustannuksista, materiaaleista sekä mahdollisesta arvonlisäverosta.
 
 > Nepparin tilat eivät sovi suuriin ryhmätapaamisiin, joten niihiin varataan erikseen sopiva tila. 
 
