@@ -2,6 +2,9 @@
 published: false
 page-title: Itsemyötätunnon voima!
 ---
+
+
+
 ## Näin vaikeina aikoina, kun korona heikentää kaikkien meidän hyvinvointia, työntekoa ja mahdollisuuksia, on erityisen tärkeää pysähtyä vähän väliä kysymään, mitä minulle kuuluu ja kuinka voisin auttaa itseäni jaksamaan siihen saakka, kunnes tilanne helpottaa. Tässä yksi keino, joka on auttanut minua ja monia muita.
 
 Olen aina ollut kovin resilientti ja myönteinen optimisti, joka on pompannut vastoinkäymisten jälkeen pystyyn ja jatkanut matkaa taas yhtä kokemusta viisaampana. Virheet ovat olleet minulle aina hyviä opettajia ja osoituksia siitä, että oikea ratkaisu tai suunta on taas askeleen lähempänä. Jokin elämässä on kuitenkin muokannut sisäisiä ajatuksiani, niin kutsuttua sisäistä puhettani, kovin vaativaksi.
