@@ -2,7 +2,7 @@
 published: false
 page-title: Vähennä itsekritiikkiä!
 ---
-## Vähennä itsekriittisyyttä keskittymällä itsen ulkopuolelle, muihin ihmisiin tai asioihin. Tätä ohjetta olen käyttänyt koko työurani ja oikeastaan koko elämäni ajan menestyksekkäästi. Sen avulla en koe koskaan olevani yksin, vaan aina osa jotain suurempaa. Tämän ajatuksen arvo on noussut arvoon arvaamattomaan nyt korona-aikana, kun ihmisten kohtaamiset ovat jääneet hyvin vähälle.
+## Vähennä itsekriittisyyttä keskittymällä itsen ulkopuolelle, muihin ihmisiin tai asioihin. Tätä ohjetta olen käyttänyt koko työurani ja oikeastaan lähes koko elämäni ajan menestyksekkäästi. Sen ansiosta en ole ottanut harteilleni liian painavia taakkoja kannettaviksi, vaan olen voinut suhtautua haasteisiin mielenkiinnolla ja uteliaasti. Sen avulla en koe myöskään olevani koskaan yksin, vaan aina osa jotain suurempaa. Tämän ajatuksen arvo on noussut arvoon arvaamattomaan nyt korona-aikana, kun ihmisten kohtaamiset ovat jääneet hyvin vähälle.
 
 Olen aina ollut hyvin herkkä kohtaamaan toisia ihmisiä heidän lähtökohdistaan käsin ja tämä piirre on selkeästi suojannut minua vaikeiden asioiden äärellä. Asioiden tarkastelu itseni ulkopuolella on suojannut omaa sisintäni ja kokemusmaailmaani, kun olen hyvin varhain jo osannut erotella omat ja toisten ajatukset, tunteet ja kokemukset. Minulle on myös samaisesta syystä johtuen ollut aina hyvin helppoa kohdata toisissa hyvinkin vaikeita tunteita, kokemuksia ja piirteitä. Asioiden tarkastelu itsen ulkopuolelta antaa niille tilaa ja tuo sopivasti etäisyyttä uskaltaa kohdata niitä silmästä silmään.
 
