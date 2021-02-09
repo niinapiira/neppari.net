@@ -1,6 +1,6 @@
 ---
 published: false
-page-title: Vähennä itsekritiikkiä!
+page-title: Vähennä itsekritiikkiä tällä menetelmällä
 ---
 ## Vähennä itsekriittisyyttä keskittymällä itsen ulkopuolelle, muihin ihmisiin tai asioihin. Tätä ohjetta olen käyttänyt koko työurani ja oikeastaan lähes koko elämäni ajan menestyksekkäästi. Sen ansiosta en ole ottanut harteilleni liian painavia taakkoja kannettaviksi, vaan olen voinut suhtautua haasteisiin mielenkiinnolla ja uteliaasti. Sen avulla en koe myöskään olevani koskaan yksin, vaan aina osa jotain suurempaa. Tämän ajatuksen arvo on noussut arvoon arvaamattomaan nyt korona-aikana, kun ihmisten kohtaamiset ovat jääneet hyvin vähälle.
 
