@@ -18,3 +18,5 @@ Kun näin ollen hahmotan itseni jatkuvasti vain osana jotain itseä suurempaa, p
 ___
 
 _Yhteisvastuullisuus ja tasavertaisuus ovat tavoitetiloja, joilla jokaista kanssaihmistä voidaan kokemukseni mukaan auttaa erittäin menestyksekkäästi ja voimauttavasti ilman, että lopulta voisi edes sanoa mitä itse ammattilaisena teki asiakkaan eteen. Kun vastuu ja visio yhteistyöstä rakennetaan aidosti asiakaslähtöisesti, saa ammattilaisena usein olla vain vauhdin antajana, sillä asiakkaat osaavat aina itse ohjata omaa elämäänsä parhaiten, kunhan he kokevat etteivät ole yksin menossa kohti uutta tuntematonta! Ammattillinen rohkeus, joka syntyy usein kokemuksesta, tukee asiakasta pelon ja jännityksen edessä, jolloin käsi kädessä on yhdessä helpompi ottaa askelia kohti asiakkaan unelmia, tavoitteita, toiveita ja tulevaisuutta._
+
+___
