@@ -30,7 +30,7 @@ Keskittyminen tässä tilassa on hyvin impulsiivista, toisaalta hyvin intensiivi
 
 Kun aivojen pelkokeskus ottaa vallan, se katkaisee hetkellisesti yhteyden järkiaivoihin. Olo voi olla erittäin kummallinen ja jopa sanat voivat unohtua ja puhe juuttua kurkkuun. Looginen ajattelukyky voi kadota hetkeksi kokonaan. Kun tunteet ottavat vallan, niin jännitys, jännittävä tilanne sekä kehon reaktiot tuntuvat vielä entistä pahemmilta kuin mitä ne todellisuudessa ovat. 
 
-Jännitys voi olla myös opittua käyttäytymistä, jos ihmisellä on vaikka negatiivisia kokemuksia (traumoja) tai jos ihminen on vältellyt liikaa joitain asioita. Tällöin aivot eivät havainnoi tilanteita aidosti, vaan olettavat että täytyy aina jännittää samankaltaisissa tilanteissa ja valmistautuvat vaaraan, vaikka sellaista ei olisikaan. Traumoja hoidetaan usein terapiassa uusilla, hyvillä korvaavilla kokemuksilla, mutta välttämiskäyttäytymistä on helpompi jokaisen muuttaa itse tiedostaessaan, että jännitys helpottuu, kun uskaltautuu totuttamaan itseään välttämäänsä asiaan.
+Jännitys voi olla myös opittua käyttäytymistä, jos ihmisellä on vaikka negatiivisia kokemuksia (traumoja) tai jos ihminen on vältellyt liikaa joitain asioita. Tällöin aivot eivät havainnoi tilanteita aidosti, vaan olettavat että täytyy aina jännittää samankaltaisissa tilanteissa ja valmistautuvat vaaraan, vaikka sellaista ei olisikaan. Traumoja hoidetaan usein terapiassa uusilla, hyvillä korvaavilla kokemuksilla, mutta välttämiskäyttäytymistä voi jokainen muuttaa itse tiedostaessaan, että jännitys helpottuu, kun uskaltautuu totuttamaan itseään välttämäänsä asiaan.
 
 
 ## Jännitys on hyvä asia!
