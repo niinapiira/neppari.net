@@ -4,6 +4,8 @@ page-title: Opi hallitsemaan jännitystä!
 ---
 ## Opi hallitsemaan jännitystä
 
+
+
 UUSI TAI EPÄMIELLYTTÄVÄ TILANNE TAI IHMINEN?
 ESIINTYMINEN TAI HUOMION KOHTEENA OLEMINEN?
 HUONOJA MUISTOJA HERÄTTÄVÄ TILANNE?
