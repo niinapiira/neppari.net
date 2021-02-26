@@ -22,7 +22,7 @@ Jännitys saa kehomme toimimaan silti samalla tavalla kuin oikeassa uhkatilantee
 
 ## Miksi ja miten mieli ja keho reagoivat jännittäessä?
 
-Jännittäessä ajattelu kapeutuu koska mieli keskittyy havaittuun uhkaan ja keho valmistautuu toimimaan. Tässä on kyse kehon ja mielen yhteisestä toiminnantilasta. Keho alkaa valmistautumaan taistelemaan tai pakenemaan ja joskus myös jähmettymään paikoilleen.
+Jännittäessä ajattelu kapeutuu koska mieli keskittyy havaittuun uhkaan samalla kun keho valmistautuu toimimaan. Tässä onkin kyse kehon ja mielen yhteisestä toiminnantilasta. Keho alkaa valmistautumaan taistelemaan tai pakenemaan ja joskus myös jähmettymään paikoilleen.
 
 Uhkan havaitessaan, mieli pyrkii huomaaman kaiken ympärillä olevan ja tekemään hyvin nopeita päätöksiä suoraviivaisesti, jotta selviämme uhkasta. Syvälliseen asioiden pohtimiseen ja vaihtoehtojen vertailuun ei ole aikaa, sillä mieli on suuntautunut hengissä selviytymiseen.
 
