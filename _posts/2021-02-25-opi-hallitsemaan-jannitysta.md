@@ -20,7 +20,7 @@ Jännitys saa kehomme toimimaan silti samalla tavalla kuin oikeassa uhkatilantee
 -	ruuansulatuselimistö voi reagoida pahoinvoinnilla
 -   olo voi olla outo, jopa epätodellinen
 
-## Kuinka mieli ja keho reagoi jännittäessä?
+## Miksi ja miten mieli ja keho reagoivat jännittäessä?
 
 Jännittäessä ajattelu kapeutuu koska mieli keskittyy havaittuun uhkaan ja keho valmistautuu toimimaan. Tässä on kyse kehon ja mielen yhteisestä toiminnantilasta. Keho alkaa valmistautumaan taistelemaan tai pakenemaan ja joskus myös jähmettymään paikoilleen.
 
