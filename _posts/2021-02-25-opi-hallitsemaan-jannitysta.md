@@ -6,7 +6,7 @@ page-title: Opi hallitsemaan jännitystä!
 
 ![Auringonnousu mäellä]({{site.baseurl}}/uploaded-images/auringonnousu-maella.jpg)
 
-**Uusi tai epämiellyttävä tilanne tai ihminen? Esiintyminen tai huomion kohteena oleminen? Huonoja muistoja herättävä tilanne? Turvaton paikka? Nämä ja monet muut tekijät voivat saada meidät jännityksen valtaan ja luoda epävarmuuden sekä ahdistuksen tunteita. Jännitys ei kuitenkaan ole sen kummallisempi asia kuin innostuskaan, se on vain tunne muiden joukossa. Epämiellyttävän jännityksestä tekee yleensä sen aiheuttamat keholliset reaktiot, kuten sydämen hakkaaminen ja tärinä. Niiden tarkoitus on kuitenkin auttaa meitä valmistautumaan koitokseen ja keskittämään kaiken huomiomme tärkeään asiaan. Jännityksen kanssa voi oppia tulemaan toimeen ja parhaimillaan siitä voi jopa oppia nauttimaan.**
+**Uusi tai epämiellyttävä tilanne tai ihminen? Esiintyminen tai huomion kohteena oleminen? Huonoja muistoja herättävä tilanne? Turvaton paikka? Nämä ja monet muut tekijät voivat saada meidät jännityksen valtaan ja luoda epävarmuuden sekä ahdistuksen tunteita. Jännitys ei kuitenkaan ole sen kummallisempi asia kuin innostuskaan, se on vain tunne muiden joukossa. Epämiellyttävän jännityksestä tekee yleensä sen aiheuttamat keholliset reaktiot, kuten sydämen hakkaaminen ja tärinä. Niiden tarkoitus on kuitenkin auttaa meitä valmistautumaan koitokseen ja keskittämään kaiken huomiomme tärkeään asiaan. Jännityksen kanssa voi oppia tulemaan toimeen ja parhaimmillaan siitä voi jopa oppia nauttimaan.**
 
 Jännitys on kehollinen stressireaktio, joka aiheuttaa Taistele tai Pakene (tai jähmety) -valmiuden.
 
