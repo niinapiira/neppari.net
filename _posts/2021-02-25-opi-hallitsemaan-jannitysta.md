@@ -53,3 +53,5 @@ ___
 _Nepsy-valmennuksessa käydään läpi erilaisia keinoja helpottaa jännityksen sietoa ja oppia lopulta hallitsemaan omaa jännittämistään. Aivot ovat kuin lihas, ja me voimme treenata ja kouluttaa niitä! Aivot ovat alati muokkautuvat ja oppivaiset, ja oppivat kyllä, että kaikki jännitystä herättävät asiat eivät oikeasti ole uhkaavia. =)_ 
 
 ___
+
+Lähteenä hyödynnetty Keskittymiskyvyn elvytys -kirjaa.
