@@ -2,7 +2,6 @@
 published: true
 page-title: Opi hallitsemaan jännitystä!
 ---
-## Opi hallitsemaan jännitystä
 
 ![Auringonnousu mäellä]({{site.baseurl}}/uploaded-images/auringonnousu-maella.jpg)
 
