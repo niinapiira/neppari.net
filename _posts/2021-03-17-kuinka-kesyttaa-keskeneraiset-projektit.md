@@ -2,6 +2,8 @@
 published: false
 page-title: Kuinka kesyttää keskeneräiset projektit?
 ---
+![Oulun vesivoimalaitos]({{site.baseurl}}/uploaded-images/oulun-vesivoimalaitos.jpeg)
+
 **Moni neurokirjolla oleva, mutta myös me kirjon ulkopuolisetkin, kärsii jatkuvista keskeneräisistä projekteista. Ne kasaantuvat joko ympäri asuntoa tai kaappien pohjille, unohtuvat tai vaivaavat mieltä jatkuvasti. Kaiken kaikkiaan niille on yleensä yhteistä se, että motivaatio lakkaa ennen kuin projektin on hoitanut loppuun. Tässä hieman vinkkejä, joilla tätä ongelmaa voi lähteä ratkaisemaan hieman eri näkökulmista.**
 
 1. Ensinnäkin ongelmallista tässä kuviossa on a**jattelutapa, jossa keskeneräisyys nähdään ongelmana**. Keskeneräisyyttä voi olla vaikea kestää, jos asioiden halutaan saavuttavan jokin loppu nopeasti. Aivot ja ihmismieli tunnetusti kaipaavat valmiita malleja, joilla elämää on helpompi ennakoida ja suunnitella, mutta tämä ajattelumalli ei sovi kaikkeen. Kaikkia ongelmia ei pystytä ratkaisemaan eikä kaikki asiat sisällä selkeää lopputulosta. Eikä kaikkea ole tarkoitettu valmistuvaksi nopeasti. Siksi on hyvä pohtia ensin sitä, **mitä lopputulosta konkreettisesti toivoo ja voiko sitä realistisesti saavuttaa** siinä ajassa ja muodossa mitä toivoo.
