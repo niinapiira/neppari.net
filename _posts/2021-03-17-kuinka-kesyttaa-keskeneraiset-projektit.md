@@ -1,5 +1,6 @@
 ---
 published: false
+page-title: Kuinka kesyttää keskeneräiset projektit?
 ---
 **Moni neurokirjolla oleva, mutta myös me kirjon ulkopuolisetkin, kärsii jatkuvista keskeneräisistä projekteista. Ne kasaantuvat joko ympäri asuntoa tai kaappien pohjille, unohtuvat tai vaivaavat mieltä jatkuvasti. Kaiken kaikkiaan niille on yleensä yhteistä se, että motivaatio lakkaa ennen kuin projektin on hoitanut loppuun. Tässä hieman vinkkejä, joilla tätä ongelmaa voi lähteä ratkaisemaan hieman eri näkökulmista.**
 
