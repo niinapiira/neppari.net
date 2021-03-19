@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 page-title: Kuinka kesyttää keskeneräiset projektit?
 ---
 ![Oulun vesivoimalaitos]({{site.baseurl}}/uploaded-images/oulun-vesivoimalaitos.jpeg)
