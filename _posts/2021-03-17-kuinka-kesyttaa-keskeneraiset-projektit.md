@@ -27,7 +27,7 @@ page-title: Kuinka kesyttää keskeneräiset projektit?
 
 - Jos projektien määrä on aina vaarassa räjähtää käsiin, voi olla hyvä käydä ideoitaan ensin läpi **rauhassa mielikuvissaan** ja päättää vasta myöhemmin mihin niistä ryhtyy konkreettisesti. Mielikuvat toimivat yhtä vahvasti kehomme tasolla kuin oikeatkin tilanteet, joten pelkkä mielikuvan läpikäyminen voi riittää joidenkin ”mahdottomien” projektien hylkäämiseen.
 
--Yksi helpoin keino välttää projektien jatkuvaa lisääntymistä, on **sometauko**. Suurin osa ihmisistä **imee** sosiaalisesta mediasta **ideoita** ja mieli on heti innokas toteuttamaan kaiken. Somea voi seurailla taas, kun on **saanut raivattua itselleen aikaa**, tai parhaassa tapauksessa voi opetella **hallitsemaan innostumistaan ja tapaansa käyttää** somea niin, että ideoita ei synny jatkuvasti lisää tai ettei niihin aina tartu. **Se mitä me laitamme mieleemme, pysyy siellä**. Siksi on hyvä pysähtyä säännöllisesti tarkastelemaan sitä, mihin käyttää aikaansa ja energiaansa sekä mieltään.
+- Yksi helpoin keino välttää projektien jatkuvaa lisääntymistä, on **sometauko**. Suurin osa ihmisistä **imee** sosiaalisesta mediasta **ideoita** ja mieli on heti innokas toteuttamaan kaiken. Somea voi seurailla taas, kun on **saanut raivattua itselleen aikaa**, tai parhaassa tapauksessa voi opetella **hallitsemaan innostumistaan ja tapaansa käyttää** somea niin, että ideoita ei synny jatkuvasti lisää tai ettei niihin aina tartu. **Se mitä me laitamme mieleemme, pysyy siellä**. Siksi on hyvä pysähtyä säännöllisesti tarkastelemaan sitä, mihin käyttää aikaansa ja energiaansa sekä mieltään.
 
 ___
 
