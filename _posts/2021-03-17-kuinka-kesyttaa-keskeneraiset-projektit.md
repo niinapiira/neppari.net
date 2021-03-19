@@ -12,7 +12,7 @@ page-title: Kuinka kesyttää keskeneräiset projektit?
 
 3. Kolmas haaste on useimmilla **projektien määrä**. Koti tai kaapit pursuavat projekteja, joista on saanut joskus inspiraation ja vision, mutta jotka ovat jääneet aina uusien ideoiden ja projektien jalkoihin. Ne kalvavat mielessä tai hankaloittavat asumista ja kodin hoitoa sekä lopulta uusienkin projektien toteuttamista. Tässä kohtaa viimeistään on hyvä ottaa hetki aikaa ja pohtia sitä, mistä voisi **luopua kokonaan tai hetkeksi, jotta saisi kaikille asioille enemmän tilaa**.
 
-Monella on vaikea ajatella luopumista, koska samalla luopuu jostain tärkeästä tai kokee luovuttaneensa. Luopumisen sijaan voikin **kerätä projektit yksitellen omiin laatikkoihinsa** (muuttolaatikoihin jos ovat isompia) ja miettiä kuinka itselle olisi paras tapa **organisoida ne**.
+4. Neljäs haaste on kuitenkin monella luopumisen vaikeus, koska samalla joutuisi päästämään irti jostain tärkeästä, tai kokee heittävänsä hukkaan hyviä ideoita tai aikaa ja vaivaa (eli jo alkuun saatettuja hommia). Luopumisen sijaan voikin **kerätä projektit yksitellen omiin laatikkoihinsa** (muuttolaatikoihin jos ovat isompia) ja miettiä kuinka itselle olisi paras tapa **organisoida ne:**
 
 - Yksi strategia on **päättää mihin projektiin tarttuu ensimmäisenä** ja pitää kaikki muut (uudetkin ideatasolla olevat) sen aikaa laatikoissaan. Näin niistä ei tarvitse luopua, mutta jokainen **odottaa omaa aikaansa**. Samalla yksi projekti saa valloittaa rauhassa sen **tilan, mitä se tarvitsee**.
 
