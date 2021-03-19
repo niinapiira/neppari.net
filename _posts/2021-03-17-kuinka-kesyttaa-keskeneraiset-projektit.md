@@ -27,10 +27,14 @@ page-title: Kuinka kesyttää keskeneräiset projektit?
 
 - Jos projektien määrä on aina vaarassa räjähtää käsiin, voi olla hyvä käydä ideoitaan ensin läpi **rauhassa mielikuvissaan** ja päättää vasta myöhemmin mihin niistä ryhtyy konkreettisesti. Mielikuvat toimivat yhtä vahvasti kehomme tasolla kuin oikeatkin tilanteet, joten pelkkä mielikuvan läpikäyminen voi riittää joidenkin ”mahdottomien” projektien hylkäämiseen.
 
-- Yksi helpoin keino välttää projektien jatkuvaa lisääntymistä, on **sometauko**. Suurin osa ihmisistä **imee** sosiaalisesta mediasta **ideoita** ja mieli on heti innokas toteuttamaan kaiken. Somea voi seurailla taas, kun on **saanut raivattua itselleen aikaa**, tai parhaassa tapauksessa voi opetella **hallitsemaan innostumistaan ja tapaansa käyttää** somea niin, että ideoita ei synny jatkuvasti lisää tai ettei niihin aina tartu. **Se mitä me laitamme mieleemme, pysyy siellä**. Siksi on hyvä pysähtyä säännöllisesti tarkastelemaan sitä, mihin käyttää aikaansa ja energiaansa sekä mieltään.
+- Projekteja voi myös yrittää **yhdistää** tai niiden edistämistä voi auttaa **motivoimalla itseään** eri tavoin: tekemällä yhdessä ystävien kanssa, tekemällä aina samalla kun katsoo tai kuuntelee jotain ohjelmaa/podcastia/luentoa/palaveria, muodostamalla tekemisestä rutiinin (esim. joka aamu/ilta/lauantai jne.) tai pitämällä projektia esillä niin, että sen muistaa aina kun sen näkee.
+
+- Yksi helpoin keino välttää projektien jatkuvaa lisääntymistä, on **sometauko**. Suurin osa ihmisistä **imee** sosiaalisesta mediasta **ideoita** ja mieli on heti innokas toteuttamaan kaiken. Somea voi seurailla taas, kun on **saanut raivattua itselleen aikaa**, tai parhaassa tapauksessa voi opetella **hallitsemaan innostumistaan ja tapaansa käyttää** somea niin, että ideoita ei synny jatkuvasti lisää tai ettei niihin aina tartu. **Se mitä me laitamme mieleemme, pysyy siellä,** joten on hyvä pysähtyä säännöllisesti tarkastelemaan sitä, mihin käyttää aikaansa ja energiaansa sekä mieltään. Ideat eivät netistä lopu, mutta mielemme tila ja aivojen kapasiteetti täyttyy helposti, samoin kuin kalenterimme, päivämme ja kaikki vapaa-aikamme.
 
 ___
 
-Meillä jokaisella on valta valita ja päättää omasta elämästämme joka päivä mitä pienempien asioiden suhteen. Ja pienillä on suurin vaikutus! Ne ovat asioita, jotka ovat läsnä joka päivä, useitakin kertoja päivässä. Jokapäiväiset toimemme ja valintamme muokkaavat tulevaisuuttamme, joten on hyvä herätä huomaamaan, että teemme omaa huomistamme jo tänään. Onkin hyvä tarkastella säännöllisesti, mihin minun toimintani minua johtaa. Silloin voi aina valita toimia toisin ja luoda itselleen erilaisen tulevaisuuden.
+Meillä jokaisella on valta valita ja päättää omasta elämästämme joka päivä mitä pienempien asioiden suhteen. Ja pienillä on suurin vaikutus! Ne ovat asioita, jotka ovat läsnä joka päivä, useitakin kertoja päivässä. Pieniä hetkiä, valinnan paikkoja ja tietoisia tai tiedostamattomia päätöksiä. Jokapäiväiset toimemme ja valintamme muokkaavat elämäämme ja tulevaisuuttamme, joten on hyvä herätä huomaamaan, että teemme omaa huomistamme jo tänään. Onkin hyvä tarkastella säännöllisesti, mihin minun toimintani minua johtaa. Silloin voi aina valita toimia toisin ja luoda itselleen erilaisen tulevaisuuden.
+
+Iloa päiviinne ja tilaa olemiseenne! =)
 
 ___
