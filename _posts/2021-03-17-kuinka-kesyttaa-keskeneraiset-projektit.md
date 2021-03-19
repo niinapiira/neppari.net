@@ -14,6 +14,7 @@ page-title: Kuinka kesyttää keskeneräiset projektit?
 
 4. Neljäs haaste on kuitenkin monella luopumisen vaikeus, koska samalla joutuisi päästämään irti jostain tärkeästä, tai kokee heittävänsä hukkaan hyviä ideoita tai aikaa ja vaivaa (eli jo alkuun saatettuja hommia). Luopumisen sijaan voikin **kerätä projektit yksitellen omiin laatikkoihinsa** (muuttolaatikoihin jos ovat isompia) ja miettiä kuinka itselle olisi paras tapa **organisoida ne:**
 
+
 - Yksi strategia on **päättää mihin projektiin tarttuu ensimmäisenä** ja pitää kaikki muut (uudetkin ideatasolla olevat) sen aikaa laatikoissaan. Näin niistä ei tarvitse luopua, mutta jokainen **odottaa omaa aikaansa**. Samalla yksi projekti saa valloittaa rauhassa sen **tilan, mitä se tarvitsee**.
 
 - Toinen strategia on toteuttaa projekteja **fiilis-pohjalta** niin, että joka päivä voi valita minkä vain projektin edistettäväkseen, ja joka ilta sen päivän projekti laitetaan takaisin omaan laatikkoonsa **odottamaan uutta inspistä**.
