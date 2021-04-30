@@ -36,6 +36,16 @@ Soita tai laita [sähköpostia](/ota-yhteytta), niin kerron lisää! =)
 
 ___
 
+##  Syksyllä alkaa Ahjolassa Nepparin nepsy-kurssi vanhemmille, joilla on neurokirjon lapsia tai nuoria!  
+
+Tervetuloa matalan kynnyksen nepsy-kurssille, jossa saat tietoa neuropsykiatrisista peruspulmista, keinoja niiden helpottamiseksi sekä vertaistukea ja vinkkejä erilaisiin tukimuotoihin. Kurssilla nepsy-valmentaja käy läpi yleisimpiä pulmia neurokirjolla sekä tarjoaa näkemyksiä ja keinoja haasteiden helpottamiseen. Ryhmän kesken jaetaan myös vertaistukea sekä omia kokemuksia ja viimeinen kurssikerta varataan kurssilaisten toiveiden pohjalta sovituille teemoille. Ryhmä on suunnattu perheille, joissa on kouluikäisiä nepsy-lapsia ja -nuoria.
+
+Alustava suunnitelma on, että ryhmä kokoontuu syksyn ajan joka 2. torstai parittomilla viikoilla  alkaen 16.9.2021. Kurssin pituus on 6 tapaamiskertaa ja se toteutetaan aina klo 17:15-19:30. Paikkana toimisi Tampereen Lyseon lukio, Pyynikin torin kupeessa.
+
+Aikataulut ja muut tarpeelliset tiedot tarkentuvat vielä myöhemmin. =)
+
+___
+
 ## Infopaketti ADHD:sta, tutkimuksista sekä tukitoimista!
 
 Mietitkö sinä onko sinulla tai tutullasi mahdollisesti ADHD?
@@ -55,12 +65,6 @@ Facebookissa voit myös seurata Nepparin toimintaa ja keskustella valmentaja-yri
 [Blogistani](/blogi) voit lukea ajatuksiani voimaantumisesta, valmennuksesta sekä yrittäjyydestä. 
 
 Blogissa käsittelen ratkaisukeskeisesti yksilön hyvinvointia, ihmisyyttä sekä sosiaalialaa niiden tukipilarina.
-
-___
-
-##  Kevään Ahjolan nepsy-kurssi peruuntuu koronan vuoksi!  
-
-Katsomme kevään mittaan josko kurssi toteutettaisiin ensi syksynä korona-tilanteen mahdollisen paranemisen myötä!
 
 ___
 
