@@ -42,7 +42,7 @@ Tervetuloa matalan kynnyksen nepsy-kurssille, jossa saat tietoa neuropsykiatrisi
 
 Alustava suunnitelma on, että ryhmä kokoontuu syksyn ajan joka 2. torstai parittomilla viikoilla  alkaen 16.9.2021. Kurssin pituus on 6 tapaamiskertaa ja se toteutetaan aina klo 17:15-19:30. Paikkana toimisi Tampereen Lyseon lukio, Pyynikin torin kupeessa.
 
-Aikataulut ja muut tarpeelliset tiedot tarkentuvat vielä myöhemmin. =)
+Aikataulut ja muut tarpeelliset tiedot sekä ilmoittautumislinkki tarkentuvat vielä myöhemmin. =)
 
 ___
 
