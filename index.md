@@ -40,7 +40,7 @@ ___
 
 Tervetuloa matalan kynnyksen nepsy-kurssille, jossa saat tietoa neuropsykiatrisista peruspulmista, keinoja niiden helpottamiseksi sekä vertaistukea ja vinkkejä erilaisiin tukimuotoihin. Kurssilla nepsy-valmentaja käy läpi yleisimpiä pulmia neurokirjolla sekä tarjoaa näkemyksiä ja keinoja haasteiden helpottamiseen. Ryhmän kesken jaetaan myös vertaistukea sekä omia kokemuksia ja viimeinen kurssikerta varataan kurssilaisten toiveiden pohjalta sovituille teemoille. Ryhmä on suunnattu perheille, joissa on kouluikäisiä nepsy-lapsia ja -nuoria.
 
-Alustava suunnitelma on, että ryhmä kokoontuu syksyn ajan joka 2. torstai parittomilla viikoilla  alkaen 16.9.2021. Kurssin pituus on 6 tapaamiskertaa ja se toteutetaan aina klo 17:15-19:30. Paikkana toimisi Tampereen Lyseon lukio, Pyynikin torin kupeessa.
+Ryhmä kokoontuu syksyn ajan joka 2. keskiviikko parittomilla viikoilla  alkaen 15.9.2021. Kurssin pituus on 6 tapaamiskertaa ja se toteutetaan aina klo 17:15-19:30. Paikkana toimii Ahjolan Voiman tila Pispalassa osoitteessa Pispalan valtatie 45.
 
 Aikataulut ja muut tarpeelliset tiedot sekä ilmoittautumislinkki tarkentuvat vielä myöhemmin. =)
 
