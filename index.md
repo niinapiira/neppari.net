@@ -42,7 +42,7 @@ Tervetuloa matalan kynnyksen nepsy-kurssille, jossa saat tietoa neuropsykiatrisi
 
 Ryhmä kokoontuu syksyn ajan joka 2. keskiviikko parittomilla viikoilla  alkaen 15.9.2021. Kurssin pituus on 6 tapaamiskertaa ja se toteutetaan aina klo 17:15-19:30. Paikkana toimii Ahjolan Voiman tila Pispalassa osoitteessa Pispalan valtatie 45.
 
-Aikataulut ja muut tarpeelliset tiedot sekä ilmoittautumislinkki tarkentuvat vielä myöhemmin. =)
+Ilmoittautua voit [täältä](https://opistopalvelut.fi/ahjola/course.php?l=fi&t=25365
 
 ___
 
