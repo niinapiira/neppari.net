@@ -22,7 +22,7 @@ Olen opiskellut myös seuraavia aiheita:
 - Avekkia, haastavaa käytöstä sekä puhejudoa
 - Toimivaa ja voimauttavaa vuorovaikutusta
 - Mindfulnessia ja meditaatiota
-- Psykologiaa ja eri terapiasuuntauksia
+- Psykologiaa ja eri psykoterapiasuuntauksia sekä menetelmiä
 - Aivotutkimusta (neurologiaa) sekä neuropsykologiaa
 - Mielenterveystietoa
 - Hahmottamisen häiriöistä sekä erilaisesta oppimisesta
