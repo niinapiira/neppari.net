@@ -31,7 +31,7 @@ Kokemukseni on kertynyt erityisesti nuorten ja aikuisten nepsy-henkilöiden kans
 
 Minun tapani työskennellä on hyvin joustavaa, ketterää ja asiakkaan erityistarpeita huomioivaa. Hyödynnän ihmistyössäni empaattisuuttani ja intuitiotani päästäkseni mahdollisimman hyvin asiakkaan kokemusmaailmaan sisään.
 
-Käytän valmennuksessa paljon vuorovaikutusta helpottavia menetelmiä, kuten voimauttavaa vuorovaikutusta ja luovia menetelmiä (kirjoittaminen, piirtäminen, kirjallisuusterapian menetelmät ja ajatusten visualisointi kuvin ja esinein).
+Käytän valmennuksessa tarpeen mukaisia vuorovaikutusta helpottavia menetelmiä, kuten voimauttavaa vuorovaikutusta ja luovia menetelmiä (kirjoittaminen, piirtäminen, kirjallisuusterapian menetelmät ja ajatusten visualisointi kuvin ja esinein).
 
 Pitkä kokemukseni on tuonut paljon tietoa, keinoja ja kokemusta, ja jatkan osaamiseni päivitystä jatkuvasti. Olen kerännyt vuosien varrella käyttööni laajan valikoiman toimivia valmennusmenetelmiä sekä työkaluja asiakkaiden käyttöön.
 
