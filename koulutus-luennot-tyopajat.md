@@ -46,4 +46,4 @@ Paketteja voi tilata joko erikseen tai kokoamalla niistä sopivan kokonaisuuden.
 
 > Nepparin tilat eivät sovi suuriin ryhmätapaamisiin, joten niihiin varataan erikseen sopiva tila. 
 
-> Jos tarvitset tämän tyyppistä nepsy-koulutusta tai konsultaatiota, kysy ihmeessä minulta lisätietoja ja hinta-arviota joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
+> Jos tarvitset tämän tyyppistä nepsy-koulutusta tai konsultaatiota, kysy ihmeessä minulta lisätietoja ja hinta-arviota [sähköpostilla](/ota-yhteytta).
