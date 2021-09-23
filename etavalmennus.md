@@ -16,6 +16,6 @@ Mahdollisia viestimiskanavia voi olla esimerkiksi puhelin, whatsapp, sähköpost
 
 Kasvotusten tapahtuvassa valmennuksessa voidaan myös hyödyntää etävalmennusta osassa tapaamisista.
 
-> Etävalmennuksen sisältö, aikataulu ja viestimiskanava sovitaan etukäteen joko puhelimitse tai sähköpostilla.
+> Etävalmennuksen sisältö, aikataulu ja viestimiskanava sovitaan etukäteen sähköpostilla.
 
-> Jos haluat kuulla lisää tai varata ajan ilmaiseen tutustumistapaamiseen, ota yhteyttä puhelimitse tai [sähköpostilla](/ota-yhteytta).
+> Jos haluat kuulla lisää, niina ota yhteyttä [sähköpostilla](/ota-yhteytta) jotta arvioidaan tilanteesi ennen varsinaista valmennusta.
