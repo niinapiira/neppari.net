@@ -17,4 +17,4 @@ Valmentajana tarjoan aina uusia näkökulmia, omaa asiantuntijuuttani sekä kann
 
 Valmennusta on mahdollista saada myös [etänä](/etavalmennus).
 
-> Jos haluat kuulla lisää tai varata ajan valmennukseen, ota yhteyttä puhelimitse tai [sähköpostilla](/ota-yhteytta).
+> Jos haluat kuulla lisää tai varata ajan valmennukseen, ota yhteyttä [sähköpostilla](/ota-yhteytta).
