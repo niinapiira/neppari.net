@@ -18,4 +18,4 @@ Kasvotusten tapahtuvassa valmennuksessa voidaan myös hyödyntää etävalmennus
 
 > Etävalmennuksen sisältö, aikataulu ja viestimiskanava sovitaan etukäteen sähköpostilla.
 
-> Jos haluat kuulla lisää, niina ota yhteyttä [sähköpostilla](/ota-yhteytta) jotta arvioidaan tilanteesi ennen varsinaista valmennusta.
+> Jos haluat kuulla lisää, niin ota yhteyttä [sähköpostilla](/ota-yhteytta) jotta arvioidaan tilanteesi ennen varsinaista valmennusta.
