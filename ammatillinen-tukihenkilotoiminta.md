@@ -30,4 +30,4 @@ Tukihenkilötoiminnassa voidaan myös harjoitella uusia taitoja.
 
 Ammatillinen tukihenkilötoiminta voi olla hyvin pitkäaikainenkin tukimuoto, jolloin hyvä työskentelysuhde mahdollistaa tuen mm. mielenterveyden haasteisiin.
 
-> Jos olet kiinnostunut, voit kysyä minulta lisätietoja joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
+> Jos haluat kuulla lisää, ota yhteyttä [sähköpostilla](/ota-yhteytta), niin arvioidaan tilanteesi ennen varsinaisia tapaamisia.
