@@ -26,4 +26,4 @@ Valmennuksen avulla perheelle voidaan etsiä keinoja arjen hallintaan ja jaksami
 
 Valmennusta on mahdollista saada myös [etänä](/etavalmennus).
 
-> Jos haluat kuulla lisää tai varata ajan ilmaiseen tutustumistapaamiseen, ota yhteyttä joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
+> Jos haluat kuulla lisää, ota yhteyttä [sähköpostilla](/ota-yhteytta).
