@@ -32,8 +32,8 @@ Nepsy-valmennus on hyvin kokonaisvaltainen tukimuoto, joka kattaa koko elämän 
 
 Valmennus täydentää hyvin muita tukipalveluita kuten asumisen tukea, ammatillista kuntoutusta tai vaikkapa terapioita.
 
-> Valmennusta voi saada myös kertaluontoisesti tai lyhytvalmennuksena akuuttiin ja kriisiytyneeseen tilanteeseen!
+> Valmennusta voi saada myös lyhytvalmennuksena akuuttiin ja kriisiytyneeseen tilanteeseen!
 
 > Valmennusprosessista, tapaamisten pituudesta ja paikasta sekä tavoitteista sovitaan asiakaskohtaisesti kirjallisella sopimuksella.
 
-> Jos haluat kuulla lisää tai varata ajan ilmaiseen tutustumistapaamiseen, ota yhteyttä puhelimitse tai [sähköpostilla](/ota-yhteytta).
+> Jos haluat kuulla lisää, ota yhteyttä [sähköpostilla](/ota-yhteytta), niin arvioidaan tilanteesi ennen varsinaista valmennusta.
