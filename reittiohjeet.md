@@ -11,7 +11,7 @@ Nepparin toimisto sijaitsee Tampereen alueella. Tällä hetkellä olen päättä
 
 Sovin kuitenkin aina asiakkaan kanssa yksilöllisesti, missä ja miten valmennus on helpointa ja parasta järjestää. Näin korona-aikana olen mm. tavannut asiakkaita usein kävelylenkkien yhteydessä, jolloin seuraan liittyy haluttaessa myös ihana Riksu-koira :)
 
-Jos tapaamisjärjestelyissä jokin mietityttää, voit kysyä minulta lisätietoja joko puhelimitse tai [sähköpostilla](/ota-yhteytta).
+Jos tapaamisjärjestelyissä jokin mietityttää, voit kysyä minulta lisätietoja [sähköpostilla](/ota-yhteytta).
 
 <!--
 

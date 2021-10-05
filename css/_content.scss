@@ -25,3 +25,7 @@ $a-n-horizontal-padding: ($a-n-horizontal-margin * -1) - $a-n-border-width;
 		margin: 0 $a-n-horizontal-margin 4rem $a-n-horizontal-margin;
 	}
 }
+
+.mandatory {
+	color: $faded-accent-color;
+}

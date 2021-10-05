@@ -15,27 +15,16 @@ polaroid: ""
     muista muuttaa se myös _config.yml -tiedostoon
 -->
 
-Alla olevalla lomakkeella voit lähettää minulle helposti yhteydenottopyynnön tai muun viestin. Halutessasi voit myös soittaa tai lähettää minulle itse sähköpostia osoitteeseen <a href="mailto:{{ site.contact.email.normal }}">{{ site.contact.email.normal }}</a>.
+Alla olevalla lomakkeella voit lähettää minulle helposti yhteydenottopyynnön tai muun viestin. Halutessasi voit myös lähettää minulle itse sähköpostia osoitteeseen <a href="mailto:{{ site.contact.email.normal }}">{{ site.contact.email.normal }}</a>.
 
-Nepparin toimiston osoitteen ja ohjeet miten löytää sinne [saat klikkaamalla tästä](/reittiohjeet).
+Johtuen viime aikojen kasvaneesta yhteydenottojen määrästä, vastaan uusiin yhteydenottopyyntöihin tällä hetkellä ensisijaisesti sähköpostilla.
 
 ---
 
 <script>
-    function toggleInput(id) {
-        var checkbox = document.getElementById("show-" + id),
-            input = document.getElementById(id),
-            inputDisplay = checkbox.checked ? "block" : "none";
-
-        if (input.style.display !== undefined) {
-            input.style.display = inputDisplay;
-        }
-    }
-
     function checkInfo(e) {
         var name = document.getElementById("name").value,
-            email = document.getElementById("email").value,
-            telephone = document.getElementById("telephone").value;
+            email = document.getElementById("email").value;
 
         document.getElementById("subject").value = "Yhteydenotto Nepparin kotisivuilta – " + name + " (" + Date.now() + ")";
 
@@ -44,8 +33,8 @@ Nepparin toimiston osoitteen ja ohjeet miten löytää sinne [saat klikkaamalla 
             return false;
         }
 
-        if (email === "" && telephone === "") {
-            alert("Hei! Annathan joko sähköposti- tai puhelinnumerosi, jotta voin ottaa sinuun yhteyttä. Kiitos!");
+        if (email === "") {
+            alert("Hei! Annathan sähköpostiosoitteesi, jotta voin ottaa sinuun yhteyttä. Kiitos!");
             return false;
         }
 
@@ -60,30 +49,22 @@ Nepparin toimiston osoitteen ja ohjeet miten löytää sinne [saat klikkaamalla 
     <input type="hidden" name="Muista" value="KUN VASTAAT TÄHÄN VIESTIIN, MUISTA MUUTTAA VASTAANOTTAJAN SÄHKÖPOSTIOSOITE ITSE ALLA MAINITUKSI!" />
 
     <div class="contact-form-part">
-        <label for="name">Nimesi</label>
+        <label for="name">Nimesi <span class="mandatory" title="Vaadittu tieto">*</span></label>
         <input id="name" type="text" name="name" class="pure-input-2-3" placeholder="Kirjoita nimesi tähän">
     </div>
 
     <div class="contact-form-part">
-        <label for="show-email" class="pure-checkbox">
-            <input id="show-email" type="checkbox" value="" onclick="toggleInput('email');">
-            Haluan, että minuun otetaan yhteyttä sähköpostilla
-        </label>
-        <input id="email" type="email" name="email" class="pure-input-2-3" style="display: none;"
-            placeholder="Kirjoita sähköpostiosoitteesi tähän">
+        <label for="email">Sähköpostiosoitteesi <span class="mandatory" title="Vaadittu tieto">*</span></label>
+        <input id="email" type="email" name="email" class="pure-input-2-3" placeholder="Kirjoita sähköpostiosoitteesi tähän">
     </div>
 
     <div class="contact-form-part">
-        <label for="show-telephone" class="pure-checkbox">
-            <input id="show-telephone" type="checkbox" value="" onclick="toggleInput('telephone');">
-            Haluan, että minuun otetaan yhteyttä puhelimella
-        </label>
-        <input id="telephone" type="tel" name="telephone" class="pure-input-2-3" style="display: none;"
-            placeholder="Kirjoita puhelinnumerosi tähän">
+        <label for="telephone">Puhelinnumerosi</label>
+        <input id="telephone" type="tel" name="telephone" class="pure-input-2-3" placeholder="Kirjoita puhelinnumerosi tähän">
     </div>
 
     <div class="contact-form-part">
-        <label for="foo">Viestisi</label>
+        <label for="message">Viestisi</label>
         <textarea id="message" name="message" class="pure-input-1" placeholder="Ja kirjoita varsinainen viestisi tähän"></textarea>
     </div>
 
