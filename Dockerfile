@@ -14,4 +14,4 @@ RUN bundle config set path '/usr/src/gems'
 RUN bundle install --gemfile /usr/src/gemfile/Gemfile
 
 EXPOSE 4000
-CMD [ "bundle", "exec", "jekyll", "serve", "-H", "0.0.0.0", "-P", "4000", "--force_polling", "--livereload" ]
+CMD [ "bundle", "exec", "jekyll", "serve", "--config", "_config.yml,_config_local.yml", "-H", "0.0.0.0", "-P", "4000", "--force_polling", "--livereload" ]
