@@ -9,8 +9,10 @@ siteurl:          https://www.neppari.net
 ry-text:          Niina Piira on Neuropsykiatriset valmentajat ry:n rekisteröity jäsen.
 ry-link:          Katso valmennuksen yleisesite yhdistyksen sivuilta klikkaamalla tästä.
 absence-notification:   false
-# Permalinks
 permalink:        /blogi/:title/
+
+plugins:
+  - jekyll-sitemap
 
 # Blog
 blog:
