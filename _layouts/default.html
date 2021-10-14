@@ -3,15 +3,13 @@
 
   {% include head.html %}
 
-  {% if page.is-part-of-blog == true or layout.is-part-of-blog == true %}
-    {% assign body-class-name = "post" %}
-  {% endif %}
+  <body class="{{ layout.body-class-name }} not-ios-or-android">
 
-  <body class="{{ body-class-name }} not-ios-or-android">
+    {% if layout.headerbar == true %}
+        {% include blog-headerbar.html %}
+    {% endif %}
 
-  	{% if body-class-name == "post" %}
-        {% include headerbar.html %}
-  	{% else %}
+    {% if layout.sidebar == true %}
         {% include sidebar.html %}
     {% endif %}
 
