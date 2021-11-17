@@ -36,15 +36,15 @@ Laita [sähköpostia](/ota-yhteytta), niin kerron lisää! =)
 
 ___
 
-##  Syksyllä alkaa Ahjolassa Nepparin nepsy-kurssi vanhemmille, joilla on neurokirjon lapsia tai nuoria!  
+##  Keväällä 2022 starttaa Ahjolassa uusi Nepparin nepsy-kurssi vanhemmille, joilla on neurokirjon lapsia tai nuoria!  
 
 Tervetuloa matalan kynnyksen nepsy-kurssille, jossa saat tietoa neuropsykiatrisista peruspulmista, keinoja niiden helpottamiseksi sekä vertaistukea ja vinkkejä erilaisiin tukimuotoihin. 
 
 Kurssilla nepsy-valmentaja käy läpi yleisimpiä pulmia neurokirjolla sekä tarjoaa näkemyksiä ja keinoja haasteiden helpottamiseen. Ryhmän kesken jaetaan myös vertaistukea sekä omia kokemuksia ja viimeinen kurssikerta varataan kurssilaisten toiveiden pohjalta sovituille teemoille. Ryhmä on suunnattu perheille, joissa on kouluikäisiä nepsy-lapsia ja -nuoria.
 
-Ryhmä kokoontuu syksyn ajan joka 2. keskiviikko parittomilla viikoilla  alkaen 15.9.2021. Kurssin pituus on 6 tapaamiskertaa ja se toteutetaan aina klo 17:15-19:30. Paikkana toimii Ahjolan Voiman tila Pispalassa osoitteessa Pispalan valtatie 45.
+Ryhmä kokoontuu kevään ajan joka 2. keskiviikko parillisilla viikoilla  alkaen 26.1.2021. Kurssin pituus on 6 tapaamiskertaa ja se toteutetaan aina klo 17:15-19:45. Paikkana toimii Ahjolan Voiman tila Pispalassa osoitteessa Pispalan valtatie 45.
 
-Ilmoittautua voit [täältä](https://opistopalvelut.fi/ahjola/course.php?l=fi&t=25365)
+Ilmoittautua voit ma 13.12.2021 klo 10 alkaen Ahjolan [nettisivuilla](https://www.ahjola.fi/opiskelu-ja-harrastukset/kansalaisopiston-kurssit/) tai puhelimitse arkisin klo 10-15 pe 17.12.2021 saakka p.044 553 8444.
 
 ___
 
