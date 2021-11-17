@@ -36,7 +36,7 @@ Laita [sähköpostia](/ota-yhteytta), niin kerron lisää! =)
 
 ___
 
-##  Keväällä 2022 starttaa Ahjolassa uusi Nepparin nepsy-kurssi vanhemmille, joilla on neurokirjon lapsia tai nuoria!  
+##  Keväällä 2022 starttaa Ahjolassa jälleen uusi Nepparin nepsy-kurssi vanhemmille, joilla on neurokirjon lapsia tai nuoria!  
 
 Tervetuloa matalan kynnyksen nepsy-kurssille, jossa saat tietoa neuropsykiatrisista peruspulmista, keinoja niiden helpottamiseksi sekä vertaistukea ja vinkkejä erilaisiin tukimuotoihin. 
 
