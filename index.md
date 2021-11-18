@@ -90,6 +90,8 @@ Palautteita yksilötyöskentelystä:
 >
 > _"Läheinen on hyötynyt paljon saamastaan ohjauksesta arjen asioissa ja itsensä arvostamisessa."_
 >
+>_"Olen saanut läjäpäin inspiraatiota, työkaluja ja toivoa tulevaan. Uskon yhä enemmän, että minulla todella on kaikki mitä tarvitsen hyvään ja tasapainoiseen elämään ja ettei minun tarvitse enää jäädä niihin entisiin toimintamalleihin, jotka on minua vuosikausia pidätelleet. Näen paljon selkeämmin eron vanhan ja uuden ajattelun välillä omassa päässäni ja uskon sen olevan avain siihen elämään, jota haluan elää."_
+>
 > _"Lapseni on pitänyt keskusteluista valmentajan kanssa. Asioista keskusteleminen on ollut hyvää terapiaa. On hyvä, kun on  ollut keskustelukumppanina henkilö, joka ymmärtää neuropsykiatrisista ongelmista."_
 >
 > _"Vuorovaikutus on toimivaa, on helppoa keskustella ja pohtia."_
