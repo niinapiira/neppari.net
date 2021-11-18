@@ -82,6 +82,8 @@ Palautteita yksilötyöskentelystä:
 >
 > _"Valmennus on tuonut asiakkaalle keinoja arjenhallinnan ja koulunkäynnin tueksi, lisännyt ymmärrystä ja itsemyötätuntoa."_
 >
+>_"Erinomaiset hinnat, tuntuu että saan paljon vastinetta rahoilleni. Yhteydenpito on helppoa ja joustavaa."_
+>
 > _"Asioiden hahmottaminen arjessa on parantunut."_
 >
 > _"Läheinen on hyötynyt paljon saamastaan ohjauksesta arjen asioissa ja itsensä arvostamisessa."_
@@ -90,11 +92,15 @@ Palautteita yksilötyöskentelystä:
 >
 > _"Vuorovaikutus on toimivaa, on helppoa keskustella ja pohtia."_
 >
+>_"Keskustelut toivat uusia näkökulmia ja haastoivat omaa ajattelua."_
+>
 > _"(Olen tyytyväinen valmentajan) empatiaan ja paneutumiseen asioissa."_
 >
 > _"Todella asiantuntevaa, mutta kuitenkin helposti lähestyttävää yhteistyötä ja ammattitaitoa."_
 >
 > _"Huikean hyvää työtä ! =)"_
+>
+>_"Valmennuksessa käsiteltiin monia elämän osa-alueita ja sain paljon vinkkejä ja ideoita elämänlaadun parantamiseen ja arjenhallintaan. Nyt minulla on myös enemmän työkaluja, joita voin käyttää valmennuksen jälkeenkin ja pistää saadut "opit" käytäntöön."_
 >
 > _"Loistavaa valmennustyötä :)"_
 >
@@ -106,7 +112,11 @@ Palautteita yksilötyöskentelystä:
 >
 > _"Sain turhaa tressiä vähennettyä."_
 >
-> _"Hyvä kokonaisuus, eikä liian kallis. Sain apua siihen mitä tarvitsin ja nopeammin kuin osasin odottaa"._
+>_"Tapaamisista jää raikas ja toiveikas fiilis ja valmentajalla on paljon ideoita ja lähteitä jaettavana. Ymmärtää ja antaa eri näkökulman kuin sen mihin itse on jumiutunut. Viittaa tutkimuksiin ja asiantuntijoihin, mikä saa luottamaan valmentajan asiantuntemukseen ja laajentaa omaa ymmärrystä itsestä ja aivojen toiminnasta."_
+>
+> _"Hyvä kokonaisuus, eikä liian kallis. Sain apua siihen mitä tarvitsin ja nopeammin kuin osasin odottaa."_
+>
+>_"Olen alkanyt ymmärtää itteni paremmin sekä löytäny tavoitteita ja uusia näkökulmia elämään."_
 >
 > _"Huippu tyyppi!"_
 
