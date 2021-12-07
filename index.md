@@ -58,15 +58,11 @@ Kaipaatko tätä tietoa selkeässä muodossa, lyhyesti ja ytimekkäästi?
 
 ___
 
-## Haluatko lukea valmennuksesta ja neuropsykiatrisesta maailmasta?
+## Haluatko lukea hyvinvointiin liittyvistä asioista?
 
-[Nepparin facebookista](https://facebook.com/valmennuskeskus.neppari) löydät päivittäin linkkejä ajankohtaisiin asioihin kuten tutkimuksiin, artikkeleihin ja uutisiin sekä muihin kirjoituksiin. 
+[Nepparin facebookista](https://facebook.com/valmennuskeskus.neppari) löydät lähes päivittäin linkkejä ajankohtaisiin asioihin kuten tutkimuksiin, artikkeleihin ja uutisiin sekä muihin kirjoituksiin.
 
-Facebookissa voit myös seurata Nepparin toimintaa ja keskustella valmentaja-yrittäjän kanssa helposti messenger-viestein. =)
-
-[Blogistani](/blogi) voit lukea ajatuksiani voimaantumisesta, valmennuksesta sekä yrittäjyydestä. 
-
-Blogissa käsittelen ratkaisukeskeisesti yksilön hyvinvointia, ihmisyyttä sekä sosiaalialaa niiden tukipilarina.
+[Blogistani](/blogi) voit lukea ajatuksiani voimaantumisesta, valmennuksesta sekä yrittäjyydestä. Blogissa käsittelen ratkaisukeskeisesti yksilön hyvinvointia, ihmisyyttä sekä sosiaalialaa niiden tukipilarina.
 
 ___
 
