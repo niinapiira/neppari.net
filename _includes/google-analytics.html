@@ -8,4 +8,6 @@
         ga('create', 'UA-61294226-1', 'auto');
         ga('send', 'pageview');
     </script>
+{% else %}
+    <!-- Google Analytics disabled in this build, because jekyll.environment == {{ jekyll.environment }} -->
 {% endif %}
