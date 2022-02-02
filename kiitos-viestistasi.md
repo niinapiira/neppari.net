@@ -7,6 +7,7 @@ published: true
 polaroid: ""
 "show-in-navigation": false
 "navigation-order": 50
+"google-ads-conversion-event": 'AW-881328558/3jRZCNrEpZUDEK6DoKQD'
 ---
 
 
