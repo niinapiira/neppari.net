@@ -158,7 +158,7 @@ Vanhempainkurssin palautteita:
 >
 >_"Kurssi sisälsi paljon faktaa, tutkimustietoa ja käytännön vinkkejä."_
 >
->_"Kurssiin oli koottu hyvät materiaalit ja opettaja antoi riittävästi tilaa keskusteljoille."_
+>_"Kurssiin oli koottu hyvät materiaalit ja opettaja antoi riittävästi tilaa keskustelijoille."_
 >
 >_Opettaja oli miellyttävä ja helposti lähestyttävä, asiantunteva ja aiheelle omistautunut sekä kaikki huomioon ottava."_
 >
