@@ -42,7 +42,7 @@ Tervetuloa matalan kynnyksen nepsy-kurssille, jossa saat tietoa neuropsykiatrisi
 
 Kurssilla nepsy-valmentaja käy läpi yleisimpiä pulmia neurokirjolla sekä tarjoaa näkemyksiä ja keinoja haasteiden helpottamiseen. Ryhmän kesken jaetaan myös vertaistukea sekä omia kokemuksia ja viimeinen kurssikerta varataan kurssilaisten toiveiden pohjalta sovituille teemoille. Ryhmä on suunnattu perheille, joissa on kouluikäisiä nepsy-lapsia ja -nuoria.
 
-Kevään ryhmä kokoontuu syksyn ajan joka 2. maanantai parillisilla viikoilla 19.9.-28.11. Kurssin pituus on 6 tapaamiskertaa ja se toteutetaan aina klo 17:30-20:00. Paikkana toimii keväällä Ahjolan Voiman tila Pispalassa osoitteessa Pispalan valtatie 45 ja syksyllä Ahjolan Nurkkis-luokka Pispalassa osoitteessa Erämiehenkatu 10. Osoitteessa Päivölänkatu 1 löytyy ilmaisia parkkipaikkoja yleensä jonkin verran.
+Kevään ryhmä kokoontuu syksyn ajan joka 2. maanantai parillisilla viikoilla 19.9.-28.11. Kurssin pituus on 6 tapaamiskertaa aina klo 17:30-20:00. Paikkana toimii keväällä Ahjolan Nurkkis-luokka Pispalassa osoitteessa Pispalan valtatie 45 ja syksyllä Ahjolan Nurkkis-luokka Pispalassa osoitteessa Erämiehenkatu 10. Osoitteessa Päivölänkatu 1 löytyy ilmaisia parkkipaikkoja yleensä jonkin verran.
 
 Ilmoittautua voit syksyn kurssille 1.7. klo 10 alkaen [TÄÄLLÄ](https://opistopalvelut.fi/ahjola/course.php?l=fi&t=25916) tai puhelimitse Ahjolaan arkisin klo 10-15 p.044 553 8400.
 
