@@ -44,7 +44,7 @@ Kurssilla nepsy-valmentaja käy läpi yleisimpiä pulmia neurokirjolla sekä tar
 
 Kevään ryhmä kokoontuu syksyn ajan joka 2. maanantai parillisilla viikoilla 19.9.-28.11. Kurssin pituus on 6 tapaamiskertaa aina klo 17:30-20:00. Paikkana toimii keväällä Ahjolan Nurkkis-luokka Pispalassa osoitteessa Pispalan valtatie 45 ja syksyllä Ahjolan Nurkkis-luokka Pispalassa osoitteessa Erämiehenkatu 10. Osoitteessa Päivölänkatu 1 löytyy ilmaisia parkkipaikkoja yleensä jonkin verran.
 
-Ilmoittautua voit syksyn kurssille 1.7. klo 10 alkaen [TÄÄLLÄ](https://opistopalvelut.fi/ahjola/course.php?l=fi&t=25916) tai puhelimitse Ahjolaan arkisin klo 10-15 p.044 553 8400.
+Ilmoittautua voit syksyn kurssille 1.7. klo 10 alkaen [TÄÄLLÄ](https://opistopalvelut.fi/ahjola/course.php?l=fi&t=26506) tai puhelimitse Ahjolaan arkisin klo 10-15 p.044 553 8400.
 
 ___
 
