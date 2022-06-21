@@ -140,7 +140,7 @@ Palautteita ryhmätyöskentelystä:
 >
 > _"Turvallinen ja hyväksyvä ryhmä ja ohjaaja tukenut selvästi nuoren selviämistä ja antanut onnistumisen tunteen."_
 
-Ja koulutuspalautteita:
+Koulutuspalautteita:
 
 > _"Erittäin hyvä koulutus ja oleellista asiaa kouluttaja osasi kertoa."_
 >
@@ -149,3 +149,17 @@ Ja koulutuspalautteita:
 > _"Oli helppo ymmärtää vaikeitakin asioita."_
 >
 > _"Oikein kattava kokonaisuus!"_
+
+Vanhempainkurssin palautteita:
+
+>_"Opin arkeen ja jaksamiseen uusia juttuja, paljon hyviä käytäntöja ja teoriaa niiden takana sekä uusia faktoja."_
+>
+>_"Opin paljon eri nepsy-häiriöistä sekä uutta ja hyödyllistä nepsyasioista."_
+>
+>_"Kurssi sisälsi paljon faktaa ko aiheesta."_
+>
+>_"Kurssiin oli koottu hyvät materiaalit ja opettaja antoi riittävästi tilaa keskusteljoille."_
+>
+>_Opettaja oli miellyttävä ja helposti lähestyttävä, asiantunteva ja aiheelle omistautunut sekä kaikki huomioon ottava."_
+>
+>_"Opettaja oli oikein mukava sekä ratkaisukeskeinen, perehtynyt, kokenut ja empaattinen."_
