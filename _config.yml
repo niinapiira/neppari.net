@@ -8,7 +8,7 @@ tagline-short:    'Neuropsykiatrista valmennusta Pirkanmaalla'
 siteurl:          https://www.neppari.net
 ry-text:          Niina Piira on Neuropsykiatriset valmentajat ry:n rekisteröity jäsen sekä hallituksen jäsen.
 ry-link:          Katso valmennuksen yleisesite yhdistyksen sivuilta klikkaamalla tästä.
-absence-notification:   Sähköpostissani on ollut tällä viikolla ongelmia. Mikäli sait oudon virheviestin yrittäessäsi tavoittaa minua, ole hyvä ja lähetä viestisi uudelleen. Vika on nyt korjattu. Pahoittelut hämmingistä!
+absence-notification:   false
 permalink:        /blogi/:title/
 
 plugins:
