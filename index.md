@@ -156,10 +156,18 @@ Vanhempainkurssin palautteita:
 >
 >_"Opin paljon eri nepsy-häiriöistä sekä uutta ja hyödyllistä nepsyasioista."_
 >
->_"Kurssi sisälsi paljon faktaa ko aiheesta."_
+>_"Kurssi sisälsi paljon faktaa, tutkimustietoa ja käytännön vinkkejä."_
 >
 >_"Kurssiin oli koottu hyvät materiaalit ja opettaja antoi riittävästi tilaa keskusteljoille."_
 >
 >_Opettaja oli miellyttävä ja helposti lähestyttävä, asiantunteva ja aiheelle omistautunut sekä kaikki huomioon ottava."_
 >
 >_"Opettaja oli oikein mukava sekä ratkaisukeskeinen, perehtynyt, kokenut ja empaattinen."_
+>
+>_"Tietous nepsykirjosta ja oireista lisääntyi, ja siinä samalla kasvoi ymmärrys oman lapsen käyttäytymisestä."_
+>
+>_"Ymmärsin kuinka voin omalla toiminnalla vanhempana vaikuttaa lapseeni myönteisesti."_
+>
+>_"Tiedon ja vertaistuen lisäksi vaikutuksen teki opettajan valtavan empaattinen asenne, josta sain paljon voimaa. <3 Kiitos tärkeästä kurssista!"_
+>
+>_"Kiitokset hyvästä kurssista! Ehkä osaan olla nyt hiukan parempi vanhempi lapselleni."_
