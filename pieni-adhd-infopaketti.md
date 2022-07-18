@@ -6,8 +6,8 @@ show-in-navigation: false
 published: true
 ---
 
-AD(H)D on aivojen tila, joka vaikuttaa henkilön aktiivisuuteen ja tarkkaavuuteen hankaloittaen keskittymistä, tarkkaavuuden suuntaamista sekä oman toiminnan ohjausta. AD(H)D aiheuttaa joillain myös yliaktiivisuutta ja impulsiivisuutta.
-AD(H)D vaikuttaa laajasti henkilön toimintakykyyn ja toiminnan tavoitteellisuuteen.
+AD(H)D on aivojen tila, joka vaikuttaa henkilön aktiivisuuteen ja tarkkaavuuteen muuttaen keskittymisen tiloja, tarkkaavuuden suuntaamista sekä oman toiminnan ohjausta. AD(H)D aiheuttaa joillain myös yliaktiivisuutta ja impulsiivisuutta.
+AD(H)D vaikuttaa laajasti henkilön toimintakykyyn ja toiminnan tavoitteellisuuteen, sillä nykyelämä vaatii usein asioita, jotka voivat olla AD(H)D-piirteiselle haastavia.
 
 > Olen koonnut tälle sivulle pienen infopaketin, jonka avulla sinun on helpompi selvittää, voisiko sinulla olla viitteitä AD(H)D:sta, ja miten voit tutkia asiaa sekä saada haasteisiisi apua.
 
@@ -115,7 +115,9 @@ ___
 
 ## Miten valmennukseen on varaa?
 
-Neuropsykiatriseen valmennukseen ei voi vielä tällä hetkellä saada KELA:lta varsinaista tukea, mutta voit käyttää Kelasta saamaasi eläkettä, hoitotukea ja kuntoutustukea valmennuksen kustannuksiin.
+Jos olet 16-29-vuotias diagnosoitu neurokirjon nuori, voit saada Kelan ilmaista nepsy-valmennusta.
+
+Muuhun neuropsykiatriseen valmennukseen ei voi vielä tällä hetkellä saada KELA:lta varsinaista tukea, mutta voit käyttää Kelasta saamaasi eläkettä, hoitotukea ja kuntoutustukea valmennuksen kustannuksiin. Joihinkin näistä tuista voi myös hakea korotusta sillä perusteella, että käy itse kustantamana valmennuksessa ja siitä koituu kuluja.
 
 Ellei sinulla tai perheelläsi ole varaa maksaa valmennusta itse, voit pyytää maksusitoumusta kunnaltasi eli sosiaalitoimesta ja lääkäriltä, joissain kunnissa myös te-toimistosta.
 
@@ -123,13 +125,13 @@ ___
 
 ## Näin pääset käytännössä valmennukseen:
 
-Ota yhteyttä johonkin lähelläsi toimivaan neuropsykiatriseen valmentajaan ja keskustele tilanteestasi. Sinun kannattaa valita itsellesi sopivan valmentajan hänen pohjakoulutuksensa mukaan, jotta hänen perusosaamisensa vastaa sinun suurimpaan problematiikkaan.
+Ota yhteyttä johonkin lähelläsi toimivaan neuropsykiatriseen valmentajaan ja keskustele tilanteestasi. Sinun kannattaa valita itsellesi sopivan valmentajan hänen pohjakoulutuksensa mukaan, jotta hänen perusosaamisensa vastaa sinun suurimpaan problematiikkaan. Nepparin valmentajalla on hyvin laaja osaaminen, joten voin auttaa sinua kaikenlaisten haasteiden kanssa.
 
 Voit myös puhua asiasta sosiaalityöntekijäsi, lääkärisi tai muun ammattilaisen kanssa.
 
 [Nepparin](/) valmennukseen pääsevät kaikki pirkanmaalaiset ja miksi ei kauempaakin kulkevat. Diagnoosia ei tarvita, vaan pelkkä tuen tarve riittää.
 
-Voit varata ajan valmennuksen alkukartoitukseen joko [sähköpostitse](/ota-yhteytta), laittamalla [facebookin messengerviestin](https://www.facebook.com/valmennuskeskus.neppari/) tai soittamalla/tekstaamalla minulle numeroon 040-9349954. =)
+Voit varata ajan valmennukseen joko [sähköpostitse](/ota-yhteytta), laittamalla [facebookin messengerviestin](https://www.facebook.com/valmennuskeskus.neppari/) tai tekstaamalla minulle numeroon 040-9349954. =)
 
 ___
 
