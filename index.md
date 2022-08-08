@@ -48,6 +48,23 @@ Ilmoittautua voit syksyn kurssille 1.7. klo 10 alkaen [TÄÄLLÄ](https://opisto
 
 ___
 
+## Suunnitteilla: Vertaistukiryhmätoimintaa nuorille
+
+
+Neppari suunnittelee yhteistyössä Ahjolan kanssa neurokirjon nuorten vertaisryhmätoimintaa. Kartoitamme nyt tarvetta ja kysyntää. 
+
+Kiinnostuksesta ja tarpeesta voi ilmoittaa seuraavan linkin kautta nimettömänä. Halutessaan samalla voi jättää yhteystietonsa tulevan ryhmän kokoamista ja tiedotusta varten: 
+
+Linkki lomakkeeseen
+https://forms.gle/yRNj1cdVNnUr6Hrr8
+
+Jos tiedät nuoria, jotka olisivat tällaisen ryhmän tarpeessa, voitte vastata kyselyyn myös yhdessä. Voit ohjata nuoren vastaamaan myös itse välittämällä linkin tähän kyselyyn.
+
+Kiinnostusta ja palautetta kerätään elokuun ajan. Lomakkeen täyttyminen ei ole sitova ilmoittautuminen; varsinainen ilmoittautuminen hoidetaan myöhemmin.
+
+
+___
+
 ## Infopaketti ADHD:sta, tutkimuksista sekä tukitoimista!
 
 Mietitkö sinä onko sinulla tai tutullasi mahdollisesti ADHD?
