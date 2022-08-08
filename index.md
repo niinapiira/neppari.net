@@ -55,7 +55,7 @@ Neppari suunnittelee yhteistyössä Ahjolan kanssa neurokirjon nuorten vertaisry
 
 Kiinnostuksesta ja tarpeesta voi ilmoittaa seuraavan linkin kautta nimettömänä. Halutessaan samalla voi jättää yhteystietonsa tulevan ryhmän kokoamista ja tiedotusta varten. 
 
-Linkki [lomakkeeseen](https://forms.gle/yRNj1cdVNnUr6Hrr8)
+> Linkki [lomakkeeseen](https://forms.gle/yRNj1cdVNnUr6Hrr8)
 
 Jos tiedät nuoria, jotka olisivat tällaisen ryhmän tarpeessa, voitte vastata kyselyyn myös yhdessä. Voit ohjata nuoren vastaamaan myös itse välittämällä linkin tähän kyselyyn.
 
@@ -88,7 +88,7 @@ Kurssin tiedot:
 
 Hintakaan ei päätä huimaa: Koko kurssi maksaa yhteensä vain 100 euroa per osallistuva perhe.
 
-Kiinnostuksen kurssiin voi ilmoittaa [tämän](https://forms.gle/Z7k6eqLL8h2mktWb8) lomakkeen avulla.
+> Kiinnostuksen kurssiin voi ilmoittaa [tämän](https://forms.gle/Z7k6eqLL8h2mktWb8) lomakkeen avulla.
 
 Kiinnostusta kerätään elokuun ajan. Lomakkeen täyttäminen EI ole sitova ilmoittautuminen; varsinainen ilmoittautuminen hoidetaan myöhemmin.
 
