@@ -82,6 +82,7 @@ Kurssin tiedot:
 
 - Kuusi etätapaamista syksyn aikana
 - Joka toinen viikko, jokin sovittu arki-ilta klo 17.15 – 19.45
+
 --> Aikataulu tarkennetaan osallistujien kanssa
 
 
