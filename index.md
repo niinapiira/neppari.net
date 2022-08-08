@@ -88,8 +88,7 @@ Kurssin tiedot:
 
 Hintakaan ei päätä huimaa: Koko kurssi maksaa yhteensä vain 100 euroa per osallistuva perhe.
 
-Kiinnostuksen kurssiin voi ilmoittaa tämän lomakkeen avulla
-https://forms.gle/Z7k6eqLL8h2mktWb8
+Kiinnostuksen kurssiin voi ilmoittaa [tämän](https://forms.gle/Z7k6eqLL8h2mktWb8) lomakkeen avulla.
 
 Kiinnostusta kerätään elokuun ajan. Lomakkeen täyttäminen EI ole sitova ilmoittautuminen; varsinainen ilmoittautuminen hoidetaan myöhemmin.
 
