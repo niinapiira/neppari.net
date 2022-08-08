@@ -60,8 +60,38 @@ https://forms.gle/yRNj1cdVNnUr6Hrr8
 
 Jos tiedät nuoria, jotka olisivat tällaisen ryhmän tarpeessa, voitte vastata kyselyyn myös yhdessä. Voit ohjata nuoren vastaamaan myös itse välittämällä linkin tähän kyselyyn.
 
-Kiinnostusta ja palautetta kerätään elokuun ajan. Lomakkeen täyttyminen ei ole sitova ilmoittautuminen; varsinainen ilmoittautuminen hoidetaan myöhemmin.
+Kiinnostusta ja palautetta kerätään elokuun ajan. Lomakkeen täyttyminen EI ole sitova ilmoittautuminen; varsinainen ilmoittautuminen hoidetaan myöhemmin.
 
+___
+
+## Suunnitteilla: Etäkurssi nepsylasten ja -nuorten vanhemmille
+
+Suosittu vanhempainkurssi on tulossa taas!
+
+Olen viimeisen vuoden aikana vetänyt kaksi vanhempainkurssia, jotka on suunnattu matalan kynnyksen avuksi pirkanmaalaisille nepsyperheille, joilla on kouluikäisiä nepsylapsia tai -nuoria. Nämä ovat olleet todella kysyttyjä.
+
+Suunnittelen nyt syksyksi **etä**kurssia samasta aiheesta, ja kartoitan kiinnostusta tämän muotoisen kurssin järjestämiseen.
+
+Kurssilla saa…
+
+- Tietoa neuropsykiatrisista peruspulmista (esim. ADHD, ADD, Asperger, autisminkirjo, Tourette, jne.)
+- Keinoja niiden helpottamiseksi
+- Vinkkejä erilaisiin tukimuotoihin
+- Sekä ennen kaikkea vertaistukea!
+
+Kurssin tiedot:
+
+- Kuusi etätapaamista syksyn aikana
+- Joka toinen viikko, jokin sovittu arki-ilta klo 17.15 – 19.45
+--> Aikataulu tarkennetaan osallistujien kanssa
+
+
+Hintakaan ei päätä huimaa: Koko kurssi maksaa yhteensä vain 100 euroa per osallistuva perhe.
+
+Kiinnostuksen kurssiin voi ilmoittaa tämän lomakkeen avulla
+https://forms.gle/Z7k6eqLL8h2mktWb8
+
+Kiinnostusta kerätään elokuun ajan. Lomakkeen täyttäminen EI ole sitova ilmoittautuminen; varsinainen ilmoittautuminen hoidetaan myöhemmin.
 
 ___
 
