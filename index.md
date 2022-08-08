@@ -55,8 +55,7 @@ Neppari suunnittelee yhteistyössä Ahjolan kanssa neurokirjon nuorten vertaisry
 
 Kiinnostuksesta ja tarpeesta voi ilmoittaa seuraavan linkin kautta nimettömänä. Halutessaan samalla voi jättää yhteystietonsa tulevan ryhmän kokoamista ja tiedotusta varten: 
 
-Linkki lomakkeeseen
-https://forms.gle/yRNj1cdVNnUr6Hrr8
+Linkki [lomakkeeseen](https://forms.gle/yRNj1cdVNnUr6Hrr8)
 
 Jos tiedät nuoria, jotka olisivat tällaisen ryhmän tarpeessa, voitte vastata kyselyyn myös yhdessä. Voit ohjata nuoren vastaamaan myös itse välittämällä linkin tähän kyselyyn.
 
