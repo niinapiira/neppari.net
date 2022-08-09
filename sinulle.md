@@ -23,7 +23,7 @@ SILLOIN NEPPARI ON OIKEA PAIKKA SINULLE!
 
 ## Mitä Nepparista saa?
 
-Nepparin valmennuksessa sinulla on käytössäsi vahva ammattitaitoni sekä moninainen osaamiseni koko laajuudessaan; ratkaisu- ja voimavarakeskeinen työskentelytapani, monipuolinen menetelmäosaamiseni, traumatietoisuuteni sekä laaja kokemukseni sekä tuntemukseni sosiaalialasta ja sen palveluista ja tuista.
+Nepparin valmennuksessa sinulla on käytössäsi vahva ammattitaitoni sekä moninainen osaamiseni koko laajuudessaan; ratkaisu- ja voimavarakeskeinen työskentelytapani, monipuolinen menetelmäosaamiseni, traumatietoisuuteni sekä laajan kokemukseni sekä tuntemukseni sosiaalialasta ja sen palveluista ja tuista.
 
 Tarkoituksenani on tarjota sinulle vahvaa tukea arkeesi ja omanlaisen elämänpolun toteuttamiseen.
 
