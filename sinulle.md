@@ -33,6 +33,8 @@ Nepparissa jokainen ihminen on ennen kaikkea yksilö ja ainutlaatuinen persoona,
 
 Nepparissa tulet kohdatuksi nepsy-tuntemukseni ja -ymmärrykseni kautta, jolloin otan huomioon kaikki erityispiirteesi, tarpeesi ja niiden luomat vaatimukset.
 
+Nepparissa saat kokea olevasi turvassa vaikeiden asioidenkin äärellä ja saat ymmärrystä myös siitä, miten vaikeat elämänkokemukset ovat saattaneet vaikuttaa toimintakykyysi, käytökseesi, ajatteluusi ja reaktioihisi.
+
 Autan sinua löytämään tarvitsemasi etuudet, tukipalvelut, apuvälineet ja verkostot sekä sopivat tavat toteuttaa itseäsi niin harrastusten, kiinnostustenkohteiden, opintojen että työuran muodossa.
 
 Tavoitteellisuus on valmennuksen onnistumisen tärkein lähtökohta ja se vaatii sinulta motivaatiota, tahtotilaa sekä valmiutta kehittää itseäsi. Valmennuksen avulla saat tukea koko prosessin ajan niin tavoitteidesi pohtimiseen, suunnittelemiseen kuin niiden saavuttamiseen.
