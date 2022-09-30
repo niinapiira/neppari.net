@@ -48,18 +48,23 @@ Ilmoittautua voit syksyn kurssille 1.7. klo 10 alkaen [TÄÄLLÄ](https://opisto
 
 ___
 
-## Suunnitteilla: Vertaistukiryhmätoimintaa nuorille
+## Vertaistukiryhmä nepsy-nuorille!
 
+Neppari toteuttaa yhteistyössä Ahjolan kanssa neurokirjon nuorten vertaisryhmän. 
 
-Neppari suunnittelee yhteistyössä Ahjolan kanssa neurokirjon nuorten vertaisryhmätoimintaa. Kartoitamme nyt tarvetta ja kysyntää. 
+Maksuttoman harrasteryhmän ensimmäinen kokoontuminen on lauantaina 29.10.2022 klo 13 Ahjolan Voima-tilassa osoitteessa Pispalan Valtatie 45.
 
-Kiinnostuksesta ja tarpeesta voi ilmoittaa seuraavan linkin kautta nimettömänä. Halutessaan samalla voi jättää yhteystietonsa tulevan ryhmän kokoamista ja tiedotusta varten. 
+Ryhmä kokokoontuu kerran kuussa Lokakuusta 2022 - Toukokuuhun 2023 yhteensä 9 krt. Jokaisen tapaamisen kesto on n. 3h/ tapaaminen.
 
-> Linkki [lomakkeeseen](https://forms.gle/yRNj1cdVNnUr6Hrr8)
+Ryhmään otetaan n.10 nuorta
+Ryhmä on maksuton.
 
-Jos tiedät nuoria, jotka olisivat tällaisen ryhmän tarpeessa, voitte vastata kyselyyn myös yhdessä. Voit ohjata nuoren vastaamaan myös itse välittämällä linkin tähän kyselyyn.
+Ryhmätoiminta yhdistää vertaistuen ja toiminnallisuuden. Ryhmän ohjaajaa on mahdollista tavata rauhassa ennen toiminnan alkua.
 
-Kiinnostusta ja palautetta kerätään elokuun ajan. Lomakkeen täyttyminen EI ole sitova ilmoittautuminen; varsinainen ilmoittautuminen hoidetaan myöhemmin.
+Ryhmä suunnittelee ohjaajan avulla yhteistä tekemistä kokoontumiskerroille (esim.
+liikunta - ja harrastuskokeilut, kokkaus, käsityöt, tutustumiskäynnit). 
+
+Kysy lisää ja ilmoittaudu: niina@neppari.net
 
 ___
 
