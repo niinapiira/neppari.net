@@ -26,6 +26,8 @@ Olen opiskellut myös seuraavia aiheita:
 - Aivotutkimusta (neurologiaa) sekä neuropsykologiaa
 - Mielenterveystietoa
 - Hahmottamisen häiriöistä sekä erilaisesta oppimisesta
+- DFG eli dialoginen perheohjaus interventiomalli neurokirjon lasten perheille
+- Strategia vanhempainohjausmalli ADHD-lasten vanhemmille
 
 Kokemukseni on kertynyt erityisesti nuorten ja aikuisten nepsy-henkilöiden kanssa työskentelystä, mutta autan erittäin mielelläni myös lapsiperheitä, pariskuntia ja esimerkiksi työtiimejä.
 
