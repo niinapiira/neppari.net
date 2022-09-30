@@ -29,7 +29,7 @@ Olen opiskellut myös seuraavia aiheita:
 - DFG eli dialoginen perheohjaus interventiomalli neurokirjon lasten perheille
 - Strategia vanhempainohjausmalli ADHD-lasten vanhemmille
 
-Kokemukseni on kertynyt erityisesti nuorten ja aikuisten nepsy-henkilöiden kanssa työskentelystä, mutta autan erittäin mielelläni myös lapsiperheitä, pariskuntia ja esimerkiksi työtiimejä.
+Kokemukseni on kertynyt erityisesti nuorten ja aikuisten nepsy-henkilöiden kanssa työskentelystä, mutta autan erittäin mielelläni nykyään myös lapsiperheitä, pariskuntia ja esimerkiksi työtiimejä.
 
 Minun tapani työskennellä on hyvin joustavaa, ketterää ja asiakkaan erityistarpeita huomioivaa. Hyödynnän ihmistyössäni empaattisuuttani ja intuitiotani päästäkseni mahdollisimman hyvin asiakkaan kokemusmaailmaan sisään.
 
