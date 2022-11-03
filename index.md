@@ -72,9 +72,9 @@ ___
 
 Suosittu vanhempainkurssi on tulossa taas!
 
-Olen viimeisen vuoden aikana vetänyt kaksi vanhempainkurssia, jotka on suunnattu matalan kynnyksen avuksi pirkanmaalaisille nepsyperheille, joilla on kouluikäisiä nepsylapsia tai -nuoria. Nämä ovat olleet todella kysyttyjä.
+Olen viimeisen 1,5-vuoden aikana vetänyt kolme vanhempainkurssia, jotka on suunnattu matalan kynnyksen avuksi pirkanmaalaisille nepsyperheille, joilla on kouluikäisiä nepsylapsia tai -nuoria. Nämä ovat olleet todella kysyttyjä.
 
-Suunnittelen nyt syksyksi **etä**kurssia samasta aiheesta, ja kartoitan kiinnostusta tämän muotoisen kurssin järjestämiseen.
+Suunnittelen nyt **etä**kurssia samasta aiheesta, ja kartoitan kiinnostusta tämän muotoisen kurssin järjestämiseen.
 
 Kurssilla saa…
 
@@ -93,9 +93,9 @@ Kurssin tiedot:
 
 Hintakaan ei päätä huimaa: Koko kurssi maksaa yhteensä vain 100 euroa per osallistuva perhe.
 
-> Kiinnostuksen kurssiin voi ilmoittaa [tämän](https://forms.gle/Z7k6eqLL8h2mktWb8) lomakkeen avulla.
+> Kiinnostuksen kurssiin voi ilmoittaa kiinnostuksensa niina@neppari.net
 
-Kiinnostusta kerätään elokuun ajan. Lomakkeen täyttäminen EI ole sitova ilmoittautuminen; varsinainen ilmoittautuminen hoidetaan myöhemmin.
+Kiinnostuksen ilmoittaminen EI ole sitova ilmoittautuminen; varsinainen ilmoittautuminen hoidetaan myöhemmin.
 
 ___
 
