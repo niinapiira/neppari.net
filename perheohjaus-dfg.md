@@ -18,5 +18,6 @@ DFG perustuu tutkittuun tietoon siitä mitä neurokirjon perheissä tarvitaan:
 
 3) Perheet tarvitsevat tukea ja kuuntelua kokonaisuutena, eli dialogia ammattilaisten ja kaikkien perheenjäsenten välille. Joku joka kuuntelee ensin perheen historiaa, haasteita ja kysymyksiä ja sen jälkeen yhdessä perheen kanssa lähtee miettimään ratkaisuja ja hyväksi havaittuja menetelmiä arkeen.
 
+Dialoginen perheohjaus toimii koko perhettä vahvistavana perheinterventiona ja näin lisää perheiden myönteistä kokemusta saadusta sosiaalisesta tuesta. Dialoginen perheohjaus lisää kaikkien perheenjäsenten mahdollisuutta keskustella huolista kuulluksi tulemisen lisäksi.  Vanhemmat ovat oleet hyvin tyytyväisiä ja ovat kokeneet DFG-intervention voimaannuttavana ja tarpeellisena. 
 
 > Jos haluat kuulla lisää, niin ota yhteyttä [sähköpostilla](/ota-yhteytta) jotta arvioidaan tilanteesi ennen varsinaista valmennusta.
