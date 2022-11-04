@@ -1,7 +1,7 @@
 ---
 page-title: Vanhempien valmennus
 page-type: normal
-navigation-order: 7
+navigation-order: 4
 show-in-navigation: true
 published: true
 ---
