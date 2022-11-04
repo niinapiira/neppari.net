@@ -36,6 +36,7 @@ Valmennus täydentää hyvin muita tukipalveluita kuten asumisen tukea, ammatill
 
 > Jos haluat kuulla lisää, ota yhteyttä [sähköpostilla](/ota-yhteytta), niin arvioidaan tilanteesi ennen varsinaista valmennusta.
 
+
 ## Etävalmennus
 
 Nepparin valmennusta on mahdollista saada myös etänä omalta koneelta tai kännykältä käsin missä ikinä oletkin.
@@ -46,4 +47,30 @@ Kasvotusten tapahtuvassa valmennuksessa voidaan myös hyödyntää etävalmennus
 
 > Etävalmennuksen sisältö, aikataulu ja viestimiskanava sovitaan etukäteen sähköpostilla.
 
+
+## Lyhytvalmennus
+
 Valmennusta voi saada myös lyhytvalmennuksena akuuttiin ja kriisiytyneeseen tilanteeseen!
+
+Lyhytvalmennuksen tavoitteena on löytää omalle elämälle oikea suunta:
+
+
+- Jäsentämällä vaikeaa elämäntilannetta
+
+- Auttamalla määrittelemään ydinongelmat
+
+- Tarjoamalla keinoja ongelmien ratkaisemiseen
+
+- Kartoittamalla yksilölliset tarpeet, sekä tukitoimet joista asiakas voisi hyötyä
+
+- Auttamalla hahmottamaan etuudet ja palvelut joita asiakas voi hakea
+
+
+Lyhytvalmennus sopii sekä neurokirjon henkilöille itselleen että heidän läheisilleen.
+
+Lyhytvalmennus kestää tilanteesta riippuen noin 1-5krt ja tapaamiset voidaan sopia tarpeen mukaan yksi kerrallaan.
+
+Lyhytvalmennuksessa työskentely voi kestää kerrallaan 1-2h.
+
+> Voit kysyä lisää tietoa tai varata ajan lyhytvalmennukseen [sähköpostilla](/ota-yhteytta).
+
