@@ -8,3 +8,13 @@
   from = "/valmennus"
   to = "/nepsy-valmennus"
   status = 301
+
+[[redirects]]
+  from = "/etavalmennus"
+  to = "/nepsy-valmennus"
+  status = 301
+
+[[redirects]]
+  from = "/lyhytvalmennus"
+  to = "/nepsy-valmennus"
+  status = 301
