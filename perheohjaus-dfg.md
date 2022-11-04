@@ -1,7 +1,7 @@
 ---
 page-title: Perheohjaus DFG
 page-type: normal
-navigation-order: 9
+navigation-order: 7
 show-in-navigation: true
 published: true
 ---
