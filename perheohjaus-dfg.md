@@ -4,6 +4,7 @@ page-type: normal
 navigation-order: 7
 show-in-navigation: true
 published: true
+polaroid: lyhytvalmennus
 ---
 
 
