@@ -7,6 +7,7 @@ published: true
 polaroid: lyhytvalmennus
 ---
 Dialoginen perheohjaus auttaa neuropsykiatrisesti oireilevien lasten perheitä.
+
 DFG perheohjaus tuo neuropsykiatrisesti oireilevien lasten perheille tukea vanhemmuuteen ja parisuhteeseen sekä auttaa vanhempia selviytymään arjessa aiempaa paremmin neuropsykiatrisesti oireilevan lapsensa kanssa. 
 
 DFG perustuu tutkittuun tietoon siitä mitä neurokirjon perheissä tarvitaan:
