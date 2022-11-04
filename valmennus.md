@@ -32,8 +32,18 @@ Nepsy-valmennus on hyvin kokonaisvaltainen tukimuoto, joka kattaa koko elämän 
 
 Valmennus täydentää hyvin muita tukipalveluita kuten asumisen tukea, ammatillista kuntoutusta tai vaikkapa terapioita.
 
-> Valmennusta voi saada myös lyhytvalmennuksena akuuttiin ja kriisiytyneeseen tilanteeseen!
-
 > Valmennusprosessista, tapaamisten pituudesta ja paikasta sekä tavoitteista sovitaan asiakaskohtaisesti kirjallisella sopimuksella.
 
 > Jos haluat kuulla lisää, ota yhteyttä [sähköpostilla](/ota-yhteytta), niin arvioidaan tilanteesi ennen varsinaista valmennusta.
+
+## Etävalmennus
+
+Nepparin valmennusta on mahdollista saada myös etänä omalta koneelta tai kännykältä käsin missä ikinä oletkin.
+
+Mahdollisia viestimiskanavia voi olla esimerkiksi puhelin, whatsapp, sähköposti, Skype, Facebookin Messenger, Google Meets tms.
+
+Kasvotusten tapahtuvassa valmennuksessa voidaan myös hyödyntää etävalmennusta osassa tapaamisista.
+
+> Etävalmennuksen sisältö, aikataulu ja viestimiskanava sovitaan etukäteen sähköpostilla.
+
+Valmennusta voi saada myös lyhytvalmennuksena akuuttiin ja kriisiytyneeseen tilanteeseen!
