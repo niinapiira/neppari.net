@@ -120,6 +120,12 @@ prose:
           label: "Linkin teksti, joka näytetään sivupalkissa"
           help: "Mikäli sivun otsikko on liian pitkä mahtuakseen sivupalkkiin, voit kirjoittaa tähän lyhyemmän linkin"
           placeholder: "Tätä ei ole pakko täyttää"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Sivun osoitteen loppuosa"
+          help: "Jos sivun osoitteen pitää olla jotain muuta kuin sen tiedostonimestä muodostettu osoite, kirjoita se tähän"
+          placeholder: "Tätä ei ole pakko täyttää, eikä todennäköisesti kannatakaan"
       - name: "page-type"
         field:
           element: "select"
