@@ -4,6 +4,7 @@ page-type: normal
 navigation-order: 3
 show-in-navigation: true
 published: true
+polaroid: valmennus.jpg
 ---
 
 
