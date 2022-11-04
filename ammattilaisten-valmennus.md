@@ -4,6 +4,7 @@ page-type: normal
 navigation-order: 5
 show-in-navigation: true
 published: true
+polaroid: etavalmennus
 ---
 Ammattilaisten valmennuksessa työntekijä saa valmentavaa ja konsultoivaa tukea omaan työhönsä ja asiakkaiden kanssa toimimiseen, sekä omaan työhyvinvointiinsa ja oman ammatillisuuden kehittämiseen. 
 
