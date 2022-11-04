@@ -45,7 +45,7 @@ Mahdollisia viestimiskanavia voi olla esimerkiksi puhelin, whatsapp, sähköpost
 
 Kasvotusten tapahtuvassa valmennuksessa voidaan myös hyödyntää etävalmennusta osassa tapaamisista.
 
-> Etävalmennuksen sisältö, aikataulu ja viestimiskanava sovitaan etukäteen sähköpostilla.
+> Etävalmennuksen sisältö, aikataulu ja viestimiskanava sovitaan etukäteen [sähköpostilla](/ota-yhteytta).
 
 
 ## Lyhytvalmennus
