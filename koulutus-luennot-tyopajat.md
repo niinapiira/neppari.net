@@ -1,7 +1,7 @@
 ---
 page-title: 'Koulutus, luennot, työpajat'
 page-type: normal
-navigation-order: 6
+navigation-order: 9
 show-in-navigation: true
 published: true
 ---
