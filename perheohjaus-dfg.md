@@ -1,7 +1,7 @@
 ---
 page-title: Perheohjaus DFG
 page-type: normal
-navigation-order: 4
+navigation-order: 9
 show-in-navigation: true
 permalink: /etavalmennus/
 published: true
