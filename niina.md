@@ -1,6 +1,7 @@
 ---
 page-title: Neuropsykiatrinen valmentaja Niina&nbsp;Piira
 page-type: cv
+link-title: Valmentaja Niina Piira
 show-in-navigation: false
 published: true
 navigation-order: 50
