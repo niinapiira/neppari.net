@@ -20,4 +20,9 @@ DFG perustuu tutkittuun tietoon siitä mitä neurokirjon perheissä tarvitaan:
 
 Dialoginen perheohjaus toimii koko perhettä vahvistavana perheinterventiona ja näin lisää perheiden myönteistä kokemusta saadusta sosiaalisesta tuesta. Dialoginen perheohjaus lisää kaikkien perheenjäsenten mahdollisuutta keskustella huolista kuulluksi tulemisen lisäksi.  Vanhemmat ovat oleet hyvin tyytyväisiä ja ovat kokeneet DFG-intervention voimaannuttavana ja tarpeellisena. 
 
+Lisätietoa interventiosta ja sen kehittäjästä:
+https://trepo.tuni.fi/handle/10024/140266
+https://www.tuni.fi/fi/ajankohtaista/diana-cavonius-rintahaka-dialoginen-perheohjaus-auttaa-neuropsykiatrisesti
+https://www.parempaalastensuojelua.fi/fi/uutinen/tieteessa-diana-cavonius-rintahaka
+
 > Jos haluat kuulla lisää, niin ota yhteyttä [sähköpostilla](/ota-yhteytta) jotta arvioidaan tilanteesi ennen varsinaista valmennusta.
