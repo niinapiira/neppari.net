@@ -22,7 +22,7 @@ Osaamistani voi hyödyntää myös koulusten muodossa. Valmentavaa, ratkaisukesk
 
 **Koulutuksissani** avaan positiivisella ja voimauttavalla tavalla niin neuropsykiatrista kuin ratkaisukeskeistä maailmaa, jotta kohderyhmäni mielenkiintoiset yksilöt saisivat yhteiskunnassamme kunnioittavaa kohtelua, hyvää palvelua, sopivaa tukea ja yksilöllisiä ratkaisuja. Neuropsykiatrisen tiedon ja ymmärryksen avulla tarjoan näkökulmaa yksilöiden kokemiin haasteisiin sekä tuon luovaa ratkaisukeskeisyyttä ongelmien ratkomiseen ja arjesta selviytymiseen.
 
-Tämän hetkisiä nepsy-koulutus/työpajapakettejani ovat mm.:
+Tämän hetkisiä nepsy-koulutuspakettejani ovat mm.:
 
 
 * Perustietoa neuropsykiatrisista diagnooseista
@@ -46,4 +46,4 @@ Paketteja voi tilata joko erikseen tai kokoamalla niistä sopivan kokonaisuuden.
 
 > Nepparin tilat eivät sovi suuriin ryhmätapaamisiin, joten niihiin varataan erikseen sopiva tila. 
 
-> Jos tarvitset tämän tyyppistä nepsy-koulutusta, luentoa tai työpajaa, kysy ihmeessä minulta lisätietoja ja hinta-arviota [sähköpostilla](/ota-yhteytta).
+> Jos tarvitset tämän tyyppistä nepsy-koulutusta, kysy ihmeessä minulta lisätietoja ja hinta-arviota [sähköpostilla](/ota-yhteytta).
