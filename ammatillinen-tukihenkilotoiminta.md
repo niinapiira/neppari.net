@@ -5,6 +5,7 @@ navigation-order: 10
 show-in-navigation: true
 published: false
 link-title: Tukihenkilötoiminta
+polaroid: niina-ja-riksu-ikkunalaudalla
 ---
 
 
