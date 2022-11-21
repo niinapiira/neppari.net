@@ -30,6 +30,7 @@ Olen opiskellut myös seuraavia aiheita:
 - Hahmottamisen häiriöt sekä erilainen oppiminen
 - DFG eli dialoginen perheohjaus -interventiomalli neurokirjon lasten perheille
 - Strategia vanhempainohjausmalli ADHD-lasten vanhemmille
+- Hevari ryhmänohjausmalli henkilökeskeiseen voimavaravalmennukseen
 
 Kokemukseni on kertynyt erityisesti nuorten ja aikuisten nepsy-henkilöiden kanssa työskentelystä, mutta autan erittäin mielelläni nykyään myös lapsiperheitä, pariskuntia ja esimerkiksi työtiimejä.
 
