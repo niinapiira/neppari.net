@@ -18,9 +18,9 @@ polaroid: konsultointi-ja-koulutus
 
 
 
-Osaamistani voi hyödyntää myös koulusten, luentojen ja työpajojen muodossa. Valmentavaa, ratkaisukeskeistä ja neuropsykiatrista tietotaitoani voi hyödyntää omassa työssä, työyhteisössä, erilaisissa tapahtumissa sekä osana koulutuskokonaisuuksia.
+Osaamistani voi hyödyntää myös koulusten muodossa. Valmentavaa, ratkaisukeskeistä ja neuropsykiatrista tietotaitoani voi hyödyntää omassa työssä, työyhteisössä, erilaisissa tapahtumissa sekä osana koulutuskokonaisuuksia.
 
-**Koulutuksissani, luennoillani ja työpajoissani** avaan positiivisella ja voimauttavalla tavalla niin neuropsykiatrista kuin ratkaisukeskeistä maailmaa, jotta kohderyhmäni mielenkiintoiset yksilöt saisivat yhteiskunnassamme kunnioittavaa kohtelua, hyvää palvelua, sopivaa tukea ja yksilöllisiä ratkaisuja. Neuropsykiatrisen tiedon ja ymmärryksen avulla tarjoan näkökulmaa yksilöiden kokemiin haasteisiin sekä tuon luovaa ratkaisukeskeisyyttä ongelmien ratkomiseen ja arjesta selviytymiseen.
+**Koulutuksissani** avaan positiivisella ja voimauttavalla tavalla niin neuropsykiatrista kuin ratkaisukeskeistä maailmaa, jotta kohderyhmäni mielenkiintoiset yksilöt saisivat yhteiskunnassamme kunnioittavaa kohtelua, hyvää palvelua, sopivaa tukea ja yksilöllisiä ratkaisuja. Neuropsykiatrisen tiedon ja ymmärryksen avulla tarjoan näkökulmaa yksilöiden kokemiin haasteisiin sekä tuon luovaa ratkaisukeskeisyyttä ongelmien ratkomiseen ja arjesta selviytymiseen.
 
 Tämän hetkisiä nepsy-koulutus/työpajapakettejani ovat mm.:
 
