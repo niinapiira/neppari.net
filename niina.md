@@ -17,6 +17,7 @@ Olen koulutuksiltani ratkaisukeskeinen neuropsykiatrinen valmentaja, sosionomi A
 Olen työskennellyt nepsy-henkilöiden kanssa 15-vuotta mm. koulunuorisotyössä, nuorisotyössä, koulun iltapäivätoiminnassa, leirityössä, Keskuspuiston ammatiopistossa, lastensuojeluyksiköissä, ennaltaehkäisevän lastensuojelun tukihenkilötoiminnassa, Setlementti Tampereen Omavoima-työmuodossa sekä valmennusyrityksessäni yksilö- ja ryhmävalmentajana, vanhempainkurssien ohjaajana, kouluttajana sekä konsulttina.
 
 Olen opiskellut myös seuraavia aiheita:
+- Ratkaisukeskeinen lyhytterapia (opinnot kesken)
 - Tunnetaitoja ja sosiaalisen toimintakyvyn kuntoutusta (mm. Art, Friends, Sotoku)
 - NLP:tä
 - Positiivista psykologiaa
