@@ -38,9 +38,9 @@ ___
 
 ##  Syksyllä 2022 Ahjolassa jälleen Nepparin nepsy-kurssi vanhemmille, joilla on neurokirjon lapsia tai nuoria!  
 
-Tervetuloa matalan kynnyksen nepsy-kurssille, jossa saat tietoa neuropsykiatrisista peruspulmista, keinoja niiden helpottamiseksi sekä vertaistukea ja vinkkejä erilaisiin tukimuotoihin. 
+Suuren suosion saanut matalan kynnyksen nepsy-kurssi, jossa saat tietoa neuropsykiatrisista peruspulmista, keinoja niiden helpottamiseksi sekä vertaistukea ja vinkkejä erilaisiin tukimuotoihin. 
 
-Kurssilla nepsy-valmentaja käy läpi yleisimpiä pulmia neurokirjolla sekä tarjoaa näkemyksiä ja keinoja haasteiden helpottamiseen. Ryhmän kesken jaetaan myös vertaistukea sekä omia kokemuksia ja viimeinen kurssikerta varataan kurssilaisten toiveiden pohjalta sovituille teemoille. Ryhmä on suunnattu perheille, joissa on kouluikäisiä nepsy-lapsia ja -nuoria.
+Kurssilla nepsy-valmentaja käy läpi yleisimpiä pulmia neurokirjolla sekä tarjoaa näkemyksiä ja keinoja haasteiden helpottamiseen. Ryhmän kesken jaetaan myös vertaistukea sekä omia kokemuksia ja viimeinen kurssikerta varataan kurssilaisten toiveiden pohjalta sovituille teemoille. Ryhmä on suunnattu vanhemmille, joilla on kouluikäisiä nepsy-lapsia ja -nuoria.
 
 Kevään ryhmä kokoontuu syksyn ajan joka 2. maanantai parillisilla viikoilla 3.10.-12.12. Kurssin pituus on 6 tapaamiskertaa aina klo 17:30-20:00. Paikkana toimii Ahjolan Nurkkis-luokka Pispalassa osoitteessa Erämiehenkatu 10. Osoitteessa Päivölänkatu 1 löytyy ilmaisia parkkipaikkoja yleensä jonkin verran.
 
