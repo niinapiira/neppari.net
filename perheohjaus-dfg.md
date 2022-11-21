@@ -25,4 +25,4 @@ Lisätietoa interventiosta ja sen kehittäjästä:
 - [Samaisen väitöstilaisuuden kuvaus](https://www.tuni.fi/fi/ajankohtaista/diana-cavonius-rintahaka-dialoginen-perheohjaus-auttaa-neuropsykiatrisesti), joka sisältää paljon tiivistetysti tietoa perheohjauksesta
 - [Dianan haastattelu aiheesta](https://www.parempaalastensuojelua.fi/fi/uutinen/tieteessa-diana-cavonius-rintahaka) Parempaa lastensuojelua -mediassa
 
-> Jos haluat kuulla lisää, niin ota yhteyttä [sähköpostilla](/ota-yhteytta) jotta arvioidaan tilanteesi ennen varsinaista valmennusta.
+> Jos haluat kuulla lisää tai varata aikaa, niin ota yhteyttä [sähköpostilla](/ota-yhteytta).
