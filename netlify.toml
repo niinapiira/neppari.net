@@ -18,3 +18,8 @@
   from = "/lyhytvalmennus"
   to = "/nepsy-valmennus"
   status = 301
+
+[[redirects]]
+  from = "/koulutus-luennot-tyopajat"
+  to = "/koulutukset"
+  status = 301

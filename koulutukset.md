@@ -1,5 +1,5 @@
 ---
-page-title: 'Koulutus, luennot, työpajat'
+page-title: 'Koulutukset'
 page-type: normal
 navigation-order: 9
 show-in-navigation: true
