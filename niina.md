@@ -18,17 +18,17 @@ Olen työskennellyt nepsy-henkilöiden kanssa 15-vuotta mm. koulunuorisotyössä
 
 Olen opiskellut myös seuraavia aiheita:
 - Ratkaisukeskeinen lyhytterapia (opinnot kesken)
-- Tunnetaitoja ja sosiaalisen toimintakyvyn kuntoutusta (mm. Art, Friends, Sotoku)
-- NLP:tä
-- Positiivista psykologiaa
-- Avekkia, haastavaa käytöstä sekä puhejudoa
-- Toimivaa ja voimauttavaa vuorovaikutusta
-- Mindfulnessia ja meditaatiota
-- Psykologiaa ja eri psykoterapiasuuntauksia sekä menetelmiä
-- Aivotutkimusta (neurologiaa) sekä neuropsykologiaa
-- Mielenterveystietoa
-- Hahmottamisen häiriöistä sekä erilaisesta oppimisesta
-- DFG eli dialoginen perheohjaus interventiomalli neurokirjon lasten perheille
+- Tunnetaidot ja sosiaalisen toimintakyvyn kuntoutusta (mm. Art, Friends, Sotoku)
+- NLP
+- Positiivinen psykologia
+- Avekki, haastava käytöstä sekä puhejudo
+- Toimiva ja voimauttava vuorovaikutusta
+- Mindfulness ja meditaatio sekä jooga
+- Psykologia ja eri psykoterapiasuuntaukset sekä menetelmiä niistä
+- Aivotutkimus (neurologiaa) sekä neuropsykologia
+- Mielenterveystieto
+- Hahmottamisen häiriöt sekä erilainen oppiminen
+- DFG eli dialoginen perheohjaus -interventiomalli neurokirjon lasten perheille
 - Strategia vanhempainohjausmalli ADHD-lasten vanhemmille
 
 Kokemukseni on kertynyt erityisesti nuorten ja aikuisten nepsy-henkilöiden kanssa työskentelystä, mutta autan erittäin mielelläni nykyään myös lapsiperheitä, pariskuntia ja esimerkiksi työtiimejä.
