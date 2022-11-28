@@ -6,16 +6,14 @@ show-in-navigation: true
 published: true
 polaroid: etavalmennus
 ---
-Ammattilaisten valmennuksessa työntekijä saa valmentavaa ja konsultoivaa tukea omaan työhönsä ja asiakkaiden kanssa toimimiseen, sekä omaan työhyvinvointiinsa ja oman ammatillisuuden kehittämiseen. 
+Konsultoinnissa työntekijä saa valmentavaa ja osaavaa tukea omaan työhönsä ja asiakkaiden kanssa toimimiseen, sekä omaan työhyvinvointiinsa ja oman ammatillisuuden kehittämiseen. 
 
-Ammattilaisille tarkoitettua valmennusta voi hyödyntää lyhyenä konsultointina asiakaskeisseihin, sekä pidemmästi itseä henkilökohtaisesti ja ammatillisesti kehittävänä prosessina. Valmentaja toimii luottamuksellisena keskustelukumppanina, ratkaisukeskeisten kysymysten esittäjänä, reflektoijana sekä rinnalla kulkijana valmennettavan kehittymisprosessin ajan.
+Konsultointia voi hyödyntää lyhyenä tukena asiakaskeisseihin, sekä pidemmästi ammatillisesti kehittävänä prosessina. Valmentaja toimii ratkaisukeskeisenä nepsy-asiantuntijana, luottamuksellisena keskustelukumppanina, ratkaisukeskeisten kysymysten esittäjänä, reflektoijana.
 
-**Konsultoinnin** kautta haluan edistää neuropsykiatristen henkilöiden hyvinvointia auttamalla heidän ympärillä toimivia ihmisiä kohtaamaan ja tukemaan heitä yksilöllisesti neuropsykiatrisen ymmärryksen ja ratkaisukeskeisyyden kautta.
+**Konsultoinnin** kautta haluan edistää neuropsykiatristen henkilöiden hyvinvointia auttamalla heidän ympärillä toimivia ihmisiä kohtaamaan ja tukemaan heitä yksilöllisesti neuropsykiatrisen ymmärryksen ja ratkaisukeskeisyyden kautta. Konsuntoinnin avulla ammattilainen voi vahvistaa omaa potentiaaliaan ja vahvuuksiaan sekä saada ratkaisukeskeistä näkökulmaa ja keinoja haastavaan työhönsä. Konsultoinnissa myös selkeytetään ja jäsennetään ammattilaisen työtä sekä siihen liittyviä asioita, esimerkiksi työhyvinvoinnin näkökulmasta.
 
-**Valmennuksessa** ammattilainen voi vahvistaa omaa potentiaaliaan ja vahvuuksiaan sekä saada ratkaisukeskeistä näkökulmaa ja keinoja haastavaan työhönsä. Valmennuksessa myös selkeytetään ja jäsennetään ammattilaisen työtä sekä siihen liittyviä asioita, esimerkiksi työhyvinvoinnin näkökulmasta.
+"Valmentajana tarjoan aina uusia näkökulmia, omaa asiantuntijuuttani sekä kannustusta ammattilaisen tueksi. Jaan osaamistani myös kokemusten muodossa ja annan henkilökohtaisen kokemuksen valmentavasta ja voimavarakeskeisestä työotteesta."
 
-Valmentajana tarjoan aina uusia näkökulmia, omaa asiantuntijuuttani sekä kannustusta ammattilaisen tueksi. Jaan osaamistani myös kokemusten muodossa ja annan sinulle henkilökohtaisen kokemuksen valmentavasta ja voimavarakeskeisestä työotteesta.
+Konsultointia on mahdollista saada myös etänä.
 
-Valmennusta on mahdollista saada myös [etänä](/etavalmennus).
-
-> Jos haluat kuulla lisää tai varata ajan valmennukseen, ota yhteyttä [sähköpostilla](/ota-yhteytta).
+> Jos haluat kuulla lisää tai varata ajan, ota yhteyttä [sähköpostilla](/ota-yhteytta).
