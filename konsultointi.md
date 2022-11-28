@@ -1,5 +1,5 @@
 ---
-page-title: Ammattilaisten valmennus
+page-title: Konsultointi
 page-type: normal
 navigation-order: 5
 show-in-navigation: true
