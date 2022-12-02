@@ -126,6 +126,10 @@ Palautteita yksilötyöskentelystä:
 >
 >_"Ihan huippua, että olet perustanut Nepparin ja että teet tätä työtä! Sulla on todella inhimillinen ja kannustava ote työhön ja oli ihana nähdä, miten tykkäät työstäsi ja olet siitä innoissasi. Se tarttuu!"_
 >
+> _"Niina toimii aktiivisesti nepsy-asioissa ja hakee luovasti uusia väyliä tavoittaa & palvella  asiakkaita parhaalla mahdollisella tavalla."_
+>
+> _"Läheinen on hyötynyt paljon saamastaan ohjauksesta arjen asioissa ja itsensä arvostamisessa."_
+>
 > _"Lapsen itsetunto on parantunut, hän luottaa enemmän itseensä ja koulunkäynti sujuu."_
 >
 > _"Valmennus on tuonut asiakkaalle keinoja arjenhallinnan ja koulunkäynnin tueksi, lisännyt ymmärrystä ja itsemyötätuntoa."_
@@ -175,7 +179,6 @@ Palautteita ryhmätyöskentelystä:
 > _"(Nuori on) saanut itseluottamusta lähteä yksin kotoa sekä halun löytää ystäviä."_
 >
 > _"Nuori reflektoi joka kerta tapaamisia ja niissä tekemiään havaintoja niin itsestä kuin muista ryhmäläisistä. Tapaamiset tuottivat selvästi iloa."_
-
 >
 > _"Nuori on kasvanut identiteetiltään vahvemmaksi ja hyväksyvämmäksi itseä kohtaan."_
 >
@@ -186,6 +189,9 @@ Palautteita ryhmätyöskentelystä:
 > _"Kaunis kiitos - ohjaaja osaa ottaa tilanteet hienosti hetki hetkeltä ja etsiä myötätunnolla ratkaisuja arjen haasteisiin. Kerrankin oikea ihminen oikeassa paikassa/ammatissa."_
 >
 > _"Turvallinen ja hyväksyvä ryhmä ja ohjaaja tukenut selvästi nuoren selviämistä ja antanut onnistumisen tunteen."_
+>
+> _"Myötätuntoisen suhtautumisen opettelu autismin kirjon piirteisiin on helpottanut niin nuoren kuin vanhemman tuntemaa syyllisyyttä hankalissa arkitilanteissa."_
+>
 
 Koulutuspalautteita:
 
