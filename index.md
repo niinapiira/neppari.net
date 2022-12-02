@@ -123,7 +123,6 @@ Paljon on kehittämistä edelleen, mutta onnistumisia on saavutettu paljon vuosi
 
 Palautteita yksilötyöskentelystä:
 
-> _"Niina toimii aktiivisesti nepsy-asioissa ja hakee luovasti uusia väyliä tavoittaa & palvella  asiakkaita parhaalla mahdollisella tavalla."_
 >
 >_"Ihan huippua, että olet perustanut Nepparin ja että teet tätä työtä! Sulla on todella inhimillinen ja kannustava ote työhön ja oli ihana nähdä, miten tykkäät työstäsi ja olet siitä innoissasi. Se tarttuu!"_
 >
