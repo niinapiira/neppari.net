@@ -135,8 +135,6 @@ Palautteita yksilötyöskentelystä:
 >
 > _"Asioiden hahmottaminen arjessa on parantunut."_
 >
-> _"Läheinen on hyötynyt paljon saamastaan ohjauksesta arjen asioissa ja itsensä arvostamisessa."_
->
 >_"Olen saanut läjäpäin inspiraatiota, työkaluja ja toivoa tulevaan. Uskon yhä enemmän, että minulla todella on kaikki mitä tarvitsen hyvään ja tasapainoiseen elämään ja ettei minun tarvitse enää jäädä niihin entisiin toimintamalleihin, jotka on minua vuosikausia pidätelleet. Näen paljon selkeämmin eron vanhan ja uuden ajattelun välillä omassa päässäni ja uskon sen olevan avain siihen elämään, jota haluan elää."_
 >
 > _"Lapseni on pitänyt keskusteluista valmentajan kanssa. Asioista keskusteleminen on ollut hyvää terapiaa. On hyvä, kun on  ollut keskustelukumppanina henkilö, joka ymmärtää neuropsykiatrisista ongelmista."_
@@ -161,7 +159,7 @@ Palautteita yksilötyöskentelystä:
 >
 > _"Olen ymmärtänyt asioita mitä en ennen tätä ole ymmärtänyt."_
 >
-> _"Sain turhaa tressiä vähennettyä."_
+> _"Sain turhaa stressiä vähennettyä."_
 >
 >_"Tapaamisista jää raikas ja toiveikas fiilis ja valmentajalla on paljon ideoita ja lähteitä jaettavana. Ymmärtää ja antaa eri näkökulman kuin sen mihin itse on jumiutunut. Viittaa tutkimuksiin ja asiantuntijoihin, mikä saa luottamaan valmentajan asiantuntemukseen ja laajentaa omaa ymmärrystä itsestä ja aivojen toiminnasta."_
 >
