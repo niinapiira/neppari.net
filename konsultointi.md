@@ -20,3 +20,5 @@ Konsultointia on mahdollista saada myös etänä.
 
 >
 > _"Läheinen on hyötynyt paljon saamastaan ohjauksesta arjen asioissa ja itsensä arvostamisessa."_
+>
+> _"Myötätuntoisen suhtautumisen opettelu autismin kirjon piirteisiin on helpottanut niin nuoren kuin vanhemman tuntemaa syyllisyyttä hankalissa arkitilanteissa."_
