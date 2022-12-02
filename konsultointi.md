@@ -19,6 +19,8 @@ Konsultointia on mahdollista saada myös etänä.
 > Jos haluat kuulla lisää tai varata ajan, ota yhteyttä [sähköpostilla](/ota-yhteytta).
 
 >
+> _"Niina toimii aktiivisesti nepsy-asioissa ja hakee luovasti uusia väyliä tavoittaa & palvella  asiakkaita parhaalla mahdollisella tavalla."_
+>
 > _"Läheinen on hyötynyt paljon saamastaan ohjauksesta arjen asioissa ja itsensä arvostamisessa."_
 >
 > _"Myötätuntoisen suhtautumisen opettelu autismin kirjon piirteisiin on helpottanut niin nuoren kuin vanhemman tuntemaa syyllisyyttä hankalissa arkitilanteissa."_
