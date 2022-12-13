@@ -74,3 +74,17 @@ Lyhytvalmennus kestää tilanteesta riippuen noin 1-5krt ja tapaamiset voidaan s
 Lyhytvalmennuksessa työskentely voi kestää kerrallaan 1-2h.
 
 > Voit kysyä lisää tietoa tai varata ajan lyhytvalmennukseen [sähköpostilla](/ota-yhteytta).
+
+## Ammatillinen tukihenkilötoiminta
+
+Ammatillinen tukihenkilötoiminta tarjoaa rakentavan ja turvallisen tukisuhteen arkeen, harrastuksiin, työelämään tai esimerkiksi harjoittelutilanteisiin. Valmentaja hyödyntää tukisuhteessa ratkaisu- ja voimavarakeskeistä osaamistaan sekä valmentavia menetelmiä, jolloin tukihenkilötoiminta on hyvin kuntoutuksellista sekä terapeuttista.
+
+Tukihenkilötoiminnassa valmentaja toimii tukena ollen läsnä, toimimalla mallintamisesimerkkinä ja tarjoten henkistä tukea sekä rakentavaa ihmissuhdetta.
+
+Ammatillisen tukihenkilötoiminnan kautta tarjoutuu mahdollisuus saada uusia kokemuksia ja onnistumisen iloa erilaisten toimintojen kautta.
+
+Ammatillisessa tukihenkilötoiminnassa voidaan toimia tuettavan kotona, harrastuksissa, työssä tai vapaa-ajanviettopaikoissa. Yhdessä voidaan esimerkiksi kokkailla, harrastaa, keskustella tai vaikka hoitaa asioita. 
+
+Tukihenkilötoiminnassa voidaan myös harjoitella uusia taitoja.
+
+Ammatillinen tukihenkilötoiminta voi olla hyvin pitkäaikainenkin tukimuoto, jolloin hyvä työskentelysuhde mahdollistaa tuen mm. mielenterveyden haasteisiin.
