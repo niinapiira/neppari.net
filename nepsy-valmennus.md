@@ -77,7 +77,7 @@ Lyhytvalmennuksessa työskentely voi kestää kerrallaan 1-2h.
 
 ## Ammatillinen tukihenkilötoiminta
 
-Ammatillinen tukihenkilötoiminta tarjoaa rakentavan ja turvallisen tukisuhteen arkeen, harrastuksiin, työelämään tai esimerkiksi harjoittelutilanteisiin. Valmentaja hyödyntää tukisuhteessa ratkaisu- ja voimavarakeskeistä osaamistaan sekä valmentavia menetelmiä, jolloin tukihenkilötoiminta on hyvin kuntoutuksellista sekä terapeuttista.
+Ammatillinen tukihenkilötoiminta tarjoaa rakentavan ja turvallisen tukisuhteen kaikkien sitä tarvitsevien arkeen, harrastuksiin, työelämään tai esimerkiksi harjoittelutilanteisiin. Valmentaja hyödyntää tukisuhteessa ratkaisu- ja voimavarakeskeistä osaamistaan sekä valmentavia menetelmiä, jolloin tukihenkilötoiminta on hyvin kuntoutuksellista sekä terapeuttista.
 
 Tukihenkilötoiminnassa valmentaja toimii tukena ollen läsnä, toimimalla mallintamisesimerkkinä ja tarjoten henkistä tukea sekä rakentavaa ihmissuhdetta.
 
