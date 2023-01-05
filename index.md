@@ -44,7 +44,7 @@ Kurssilla nepsy-valmentaja käy läpi yleisimpiä pulmia neurokirjolla sekä tar
 
 Kevään ryhmä kokoontuu joka 2. maanantai parillisilla viikoilla niin, että puolivälissä on pidempi tauko. Kokoontumiset ovat siis ma 23.1., 6.2., 20.2., TAUKO ja 20.3., 3.4. ja 17.4.2023. Eli ei opetusta ma 6.3. Kurssin pituus on 6 tapaamiskertaa aina klo 17:30-20:00. Paikkana toimii Ahjolan Nurkkis-luokka Pispalassa osoitteessa Erämiehenkatu 10. Osoitteessa Päivölänkatu 1 sekä Haulikadulta löytyy ilmaisia parkkipaikkoja yleensä.
 
-Ilmoittautua voit syksyn kurssille 1.7. klo 10 alkaen [TÄÄLLÄ](https://opistopalvelut.fi/ahjola/course.php?l=fi&t=26506) tai puhelimitse Ahjolaan arkisin klo 10-15 p.044 553 8400.
+Ilmoittautua voit kevään kurssille [TÄÄLLÄ](https://opistopalvelut.fi/ahjola/course.php?l=fi&t=27225) tai puhelimitse Ahjolaan arkisin klo 10-15 p.044 553 8400.
 
 ___
 
