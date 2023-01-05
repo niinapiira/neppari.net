@@ -20,7 +20,7 @@ Vanhempien valmennus sopii erittäin hyvin myös perheeseen, jossa itse nepsy-la
 
 Valmennuksen avulla perheelle voidaan etsiä keinoja arjen hallintaan ja jaksamiseen sekä erilaisia tukitoimia erityiseen tilanteeseen. Valmentaja jakaa yksilöllisesti tietoa ja oppaita, kartoittaa tuen tarpeita ja auttaa hakemaan sopivia etuuksia ja palveluita.
 
-Valmennusta on mahdollista saada myös [etänä](/etavalmennus).
+Valmennusta on mahdollista saada myös etänä.
 
 > Jos haluat kuulla lisää, tai varata ajan vanhempien valmennukseen, niin ota yhteyttä [sähköpostilla](/ota-yhteytta).
 
