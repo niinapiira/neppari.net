@@ -12,13 +12,13 @@ Nepparin valmentaja tukee myös vanhempia ja kokonaisia perheitä neurokirjon la
 
 ## Vanhempien valmennus
 
-Neppari tarjoaa valmennusta myös vanhemmille, jos itsellä tai lapsella on todettu neuropsykatrisia oireita.
+Neppari tarjoaa valmennusta vanhemmille, joilla itsellä tai joiden lapsella on todettu neuropsykiatrisia oireita.
 
 Vanhempien valmennuksessa voidaan käydä läpi diagnoosin saannin ensitietoa, käsitellä mahdollisesti syntynyttä kriisiä ja miettiä yhdessä keinoja vastata omiin tai lapsen erityistarpeisiin.
 
-Vanhempien valmennus sopii erittäin hyvin myös perheeseen, jossa itse nepsy-lapsi, nuori tai aikuinen ei ole motivoitunut valmennukseen. Vanhemmat voivat viedä valmennuksen avulla toimivia tukikeinoja itse suoraan kotiin ja lapsensa elämään.
+Vanhempien valmennus sopii erittäin hyvin myös perheeseen, jossa itse nepsy-lapsi, nuori tai nuori aikuinen ei ole itse motivoitunut valmennukseen. Vanhemmat voivat viedä valmennuksen avulla toimivia tukikeinoja itse suoraan kotiin ja lapsensa elämään.
 
-Valmennuksen avulla perheelle voidaan etsiä keinoja arjen hallintaan ja jaksamiseen sekä erilaisia tukitoimia erityiseen tilanteeseen.
+Valmennuksen avulla perheelle voidaan etsiä keinoja arjen hallintaan ja jaksamiseen sekä erilaisia tukitoimia erityiseen tilanteeseen. Valmentaja jakaa yksilöllisesti tietoa ja oppaita, kartoittaa tuen tarpeita ja auttaa hakemaan sopivia etuuksia ja palveluita.
 
 Valmennusta on mahdollista saada myös [etänä](/etavalmennus).
 
