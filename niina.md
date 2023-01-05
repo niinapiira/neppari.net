@@ -5,13 +5,13 @@ link-title: Valmentaja Niina Piira
 show-in-navigation: true
 published: true
 navigation-order: 2
-polaroid: "niina-katsoo-riksua"
+polaroid: niina-katsoo-riksua
 ---
 
 
 ## Valmentaja
 
-Minä olen Niina Piira, ratkaisukeskeinen neuropsykiatrinen valmentaja ja laillistettu sosiaalialan ammattilainen. Olen myös yhden lapsen äiti sekä mieheni puoliso.
+Minä olen Niina Piira, ratkaisukeskeinen neuropsykiatrinen valmentaja, laillistettu sosiaalialan ammattilainen ja ratkaisukeskeisen terapian opiskelija. Olen myös yhden lapsen äiti sekä mieheni puoliso.
 
 Olen koulutuksiltani ratkaisukeskeinen neuropsykiatrinen valmentaja, sosionomi AMK, yrittäjä sekä nuorison- ja vapaa-ajanohjaaja. Työkokemusta minulla on laajasti 20-vuotiselta sosiaalialan uralta. 
 
