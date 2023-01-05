@@ -28,3 +28,12 @@
   from = "/ammattilaisten-valmennus"
   to = "/konsultointi"
   status = 301
+
+[[redirects]]
+  from = "/vanhempien-valmennus"
+  to = "/tukea-perheille"
+  status = 301
+[[redirects]]
+  from = "/perheohjaus-dfg"
+  to = "/tukea-perheille"
+  status = 301
