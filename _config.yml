@@ -85,6 +85,10 @@ github:
 
 sass:
   sass_dir:       css
+  load_paths:
+    - css
+    - node_modules
+    - /usr/src/js/node_modules
 
 prose:
   ignore:
