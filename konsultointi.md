@@ -1,7 +1,7 @@
 ---
 page-title: Konsultointi
 page-type: normal
-navigation-order: 5
+navigation-order: 8
 show-in-navigation: true
 published: true
 polaroid: etavalmennus
