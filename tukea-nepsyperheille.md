@@ -30,7 +30,7 @@ Valmennusta on mahdollista saada myös [etänä](/etavalmennus).
 
 ## Perheohjaus DFG
 
-Dialoginen perheohjaus auttaa neuropsykiatrisesti oireilevien lasten perheitä.
+Dialoginen perheohjaus auttaa neuropsykiatrisesti oireilevien lasten perheitä kokonaisvaltaisesti.
 
 DFG perheohjaus tuo neuropsykiatrisesti oireilevien lasten perheille tukea vanhemmuuteen ja parisuhteeseen sekä auttaa vanhempia selviytymään arjessa aiempaa paremmin neuropsykiatrisesti oireilevan lapsensa kanssa.
 
