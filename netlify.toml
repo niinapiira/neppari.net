@@ -31,9 +31,9 @@
 
 [[redirects]]
   from = "/vanhempien-valmennus"
-  to = "/tukea-perheille"
+  to = "/tukea-nepsyperheille"
   status = 301
 [[redirects]]
   from = "/perheohjaus-dfg"
-  to = "/tukea-perheille"
+  to = "/tukea-nepsyperheille"
   status = 301
