@@ -56,7 +56,7 @@ Maksuttoman harrasteryhmän ensimmäinen kokoontuminen on lauantaina 29.10.2022 
 
 Ryhmä kokokoontuu kerran kuussa Lokakuusta 2022 - Kesäkuuhun 2023 yhteensä 9 krt. Jokaisen tapaamisen kesto on n. 3h/ tapaaminen.
 
-Ryhmään otetaan n.10 nuorta
+Ryhmään otetaan n.10 nuorta.
 Ryhmä on maksuton.
 
 Ryhmätoiminta yhdistää vertaistuen ja toiminnallisuuden. Ryhmän ohjaajaa on mahdollista tavata rauhassa ennen toiminnan alkua.
