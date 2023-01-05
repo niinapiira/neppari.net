@@ -5,6 +5,7 @@ link-title: Valmentaja Niina Piira
 show-in-navigation: true
 published: true
 navigation-order: 2
+polaroid: "niina-katsoo-riksua"
 ---
 
 

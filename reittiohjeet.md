@@ -4,7 +4,7 @@
 "show-in-navigation": false
 published: true
 "link-title": ""
-polaroid: "index"
+polaroid: "niina-katsoo-riksua"
 ---
 
 Nepparin toimisto sijaitsee Tampereen alueella. Tällä hetkellä olen päättänyt, etten julkaise tarkkaa postiosoitetta verkkosivuillani.

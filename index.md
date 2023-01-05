@@ -5,6 +5,7 @@ link-title: Etusivu
 navigation-order: 1
 show-in-navigation: true
 published: true
+polaroid: "niina-edesta"
 ---
 
 
