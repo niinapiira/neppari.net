@@ -5,7 +5,7 @@ link-title: Etusivu
 navigation-order: 1
 show-in-navigation: true
 published: true
-polaroid: "niina-edesta"
+polaroid: niina-edesta
 ---
 
 
@@ -37,15 +37,14 @@ Laita [sähköpostia](/ota-yhteytta), niin kerron lisää! =)
 
 ___
 
-##  Keväällä 2023 Ahjolassa jälleen Nepparin nepsy-kurssi vanhemmille, joilla on kouluikäisiä neurokirjon lapsia tai nuoria!  
+##  Kevään 2023 Nepparin nepsy-kurssi vanhemmille, joilla on kouluikäisiä neurokirjon lapsia tai nuoria!  
 
-Suuren suosion saanut matalan kynnyksen nepsy-kurssi, jossa saat tietoa neuropsykiatrisista peruspulmista, keinoja niiden helpottamiseksi sekä vertaistukea ja vinkkejä erilaisiin tukimuotoihin. 
+Valitettavasti suuren suosion saanut matalan kynnyksen nepsy-kurssi on jouduttu perumaan tältä keväältä, mutta toivon mukaan syksyllä kurssi jatkuu jälleen.
 
-Kurssilla nepsy-valmentaja käy läpi yleisimpiä pulmia neurokirjolla sekä tarjoaa näkemyksiä ja keinoja haasteiden helpottamiseen. Ryhmän kesken jaetaan myös vertaistukea sekä omia kokemuksia ja viimeinen kurssikerta varataan kurssilaisten toiveiden pohjalta sovituille teemoille. Ryhmä on suunnattu vanhemmille, joilla on kouluikäisiä nepsy-lapsia ja -nuoria.
+Tältä kurssilta saat tietoa neuropsykiatrisista peruspulmista, keinoja niiden helpottamiseksi sekä vertaistukea ja vinkkejä erilaisiin tukimuotoihin. Kurssin vetäjä, ratkaisukeskeinen nepsy-valmentaja, käy läpi yleisimpiä pulmia neurokirjolla sekä tarjoaa näkemyksiä ja keinoja haasteiden helpottamiseen. Ryhmän kesken jaetaan myös vertaistukea sekä omia kokemuksia ja viimeinen kurssikerta varataan kurssilaisten toiveiden pohjalta sovituille teemoille. Ryhmä on suunnattu vanhemmille, joilla on kouluikäisiä nepsy-lapsia ja -nuoria.
 
-Kevään ryhmä kokoontuu joka 2. maanantai parillisilla viikoilla niin, että puolivälissä on pidempi tauko. Kokoontumiset ovat siis ma 23.1., 6.2., 20.2., TAUKO ja 20.3., 3.4. ja 17.4.2023. Eli ei opetusta ma 6.3. Kurssin pituus on 6 tapaamiskertaa aina klo 17:30-20:00. Paikkana toimii Ahjolan Nurkkis-luokka Pispalassa osoitteessa Erämiehenkatu 10. Osoitteessa Päivölänkatu 1 sekä Haulikadulta löytyy ilmaisia parkkipaikkoja yleensä.
+Ryhmä kokoontuu yleensä joka 2. viikko 6 tapaamiskertaa aina klo 17:30-20:00. Paikkana toimii Ahjolan tilat Pispalassa osoitteessa Erämiehenkatu 10. Osoitteessa Päivölänkatu 1 sekä Haulikadulta löytyy ilmaisia parkkipaikkoja yleensä.
 
-Ilmoittautua voit kevään kurssille [TÄÄLLÄ](https://opistopalvelut.fi/ahjola/course.php?l=fi&t=27225) tai puhelimitse Ahjolaan arkisin klo 10-15 p.044 553 8400.
 
 ___
 
