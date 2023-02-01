@@ -52,7 +52,7 @@ ___
 
 Neppari toteuttaa yhteistyössä Ahjolan kanssa neurokirjon nuorten vertaisryhmän. 
 
-Maksuttoman harrasteryhmän kokoontuminen on kerran kuukaudessa yleensä lauantaisin klo 13. Välillä olemme Ahjolan tyttöjen ja poikien tuvalla osoitteessa Pispalan Valtatie 45 ja välillä lähdemme yhdessä tutustumaan harrastuspaikkoihin.
+Maksuttoman harrasteryhmän kokoontuminen on kerran kuukaudessa yleensä lauantaisin n.klo 13-16. Välillä olemme Ahjolan tyttöjen ja poikien tuvalla osoitteessa Pispalan Valtatie 45 ja välillä lähdemme yhdessä tutustumaan harrastuspaikkoihin.
 
 Ryhmä kokokoontuu kesäkuuhun 2023 saakka yhteensä 9 krt. Jokaisen tapaamisen kesto on n. 3h/ tapaaminen.
 
