@@ -48,5 +48,6 @@ Lisätietoa interventiosta ja sen kehittäjästä:
 - Diana Cavonius-Rintahakan [väitöskirja perheohjauksesta](https://trepo.tuni.fi/handle/10024/140266)
 - [Samaisen väitöstilaisuuden kuvaus](https://www.tuni.fi/fi/ajankohtaista/diana-cavonius-rintahaka-dialoginen-perheohjaus-auttaa-neuropsykiatrisesti), joka sisältää paljon tiivistetysti tietoa perheohjauksesta
 - [Dianan haastattelu aiheesta](https://www.parempaalastensuojelua.fi/fi/uutinen/tieteessa-diana-cavonius-rintahaka) Parempaa lastensuojelua -mediassa
+- Dianan tutkimustietoa [Autismin kirjon Käypä hoito suosituksessa](https://www.kaypahoito.fi/nix03142) 
 
 > Jos haluat kuulla lisää tai varata aikaa, niin ota yhteyttä [sähköpostilla](/ota-yhteytta).
