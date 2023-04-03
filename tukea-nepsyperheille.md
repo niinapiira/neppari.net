@@ -18,7 +18,7 @@ Vanhempien valmennuksessa voidaan käydä läpi diagnoosin saannin ensitietoa, k
 
 Vanhempien valmennus sopii erittäin hyvin myös perheeseen, jossa itse nepsy-lapsi, nuori tai nuori aikuinen ei ole itse motivoitunut valmennukseen. Vanhemmat voivat viedä valmennuksen avulla toimivia tukikeinoja itse suoraan kotiin ja lapsensa elämään.
 
-Valmennuksen avulla perheelle voidaan etsiä keinoja arjen hallintaan ja jaksamiseen sekä erilaisia tukitoimia erityiseen tilanteeseen. Valmentaja jakaa yksilöllisesti tietoa ja oppaita, kartoittaa tuen tarpeita ja auttaa hakemaan sopivia etuuksia ja palveluita.
+Valmennuksen avulla vanhemmille voidaan etsiä keinoja arjen hallintaan ja jaksamiseen sekä erilaisia tukitoimia erityiseen tilanteeseen. Valmentaja jakaa yksilöllisesti tietoa ja oppaita, kartoittaa tuen tarpeita ja auttaa hakemaan sopivia etuuksia ja palveluita.
 
 Valmennusta on mahdollista saada myös etänä.
 
@@ -42,7 +42,7 @@ DFG perustuu tutkittuun tietoon siitä mitä neurokirjon perheissä tarvitaan:
 
 3. Perheet tarvitsevat tukea ja kuuntelua kokonaisuutena, eli dialogia ammattilaisten ja kaikkien perheenjäsenten välille. Joku joka kuuntelee ensin perheen historiaa, haasteita ja kysymyksiä ja sen jälkeen yhdessä perheen kanssa lähtee miettimään ratkaisuja ja hyväksi havaittuja menetelmiä arkeen.
 
-Dialoginen perheohjaus toimii koko perhettä vahvistavana perheinterventiona ja näin lisää perheiden myönteistä kokemusta saadusta sosiaalisesta tuesta. Dialoginen perheohjaus lisää kaikkien perheenjäsenten mahdollisuutta keskustella huolista kuulluksi tulemisen lisäksi.  Vanhemmat ovat oleet hyvin tyytyväisiä ja ovat kokeneet DFG-intervention voimaannuttavana ja tarpeellisena.
+Dialoginen perheohjaus toimii koko perhettä vahvistavana terapeuttisena perheinterventiona ja näin lisää perheiden myönteistä kokemusta saadusta sosiaalisesta tuesta. Dialoginen perheohjaus lisää kaikkien perheenjäsenten mahdollisuutta keskustella huolista kuulluksi tulemisen lisäksi.  Vanhemmat ovat oleet hyvin tyytyväisiä ja ovat kokeneet DFG-intervention voimaannuttavana ja tarpeellisena.
 
 Lisätietoa interventiosta ja sen kehittäjästä:
 - Diana Cavonius-Rintahakan [väitöskirja perheohjauksesta](https://trepo.tuni.fi/handle/10024/140266)
