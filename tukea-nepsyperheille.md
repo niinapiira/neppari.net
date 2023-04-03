@@ -44,6 +44,10 @@ DFG perustuu tutkittuun tietoon siitä mitä neurokirjon perheissä tarvitaan:
 
 Dialoginen perheohjaus toimii koko perhettä vahvistavana terapeuttisena perheinterventiona ja näin lisää perheiden myönteistä kokemusta saadusta sosiaalisesta tuesta. Dialoginen perheohjaus lisää kaikkien perheenjäsenten mahdollisuutta keskustella huolista kuulluksi tulemisen lisäksi.  Vanhemmat ovat oleet hyvin tyytyväisiä ja ovat kokeneet DFG-intervention voimaannuttavana ja tarpeellisena.
 
+DFG yhdistää tiedollisen psykoedukaation neurokirjosta, konkreettiset vinkit ja ideat arjen toimivuuden ja sujuvuuden parantamiseksi sekä emotionaalisen tuen kuulluksi tulemisen kautta kokonaisena perheenä ja jokainen yksilönä. 
+
+DFG:ssä suositus kestosta on 6 x 90min. Ensimmäisen vanhemman/vanhempien tapaamisen aikana sovitaan keitä perheenjäseniä tavataan ja missä järjestyksessä. 
+
 Lisätietoa interventiosta ja sen kehittäjästä:
 - Diana Cavonius-Rintahakan [väitöskirja perheohjauksesta](https://trepo.tuni.fi/handle/10024/140266)
 - [Samaisen väitöstilaisuuden kuvaus](https://www.tuni.fi/fi/ajankohtaista/diana-cavonius-rintahaka-dialoginen-perheohjaus-auttaa-neuropsykiatrisesti), joka sisältää paljon tiivistetysti tietoa perheohjauksesta
