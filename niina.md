@@ -15,9 +15,9 @@ Minä olen Niina Piira, ratkaisukeskeinen neuropsykiatrinen valmentaja, laillist
 
 Olen koulutuksiltani ratkaisukeskeinen neuropsykiatrinen valmentaja, sosionomi AMK, yrittäjä sekä nuorison- ja vapaa-ajanohjaaja. Työkokemusta minulla on laajasti 20-vuotiselta sosiaalialan uralta. 
 
-Olen työskennellyt nepsy-henkilöiden kanssa 15-vuotta mm. koulunuorisotyössä, nuorisotyössä, koulun iltapäivätoiminnassa, leirityössä, Keskuspuiston ammatiopistossa, lastensuojeluyksiköissä, ennaltaehkäisevän lastensuojelun tukihenkilötoiminnassa, Setlementti Tampereen Omavoima-työmuodossa sekä valmennusyrityksessäni yksilö- ja ryhmävalmentajana, vanhempainkurssien ohjaajana, kouluttajana sekä konsulttina.
+Olen työskennellyt nepsy-henkilöiden kanssa 15-vuotta mm. koulunuorisotyössä, nuorisotyössä, koulun iltapäivätoiminnassa, leirityössä, Keskuspuiston ammatiopistossa, lastensuojeluyksiköissä, ennaltaehkäisevän lastensuojelun tukihenkilötoiminnassa, Setlementti Tampereen Omavoima-työmuodossa sekä valmennusyrityksessäni yksilö- ja ryhmävalmentajana, perhevalmentajana, vanhempainkurssien ohjaajana, kouluttajana sekä konsulttina.
 
-Olen opiskellut myös seuraavia aiheita:
+Olen opiskellut myös mm. seuraavia aiheita:
 - Ratkaisukeskeinen terapia (opinnot kesken)
 - Tunnetaidot ja sosiaalisen toimintakyvyn kuntoutusta (mm. Art, Friends, Sotoku)
 - NLP
@@ -35,9 +35,9 @@ Olen opiskellut myös seuraavia aiheita:
 
 Kokemukseni on kertynyt erityisesti nuorten ja aikuisten nepsy-henkilöiden kanssa työskentelystä, mutta autan erittäin mielelläni nykyään myös lapsiperheitä, pariskuntia ja esimerkiksi työtiimejä.
 
-Minun tapani työskennellä on hyvin joustavaa, ketterää ja asiakkaan erityistarpeita huomioivaa. Hyödynnän ihmistyössäni empaattisuuttani ja intuitiotani päästäkseni mahdollisimman hyvin asiakkaan kokemusmaailmaan sisään.
+Minun tapani työskennellä on hyvin joustavaa ja asiakkaan erityistarpeita huomioivaa. Hyödynnän ihmistyössäni empaattisuuttani ja intuitiotani päästäkseni mahdollisimman hyvin asiakkaan kokemusmaailmaan sisään.
 
-Käytän valmennuksessa tarpeen mukaisia vuorovaikutusta helpottavia menetelmiä, kuten voimauttavaa vuorovaikutusta ja luovia menetelmiä (kirjoittaminen, piirtäminen, kirjallisuusterapian menetelmät ja ajatusten visualisointi kuvin ja esinein).
+Käytän valmennuksessa tarpeen mukaisia vuorovaikutusta helpottavia menetelmiä, kuten voimauttavaa vuorovaikutusta sekä luovia ja toiminnallisia menetelmiä (kirjoittaminen, piirtäminen, valokuvaus, askartelu, maalaus, kirjallisuusterapian menetelmät ja ajatusten visualisointi kuvin ja esinein, runot, musiikki, eläimet, jalkautuminen, yhdessä tekeminen, pelaaminen jne.).
 
 Pitkä kokemukseni on tuonut paljon tietoa, keinoja ja kokemusta, ja jatkan osaamiseni päivitystä jatkuvasti. Olen kerännyt vuosien varrella käyttööni laajan valikoiman toimivia valmennusmenetelmiä sekä työkaluja asiakkaiden käyttöön.
 
@@ -52,3 +52,5 @@ _"Minulla on taito nähdä hyvää jokaisessa ihmisessä, sekä tunnistaa myös 
 _"Autan asiakasta katsomaan ongelmia ja haasteita laajasti eri näkökulmista, sekä löytämään keinoja niiden ratkaisemiseen tai niiden kanssa selviytymiseen."_
 
 _"Yritän elää niin kuin opetan, pidän huolta itsestäni, työni laadusta, ihmissuhteistani, yhteistyökumppanuuksista ja asiakkaista. Löydän jatkuvasti itsestäni ja työstäni kehittämisen kohtia ja valmennan myös itseäni muuntumaan ja selviytymään elämän eri vaiheista."_
+
+Katso asiakaspalautteita etusivun alaosasta. 
