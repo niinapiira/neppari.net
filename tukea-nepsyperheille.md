@@ -55,3 +55,5 @@ Lisätietoa interventiosta ja sen kehittäjästä:
 - Dianan tutkimustietoa [Autismin kirjon Käypä hoito suosituksessa](https://www.kaypahoito.fi/nix03142) 
 
 > Jos haluat kuulla lisää tai varata aikaa, niin ota yhteyttä [sähköpostilla](/ota-yhteytta).
+
+## Katso asiakaspalautteita etusivun alaosasta.
