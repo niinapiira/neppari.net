@@ -53,4 +53,4 @@ _"Autan asiakasta katsomaan ongelmia ja haasteita laajasti eri näkökulmista, s
 
 _"Yritän elää niin kuin opetan, pidän huolta itsestäni, työni laadusta, ihmissuhteistani, yhteistyökumppanuuksista ja asiakkaista. Löydän jatkuvasti itsestäni ja työstäni kehittämisen kohtia ja valmennan myös itseäni muuntumaan ja selviytymään elämän eri vaiheista."_
 
-Katso asiakaspalautteita etusivun alaosasta. 
+## Katso asiakaspalautteita etusivun alaosasta.
