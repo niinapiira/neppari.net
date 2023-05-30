@@ -1,5 +1,5 @@
 ---
-page-title: 'Koulutukset'
+page-title: Koulutukset
 page-type: normal
 navigation-order: 9
 show-in-navigation: true
@@ -47,3 +47,5 @@ Paketteja voi tilata joko erikseen tai kokoamalla niistä sopivan kokonaisuuden.
 > Nepparin tilat eivät sovi suuriin ryhmätapaamisiin, joten niihiin varataan erikseen sopiva tila. 
 
 > Jos tarvitset tämän tyyppistä nepsy-koulutusta, kysy ihmeessä minulta lisätietoja ja hinta-arviota [sähköpostilla](/ota-yhteytta).
+
+## Katso asiakaspalautteita etusivun alaosasta.
