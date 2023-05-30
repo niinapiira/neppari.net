@@ -88,3 +88,5 @@ Ammatillisessa tukihenkilötoiminnassa voidaan toimia tuettavan kotona, harrastu
 Tukihenkilötoiminnassa voidaan myös harjoitella uusia taitoja.
 
 Ammatillinen tukihenkilötoiminta voi olla hyvin pitkäaikainenkin tukimuoto, jolloin hyvä työskentelysuhde mahdollistaa tuen mm. mielenterveyden haasteisiin.
+
+## Katso asiakaspalautteita etusivun alaosasta.
