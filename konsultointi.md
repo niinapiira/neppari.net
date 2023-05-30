@@ -17,3 +17,5 @@ Konsultoinnin kautta haluan edistää neuropsykiatristen henkilöiden hyvinvoint
 Konsultointia on mahdollista saada myös etänä.
 
 > Jos haluat kuulla lisää tai varata ajan, ota yhteyttä [sähköpostilla](/ota-yhteytta).
+
+## Katso asiakaspalautteita etusivun alaosasta.
