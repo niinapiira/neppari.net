@@ -10,7 +10,7 @@ Ilman lähetettä tai diagnooseja terapiaan!
 
 Ratkaisukeskeinen terapia voi olla lyhytterapiaa tai pidempiaikainen terapiamuoto, johon on mahdollista päästä heti, jonottamatta. Näin ongelmiin voidaan tarttua heti niiden ilmettyä eivätkä ne pääse kasvamaan liian suuriksi.
 
-Tässä terapimuodossa rakennetaan yhdessä ratkaisuja elämän haasteisiin niin, että jokainen voi alkaa kulkea kohti unelmiaan ja toiveitaan ja vahvistaa omannäköistä hyvää elämää. Yhdessä tutkitaan tilanteita joissa ongelmaa ei ole tai se on lievempi. Ongelmat muotoillaan tavoitteiksi ja 
+Tässä terapimuodossa rakennetaan yhdessä ratkaisuja elämän haasteisiin niin, että jokainen voi alkaa kulkea kohti unelmiaan ja toiveitaan ja vahvistaa omannäköistä hyvää elämää. Yhdessä tutkitaan tilanteita joissa ongelmaa ei ole tai se on lievempi. Ongelmat muotoillaan tavoitteiksi ja etsitään keinoja päästä alkuun ja edistyä muutoksessa.
 
 Ratkaisukeskeisessä terapiassa asiakas nähdään oman elämänsä asiantuntijana ja siksi terapiassa pyritään yhdessä löytämään ne voimavarat ja keinot sekä vahvuudet, jotka asiakkaan elämässä ovat häntä auttaneet aiemminkin. 
 
