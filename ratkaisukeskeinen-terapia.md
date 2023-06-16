@@ -10,13 +10,13 @@ Ilman lähetettä tai diagnooseja terapiaan!
 
 Ratkaisukeskeinen terapia voi olla lyhytterapiaa tai pidempiaikainen terapiamuoto, johon on mahdollista päästä heti, jonottamatta. Näin ongelmiin voidaan tarttua heti niiden ilmettyä eivätkä ne pääse kasvamaan liian suuriksi.
 
-Tässä terapimuodossa rakennetaan yhdessä ratkaisuja elämän haasteisiin niin, että jokainen voi alkaa kulkea kohti unelmiaan ja toiveitaan ja vahvistaa omannäköistä hyvää elämää. Yhdessä tutkitaan tilanteita joiss ongelmaa ei ole tai se on lievempi. Ongelmat muotoillaan tavoitteiksi ja 
+Tässä terapimuodossa rakennetaan yhdessä ratkaisuja elämän haasteisiin niin, että jokainen voi alkaa kulkea kohti unelmiaan ja toiveitaan ja vahvistaa omannäköistä hyvää elämää. Yhdessä tutkitaan tilanteita joissa ongelmaa ei ole tai se on lievempi. Ongelmat muotoillaan tavoitteiksi ja 
 
 Ratkaisukeskeisessä terapiassa asiakas nähdään oman elämänsä asiantuntijana ja siksi terapiassa pyritään yhdessä löytämään ne voimavarat ja keinot sekä vahvuudet, jotka asiakkaan elämässä ovat häntä auttaneet aiemminkin. 
 
 Ratkaisukeskeisessä terapiassa pääpaino on nykyisyyden ja tulevaisuuden käsittelyssä sekä asiakkaan toivoman muutoksen käynnistämisessä. Menneisyyttä ja historiaa hyödynnetään kokemusvarastona kaikesta siitä mikä on toiminut aiemmin ja mitä vahvuuksia ne tuovat asiakkaasta esiin. 
 
-Tämä terapiamuoto soveltuu hyvin monenlaisiin tilanteisiin ja ongelmiin, koska se on käytännöllistä. Terapiassa hyödynnetään asiakkaan inhimilliset resurssit kuten mm. järki, logiikka, älykkyys, arkipsykologia, nokkeluus, kokeilevuus, huumori, elämänviisaus ja ihmistuntemus. Hyvin pienellä energiamäärällä ja ajankäytöllä saadaan jo tuloksia aikaiseksi. 
+Tämä matalan kynnyksen terapiamuoto soveltuu hyvin monenlaisiin tilanteisiin ja ongelmiin, koska se on käytännöllistä. Terapiassa hyödynnetään asiakkaan inhimilliset resurssit kuten mm. järki, logiikka, älykkyys, arkipsykologia, nokkeluus, kokeilevuus, huumori, elämänviisaus ja ihmistuntemus. Hyvin pienellä energiamäärällä ja ajankäytöllä saadaan jo tuloksia aikaiseksi. 
 
 Ratkaisukeskeinen terapia on myös hyvin turvallinen tapa työskennellä, koska tällä ei voida saada kenenkään ajatuksia solmuun. Ratkaisukeskeisyydessä ongelma on ongelma, ei ihminen. Luovuutta, leikkisyyttä ja huumoria hyödynnetään asiakkaan mukaan yksilöllisesti.
 
