@@ -21,17 +21,15 @@ SILLOIN NEPPARI ON OIKEA PAIKKA SINULLE!
 
 
 
-## Mitä Nepparista saa?
+## Mitä valmentaja saa Nepparista?
 
-Nepparin mentoroinnissa sinulla on käytössäsi vahva ammattitaitoni sekä moninainen osaamiseni koko laajuudessaan; ratkaisu- ja voimavarakeskeinen työskentelytapani, terapeuttinen ja valmentaja osaamiseni, monipuolinen menetelmäsalkkuni, traumatietoisuuteni sekä laaja kokemukseni ja tuntemukseni sosiaalialasta, sen palveluista ja tuista.
+Nepparin mentoroinnissa sinulla on käytössäsi vahva ammattitaitoni sekä moninainen osaamiseni koko laajuudessaan; ratkaisu- ja voimavarakeskeinen työskentelytapani, terapeuttinen ja valmentaja osaamiseni, monipuolinen menetelmäsalkkuni, traumatietoisuuteni, laaja työkokemukseni sekä tuntemukseni sosiaalialasta, sen palveluista ja tuista.
 
-Tarkoituksenani on tarjota sinulle vahvaa tukea työhösi ja omanlaisen valmentajuutesi toteuttamiseen.
+Tarkoituksenani on tarjota sinulle vahvaa tukea työhösi ja omanlaisen valmentajuutesi toteuttamiseen. Saat mentoroinnissa käyttöösi valvavan menetelmäarkistoni pohtiessamme työhösi parhaiten soveltuvia työkaluja ja interventioita. Saat ideoita, vinkkejä ja konkreettisia keinoja työhösi suoraan hyödynnettäviksi välineiksi sekä samalla ratkaisu- ja voimavarakeskeistä vahvistusta osaamisellesi.
 
 Tavoitteenani on auttaa sinua löytämään ainekset itsesi näköiseen ja hyvään ammatillisuuteen sekä saamaan ymmärrystä ja hyväksyntää ainutlaatuisena ja arvokkaana yksilönä.
 
-
-
-Nepparissa sinäkin tulet kohdatuksi ratkaisu- ja voimavarakeskeisen sekä terapeuttisen ja neuropsykiatrisen tuntemukseni ja -ymmärrykseni kautta, jolloin otan huomioon yksilölliset piirteesi, tarpeesi ja niiden luomat vaatimukset.Nepparissa jokainen ihminen on ennen kaikkea yksilö ja ainutlaatuinen persoona, joten käytän aikaani ja taitoani tutustuakseni yksilölliseen tapaasi toimia ja ajatella.
+Nepparissa sinäkin tulet kohdatuksi ratkaisu- ja voimavarakeskeisen sekä terapeuttisen ja neuropsykiatrisen tuntemukseni ja -ymmärrykseni kautta, jolloin otan huomioon yksilölliset piirteesi, tarpeesi ja niiden luomat vaatimukset. Nepparissa jokainen ihminen on ennen kaikkea yksilö ja ainutlaatuinen persoona, joten käytän aikaani ja taitoani tutustuakseni yksilölliseen tapaasi toimia ja ajatella.
 
 Nepparissa saat kokea olevasi turvassa vaikeiden asioidenkin äärellä ja saat ymmärrystä myös siitä, miten erilaiset elämänkokemukset ovat saattaneet vaikuttaa toimintakykyysi, käytökseesi, ajatteluusi ja reaktioihisi työssäsi.
 
