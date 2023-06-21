@@ -44,6 +44,25 @@ Laita [sähköpostia](/ota-yhteytta), niin kerron lisää! =)
 
 ___
 
+## Mitä Nepparista saa?
+
+Nepparissa sinulla on käytössäsi vahva ammattitaitoni sekä moninainen osaamiseni koko laajuudessaan; ratkaisu- ja voimavarakeskeinen työskentelytapani, terapia- ja valmennusosaamiseni, monipuolinen menetelmäsalkkuni, traumatietoisuuteni sekä laaja kokemukseni ja tuntemukseni sosiaalialasta, sen palveluista ja tuista.
+
+Tarkoituksenani on tarjota sinulle vahvaa tukea arkeesi, työhösi ja omanlaisen elämänpolun toteuttamiseen.
+
+Tavoitteenani on auttaa jokaista nepsy-henkilöä sekä heidän kanssaan toimivia saamaan ainekset itsensä näköiseen ja hyvään elämään sekä saamaan ymmärrystä ja hyväksyntää ainutlaatuisena ja arvokkaana yksilönä.
+
+Nepparissa jokainen ihminen on ennen kaikkea yksilö ja ainutlaatuinen persoona, joten käytän aikaani ja taitoani tutustuakseni yksilölliseen tapaasi hahmottaa maailmaa ja elämää. Nepparissa tulet kohdatuksi terapeuttisen ja neuropsykiatrisen tuntemukseni ja -ymmärrykseni kautta, jolloin otan huomioon kaikki erityispiirteesi, tarpeesi ja niiden luomat vaatimukset.
+
+Nepparissa saat kokea olevasi turvassa vaikeiden asioidenkin äärellä ja saat ymmärrystä myös siitä, miten vaikeat elämänkokemukset ovat saattaneet vaikuttaa toimintakykyysi, käytökseesi, ajatteluusi ja reaktioihisi.
+
+Autan sinua löytämään tarvitsemasi etuudet, tukipalvelut, apuvälineet ja verkostot sekä sopivat tavat toteuttaa itseäsi niin harrastusten, kiinnostustenkohteiden, opintojen että työuran muodossa.
+
+Nepparissa saat mahdollisuuden tutustua itseesi syvällisemmin ja rakentaa uutta/vahvempaa pohjaa itsetunnolle ja itsetuntemukselle sekä sen myötä koko elämälle ja arjen hallinnalle.
+
+
+___
+
 ##  Kevään 2023 Nepparin nepsy-kurssi vanhemmille, joilla on kouluikäisiä neurokirjon lapsia tai nuoria!  
 
 Valitettavasti suuren suosion saanut matalan kynnyksen nepsy-kurssi on jouduttu perumaan tältä keväältä, mutta toivon mukaan syksyllä kurssi jatkuu jälleen.
