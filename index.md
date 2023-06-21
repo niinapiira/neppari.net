@@ -21,17 +21,17 @@ polaroid: niina-edesta
 
 Tukea suurella sydämellä ja vahvalla osaamisella!! =)
 
-Neppari auttaa kaiken ikäisiä lapsia, nuoria, aikuisia ja perheitä, joilla on elämän haasteena AD(H)D, Autismi, Tourette, oppimisvaikeuksia, kielen kehityksen vaikeuksia tai aivovamma. 
+Neppari auttaa kaiken ikäisiä nepsy-henkilöitä sekä heidän perheitä ja ammattilaisia, joilla on haasteita AD(H)D:n, Autisminkirjon, Touretten, oppimisvaikeuksien, kielen kehityksen vaikeuksien tai aivovamman kanssa. 
 
-Neppari toimii myös yhteistyökumppanina ammattilaisille, päättäjille ja kasvattajille.
+Neppari toimii myös yhteistyökumppanina kaikille neurokirjon kanssa toimiville.
 
 ___
 
-## Miten Nepparin valmennusta saa?
+## Miten Nepparin apua saa?
 
-Nepparissa on vielä vähän tilaa uusille asiakkaille, joten voit olla suoraan yhteydessä minuun tai puhua valmennustarpeesta lääkärin, sosiaalityöntekijän tai muun ammattilaisen kanssa.
+Nepparissa on vielä vähän tilaa uusille asiakkaille, joten voit olla suoraan yhteydessä minuun tai puhua avun tarpeesta lääkärin, sosiaalityöntekijän tai muun ammattilaisen kanssa.
 
-Nepparin valmennushinnat on pidetty matalina, jotta jokaisella on varaa maksaa valmennus myös itse. Tukipalveluihin ja kuntoutukseen voi kuitenkin hakea myös maksusitoumusta esimerkiksi lääkäriltä, te-toimistosta tai sosiaalitoimesta. Kunnan palvelu- ja kuntoutusohjaaja voi neuvoa myös sinua.
+Nepparin hinnat on pidetty matalina, jotta jokaisella on varaa maksaa palvelusta myös itse. Nepparin palveluihin voi kysyä myös maksusitoumusta esimerkiksi lääkäriltä, te-toimistosta tai sosiaalitoimesta. Kunnan palvelu- ja kuntoutusohjaaja voi neuvoa myös sinua.
 
 Laita [sähköpostia](/ota-yhteytta), niin kerron lisää! =)
 
