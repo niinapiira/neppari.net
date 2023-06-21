@@ -1,5 +1,5 @@
 ---
-page-title: Sinulle
+page-title: Valmentajille
 page-type: normal
 navigation-order: 2
 show-in-navigation: true
@@ -10,11 +10,11 @@ published: true
 
 
 
-*Painiskeletko sinä tai läheisesi ADHD:n, ADD:n, lievän autismin/Aspergerin, Touretten, oppimisvaikeuksien tai aivovamman kanssa?*
+*Koetko sinä haasteita työssäsi asiakkaiden kanssa, joilla on AD(H)D, lievä autisminkirjo, Tourette, oppimisvaikeuksia, aivovamma tai piirteitä näistä?*
 
-*Koetko että tarvitset helpotusta jokapäiväiseen elämään?*
+*Koetko, että tarvitset osaavaa apua ja tukea työhön neurokirjon asioiden kanssa?*
 
-*Kaipaatko osaavaa ja ymmärtävää tukea?*
+*Kaipaatko terapeuttista, ymmärtävää ja vahvaa tukea työhösi?*
 
 
 SILLOIN NEPPARI ON OIKEA PAIKKA SINULLE!
@@ -23,24 +23,22 @@ SILLOIN NEPPARI ON OIKEA PAIKKA SINULLE!
 
 ## Mitä Nepparista saa?
 
-Nepparin valmennuksessa sinulla on käytössäsi vahva ammattitaitoni sekä moninainen osaamiseni koko laajuudessaan; ratkaisu- ja voimavarakeskeinen työskentelytapani, monipuolinen menetelmäosaamiseni, traumatietoisuuteni sekä laajan kokemukseni sekä tuntemukseni sosiaalialasta ja sen palveluista ja tuista.
+Nepparin mentoroinnissa sinulla on käytössäsi vahva ammattitaitoni sekä moninainen osaamiseni koko laajuudessaan; ratkaisu- ja voimavarakeskeinen työskentelytapani, monipuolinen menetelmäosaamiseni, traumatietoisuuteni sekä laaja kokemukseni ja tuntemukseni sosiaalialasta, sen palveluista ja tuista.
 
-Tarkoituksenani on tarjota sinulle vahvaa tukea arkeesi ja omanlaisen elämänpolun toteuttamiseen.
+Tarkoituksenani on tarjota sinulle vahvaa tukea työhösi ja omanlaisen ammatillisuuden toteuttamiseen.
 
-Tavoitteenani on auttaa sinua löytämään ainekset itsesi näköiseen ja hyvään elämään sekä saamaan ymmärrystä ja hyväksyntää ainutlaatuisena ja arvokkaana yksilönä.
+Tavoitteenani on auttaa sinua löytämään ainekset itsesi näköiseen ja hyvään ammatillisuuteen sekä saamaan ymmärrystä ja hyväksyntää ainutlaatuisena ja arvokkaana yksilönä.
 
 Nepparissa jokainen ihminen on ennen kaikkea yksilö ja ainutlaatuinen persoona, joten käytän aikaani ja taitoani tutustuakseni yksilölliseen tapaasi hahmottaa maailmaa ja elämää.
 
-Nepparissa tulet kohdatuksi nepsy-tuntemukseni ja -ymmärrykseni kautta, jolloin otan huomioon kaikki erityispiirteesi, tarpeesi ja niiden luomat vaatimukset.
+Nepparissa sinäkin tulet kohdatuksi ratkaisu- ja voimavarakeskeisen sekä terapeuttisen ja neuropsykiatrisen tuntemukseni ja -ymmärrykseni kautta, jolloin otan huomioon yksilölliset piirteesi, tarpeesi ja niiden luomat vaatimukset.
 
-Nepparissa saat kokea olevasi turvassa vaikeiden asioidenkin äärellä ja saat ymmärrystä myös siitä, miten vaikeat elämänkokemukset ovat saattaneet vaikuttaa toimintakykyysi, käytökseesi, ajatteluusi ja reaktioihisi.
+Nepparissa saat kokea olevasi turvassa vaikeiden asioidenkin äärellä ja saat ymmärrystä myös siitä, miten vaikeat elämänkokemukset ovat saattaneet vaikuttaa toimintakykyysi, käytökseesi, ajatteluusi ja reaktioihisi työssäsi.
 
-Autan sinua löytämään tarvitsemasi etuudet, tukipalvelut, apuvälineet ja verkostot sekä sopivat tavat toteuttaa itseäsi niin harrastusten, kiinnostustenkohteiden, opintojen että työuran muodossa.
+Autan sinua löytämään työssä tarvitsemasi etuudet, tukipalvelut, apuvälineet ja verkostot sekä sopivat tavat tukea neurokirjon asiakkaitasi.
 
-Tavoitteellisuus on valmennuksen onnistumisen tärkein lähtökohta ja se vaatii sinulta motivaatiota, tahtotilaa sekä valmiutta kehittää itseäsi. Valmennuksen avulla saat tukea koko prosessin ajan niin tavoitteidesi pohtimiseen, suunnittelemiseen kuin niiden saavuttamiseen.
+Nepparissa saat myös mahdollisuuden tutustua itseesi syvällisemmin ja rakentaa uutta/vahvempaa pohjaa ammatilliselle itsetunnolle ja itsetuntemukselle sekä sen myötä koko elämälle.
 
-Nepparin valmennuksessa saat mahdollisuuden tutustua itseesi syvällisemmin ja rakentaa uutta/vahvempaa pohjaa itsetunnolle ja itsetuntemukselle sekä sen myötä koko elämälle ja arjen hallinnalle.
-
-> Jos haluat kuulla lisää, ota yhteyttä [sähköpostilla](/ota-yhteytta) ja arvioidaan tilanteesi ennen varsinaisia tapaamisia.
+> Jos haluat kuulla lisää, ota yhteyttä [sähköpostilla](/ota-yhteytta).
 
 ## Katso asiakaspalautteita etusivun alaosasta.
