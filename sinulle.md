@@ -10,7 +10,7 @@ published: true
 
 
 
-*Koetko sinä haasteita työssäsi asiakkaiden kanssa, joilla on AD(H)D, lievä autisminkirjo, Tourette, oppimisvaikeuksia, aivovamma tai piirteitä näistä?*
+*Koetko sinä haasteita tärkeässä työssäsi asiakkaiden kanssa, joilla on AD(H)D, lievä autisminkirjo, Tourette, oppimisvaikeuksia, aivovamma tai piirteitä näistä?*
 
 *Koetko, että tarvitset osaavaa apua ja tukea työhön neurokirjon asioiden kanssa?*
 
@@ -23,9 +23,9 @@ SILLOIN NEPPARI ON OIKEA PAIKKA SINULLE!
 
 ## Mitä Nepparista saa?
 
-Nepparin mentoroinnissa sinulla on käytössäsi vahva ammattitaitoni sekä moninainen osaamiseni koko laajuudessaan; ratkaisu- ja voimavarakeskeinen työskentelytapani, monipuolinen menetelmäosaamiseni, traumatietoisuuteni sekä laaja kokemukseni ja tuntemukseni sosiaalialasta, sen palveluista ja tuista.
+Nepparin mentoroinnissa sinulla on käytössäsi vahva ammattitaitoni sekä moninainen osaamiseni koko laajuudessaan; ratkaisu- ja voimavarakeskeinen työskentelytapani, terapeuttinen ja valmentaja osaamiseni, monipuolinen menetelmäsalkkuni, traumatietoisuuteni sekä laaja kokemukseni ja tuntemukseni sosiaalialasta, sen palveluista ja tuista.
 
-Tarkoituksenani on tarjota sinulle vahvaa tukea työhösi ja omanlaisen ammatillisuuden toteuttamiseen.
+Tarkoituksenani on tarjota sinulle vahvaa tukea työhösi ja omanlaisen valmentajuutesi toteuttamiseen.
 
 Tavoitteenani on auttaa sinua löytämään ainekset itsesi näköiseen ja hyvään ammatillisuuteen sekä saamaan ymmärrystä ja hyväksyntää ainutlaatuisena ja arvokkaana yksilönä.
 
