@@ -29,13 +29,13 @@ Tarkoituksenani on tarjota sinulle vahvaa tukea työhösi ja omanlaisen valmenta
 
 Tavoitteenani on auttaa sinua löytämään ainekset itsesi näköiseen ja hyvään ammatillisuuteen sekä saamaan ymmärrystä ja hyväksyntää ainutlaatuisena ja arvokkaana yksilönä.
 
-Nepparissa jokainen ihminen on ennen kaikkea yksilö ja ainutlaatuinen persoona, joten käytän aikaani ja taitoani tutustuakseni yksilölliseen tapaasi toimia ja ajatella.
 
-Nepparissa sinäkin tulet kohdatuksi ratkaisu- ja voimavarakeskeisen sekä terapeuttisen ja neuropsykiatrisen tuntemukseni ja -ymmärrykseni kautta, jolloin otan huomioon yksilölliset piirteesi, tarpeesi ja niiden luomat vaatimukset.
 
-Nepparissa saat kokea olevasi turvassa vaikeiden asioidenkin äärellä ja saat ymmärrystä myös siitä, miten vaikeat elämänkokemukset ovat saattaneet vaikuttaa toimintakykyysi, käytökseesi, ajatteluusi ja reaktioihisi työssäsi.
+Nepparissa sinäkin tulet kohdatuksi ratkaisu- ja voimavarakeskeisen sekä terapeuttisen ja neuropsykiatrisen tuntemukseni ja -ymmärrykseni kautta, jolloin otan huomioon yksilölliset piirteesi, tarpeesi ja niiden luomat vaatimukset.Nepparissa jokainen ihminen on ennen kaikkea yksilö ja ainutlaatuinen persoona, joten käytän aikaani ja taitoani tutustuakseni yksilölliseen tapaasi toimia ja ajatella.
 
-Autan sinua löytämään työssä tarvitsemasi etuudet, tukipalvelut, apuvälineet ja verkostot sekä sopivat tavat tukea neurokirjon asiakkaitasi.
+Nepparissa saat kokea olevasi turvassa vaikeiden asioidenkin äärellä ja saat ymmärrystä myös siitä, miten erilaiset elämänkokemukset ovat saattaneet vaikuttaa toimintakykyysi, käytökseesi, ajatteluusi ja reaktioihisi työssäsi.
+
+Autan sinua löytämään työssä tarvitsemasi etuudet, tukipalvelut, apuvälineet ja verkostot sekä sopivat tavat ja keinot tukea neurokirjon asiakkaitasi.
 
 Nepparissa saat myös mahdollisuuden tutustua itseesi syvällisemmin ja rakentaa uutta/vahvempaa pohjaa ammatilliselle itsetunnolle ja itsetuntemukselle sekä sen myötä koko elämälle.
 
