@@ -29,7 +29,7 @@ Tarkoituksenani on tarjota sinulle vahvaa tukea työhösi ja omanlaisen valmenta
 
 Tavoitteenani on auttaa sinua löytämään ainekset itsesi näköiseen ja hyvään ammatillisuuteen sekä saamaan ymmärrystä ja hyväksyntää ainutlaatuisena ja arvokkaana yksilönä.
 
-Nepparissa jokainen ihminen on ennen kaikkea yksilö ja ainutlaatuinen persoona, joten käytän aikaani ja taitoani tutustuakseni yksilölliseen tapaasi hahmottaa maailmaa ja elämää.
+Nepparissa jokainen ihminen on ennen kaikkea yksilö ja ainutlaatuinen persoona, joten käytän aikaani ja taitoani tutustuakseni yksilölliseen tapaasi toimia ja ajatella.
 
 Nepparissa sinäkin tulet kohdatuksi ratkaisu- ja voimavarakeskeisen sekä terapeuttisen ja neuropsykiatrisen tuntemukseni ja -ymmärrykseni kautta, jolloin otan huomioon yksilölliset piirteesi, tarpeesi ja niiden luomat vaatimukset.
 
