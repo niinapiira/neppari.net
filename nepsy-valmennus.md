@@ -21,6 +21,8 @@ Neuropsykiatrinen valmennus (eli nepsy-valmennus, ADHD-coachaus, autismikuntoutu
 
 Nepsy-valmennus on yksilöllisesti räätälöityä tukea, jolla autetaan neuropsykiatrisia oireita omaavaa henkilöä elämään hyvää elämää erityishaasteiden kanssa erityistarpeet huomioiden. Valmentaja auttaa asiakasta voimaantumaan ja ottamaan elämän omiin käsiinsä sekä osallistumaan omia asioita koskevaan päätöksentekoon.
 
+Tavoitteellisuus on valmennuksen onnistumisen tärkein lähtökohta ja se vaatii motivaatiota, tahtotilaa sekä valmiutta kehittää itseä. Valmennuksen avulla tuetaan koko prosessin ajan niin tavoitteiden pohtimista, suunnittelemista kuin niiden saavuttamista.
+
 Neuropsykiatrisella valmennuksella tuetaan vahvuuksia ja harjoitellaan uusia ajattelu- ja toimintamalleja sekä taitoja, kuten arjen- ja elämänhallinnan taitoja, suunnittelu- ja organisointitaitoja, ongelmanratkaisutaitoja, opiskelustrategioita, stressin säätelytaitoja, impulssikontrollin taitoja, keskittymistaitoja, vireystilan säätelytaitoja, motivoitumistaitoja, tunnetaitoja, vuorovaikutustaitoja ja sosiaalisia taitoja.
 
 Nepsy-valmennus pitää sisällään mm. tukikeskusteluita, harjoituksia, kotitehtäviä, toiminnallisia ja luovia menetelmiä, tavoitteiden luomista ja seurantaa, sekä muita yksilöllisesti valittuja menetelmiä.
