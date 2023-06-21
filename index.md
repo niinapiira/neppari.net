@@ -48,15 +48,15 @@ Ryhmä kokoontuu yleensä joka 2. viikko 6 tapaamiskertaa aina klo 17:30-20:00. 
 
 ___
 
-## Vertaistukiryhmä nepsy-nuorille!
+## Vertaistukiryhmä 13-17-vuotiaille nepsy-nuorille!
 
 Neppari toteuttaa yhteistyössä Ahjolan kanssa neurokirjon nuorten vertaisryhmän. 
 
 Maksuttoman harrasteryhmän kokoontuminen on kerran kuukaudessa yleensä lauantaisin n.klo 13-16. Välillä olemme Ahjolan tyttöjen ja poikien tuvalla osoitteessa Pispalan Valtatie 45 ja välillä lähdemme yhdessä tutustumaan harrastuspaikkoihin.
 
-Ryhmä kokokoontuu kesäkuuhun 2023 saakka yhteensä 9 krt. Jokaisen tapaamisen kesto on n. 3h/ tapaaminen.
+Ryhmä kokokoontuu kesäkuuhun 2023 saakka yhteensä 10 krt. Jokaisen tapaamisen kesto on n. 3h/ tapaaminen.
 
-Ryhmään otetaan n.10 nuorta. Ryhmä on nuorille maksuton.
+Ryhmään otetaan n.10 nuorta ja se on avoin uusille nuorille aina kun tilaa löytyy. Ryhmä on nuorille maksuton.
 
 Ryhmätoiminta yhdistää vertaistuen ja toiminnallisuuden. Nuoret suunnittelevat ohjaajan avulla yhteistä tekemistä kokoontumiskerroille (esim. liikunta - ja harrastuskokeilut, kokkaus, käsityöt, tutustumiskäynnit). Ryhmän ohjaajaa on mahdollista tavata rauhassa ennen toiminnan alkua.
 
