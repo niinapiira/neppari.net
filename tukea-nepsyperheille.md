@@ -7,7 +7,7 @@ published: true
 polaroid: kaksi-pehmonallea
 ---
 
-Nepparin valmentaja tukee myös vanhempia ja kokonaisia perheitä neurokirjon lasten ja nuorten asioissa. Jos kaipaat vanhempana tukea jaksamiseen, keinoja neurokirjon lapsen/nuoren kanssa toimiseen tai vahvistusta vanhemmuuteesi, on Vanhempien valmennus sinua varten. Jos kaipaatte koko perhe tukea esim. uuteen tilanteeseen lapsen saatua nepsy-diagnoosi tai perheessä myöhemmin ilmenneiden nepsy-haasteiden kanssa, on Perheohjaus teitä varten. Lue tarkemmin molemmista palvelumuodoista alla:
+Nepparin valmentaja tukee myös vanhempia ja kokonaisia perheitä neurokirjon lasten ja nuorten asioissa. Jos kaipaat vanhempana tukea jaksamiseen, keinoja neurokirjon lapsen/nuoren kanssa toimiseen tai vahvistusta vanhemmuuteesi, on Vanhempien valmennus sinua varten. Jos kaipaatte koko perhe tukea esim. uuteen tilanteeseen lapsen saatua nepsy-diagnoosi tai perheessä myöhemmin ilmenneiden nepsy-haasteiden kanssa, on Perhevalmennus teitä varten. Lue tarkemmin molemmista palvelumuodoista alla:
 
 
 ## Vanhempien valmennus
