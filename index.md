@@ -76,12 +76,10 @@ ___
 
 ## Vertaistukiryhmä 13-18-vuotiaille nepsy-nuorille!
 
-Neppari toteuttaa yhteistyössä Ahjolan kanssa neurokirjon nuorten vertaisryhmän. 
+Neppari toteuttaa yhteistyössä Ahjolan kanssa maksuttoman neurokirjon nuorten vertaisryhmän. 
 
-Maksuttoman vertaistukiryhmän kokoontuminen on kerran kuukaudessa lauantaisin n.klo 14-17.
+Vertaisryhmän kokoontuminen on kerran kuukaudessa lauantaisin klo 14-17.
 Syksyn ja alkutalven tapaamispäivät ovat lauantaisin 19.8., 16.9., 21.10., 18.11. ja 16.12. klo 14-17. 🙂 
-
-Lisätietoja ryhmästä sekä mainoksen saa suoraan minulta viestillä p.0409349954 tai sähköpostilla niina@neppari.net.
 
 Tapaamispaikkana toimii Ahjolan tyttöjen ja poikien tupa osoitteessa Pispalan Valtatie 45.
 
