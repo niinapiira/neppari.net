@@ -26,7 +26,7 @@ polaroid: niina-edesta
 
 SILLOIN NEPPARI ON OIKEA PAIKKA SINULLE!
 
-Tukea suurella sydämellä ja vahvalla osaamisella!! =)
+> Tukea suurella sydämellä ja vahvalla osaamisella!! =)
 
 Neppari auttaa kaiken ikäisiä nepsy-henkilöitä sekä heidän perheitä ja ammattilaisia, joilla on haasteita AD(H)D:n, Autisminkirjon, Touretten, oppimisvaikeuksien, kielen kehityksen vaikeuksien tai aivovamman kanssa. 
 
@@ -74,19 +74,35 @@ Ryhmä kokoontuu yleensä joka 2. viikko 6 tapaamiskertaa aina klo 17:30-20:00. 
 
 ___
 
-## Vertaistukiryhmä 13-17-vuotiaille nepsy-nuorille!
+## Vertaistukiryhmä 13-18-vuotiaille nepsy-nuorille!
 
 Neppari toteuttaa yhteistyössä Ahjolan kanssa neurokirjon nuorten vertaisryhmän. 
 
-Maksuttoman harrasteryhmän kokoontuminen on kerran kuukaudessa yleensä lauantaisin n.klo 13-16. Välillä olemme Ahjolan tyttöjen ja poikien tuvalla osoitteessa Pispalan Valtatie 45 ja välillä lähdemme yhdessä tutustumaan harrastuspaikkoihin. Jokaisen tapaamisen kesto on n. 3h/ tapaaminen, mutta paikalla ei tarvitse olla kuin sen ajan minkä haluaa.
+Maksuttoman vertaistukiryhmän kokoontuminen on kerran kuukaudessa lauantaisin n.klo 14-17.
+Syksyn ja alkutalven tapaamispäivät ovat lauantaisin 19.8., 16.9., 21.10., 18.11. ja 16.12. klo 14-17. 🙂 
 
-Ryhmä on avoin uusille nuorille ja se on maksuton.
+Lisätietoja ryhmästä sekä mainoksen saa suoraan minulta viestillä p.0409349954 tai sähköpostilla niina@neppari.net.
 
-Ryhmätoiminta yhdistää vertaistuen ja toiminnallisuuden. Nuoret suunnittelevat ohjaajan avulla yhteistä tekemistä kokoontumiskerroille (esim. liikunta - ja harrastuskokeilut, kokkaus, käsityöt, tutustumiskäynnit). Ryhmän ohjaajaa on mahdollista tavata rauhassa ennen toiminnan alkua.
+Tapaamispaikkana toimii Ahjolan tyttöjen ja poikien tupa osoitteessa Pispalan Valtatie 45.
 
-Kysy lisää ja ilmoittaudu: niina@neppari.net
+Jokaisen tapaamisen kesto on 3h/ tapaaminen, mutta paikalla ei tarvitse olla kuin sen ajan minkä haluaa.
 
-_”Ryhmä on tarkoitettu 13-17-vuotiaille nepsy-nuorille, jotta he saavat kokea vertaisuutta ja normaaliutta sekä toteuttaa itseään ja tutustua uusiin harrastusmuotoihin itselleen sopivalla tavalla. Vertaisuus mahdollistaa kokemusten normalisoinnin muistuttamalla nuorille, että he eivät ole kokemustensa kanssa yksin. Vertaistuki antaa myös perspektiiviä erilaisista selviytymiskeinoista ja auttaa ymmärtämään, että vaikeat kokemukset ovat osa yleisinhimillistä kokemusten kirjoa ja kaikesta selvitään. Normaaliuden kokemus tarkoittaa myös sitä, että nuoret eivät joudu selittelemään itseään ja erilaisuuttaan, sillä ryhmässä jokainen ymmärtää ja kohtaa avoimesti erilaisuutta. Näin nepsy-nuoren energia ja keskittyminen eivät kulu selviytymiseen vaan he voivat aidosti nauttia tilanteesta, toisistaan, itsestään sekä ryhmän toiminnoista. Neurokirjolle valtaväestön normit ja automaattiset tavat ovat usein vaikeita ja neuronuoret joutuvat navigoimaan jatkuvasti selvitäkseen erilaisista tilanteista. Tämän ryhmän tarkoitus on olla levähdyspaikka ja keidas, jossa nuori saa olla juuri sellainen kuin on ja ilmaista itseään omanlaisella osallisuudella sekä niillä resursseilla ja kyvyillä mitä hänellä juuri sillä hetkellä on käytössään. Nuoret suunnittelevat itse toiminnan ja saavat vaikuttaa tapaamisaikoihin, tapaamispaikkaan, välipaloihin jne. Näin nuorille tarjotaan paikka autonomian vahvistamiseen sekä ympäristön muokkaamiseen ja hallintaan. Uusiin harrastuksiin tutustuminen laajentaa nuorten perspektiiviä ja mahdollisuuksista, vaihtoehdoista sekä siitä, mikä kaikki heitä voisi kiinnostaa nyt ja tulevaisuudessa.”_ -Ohjaaja Niina Piira, ratkaisukeskeinen nepsy-valmentaja-
+Ryhmä on avoin kaikille 13-18-v nuorille, jotka kokevat kuuluvansa neurokirjoon.
+
+Ryhmä on maksuton.
+
+Ryhmätoiminta yhdistää vertaistuen ja toiminnallisuuden. 
+Nuoret suunnittelevat ohjaajan avulla yhteistä tekemistä kokoontumiskerroille (esim. harrastuskokeilut, kokkaus, käsityöt). 
+
+Ryhmän ohjaajaa on mahdollista tavata rauhassa ennen toiminnan alkua.
+
+> Kysy lisää ja ilmoittaudu: niina@neppari.net tai viestillä puh.0409349954.
+
+_”Ryhmä on tarkoitettu 13-18-vuotiaille nepsy-nuorille, jotta he saavat kokea vertaisuutta ja normaaliutta sekä toteuttaa itseään ja tutustua muihin nuoriin ja itseä kiinnostaviin asioihin neurokirjolle sopivalla tavalla. 
+
+_Vertaisuus mahdollistaa kokemusten normalisoinnin muistuttamalla nuorille, että he eivät ole kokemustensa kanssa yksin. Vertaistuki antaa myös perspektiiviä erilaisista selviytymiskeinoista ja auttaa ymmärtämään, että vaikeat kokemukset ovat osa yleisinhimillistä kokemusten kirjoa ja kaikesta selvitään. Normaaliuden kokemus tarkoittaa myös sitä, että nuoret eivät joudu selittelemään itseään, sillä ryhmässä jokainen ymmärtää ja kohtaa avoimesti ihmisten moninaisuutta. Näin nepsy-nuoren energia ja keskittyminen eivät kulu selviytymiseen vaan he voivat aidosti nauttia tilanteesta, toisistaan, itsestään sekä ryhmän toiminnoista. 
+
+_Neurokirjolle valtaväestön normit ja automaattiset tavat ovat usein vaikeita ja neuronuoret joutuvat navigoimaan jatkuvasti selvitäkseen erilaisista tilanteista. Tämän ryhmän tarkoitus on olla levähdyspaikka ja keidas, jossa nuori saa olla juuri sellainen kuin on ja ilmaista itseään omanlaisella osallisuudella sekä niillä resursseilla ja kyvyillä mitä hänellä juuri sillä hetkellä on käytössään. Nuoret suunnittelevat itse toiminnan ja saavat vaikuttaa tapaamisaikoihin, tapaamispaikkaan, välipaloihin jne. Näin nuorille tarjotaan paikka autonomian vahvistamiseen sekä ympäristön muokkaamiseen ja hallintaan. Uusiin harrastuksiin tutustuminen laajentaa nuorten perspektiiviä ja mahdollisuuksista, vaihtoehdoista sekä siitä, mikä kaikki heitä voisi kiinnostaa nyt ja tulevaisuudessa.”_ -Ohjaaja Niina Piira, ratkaisukeskeinen nepsy-valmentaja-
 
 ___
 
