@@ -154,7 +154,7 @@ ___
 
 Paljon on kehittämistä edelleen, mutta onnistumisia on saavutettu paljon vuosien varrella. =)
 
-Palautteita yksilötyöskentelystä:
+### Palautteita yksilötyöskentelystä:
 
 >
 >_"Ihan huippua, että olet perustanut Nepparin ja että teet tätä työtä! Sulla on todella inhimillinen ja kannustava ote työhön ja oli ihana nähdä, miten tykkäät työstäsi ja olet siitä innoissasi. Se tarttuu!"_
