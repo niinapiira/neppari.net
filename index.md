@@ -60,18 +60,6 @@ Autan sinua löytämään tarvitsemasi etuudet, tukipalvelut, apuvälineet ja ve
 
 Nepparissa saat mahdollisuuden tutustua itseesi syvällisemmin ja rakentaa uutta/vahvempaa pohjaa itsetunnolle ja itsetuntemukselle sekä sen myötä koko elämälle ja arjen hallinnalle.
 
-
-___
-
-##  Kevään 2023 Nepparin nepsy-kurssi vanhemmille, joilla on kouluikäisiä neurokirjon lapsia tai nuoria!  
-
-Valitettavasti suuren suosion saanut matalan kynnyksen nepsy-kurssi on jouduttu perumaan tältä keväältä, mutta toivon mukaan syksyllä kurssi jatkuu jälleen.
-
-Tältä kurssilta saat tietoa neuropsykiatrisista peruspulmista, keinoja niiden helpottamiseksi sekä vertaistukea ja vinkkejä erilaisiin tukimuotoihin. Kurssin vetäjä, ratkaisukeskeinen nepsy-valmentaja, käy läpi yleisimpiä pulmia neurokirjolla sekä tarjoaa näkemyksiä ja keinoja haasteiden helpottamiseen. Ryhmän kesken jaetaan myös vertaistukea sekä omia kokemuksia ja viimeinen kurssikerta varataan kurssilaisten toiveiden pohjalta sovituille teemoille. Ryhmä on suunnattu vanhemmille, joilla on kouluikäisiä nepsy-lapsia ja -nuoria.
-
-Ryhmä kokoontuu yleensä joka 2. viikko 6 tapaamiskertaa aina klo 17:30-20:00. Paikkana toimii Ahjolan tilat Pispalassa osoitteessa Erämiehenkatu 10. Osoitteessa Päivölänkatu 1 sekä Haulikadulta löytyy ilmaisia parkkipaikkoja yleensä.
-
-
 ___
 
 ## Vertaistukiryhmä 13-18-vuotiaille nepsy-nuorille!
@@ -102,6 +90,15 @@ _Vertaisuus mahdollistaa kokemusten normalisoinnin muistuttamalla nuorille, ett�
 
 _Neurokirjolle valtaväestön normit ja automaattiset tavat ovat usein vaikeita ja neuronuoret joutuvat navigoimaan jatkuvasti selvitäkseen erilaisista tilanteista. Tämän ryhmän tarkoitus on olla levähdyspaikka ja keidas, jossa nuori saa olla juuri sellainen kuin on ja ilmaista itseään omanlaisella osallisuudella sekä niillä resursseilla ja kyvyillä mitä hänellä juuri sillä hetkellä on käytössään. Nuoret suunnittelevat itse toiminnan ja saavat vaikuttaa tapaamisaikoihin, tapaamispaikkaan, välipaloihin jne. Näin nuorille tarjotaan paikka autonomian vahvistamiseen sekä ympäristön muokkaamiseen ja hallintaan. Uusiin harrastuksiin tutustuminen laajentaa nuorten perspektiiviä ja mahdollisuuksista, vaihtoehdoista sekä siitä, mikä kaikki heitä voisi kiinnostaa nyt ja tulevaisuudessa.”_ -Ohjaaja Niina Piira, ratkaisukeskeinen nepsy-valmentaja-
 
+___
+
+##  Kevään 2023 Nepparin nepsy-kurssi vanhemmille, joilla on kouluikäisiä neurokirjon lapsia tai nuoria!  
+
+Valitettavasti suuren suosion saanut matalan kynnyksen nepsy-kurssi on jouduttu perumaan tältä keväältä, mutta toivon mukaan syksyllä kurssi jatkuu jälleen.
+
+Tältä kurssilta saat tietoa neuropsykiatrisista peruspulmista, keinoja niiden helpottamiseksi sekä vertaistukea ja vinkkejä erilaisiin tukimuotoihin. Kurssin vetäjä, ratkaisukeskeinen nepsy-valmentaja, käy läpi yleisimpiä pulmia neurokirjolla sekä tarjoaa näkemyksiä ja keinoja haasteiden helpottamiseen. Ryhmän kesken jaetaan myös vertaistukea sekä omia kokemuksia ja viimeinen kurssikerta varataan kurssilaisten toiveiden pohjalta sovituille teemoille. Ryhmä on suunnattu vanhemmille, joilla on kouluikäisiä nepsy-lapsia ja -nuoria.
+
+Ryhmä kokoontuu yleensä joka 2. viikko 6 tapaamiskertaa aina klo 17:30-20:00. Paikkana toimii Ahjolan tilat Pispalassa osoitteessa Erämiehenkatu 10. Osoitteessa Päivölänkatu 1 sekä Haulikadulta löytyy ilmaisia parkkipaikkoja yleensä.
 ___
 
 ## Suunnitteilla: Etäkurssi nepsylasten ja -nuorten vanhemmille
