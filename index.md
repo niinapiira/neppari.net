@@ -50,7 +50,7 @@ Nepparissa sinulla on käytössäsi vahva ammattitaitoni sekä moninainen osaami
 
 Tarkoituksenani on tarjota sinulle vahvaa tukea arkeesi, työhösi ja omanlaisen elämänpolun toteuttamiseen.
 
-Tavoitteenani on auttaa jokaista nepsy-henkilöä sekä heidän kanssaan toimivia saamaan ainekset itsensä näköiseen ja hyvään elämään sekä saamaan ymmärrystä ja hyväksyntää ainutlaatuisena ja arvokkaana yksilönä.
+> Tavoitteenani on auttaa jokaista nepsy-henkilöä sekä heidän kanssaan toimivia saamaan ainekset itsensä näköiseen ja hyvään elämään sekä saamaan ymmärrystä ja hyväksyntää ainutlaatuisena ja arvokkaana yksilönä.
 
 Nepparissa jokainen ihminen on ennen kaikkea yksilö ja ainutlaatuinen persoona, joten käytän aikaani ja taitoani tutustuakseni yksilölliseen tapaasi hahmottaa maailmaa ja elämää. Nepparissa tulet kohdatuksi terapeuttisen ja neuropsykiatrisen tuntemukseni ja -ymmärrykseni kautta, jolloin otan huomioon kaikki erityispiirteesi, tarpeesi ja niiden luomat vaatimukset.
 
