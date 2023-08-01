@@ -206,7 +206,7 @@ Paljon on kehittämistä edelleen, mutta onnistumisia on saavutettu paljon vuosi
 >
 > _"Huippu tyyppi!"_
 
-Palautteita ryhmätyöskentelystä:
+### Palautteita ryhmätyöskentelystä:
 
 > _"Ryhmä on auttanut omien erityispiirteiden tunnistamisessa ja hyväksymisessä, ja siten vahvistanut oman identiteetin kasvua positiivisessa hengessä."_
 >
@@ -227,7 +227,7 @@ Palautteita ryhmätyöskentelystä:
 > _"Myötätuntoisen suhtautumisen opettelu autismin kirjon piirteisiin on helpottanut niin nuoren kuin vanhemman tuntemaa syyllisyyttä hankalissa arkitilanteissa."_
 >
 
-Koulutuspalautteita:
+### Koulutuspalautteita:
 
 > _"Erittäin hyvä koulutus ja oleellista asiaa kouluttaja osasi kertoa."_
 >
@@ -237,7 +237,7 @@ Koulutuspalautteita:
 >
 > _"Oikein kattava kokonaisuus!"_
 
-Vanhempainkurssin palautteita:
+### Vanhempainkurssin palautteita:
 
 >_"Opin arkeen ja jaksamiseen uusia juttuja, paljon hyviä käytäntöja ja teoriaa niiden takana sekä uusia faktoja."_
 >
