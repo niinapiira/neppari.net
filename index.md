@@ -99,6 +99,7 @@ Valitettavasti suuren suosion saanut matalan kynnyksen nepsy-kurssi on jouduttu 
 Tältä kurssilta saat tietoa neuropsykiatrisista peruspulmista, keinoja niiden helpottamiseksi sekä vertaistukea ja vinkkejä erilaisiin tukimuotoihin. Kurssin vetäjä, ratkaisukeskeinen nepsy-valmentaja, käy läpi yleisimpiä pulmia neurokirjolla sekä tarjoaa näkemyksiä ja keinoja haasteiden helpottamiseen. Ryhmän kesken jaetaan myös vertaistukea sekä omia kokemuksia ja viimeinen kurssikerta varataan kurssilaisten toiveiden pohjalta sovituille teemoille. Ryhmä on suunnattu vanhemmille, joilla on kouluikäisiä nepsy-lapsia ja -nuoria.
 
 Ryhmä kokoontuu yleensä joka 2. viikko 6 tapaamiskertaa aina klo 17:30-20:00. Paikkana toimii Ahjolan tilat Pispalassa osoitteessa Erämiehenkatu 10. Osoitteessa Päivölänkatu 1 sekä Haulikadulta löytyy ilmaisia parkkipaikkoja yleensä.
+
 ___
 
 ## Suunnitteilla: Etäkurssi nepsylasten ja -nuorten vanhemmille
