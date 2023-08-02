@@ -28,8 +28,9 @@ Tämän hetkisiä nepsy-koulutuspakettejani ovat mm.:
 * Perustietoa neuropsykiatrisista diagnooseista
 * Hyvän kuntoutuksen lähtökohtia
 * Valmentavan työoteen vahvuuksia
-* Ratkaisukeskeisyydestä voimaa
-* Toimiva tavoitteenasettelu
+* Ratkaisukeskeisyys työtapana
+* Voimauttava vanhemmuus nepsy-perheessä
+* Tavoitteista totta
 * Voimauttavaa vuorovaikutusta
 * Tunnetaidot toimiviksi
 * Unelmatyöskentelyllä alkuun
@@ -38,8 +39,10 @@ Tämän hetkisiä nepsy-koulutuspakettejani ovat mm.:
 * Stressi seis
 * Mielen hallintaa
 * Argession ehkäisy
+* Haastava käytös hallintaan
+* Helpompaa arkea
 * Motivaatiota työskentelyyn
-* Oppiminen osana elämää
+* Oppiminen onnistumaan koulussa
 * Luovia ja toiminnallisia menetelmiä
 
 Paketteja voi tilata joko erikseen tai kokoamalla niistä sopivan kokonaisuuden. Hinta sovitaan erikseen ja se koostuu mm. koulutuksen kestosta, matkakustannuksista, materiaaleista sekä mahdollisesta arvonlisäverosta.
