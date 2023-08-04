@@ -110,7 +110,7 @@ Nuoret kaipaavat usein yhtä aikaa tarpeeksi vahvaa ohjausta tuomaan turvaa, sek
 
 ### 2 Vapaaehtoisuus ja luonnollisuus
 
-Ryhmä toimii vapaaehtoisuuden periaatteella ja jokainen osallistuu siihen omista lähtökohdistaan käsin: omalla panoksellaan, omalla tavallaan ja niin kuin itse hyväksi kokee. Vapaaehtoisuus ja vertaistuellisuus pystyvät onnistumaan vain, jos ryhmästä saadaan jokaiselle mieluisa, palkitseva tai hyödyllinen. Nepsy-nuorten kanssa rohkaisua, kannustusta, hyvää palautetta ja onnistumisten huomioimista ei varmaan voi tehdä liikaa, joten niitä viljellään aina mahdollisuuksien mukaan. Nepsy-nuorten on erityisen tärkeää pystyä rentoutumaan tällaisessa toiminnassa, jotta he pystyvät ottamaan vastaan niitä hyötyjä mitä ryhmä tarjoaa. Jotta nuori ei olisi puolustusmoodissa kovan stressin ja jännityksen takia, panostetaan ryhmässä rentoutumiseen paljon.
+Ryhmä toimii vapaaehtoisuuden periaatteella ja jokainen osallistuu siihen omista lähtökohdistaan käsin: omalla panoksellaan, omalla tavallaan ja niin kuin itse hyväksi kokee. Vapaaehtoisuus ja vertaistuellisuus pystyvät onnistumaan vain, jos ryhmästä saadaan jokaiselle mieluisa, palkitseva tai hyödyllinen. Nepsy-nuorten kanssa rohkaisua, kannustusta, hyvää palautetta ja onnistumisten huomioimista ei varmaan voi tehdä liikaa, joten niitä viljellään aina mahdollisuuksien mukaan. Nepsy-nuorten on erityisen tärkeää pystyä rentoutumaan tällaisessa toiminnassa, jotta he pystyvät ottamaan vastaan niitä hyötyjä mitä ryhmä tarjoaa. Jotta nuori ei olisi puolustusmoodissa kovan stressin ja jännityksen takia, panostetaan ryhmässä rentoutumiseen monesta eri näkökulmasta käsin.
 
 ### 3 Pienryhmä
 
