@@ -91,6 +91,7 @@ _Vertaisuus mahdollistaa kokemusten normalisoinnin muistuttamalla nuorille, ett�
 _Neurokirjolle valtaväestön normit ja automaattiset tavat ovat usein vaikeita ja neuronuoret joutuvat navigoimaan jatkuvasti selvitäkseen erilaisista tilanteista. Tämän ryhmän tarkoitus on olla levähdyspaikka ja keidas, jossa nuori saa olla juuri sellainen kuin on ja ilmaista itseään omanlaisella osallisuudella sekä niillä resursseilla ja kyvyillä mitä hänellä juuri sillä hetkellä on käytössään. Nuoret suunnittelevat itse toiminnan ja saavat vaikuttaa tapaamisaikoihin, tapaamispaikkaan, välipaloihin jne. Näin nuorille tarjotaan paikka autonomian vahvistamiseen sekä ympäristön muokkaamiseen ja hallintaan. Uusiin harrastuksiin tutustuminen laajentaa nuorten perspektiiviä ja mahdollisuuksista, vaihtoehdoista sekä siitä, mikä kaikki heitä voisi kiinnostaa nyt ja tulevaisuudessa.”_ 
 -Ohjaaja Niina Piira, ratkaisukeskeinen nepsy-valmentaja-
 
+Lue lisää ryhmästä [blogistani!](https://www.neppari.net/blogi/ammatillisesti-ohjattu-vertaistukiryhma-nuorille/) 
 ___
 
 ##  Kevään 2023 Nepparin nepsy-kurssi vanhemmille, joilla on kouluikäisiä neurokirjon lapsia tai nuoria!  
