@@ -3,14 +3,15 @@ published: true
 page-title: 'Ammatillisesti ohjattu vertaistukiryhmä nepsy-nuorille'
 ---
 
+![Välipalatarjoilu ryhmässä]({{site.baseurl}}/uploaded-images/valipalatarjoilu-nuorten-ryhmassa.jpeg)
+
 Neppari on toteuttanut yhteistyössä Ahjolan kanssa melkein koko viimeisen vuoden ajan vertaistukiryhmän 13-18-vuotiaille nuorille, jotka kokevat olevansa neurokirjolla. Ryhmä jatkuu tänä syksynä 2023 ja siihen otetaan mukaan lisää nuoria. Ryhmä pyritään kuitenkin pitämään kohtuullisen kokoisena, jotta jokaiselle mahdollistuu turvallinen ja rento olo. Luottamuksellisuus on tärkeä elementti ryhmässä, jotta jokainen uskaltaa puhua itselle tärkeistä aiheista ja jotta jokainen saa kokea tulevansa hyväksytyksi ja arvostetuksi omana itsenään.
 
 Ryhmä toimintakautena 2022-23 tutustuimme alkuun rauhassa toisiimme, kävimme läpi nuorten toiveita ryhmän sisällöstä ja suunnittelimme keväälle valmiiksi ohjelmaa, kuuntelimme nuorten lempi musiikki, maalailimme ja piirtelimme, kokeilimme rentoutusta, opettelimme koreaa, keskustelimme nuorille tärkeistä aiheista, pelailimme lautapelejä, kävimme kissakahvilassa, teimme käsitöitä, kävimme keilaamassa, järjestimme keskustelupaneelin aikuisten neurokirjon kokemusasiantuntijoiden kanssa, kokkailimme ja ennen kaikkea nautimme yhdessä olosta.
 
 Syksyllä 2023 haaveissa on kokeilla mm. luovaa kirjoittamista yhdessä, kokkailla tai leipoa ja ehkä pelailla. Lisää ideoita otetaan vastaan ensimmäisessä tapaamisessa lauantaina 19.8. ja ohjelma eli tapaamisten sisältö lyödään silloin lukkoon. 
 
-
-## RYHMÄN SÄÄNNÖT
+## Ryhmän säännöt
 
 Olemme yhdessä nuorten kanssa suunnitelleet tapaamisten sisällön ja ajankohtien lisäksi ryhmälle säännöt sekä tarjolla olevat välipalat. 
 
@@ -19,12 +20,12 @@ Ryhmässä jokainen saa olla vapaasti oma itsensä, missä haluaa, miten haluaa,
 Sääntöjä päivitetään ja tarkennetaan aina tarpeen mukaan, kun joku keksii tärkeän huomion koskien ryhmää.
 
 
-## VÄLIPALATARJOILU
+## Välipalatarjoilu
 
 Ryhmässä on aina tarjolla välipalaa, jotta jokaisen jaksaminen ja verensokeri pysyy mahdollisimman hyvänä. Jos ryhmässä on aistiherkkiä, rajataan välipala ryhmän alkuun ja loppuun ja ohjelman aikana ei syödä. Jos ruokailu ei ole ongelma kenellekään nuorelle, on välipala tarjolla koko ryhmän ajan ja sitä saa vapaasti nauttia missä vaiheessa vain ryhmää. Välipalan on aina ollut hedelmiä, jotain suolaista (sipsiä, popcornia tai suolakeksiä), mehua, vissyä, kahvia ja teetä, jotain makeaa (pullaa, keksiä tms.) sekä karamelliä tai suklaata. Toiveita ja ideoita välipalojenkin suhteen otetaan ilolla vastaan nuorilta.
 
 
-## PALAUTTEET TALVESTA JA KEVÄÄSTÄ 2022-23
+## Palautteet talvesta ja keväästä 2022-23
 
 Jokaiselta nuorelta kysytään tapaamisten jälkeen palaute tapaamisesta ja ideoita seuraavia tapaamisia varten, jotta ryhmä pysyy koko ajan varmasti nuorten näköisenä ja sisältöisenä. 
 
@@ -48,7 +49,7 @@ Vanhemmilleen nuoret ovat puhuneet ryhmästä ainakin jonkin verran, osa paljonk
 Ryhmän alkaessa suurin osa vastanneista vanhemmista kertoi, ettei monellakaan nuorella ollut vielä kokemusta vertaisten kanssa toimimisesta, ja että nuori on selkeästi kaivannut toimintaa sekä seuraa. Kaikki vanhemmat kokivat, että heidän nuorensa tarvitsee toimintakykyä edistävää toimintaa (esimerkiksi uusia kokemuksia, kotoa lähtemistä, sosiaalista kanssakäymistä) sekä nimenomaan ammatillisesti ohjattua yksilöllistä tukea tähän. 
 
 
-## MIKSI TÄLLAINEN RYHMÄ?
+## Miksi tällainen ryhmä?
 
 Koko valmentaja urani alun ajan olin pohtinut neurokirjon nuorten tarvetta saada kuulua ryhmään, olla yhteyksissä toistensa kanssa sekä saada kokea iloa omanlaisesta osallistumisesta sosiaalisiin tilanteisiin. Olin vuorovaikutuksen ammattilaisena huomannut pääseväni helposti sisään mm. autisminkirjon nuorten maailmaan ja saavani sieltä käsin luotua vahvoja yhteyksiä ja suhteita. Ryhmiä jo vetäneenä innostuin perhevapailta palattuani etsimään jälleen yhteistyökumppania uuden nuorten ryhmän perustamiseen ja sain Ahjolan upean väen mukaani tähän tärkeään työhön.
 
@@ -63,6 +64,7 @@ Turvallinen ryhmä mahdollistaa myös mukavan kokemuksen uusista asioista ja ihm
 Olemme pyrkineet tarjoamaan nuorille luonnollisen ja elämän makuisen ryhmän, jossa sosiaalinen rohkeus ja itsetunto vahvistuvat turvallisen ammattiohjaajan, kokemusasiantuntijana toimivan apuohjaajan ja kannustavan vertaistuen voimin. Näin ryhmä toimii ponnahduslautana myös muihin sosiaalisiin tilanteisiin, esim. uuteen harrastukseen tai ryhmätoimintaan, jatko-opintoihin ja muihin ihmissuhteisiin.
 
 ### Ryhmässä korostuvia elementtejä lyhyesti:
+
 -	Ryhmä toteutetaan vertaisryhmä-periaatteella, joten nuoret saavat itse suunnitella (ohjaajien tuella ja avulla) ryhmän sisällön, tapaamisajat ja –paikat, keston yms.
 -	Ohjaajien tuki on ryhmässä vahvaa, mutta tarpeenmukaista. Me ohjaajat hoidamme mm. käytännön järjestelyt sekä organisoinnin ja ohjaamme ryhmän dynamiikkaa ja järjestelyitä.
 -	Ryhmä tarjoaa ystäviä, seuraa, tekemistä, tilaisuuden harjoitella sosiaalisia taitoja, turvallisen ammattiohjaajan ja kannustavan vertaistuen. 
@@ -80,7 +82,7 @@ Olemme pyrkineet tarjoamaan nuorille luonnollisen ja elämän makuisen ryhmän, 
 -	Tärkeintä oli saada tulla kohdatuksi, hyväksytyksi ja arvostetuksi täysin sellaisena kuin on, myös neurokirjon piirteineen.
 
 
-## RYHMÄTOIMINNAN TAVOITTEET
+## Ryhmätoiminnan tavoitteet
 
 Syrjäytymisen ehkäisy, toimintakyvyn ylläpito sekä edistäminen.
 Ennaltaehkäisevää sekä korjaavaa, matalan kynnyksen vertaistukitoimintaa, jossa myös tavoitteellinen ja ammatillinen ohjaus sekä tuki.
@@ -98,7 +100,7 @@ Oman toimijuuden hahmottaminen ja itsetuntemuksen lisääminen.
 Nepsy-tietoa, ymmärrystä ja näkökulmaa sekä tukea! 
 
 
-## RYHMÄN TOTEUTUS JA IDEOLOGIAT TAUSTALLA
+## Ryhmän toteutus ja ideologiat taustalla
 
 ### 1 Nuorten autonomian tukeminen ammatillisella ohjauksella
 
@@ -142,8 +144,6 @@ Sosiaalinen toimintakyky kehittyy tietysti sosiaalisissa tilanteissa, joten kaik
 Olemme panostaneet ryhmässä itseen ja toisiin tutustumiseen, yksilöllisyyteen ja hyväksymiseen sekä jokaisen vahvuuksien korostamiseen. Näin jokainen on saanut loistaa omana itsenään ja saanut kannustusta ja hyväksyntää muilta. 
 
 Pääpointti ryhmässä on siis ollut itsensä hyväksyminen sellaisena kuin. Kun tietää missä on ja hyväksyy tilanteensa vertaistuen voimin, on siitä hyvä lähteä ponnistamaan elämässä siihen suuntaan kuin itse toivoo. Toisten ryhmäläisten kannustuksen ja hyväksynnän avulla on helpompi nähdä omat vahvuudet ja ainutlaatuisuuden. Kenenkään ei tarvitse tehdä ryhmässä mitään mitä ei halua, eikä ryhmässä ole pakko olla, jos ei halua. Jokainen osallistuu ryhmään omalla tavallaan, omalla panoksellaan, itsensä näköisesti ja omasta mukavuusalueestaan käsin. Erilaiset nuoret toivat jokainen ryhmään omia puoliaan, jolloin toimintakin muotoutui sopivasti vaihtelevaksi. Liikunnalliset nuoret toivat liikkumista ja liikunnallisuutta, pohtivat nuoret keskustelua ja ajatusten sekä kokemusten vaihtoa, vaikeuksia kokeneet nuoret keinoja!
-
-![Välipalatarjoilu ryhmässä]({{site.baseurl}}/uploaded-images/valipalatarjoilu-nuorten-ryhmassa.jpeg)
 
 selviytyä ja uskoa tulevaisuuteen, älykkyydellään loistavat nuoret ajankohtaisia asioita yhteiskunnasta sekä tietämystä historiasta ja hiljaiset nuoret rauhallisuutta sekä toisten huomioon ottamista.
 
