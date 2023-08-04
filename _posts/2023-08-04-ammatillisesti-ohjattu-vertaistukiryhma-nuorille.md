@@ -79,7 +79,7 @@ Olemme pyrkineet tarjoamaan nuorille luonnollisen ja elämän makuisen ryhmän, 
 -	Ryhmässä tarjotaan myös nepsy-tietoa, ymmärrystä, hyväksyntää ja uusia näkökulmia sekä tukea. Kaikkia kuunnellaan ja jokaisen mielipide on tärkeä.
 -	Ohjaajat työskentelevät ryhmäläisten motivaation kanssa, herättävät kiinnostusta sekä mahdollistavat osallistumisen huomioimalla ja ratkaisemalla osallistumisen esteitä.
 -	Joka tapaamisen jälkeen pohditaan tapaamisen hyötyjä ja sen tuomia oppimiskokemuksia.
--	Tärkeintä oli saada tulla kohdatuksi, hyväksytyksi ja arvostetuksi täysin sellaisena kuin on, myös neurokirjon piirteineen.
+-	Tärkeintä on saada tulla kohdatuksi, hyväksytyksi ja arvostetuksi täysin sellaisena kuin on, myös neurokirjon piirteineen.
 
 
 ## Ryhmätoiminnan tavoitteet
