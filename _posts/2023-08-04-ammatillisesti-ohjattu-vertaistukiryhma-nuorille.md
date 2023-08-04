@@ -100,7 +100,7 @@ Olemme pyrkineet tarjoamaan nuorille luonnollisen ja elämän makuisen ryhmän, 
 - Nepsy-tietoa, ymmärrystä ja näkökulmaa sekä tukea! 
 
 
-## Ryhmän toteutus ja ideologiat taustalla
+## Ideologiat ryhmän taustalla
 
 ### 1 Nuorten autonomian tukeminen ammatillisella ohjauksella
 
