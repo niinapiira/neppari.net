@@ -33,7 +33,7 @@ Nuorten palautteissa on näkynyt heidän ilonsa siitä, kuinka ryhmässä kaikki
 
 Myös nuorten vanhemmilta on kysytty ryhmän alussa ja keväällä ajatuksia. 
 Vanhemmilleen nuoret ovat puhuneet ryhmästä ainakin jonkin verran, osa paljonkin, ja aina kehuen. Jokainen vastannut vanhempi on kokenut nuoren hyötyneen ryhmästä, osa paljonkin, osa jonkin verran. Vanhemmat kuvailivat hyötyjä mm. seuraavasti:
--	Vertaistuella on suuri merkityksellä
+-	Vertaistuella on suuri merkitys
 -	Nuori on kokenut yhteenkuuluvuuden tunnetta kaltaistensa parissa
 -	Nuori tuntee, ettei ole ainoa, jolla haasteita arjessa kaikkine kirjoineen
 -	Nuorella on kokemus siitä, että hänellä on joku oma paikka
