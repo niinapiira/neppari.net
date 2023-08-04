@@ -102,7 +102,7 @@ Olemme pyrkineet tarjoamaan nuorille luonnollisen ja elämän makuisen ryhmän, 
 
 ## Ideologiat ryhmän taustalla
 
-### 1 Nuorten autonomian tukeminen ammatillisella ohjauksella
+### 1 Nuorten autonomian tukeminen ammatillisesti ja kokemusasiantuntemuksella
 
 Ryhmä toteutetaan vertaisryhmä-periaatteella, jotta nuoret saavat itse suunnitella (ohjaajan tuella ja avulla) ryhmän sisällön, tapaamisajat ja –paikat, keston yms. Näin ryhmässä huomioidaan konkreettisesti ja yksilöllisesti nuorten tarpeet ja vaatimukset, sekä toiveet ja mahdollisuudet. Samalla nuoret saavat harjoittaa ryhmässä toimimisen periaatteita, harjoitella toisten huomioimista, joustamista, suunnittelemista sekä vastuunottoa. Ohjaajan tuki on ryhmässä vahvaa, mutta tarpeenmukaista. Ohjaaja hoitaa päävaastullisesti tapaamisten vaatimat käytännön järjestelyt sekä organisoinnin, jotta nuoret saavat keskittyä omiin haasteisiinsa ja ryhmässä toimimiseen. Nuoret saavat olla halutessaan mukana käytännön järjestelyissä ja auttavat usein esim. välipalan laittamisessa.
 
