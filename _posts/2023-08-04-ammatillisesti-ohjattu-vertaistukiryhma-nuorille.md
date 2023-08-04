@@ -41,8 +41,8 @@ Vanhemmilleen nuoret ovat puhuneet ryhmästä ainakin jonkin verran, osa paljonk
 -	Nuori on tykännyt jutteluista
 -	Nuori on saanut kontakteja uusiin ihmisiin
 -	Ryhmässä on mahdollisuus tasa-vertaisiin kohtaamisiin
--	Ryhmä on ollut ainoa paikka, mihin nuori voi mennä sellaisena kuin on (esim. myöhässä).
--	Ryhmän ansiosta nuori on vihdoin hyväksynyt olevansa kirjolla ja on jopa ylpeä siitä.
+-	Ryhmä on ollut ainoa paikka, mihin nuori voi mennä sellaisena kuin on (esim. myöhässä)
+-	Ryhmän ansiosta nuori on vihdoin hyväksynyt olevansa kirjolla ja on jopa ylpeä siitä
 -	Kirjon piirteet ovat avautuneet nuorelle ja siksi valtavasti hyötyä
 -	Sosiaaliset suhteet ja keskustelu on koettu tärkeäksi
 Ryhmän alkaessa suurin osa vastanneista vanhemmista kertoi, ettei monellakaan nuorella ollut vielä kokemusta vertaisten kanssa toimimisesta, ja että nuori on selkeästi kaivannut toimintaa sekä seuraa. Kaikki vanhemmat kokivat, että heidän nuorensa tarvitsee toimintakykyä edistävää toimintaa (esimerkiksi uusia kokemuksia, kotoa lähtemistä, sosiaalista kanssakäymistä) sekä nimenomaan ammatillisesti ohjattua yksilöllistä tukea tähän. 
