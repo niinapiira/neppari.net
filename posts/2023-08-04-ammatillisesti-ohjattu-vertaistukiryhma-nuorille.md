@@ -1,8 +1,7 @@
 ---
-published: false
+published: true
 page-title: 'Ammatillisesti ohjattu vertaistukiryhmä nepsy-nuorille '
 ---
-## Ammatillisesti ohjattu vertaistukiryhmä nepsy-nuorille 
 
 Neppari on toteuttanut yhteistyössä Ahjolan kanssa melkein koko viimeisen vuoden ajan vertaistukiryhmän 13-18-vuotiaille nuorille, jotka kokevat olevansa neurokirjolla. Ryhmä jatkuu tänä syksynä 2023 ja siihen otetaan mukaan lisää nuoria. Ryhmä pyritään kuitenkin pitämään kohtuullisen kokoisena, jotta jokaiselle mahdollistuu turvallinen ja rento olo. Luottamuksellisuus on tärkeä elementti ryhmässä, jotta jokainen uskaltaa puhua itselle tärkeistä aiheista ja jotta jokainen saa kokea tulevansa hyväksytyksi ja arvostetuksi omana itsenään.
 
