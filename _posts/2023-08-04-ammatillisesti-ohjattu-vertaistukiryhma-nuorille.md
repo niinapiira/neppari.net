@@ -143,7 +143,7 @@ Olemme panostaneet ryhmässä itseen ja toisiin tutustumiseen, yksilöllisyyteen
 
 Pääpointti ryhmässä on siis ollut itsensä hyväksyminen sellaisena kuin. Kun tietää missä on ja hyväksyy tilanteensa vertaistuen voimin, on siitä hyvä lähteä ponnistamaan elämässä siihen suuntaan kuin itse toivoo. Toisten ryhmäläisten kannustuksen ja hyväksynnän avulla on helpompi nähdä omat vahvuudet ja ainutlaatuisuuden. Kenenkään ei tarvitse tehdä ryhmässä mitään mitä ei halua, eikä ryhmässä ole pakko olla, jos ei halua. Jokainen osallistuu ryhmään omalla tavallaan, omalla panoksellaan, itsensä näköisesti ja omasta mukavuusalueestaan käsin. Erilaiset nuoret toivat jokainen ryhmään omia puoliaan, jolloin toimintakin muotoutui sopivasti vaihtelevaksi. Liikunnalliset nuoret toivat liikkumista ja liikunnallisuutta, pohtivat nuoret keskustelua ja ajatusten sekä kokemusten vaihtoa, vaikeuksia kokeneet nuoret keinoja!
 
-[Välipalatarjoilu ryhmässä]({{site.baseurl}}/uploaded-images/IMG_3495.jpeg)
+![Välipalatarjoilu ryhmässä]({{site.baseurl}}/uploaded-images/valipalatarjoilu-nuorten-ryhmassa.jpeg)
 
 selviytyä ja uskoa tulevaisuuteen, älykkyydellään loistavat nuoret ajankohtaisia asioita yhteiskunnasta sekä tietämystä historiasta ja hiljaiset nuoret rauhallisuutta sekä toisten huomioon ottamista.
 
