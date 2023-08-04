@@ -75,7 +75,7 @@ Olemme pyrkineet tarjoamaan nuorille luonnollisen ja elämän makuisen ryhmän, 
 -	Ryhmässä keskitytään tekemiseen ja toimintaan sekä keskusteluun.
 -	Ryhmässä tuetaan jokaisen omannäköistä osallisuutta sekä itsensä ilmaisua.
 -	Ryhmän avulla pyritään myös tukemaan toimintakyvyn ylläpitoa ja edistämistä.
--	Vertaistuen muotoina hyödynnettiin ajatusten ja kokemusten jakamista, toisten auttamista, toisilta oppimista ja yhdessä tekemistä.
+-	Vertaistuen muotoina hyödynnetään mm. ajatusten ja kokemusten jakamista, toisten auttamista, toisilta oppimista ja yhdessä tekemistä.
 -	Ryhmässä tarjotaan myös nepsy-tietoa, ymmärrystä, hyväksyntää ja uusia näkökulmia sekä tukea. Kaikkia kuunnellaan ja jokaisen mielipide on tärkeä.
 -	Ohjaajat työskentelevät ryhmäläisten motivaation kanssa, herättävät kiinnostusta sekä mahdollistavat osallistumisen huomioimalla ja ratkaisemalla osallistumisen esteitä.
 -	Joka tapaamisen jälkeen pohditaan tapaamisen hyötyjä ja sen tuomia oppimiskokemuksia.
