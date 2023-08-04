@@ -84,20 +84,20 @@ Olemme pyrkineet tarjoamaan nuorille luonnollisen ja elämän makuisen ryhmän, 
 
 ## Ryhmätoiminnan tavoitteet
 
-Syrjäytymisen ehkäisy, toimintakyvyn ylläpito sekä edistäminen.
-Ennaltaehkäisevää sekä korjaavaa, matalan kynnyksen vertaistukitoimintaa, jossa myös tavoitteellinen ja ammatillinen ohjaus sekä tuki.
-Osallisuuden ja kokonaisvaltaisen hyvinvoinnin lisääminen sekä yhteisöllisyyden vahvistaminen.
-Sosiaalisten taitojen harjoittaminen ja tukeminen sekä sosiaalisten suhteiden tarjoaminen, mahdollistaminen ja tukeminen. 
-Tarjota ryhmätoimintaa nuorille, jotka eivät hyödy suurista ryhmistä.
-Tarjota tekemistä, ideoita, kokeiluja ja uusia kokemuksia.
-Tarjota ryhmän, kokemusasiantuntijan ja ammattilaisen tuki.
-Yksilöllisen ja vertaistuellisen tuen tarjoaminen perustuen ihmisen omaan kokemukseen.
-Monimuotoisen esteettömyyden edistäminen ja tasa-arvoisen osallisuuden mahdollistaminen. 
-Neurokirjon näköisen ryhmän mahdollistaminen. 
-Ryhmäytyminen, ystävystyminen ja verkostoituminen. 
-Itseen ja toisiin tutustuminen turvallisessa ja ymmärtävässä ilmapiirissä. 
-Oman toimijuuden hahmottaminen ja itsetuntemuksen lisääminen.
-Nepsy-tietoa, ymmärrystä ja näkökulmaa sekä tukea! 
+- Syrjäytymisen ehkäisy, toimintakyvyn ylläpito sekä edistäminen.
+- Ennaltaehkäisevää sekä korjaavaa, matalan kynnyksen vertaistukitoimintaa, jossa myös tavoitteellinen ja ammatillinen ohjaus sekä tuki.
+- Osallisuuden ja kokonaisvaltaisen hyvinvoinnin lisääminen sekä yhteisöllisyyden vahvistaminen.
+- Sosiaalisten taitojen harjoittaminen ja tukeminen sekä sosiaalisten suhteiden tarjoaminen, mahdollistaminen ja tukeminen. 
+- Tarjota ryhmätoimintaa nuorille, jotka eivät hyödy suurista ryhmistä.
+- Tarjota tekemistä, ideoita, kokeiluja ja uusia kokemuksia.
+- Tarjota ryhmän, kokemusasiantuntijan ja ammattilaisen tuki.
+- Yksilöllisen ja vertaistuellisen tuen tarjoaminen perustuen ihmisen omaan kokemukseen.
+- Monimuotoisen esteettömyyden edistäminen ja tasa-arvoisen osallisuuden mahdollistaminen. 
+- Neurokirjon näköisen ryhmän mahdollistaminen. 
+- Ryhmäytyminen, ystävystyminen ja verkostoituminen. 
+- Itseen ja toisiin tutustuminen turvallisessa ja ymmärtävässä ilmapiirissä. 
+- Oman toimijuuden hahmottaminen ja itsetuntemuksen lisääminen.
+- Nepsy-tietoa, ymmärrystä ja näkökulmaa sekä tukea! 
 
 
 ## Ryhmän toteutus ja ideologiat taustalla
