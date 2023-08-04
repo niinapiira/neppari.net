@@ -92,6 +92,7 @@ _Neurokirjolle valtaväestön normit ja automaattiset tavat ovat usein vaikeita 
 -Ohjaaja Niina Piira, ratkaisukeskeinen nepsy-valmentaja-
 
 Lue lisää ryhmästä [blogistani!](https://www.neppari.net/blogi/ammatillisesti-ohjattu-vertaistukiryhma-nuorille/) 
+
 ___
 
 ##  Kevään 2023 Nepparin nepsy-kurssi vanhemmille, joilla on kouluikäisiä neurokirjon lapsia tai nuoria!  
