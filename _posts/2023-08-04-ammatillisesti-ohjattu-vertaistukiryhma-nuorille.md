@@ -71,7 +71,7 @@ Olemme pyrkineet tarjoamaan nuorille luonnollisen ja elämän makuisen ryhmän, 
 -	Jokainen osallistuu ryhmään vapaaehtoisesti ja omalla tavallaan.
 -	Tapaamiset toteutettiin aina lauantaisin puolen päivän jälkeen, jotta nuoret jaksavat ja hyötyvät siten. Ryhmän vahvuuksia onkin sen rentous.
 -	Yhteistyö vanhempien kanssa tarpeen mukaan, eli yhteyttä vanhempiin pidetään säännöllisesti.
--	Ohjaajalla on tärkeä rooli jään murtamisessa, jännityksen lieventämisessä sekä tutustumisessa.
+-	Ohjaajilla on tärkeä rooli jään murtamisessa, jännityksen lieventämisessä sekä tutustumisessa.
 -	Ryhmässä keskitytään tekemiseen ja toimintaan sekä keskusteluun.
 -	Ryhmässä tuettiin jokaisen omannäköistä osallisuutta sekä itsensä ilmaisua.
 -	Ryhmän avulla pyrittiin myös tukemaan toimintakyvyn ylläpitoa ja edistämistä.
