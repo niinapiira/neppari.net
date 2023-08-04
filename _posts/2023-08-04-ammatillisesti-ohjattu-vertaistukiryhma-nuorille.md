@@ -32,7 +32,7 @@ Jokaiselta nuorelta kysytään tapaamisten jälkeen palaute tapaamisesta ja ideo
 Nuorten palautteissa on näkynyt heidän ilonsa siitä, kuinka ryhmässä kaikki ymmärtävät toisiaan eikä kenenkään tarvitse esittää mitään. Ryhmässä on viihdytty, koska siellä on hyväksyvä ilmapiiri, tutustuu uusiin ihmisiin ja saa jopa kavereita. Ryhmässä oppii nuorten mielestä mm. sosiaalisia taitoja, ajanviettomahdollisuuksia, tutustumaan eri ihmisiin ja ystävystymään, itseluottamusta ja rohkeutta olla oma itsensä, itsetuntemusta eli vahvuuksiensa ja kehittymistarpeidensa tunnistamista, aktiivisuutta ja oma-aloitteisuutta, kulkemaan eri paikkoihin, yhteistyötaitoja sekä neurokirjon asioita. Ryhmän samanhenkisyys jopa yllätti osan nuorista positiivisesti.
 
 Myös nuorten vanhemmilta on kysytty ryhmän alussa ja keväällä ajatuksia. 
-Vanhemmilleen nuoret ovat puhuneet ryhmästä ainakin jonkin verran, osa paljonkin, ja aina kehuen. Jokainen vastannut vanhempi on kokenut nuoren hyötyneen ryhmästä, osa paljonkin, osa jonkin verran. Vanhemmat kuvailivat hyötyjä mm. seuraavasti
+Vanhemmilleen nuoret ovat puhuneet ryhmästä ainakin jonkin verran, osa paljonkin, ja aina kehuen. Jokainen vastannut vanhempi on kokenut nuoren hyötyneen ryhmästä, osa paljonkin, osa jonkin verran. Vanhemmat kuvailivat hyötyjä mm. seuraavasti:
 -	Vertaistuella on suuri merkityksellä
 -	Nuori on kokenut yhteenkuuluvuuden tunnetta kaltaistensa parissa
 -	Nuori tuntee, ettei ole ainoa, jolla haasteita arjessa kaikkine kirjoineen
