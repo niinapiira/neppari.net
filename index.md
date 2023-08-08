@@ -83,6 +83,7 @@ Nuoret suunnittelevat ohjaajan avulla yhteistä tekemistä kokoontumiskerroille 
 Ryhmän ohjaajaa on mahdollista tavata rauhassa ennen toiminnan alkua.
 
 > Kysy lisää ja ilmoittaudu: niina@neppari.net tai viestillä puh.0409349954.
+
 > Lue lisää ryhmästä [blogistani!](https://www.neppari.net/blogi/ammatillisesti-ohjattu-vertaistukiryhma-nuorille/) 
 
 _”Ryhmä on tarkoitettu 13-18-vuotiaille nepsy-nuorille, jotta he saavat kokea vertaisuutta ja normaaliutta sekä toteuttaa itseään ja tutustua muihin nuoriin ja itseä kiinnostaviin asioihin neurokirjolle sopivalla tavalla._ 
