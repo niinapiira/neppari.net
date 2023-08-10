@@ -67,7 +67,7 @@ Olemme pyrkineet tarjoamaan nuorille luonnollisen ja elämän makuisen ryhmän, 
 
 -	Ryhmä toteutetaan vertaisryhmä-periaatteella, joten nuoret saavat itse suunnitella (ohjaajien tuella ja avulla) ryhmän sisällön, tapaamisajat ja –paikat, keston yms.
 -	Ohjaajien tuki on ryhmässä vahvaa, mutta tarpeenmukaista. Me ohjaajat hoidamme mm. käytännön järjestelyt sekä organisoinnin ja ohjaamme ryhmän dynamiikkaa ja järjestelyitä.
--	Ryhmä tarjoaa ystäviä, seuraa, tekemistä, tilaisuuden harjoitella sosiaalisia taitoja, turvallisen ammattiohjaajan ja kannustavan vertaistuen. 
+-	Ryhmä tarjoaa ystäviä, seuraa, tekemistä, tilaisuuden harjoitella sosiaalisia taitoja, turvallisen ammattiohjaajan, kokemusasiantuntija-apuohjaajan esimerkin ja kannustavan vertaistuen. 
 -	Jokainen osallistuu ryhmään vapaaehtoisesti ja omalla tavallaan.
 -	Tapaamiset toteutettiin aina lauantaisin puolen päivän jälkeen, jotta nuoret jaksavat ja hyötyvät siten. Ryhmän vahvuuksia onkin sen rentous.
 -	Yhteistyö vanhempien kanssa tarpeen mukaan, eli yhteyttä vanhempiin pidetään säännöllisesti.
