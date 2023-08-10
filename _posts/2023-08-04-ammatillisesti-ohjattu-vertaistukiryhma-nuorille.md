@@ -85,7 +85,7 @@ Olemme pyrkineet tarjoamaan nuorille luonnollisen ja elämän makuisen ryhmän, 
 ## Ryhmätoiminnan tavoitteet
 
 - Syrjäytymisen ehkäisy, toimintakyvyn ylläpito sekä edistäminen.
-- Ennaltaehkäisevää sekä korjaavaa, matalan kynnyksen vertaistukitoimintaa, jossa myös tavoitteellinen ja ammatillinen ohjaus sekä tuki.
+- Ennaltaehkäisevää sekä korjaavaa, matalan kynnyksen vertaistukitoimintaa, jossa myös ammatillinen sekä kokemusasiantuntijan ohjaus sekä tuki.
 - Osallisuuden ja kokonaisvaltaisen hyvinvoinnin lisääminen sekä yhteisöllisyyden vahvistaminen.
 - Sosiaalisten taitojen harjoittaminen ja tukeminen sekä sosiaalisten suhteiden tarjoaminen, mahdollistaminen ja tukeminen. 
 - Tarjota ryhmätoimintaa nuorille, jotka eivät hyödy suurista ryhmistä.
