@@ -61,7 +61,7 @@ Neurokirjolle valtaväestön normit ja automaattiset tavat voivat olla vaikeita 
 
 Turvallinen ryhmä mahdollistaa myös mukavan kokemuksen uusista asioista ja ihmisistä, vaikka nuori aiemmin ei olisi pitänytkään jostain siihen liittyvästä. Nuori voi myös löytää uusia erilaisia rooleja, vaikka ei osallistuisikaan itse juuri suunniteltuun puuhaan. Nuori voi tsempata ja kannustaa toisia, auttaa, ohjata, opettaa, toimia havainnoijana taustalla, tehdä tärkeitä huomioita ja nostaa esiin tärkeitä pointteja, antaa ideoita ja ajatuksia sekä jakaa oman kokemuksensa ja laajentaa näin kaikkien ymmärrystä, tuoda kriittistä ajattelua ryhmään, avata tärkeitä keskusteluita ja herätellä miettimään filosofisesti asioita eri näkökulmista jne.
 
-Olemme pyrkineet tarjoamaan nuorille luonnollisen ja elämän makuisen ryhmän, jossa sosiaalinen rohkeus ja itsetunto vahvistuvat turvallisen ammattiohjaajan, kokemusasiantuntijana toimivan apuohjaajan ja kannustavan vertaistuen voimin. Näin ryhmä toimii ponnahduslautana myös muihin sosiaalisiin tilanteisiin, esim. uuteen harrastukseen tai ryhmätoimintaan, jatko-opintoihin ja muihin ihmissuhteisiin.
+Olemme pyrkineet tarjoamaan nuorille luonnollisen ja elämän makuisen ryhmän, jossa sosiaalinen rohkeus ja itsetunto vahvistuvat turvallisen ammattiohjaajan, kokemusasiantuntijana toimivan apuohjaajan ja kannustavan vertaistuen voimin. Näin ryhmä voi toimia ponnahduslautana myös muihin sosiaalisiin tilanteisiin, esim. uuteen harrastukseen tai ryhmätoimintaan, jatko-opintoihin ja muihin ihmissuhteisiin.
 
 ### Ryhmässä korostuvia elementtejä lyhyesti:
 
