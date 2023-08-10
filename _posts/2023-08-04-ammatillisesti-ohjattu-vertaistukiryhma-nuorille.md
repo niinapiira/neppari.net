@@ -147,6 +147,7 @@ Olemme panostaneet ryhmässä itseen ja toisiin tutustumiseen, yksilöllisyyteen
 Pääpointti ryhmässä on siis ollut itsensä hyväksyminen sellaisena kuin. Kun tietää missä on ja hyväksyy tilanteensa vertaistuen voimin, on siitä hyvä lähteä ponnistamaan elämässä siihen suuntaan kuin itse toivoo. Toisten ryhmäläisten kannustuksen ja hyväksynnän avulla on helpompi nähdä omat vahvuudet ja ainutlaatuisuuden. Kenenkään ei tarvitse tehdä ryhmässä mitään mitä ei halua, eikä ryhmässä ole pakko olla, jos ei halua. Jokainen osallistuu ryhmään omalla tavallaan, omalla panoksellaan, itsensä näköisesti ja omasta mukavuusalueestaan käsin. Erilaiset nuoret tuovat jokainen ryhmään omia puoliaan, jolloin toimintakin muotoutuu sopivasti vaihtelevaksi. Liikunnalliset nuoret tuovat liikkumista ja liikunnallisuutta, pohtivat nuoret keskustelua ja ajatusten sekä kokemusten vaihtoa, vaikeuksia kokeneet nuoret selviytymiskeinoja ja uskoa tulevaisuuteen, älykkyydellään loistavat nuoret ajankohtaisia asioita yhteiskunnasta sekä tietämystä historiasta ja hiljaiset nuoret rauhallisuutta sekä toisten huomioon ottamista.
 
 MEILLÄ ON UPEA RYHMÄ!
+
 OLEN ONNELLINEN SAADESSANI OLLA HETKEN AIKAA MUKANA NÄIDEN UPEIDEN NUORTEN ELÄMÄNKULKUA JA AUTTAA HEITÄ HUOMAAMAAN NIITÄ VAHVUUKSIA JA MAHDOLLISUUKSIA, JOITA HEILLÄ ON REPPU PULLOLLAAN. <3
 
 > Jos tunnet jonkun nuoren, joka hyötyisi tällaisesta ryhmätoiminnasta, olkaa yhteyksissä minuun niina@neppari.net!
