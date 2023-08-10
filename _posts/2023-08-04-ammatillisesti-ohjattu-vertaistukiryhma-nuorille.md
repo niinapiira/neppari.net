@@ -90,7 +90,7 @@ Olemme pyrkineet tarjoamaan nuorille luonnollisen ja elämän makuisen ryhmän, 
 - Sosiaalisten taitojen harjoittaminen ja tukeminen sekä sosiaalisten suhteiden tarjoaminen, mahdollistaminen ja tukeminen. 
 - Tarjota ryhmätoimintaa nuorille, jotka eivät hyödy suurista ryhmistä.
 - Tarjota tekemistä, ideoita, kokeiluja ja uusia kokemuksia.
-- Tarjota ryhmän, kokemusasiantuntijan ja ammattilaisen tuki.
+- Tarjota ryhmän, vertaisten, kokemusasiantuntijan ja ammattilaisen tuki.
 - Yksilöllisen ja vertaistuellisen tuen tarjoaminen perustuen ihmisen omaan kokemukseen.
 - Monimuotoisen esteettömyyden edistäminen ja tasa-arvoisen osallisuuden mahdollistaminen. 
 - Neurokirjon näköisen ryhmän mahdollistaminen. 
