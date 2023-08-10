@@ -74,7 +74,7 @@ Olemme pyrkineet tarjoamaan nuorille luonnollisen ja elämän makuisen ryhmän, 
 -	Ohjaajilla on tärkeä rooli jään murtamisessa, jännityksen lieventämisessä sekä tutustumisessa.
 -	Ryhmässä keskitytään tekemiseen ja toimintaan sekä keskusteluun.
 -	Ryhmässä tuetaan jokaisen omannäköistä osallisuutta sekä itsensä ilmaisua.
--	Ryhmän avulla pyritään myös tukemaan toimintakyvyn ylläpitoa ja edistämistä.
+-	Ryhmän avulla pyritään myös tukemaan toimintakyvyn ylläpitoa ja edistämistä. Jokaisen vahvuuksia nostetaan esille ja hyödynnetään mahdollisuuksien mukaan.
 -	Vertaistuen muotoina hyödynnetään mm. ajatusten ja kokemusten jakamista, toisten auttamista, toisilta oppimista ja yhdessä tekemistä.
 -	Ryhmässä tarjotaan myös nepsy-tietoa, ymmärrystä, hyväksyntää ja uusia näkökulmia sekä tukea. Kaikkia kuunnellaan ja jokaisen mielipide on tärkeä.
 -	Ohjaajat työskentelevät ryhmäläisten motivaation kanssa, herättävät kiinnostusta sekä mahdollistavat osallistumisen huomioimalla ja ratkaisemalla osallistumisen esteitä.
