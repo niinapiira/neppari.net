@@ -150,4 +150,4 @@ MEILLÄ ON UPEA RYHMÄ!
 
 OLEN ONNELLINEN SAADESSANI OLLA HETKEN AIKAA MUKANA NÄIDEN UPEIDEN NUORTEN ELÄMÄNKULKUA JA AUTTAA HEITÄ HUOMAAMAAN NIITÄ VAHVUUKSIA JA MAHDOLLISUUKSIA, JOITA HEILLÄ ON REPPU PULLOLLAAN. <3
 
-> Jos tunnet jonkun nuoren, joka hyötyisi tällaisesta ryhmätoiminnasta, olkaa yhteyksissä minuun niina@neppari.net!
+> Jos tunnet jonkun nuoren, joka hyötyisi tällaisesta ryhmätoiminnasta, olkaa yhteyksissä minuun [yhteydenottolomakkeella](/ota-yhteytta) , sähköpostilla niina@neppari.net tai laittamalla viestiä p.040-9349954!
