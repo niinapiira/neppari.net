@@ -51,7 +51,7 @@ Ryhmän alkaessa suurin osa vastanneista vanhemmista kertoi, ettei monellakaan n
 
 ## Miksi tällainen ryhmä?
 
-Koko valmentaja urani alun ajan olin pohtinut neurokirjon nuorten tarvetta saada kuulua ryhmään, olla yhteyksissä toistensa kanssa sekä saada kokea iloa omanlaisesta osallistumisesta sosiaalisiin tilanteisiin. Olin vuorovaikutuksen ammattilaisena huomannut pääseväni helposti sisään mm. autisminkirjon nuorten maailmaan ja saavani sieltä käsin luotua vahvoja yhteyksiä ja suhteita. Ryhmiä jo vetäneenä innostuin perhevapailta palattuani etsimään jälleen yhteistyökumppania uuden nuorten ryhmän perustamiseen ja sain Ahjolan upean väen mukaani tähän tärkeään työhön.
+Koko valmentaja-urani alun ajan olin pohtinut neurokirjon nuorten tarvetta saada kuulua ryhmään, olla yhteyksissä toistensa kanssa sekä saada kokea iloa omanlaisesta osallistumisesta sosiaalisiin tilanteisiin. Olin vuorovaikutuksen ammattilaisena huomannut pääseväni helposti sisään mm. autisminkirjon nuorten maailmaan ja saavani sieltä käsin luotua vahvoja yhteyksiä ja suhteita. Ryhmiä jo vetäneenä innostuin perhevapailta palattuani etsimään jälleen yhteistyökumppania uuden nuorten ryhmän perustamiseen ja sain Ahjolan upean väen mukaani tähän tärkeään työhön.
 
 Ryhmä on rakennettu nepsy-nuorille, jotta he saavat kokea vertaisuutta ja normaaliutta sekä toteuttaa itseään ja tutustua muihin nuoriin ja itseä kiinnostaviin asioihin neurokirjolle sopivalla tavalla.
 
