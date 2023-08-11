@@ -17,9 +17,6 @@ Ryhmässä jokainen saa olla vapaasti oma itsensä, missä haluaa, miten haluaa,
 
 Sääntöjä päivitetään ja tarkennetaan aina tarpeen mukaan, kun joku keksii tärkeän huomion koskien ryhmää.
 
-
-## Välipalatarjoilu
-
 Ryhmässä on aina tarjolla välipalaa, jotta jokaisen jaksaminen ja verensokeri pysyy mahdollisimman hyvänä. Jos ryhmässä on aistiherkkiä, rajataan välipala ryhmän alkuun ja loppuun ja ohjelman aikana ei syödä. Jos ruokailu ei ole ongelma kenellekään nuorelle, on välipala tarjolla koko ryhmän ajan ja sitä saa vapaasti nauttia missä vaiheessa vain ryhmää. Välipalan on aina ollut hedelmiä, jotain suolaista (sipsiä, popcornia tai suolakeksiä), mehua, vissyä, kahvia ja teetä, jotain makeaa (pullaa, keksiä tms.) sekä karamelliä tai suklaata. Toiveita ja ideoita välipalojenkin suhteen otetaan ilolla vastaan nuorilta.
 
 
