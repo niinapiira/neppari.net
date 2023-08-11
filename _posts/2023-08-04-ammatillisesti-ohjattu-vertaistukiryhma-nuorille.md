@@ -63,7 +63,7 @@ Olemme pyrkineet tarjoamaan nuorille luonnollisen ja elämän makuisen ryhmän, 
 
 ### 1 Nuorten autonomian tukeminen ammatillisesti ja kokemusasiantuntemuksella
 
-### 2 Vapaaehtoisuus ja luonnollisuus
+### 2 Vapaaehtoisuus, omaehtoisuus ja luonnollisuus
 
 ### 3 Pienryhmä
 
