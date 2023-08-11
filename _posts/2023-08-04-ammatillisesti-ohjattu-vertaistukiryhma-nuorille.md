@@ -53,7 +53,7 @@ Ryhmän alkaessa suurin osa vastanneista vanhemmista kertoi, ettei monellakaan n
 
 Koko valmentaja-urani alun ajan olin pohtinut neurokirjon nuorten tarvetta saada kuulua ryhmään, olla yhteyksissä toistensa kanssa sekä saada kokea iloa omanlaisesta osallistumisesta sosiaalisiin tilanteisiin. Olin vuorovaikutuksen ammattilaisena huomannut pääseväni helposti sisään mm. autisminkirjon nuorten maailmaan ja saavani sieltä käsin luotua vahvoja yhteyksiä ja suhteita. Ryhmiä jo vetäneenä innostuin perhevapailta palattuani etsimään jälleen yhteistyökumppania uuden nuorten ryhmän perustamiseen ja sain Ahjolan upean väen mukaani tähän tärkeään työhön.
 
-Ryhmä on rakennettu nepsy-nuorille, jotta he saavat kokea vertaisuutta ja normaaliutta sekä toteuttaa itseään ja tutustua muihin nuoriin ja itseä kiinnostaviin asioihin neurokirjolle sopivalla tavalla.
+Ryhmä on rakennettu nepsy-nuorille, jotta he saavat kokea vertaisuutta ja tavallisuutta sekä toteuttaa itseään ja tutustua muihin nuoriin ja itseä kiinnostaviin asioihin neurokirjolle sopivalla tavalla.
 
 Vertaisuus mahdollistaa kokemusten normalisoinnin muistuttamalla nuorille, että he eivät ole kokemustensa kanssa yksin. Vertaistuki antaa myös perspektiiviä erilaisista selviytymiskeinoista ja auttaa ymmärtämään, että vaikeat kokemukset ovat osa yleisinhimillistä kokemusten kirjoa ja kaikesta selvitään. Normaaliuden kokemus tarkoittaa myös sitä, että nuoret eivät joudu selittelemään itseään, sillä ryhmässä jokainen ymmärtää ja kohtaa avoimesti ihmisten moninaisuutta. Näin nepsy-nuoren energia ja keskittyminen eivät kulu selviytymiseen vaan he voivat toivottavasti aidosti nauttia tilanteesta, toisistaan, itsestään sekä ryhmän toiminnoista. 
 
