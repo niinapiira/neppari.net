@@ -63,42 +63,6 @@ Turvallinen ryhmä mahdollistaa myös mukavan kokemuksen uusista asioista ja ihm
 
 Olemme pyrkineet tarjoamaan nuorille luonnollisen ja elämän makuisen ryhmän, jossa sosiaalinen rohkeus ja itsetunto vahvistuvat turvallisen ammattiohjaajan, kokemusasiantuntijana toimivan apuohjaajan ja kannustavan vertaistuen voimin. Näin ryhmä voi toimia ponnahduslautana myös muihin sosiaalisiin tilanteisiin, esim. uuteen harrastukseen tai ryhmätoimintaan, jatko-opintoihin ja muihin ihmissuhteisiin.
 
-### Ryhmässä korostuvia elementtejä lyhyesti:
-
--	Ryhmä toteutetaan vertaisryhmä-periaatteella, joten nuoret saavat itse suunnitella (ohjaajien tuella ja avulla) ryhmän sisällön, tapaamisajat ja –paikat, keston yms.
--	Ohjaajien tuki on ryhmässä vahvaa, mutta tarpeenmukaista. Me ohjaajat hoidamme mm. käytännön järjestelyt sekä organisoinnin ja ohjaamme ryhmän dynamiikkaa ja järjestelyitä.
--	Ryhmä tarjoaa ystäviä, seuraa, tekemistä, tilaisuuden harjoitella sosiaalisia taitoja, turvallisen ammattiohjaajan, kokemusasiantuntija-apuohjaajan esimerkin ja kannustavan vertaistuen. 
--	Jokainen osallistuu ryhmään vapaaehtoisesti ja omalla tavallaan.
--	Tapaamiset toteutetaan aina lauantaisin puolen päivän jälkeen, jotta nuoret jaksavat. Ryhmän vahvuuksia onkin sen rentous.
--	Yhteistyö vanhempien kanssa tarpeen mukaan, eli yhteyttä vanhempiin pidetään säännöllisesti.
--	Ohjaajilla on tärkeä rooli jään murtamisessa, jännityksen lieventämisessä sekä tutustumisessa.
--	Ryhmässä keskitytään tekemiseen ja toimintaan sekä keskusteluun.
--	Ryhmässä tuetaan jokaisen omannäköistä osallisuutta sekä itsensä ilmaisua.
--	Ryhmän avulla pyritään myös tukemaan toimintakyvyn ylläpitoa ja edistämistä. Jokaisen vahvuuksia nostetaan esille ja hyödynnetään mahdollisuuksien mukaan.
--	Vertaistuen muotoina hyödynnetään mm. ajatusten ja kokemusten jakamista, toisten auttamista, toisilta oppimista ja yhdessä tekemistä.
--	Ryhmässä tarjotaan myös nepsy-tietoa, ymmärrystä, hyväksyntää ja uusia näkökulmia sekä tukea. Kaikkia kuunnellaan ja jokaisen mielipide on tärkeä.
--	Ohjaajat työskentelevät ryhmäläisten motivaation kanssa, herättävät kiinnostusta sekä mahdollistavat osallistumisen huomioimalla ja ratkaisemalla osallistumisen esteitä.
--	Joka tapaamisen jälkeen pohditaan tapaamisen hyötyjä ja sen tuomia oppimiskokemuksia.
--	Tärkeintä on saada tulla kohdatuksi, hyväksytyksi ja arvostetuksi täysin sellaisena kuin on, myös neurokirjon piirteineen.
-
-
-## Ryhmätoiminnan tavoitteet
-
-- Syrjäytymisen ehkäisy, toimintakyvyn ylläpito sekä edistäminen.
-- Ennaltaehkäisevää sekä korjaavaa, matalan kynnyksen vertaistukitoimintaa, jossa myös ammatillinen sekä kokemusasiantuntijan ohjaus sekä tuki.
-- Osallisuuden ja kokonaisvaltaisen hyvinvoinnin lisääminen sekä yhteisöllisyyden vahvistaminen.
-- Sosiaalisten taitojen harjoittaminen ja tukeminen sekä sosiaalisten suhteiden tarjoaminen, mahdollistaminen ja tukeminen. 
-- Tarjota ryhmätoimintaa nuorille, jotka eivät hyödy suurista ryhmistä.
-- Tarjota tekemistä, ideoita, kokeiluja ja uusia kokemuksia.
-- Tarjota ryhmän, vertaisten, kokemusasiantuntijan ja ammattilaisen tuki.
-- Yksilöllisen ja vertaistuellisen tuen tarjoaminen perustuen ihmisen omaan kokemukseen.
-- Monimuotoisen esteettömyyden edistäminen ja tasa-arvoisen osallisuuden mahdollistaminen. 
-- Neurokirjon näköisen ryhmän mahdollistaminen. 
-- Ryhmäytyminen, ystävystyminen ja verkostoituminen. 
-- Itseen ja toisiin tutustuminen turvallisessa ja ymmärtävässä ilmapiirissä. 
-- Oman toimijuuden hahmottaminen ja itsetuntemuksen lisääminen.
-- Nepsy-tietoa, ymmärrystä ja näkökulmaa sekä tukea! 
-
 
 ## Ideologiat ryhmän taustalla
 
