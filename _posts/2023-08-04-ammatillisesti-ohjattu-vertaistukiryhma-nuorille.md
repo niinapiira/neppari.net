@@ -11,8 +11,6 @@ Ryhmän ensimmäisenä toimintakautena 2022-23 tutustuimme alkuun rauhassa toisi
 
 Syksyllä 2023 haaveissa on kokeilla mm. luovaa kirjoittamista yhdessä, kokkailla tai leipoa ja ehkä pelailla. Lisää ideoita otetaan vastaan ensimmäisessä tapaamisessa lauantaina 19.8. ja ohjelma eli tapaamisten sisältö lyödään silloin lukkoon. 
 
-## Ryhmän säännöt
-
 Olemme yhdessä nuorten kanssa suunnitelleet tapaamisten sisällön ja ajankohtien lisäksi ryhmälle säännöt sekä tarjolla olevat välipalat. 
 
 Ryhmässä jokainen saa olla vapaasti oma itsensä, missä haluaa, miten haluaa, niin kauan kuin haluaa ja saa tehdä mitä haluaa eikä ohjelmaan siis tarvitse osallistua aktiivisesti. Tapaamisissa saa siis liikkua vapaasti, vaikka ei olisikaan tauko ja kaikkia Tuvan tiloja saa hyödyntää, jos haluaa olla vaikka hetken yksin. Saa istua, seistä tai vaikka maata sellaisessa paikkaa mikä itselle on hyvästä. Tapaamisiin saa tulla aukioloajan puitteissa milloin haluaa ja saa poistua milloin haluaa. Toisten mielipiteitä kunnioitetaan eikä toisten asioita kerrota muualla ryhmän ulkopuolelle. 
