@@ -80,7 +80,7 @@ Ryhmä on maksuton.
 Ryhmätoiminta yhdistää vertaistuen ja toiminnallisuuden. 
 Nuoret suunnittelevat ohjaajan avulla yhteistä tekemistä kokoontumiskerroille (esim. harrastuskokeilut, kokkaus, käsityöt). 
 
-Ryhmän ohjaajaa on mahdollista tavata rauhassa ennen toiminnan alkua.
+Ryhmän ohjaajaa on pyynnöstäsi mahdollista tavata rauhassa ennen toiminnan alkua.
 
 > Kysy lisää ja ilmoittaudu: niina@neppari.net tai viestillä puh.0409349954.
 
