@@ -71,7 +71,7 @@ Syksyn ja alkutalven tapaamispäivät ovat lauantaisin 19.8., 16.9., 21.10., 18.
 
 Tapaamispaikkana toimii Ahjolan tyttöjen ja poikien tupa osoitteessa Pispalan Valtatie 45.
 
-Jokaisen tapaamisen kesto on 3h/ tapaaminen, mutta paikalla ei tarvitse olla kuin sen ajan minkä haluaa.
+Jokaisen tapaamisen kesto on 3h/ tapaaminen, mutta paikalla saa olla sen ajan minkä haluaa.
 
 Ryhmä on avoin kaikille 13-18-v nuorille, jotka kokevat kuuluvansa neurokirjoon.
 
