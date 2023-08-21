@@ -54,7 +54,7 @@ Tarkoituksenani on tarjota sinulle vahvaa tukea arkeesi, työhösi ja omanlaisen
 
 Nepparissa jokainen ihminen on ennen kaikkea yksilö ja ainutlaatuinen persoona, joten käytän aikaani ja taitoani tutustuakseni yksilölliseen tapaasi hahmottaa maailmaa ja elämää. Nepparissa tulet kohdatuksi terapeuttisen ja neuropsykiatrisen tuntemukseni ja -ymmärrykseni kautta, jolloin otan huomioon kaikki erityispiirteesi, tarpeesi ja niiden luomat vaatimukset.
 
-Nepparissa saat kokea olevasi turvassa vaikeiden asioidenkin äärellä ja saat ymmärrystä myös siitä, miten vaikeat elämänkokemukset ovat saattaneet vaikuttaa toimintakykyysi, käytökseesi, ajatteluusi ja reaktioihisi.
+Nepparissa saat kokea olevasi turvassa vaikeiden asioidenkin äärellä ja saat ymmärrystä myös siitä, miten neurokirjo ja vaikeat elämänkokemukset ovat saattaneet vaikuttaa toimintakykyysi, käytökseesi, ajatteluusi ja reaktioihisi.
 
 Autan sinua löytämään tarvitsemasi etuudet, tukipalvelut, apuvälineet ja verkostot sekä sopivat tavat toteuttaa itseäsi niin harrastusten, kiinnostustenkohteiden, opintojen että työuran muodossa.
 
