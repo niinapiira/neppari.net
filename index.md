@@ -73,7 +73,7 @@ Tapaamispaikkana toimii Ahjolan tyttöjen ja poikien tupa osoitteessa Pispalan V
 
 Jokaisen tapaamisen kesto on 3h/ tapaaminen, mutta paikalla saa olla sen ajan minkä haluaa.
 
-Ryhmä on avoin kaikille 13-18-v nuorille, jotka kokevat kuuluvansa neurokirjoon.
+Ryhmä on avoin kaikille 13-18-v nuorille, jotka kokevat kuuluvansa neurokirjoon, mutta suosittelen ilmoittautumista.
 
 Ryhmä on maksuton.
 
