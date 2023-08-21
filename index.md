@@ -132,7 +132,7 @@ Kurssin tiedot:
 
 Hintakaan ei päätä huimaa: Koko kurssi maksaa yhteensä vain 100 euroa per osallistuva perhe.
 
-> Kiinnostuksen kurssiin voi ilmoittaa kiinnostuksensa niina@neppari.net
+> Kiinnostuksen kurssiin voi ilmoittaa [sähköpostilla](/ota-yhteytta) .
 
 Kiinnostuksen ilmoittaminen EI ole sitova ilmoittautuminen; varsinainen ilmoittautuminen hoidetaan myöhemmin.
 
