@@ -82,7 +82,7 @@ Nuoret suunnittelevat ohjaajan avulla yhteistä tekemistä kokoontumiskerroille 
 
 Ryhmän ohjaajaa on pyynnöstäsi mahdollista tavata rauhassa ennen toiminnan alkua.
 
-> Kysy lisää ja ilmoittaudu: niina@neppari.net tai viestillä puh.0409349954.
+> Kysy lisää ja ilmoittaudu: [sähköpostilla](/ota-yhteytta) tai viestillä puh.0409349954.
 
 > Lue lisää ryhmästä [blogistani!](https://www.neppari.net/blogi/ammatillisesti-ohjattu-vertaistukiryhma-nuorille/) 
 
@@ -99,7 +99,7 @@ ___
 
 ##  Kevään 2023 Nepparin nepsy-kurssi vanhemmille, joilla on kouluikäisiä neurokirjon lapsia tai nuoria!  
 
-Valitettavasti suuren suosion saanut matalan kynnyksen nepsy-kurssi on jouduttu perumaan tältä keväältä, mutta toivon mukaan syksyllä kurssi jatkuu jälleen.
+Valitettavasti suuren suosion saanut matalan kynnyksen nepsy-kurssi on jouduttu perumaan tältä keväältä, mutta toivon mukaan syksyllä kurssi jatkuu jälleen. Kysy lisää kurssista [sähköpostilla](/ota-yhteytta) .
 
 Tältä kurssilta saat tietoa neuropsykiatrisista peruspulmista, keinoja niiden helpottamiseksi sekä vertaistukea ja vinkkejä erilaisiin tukimuotoihin. Kurssin vetäjä, ratkaisukeskeinen nepsy-valmentaja, käy läpi yleisimpiä pulmia neurokirjolla sekä tarjoaa näkemyksiä ja keinoja haasteiden helpottamiseen. Ryhmän kesken jaetaan myös vertaistukea sekä omia kokemuksia ja viimeinen kurssikerta varataan kurssilaisten toiveiden pohjalta sovituille teemoille. Ryhmä on suunnattu vanhemmille, joilla on kouluikäisiä nepsy-lapsia ja -nuoria.
 
