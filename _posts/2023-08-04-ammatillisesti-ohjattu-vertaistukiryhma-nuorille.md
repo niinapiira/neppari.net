@@ -13,7 +13,7 @@ Syksyllä 2023 haaveissa on kokeilla mm. luovaa kirjoittamista yhdessä, kokkail
 
 Olemme yhdessä nuorten kanssa suunnitelleet tapaamisten sisällön ja ajankohtien lisäksi ryhmälle säännöt sekä tarjolla olevat välipalat. 
 
-Ryhmässä jokainen saa olla vapaasti oma itsensä, missä haluaa, miten haluaa, niin kauan kuin haluaa ja saa tehdä mitä haluaa eikä ohjelmaan siis tarvitse osallistua aktiivisesti. Tapaamisissa saa siis liikkua vapaasti, vaikka ei olisikaan tauko ja kaikkia Tuvan tiloja saa hyödyntää, jos haluaa olla vaikka hetken yksin. Saa istua, seistä tai vaikka maata sellaisessa paikkaa mikä itselle on hyvästä. Tapaamisiin saa tulla aukioloajan puitteissa milloin haluaa ja saa poistua milloin haluaa. Toisten mielipiteitä kunnioitetaan eikä toisten asioita kerrota muualla ryhmän ulkopuolelle. 
+Ryhmässä noudatetaan yhdenvertaisuuden ja turvallisemman tilan periaatteita, jossa jokaisella on oikeus tuntea olonsa turvalliseksi ilman pelkoa minkäänlaisesta syrjinnästä, häirinnästä, tai ahdistelusta. Ryhmässä jokainen saa olla vapaasti oma itsensä, missä haluaa, miten haluaa, niin kauan kuin haluaa ja saa tehdä mitä haluaa eikä ohjelmaan siis tarvitse osallistua aktiivisesti. Tapaamisissa saa siis liikkua vapaasti, vaikka ei olisikaan tauko ja kaikkia Tuvan tiloja saa hyödyntää, jos haluaa olla vaikka hetken yksin. Saa istua, seistä tai vaikka maata sellaisessa paikkaa mikä itselle on hyvästä. Tapaamisiin saa tulla aukioloajan puitteissa milloin haluaa ja saa poistua milloin haluaa. Toisten mielipiteitä kunnioitetaan eikä toisten asioita kerrota muualla ryhmän ulkopuolelle. 
 
 Sääntöjä päivitetään ja tarkennetaan aina tarpeen mukaan, kun joku keksii tärkeän huomion koskien ryhmää.
 
