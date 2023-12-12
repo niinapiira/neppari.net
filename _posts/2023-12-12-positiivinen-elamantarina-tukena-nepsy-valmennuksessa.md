@@ -1,8 +1,11 @@
 ---
-published: false
+published: true
 page-title: Positiivinen elämäntarina tukena nepsy-valmennuksessa
 ---
-## Löysin työhuonetta siivotessani opiskeluaikojen tehtäviä sekä pohdintoja, ja päätin julkaista näitä avuksi ja tueksi muille valmentajille sekä ammattilaisille neurokirjon kanssa työskentelyyn. Samat ajatukset ja menetelmät toimivat yhä tänä päivänäkin valmennuksessa, mutta enää en tiedä saisinko teksteihin enää tällaista nuoren minän innostusta sekä inspiraatiota, joka on syttynyt uuden ammatin äärellä. On ihanaa huomata kuinka eettinen sekä kestävä työ ja ammatti valmentamisesta lopulta tuli; en vaihtaisi päivääkään pois uraltani ja olen ylpeä voidessani sanoa, että vielä 11-vuoden jälkeenkin uskon valmennuksen voimaan ja näen sen vahvuudet joka päivä. 
+
+![Niina laiturilla auringonnousun aikaan]({{site.baseurl}}/uploaded-images/akrobaatti-auringonnousussa.jpeg)
+
+Löysin työhuonetta siivotessani opiskeluaikojen tehtäviä sekä pohdintoja, ja päätin julkaista näitä avuksi ja tueksi muille valmentajille sekä ammattilaisille neurokirjon kanssa työskentelyyn. Samat ajatukset ja menetelmät toimivat yhä tänä päivänäkin valmennuksessa, mutta enää en tiedä saisinko teksteihin enää tällaista nuoren minän innostusta sekä inspiraatiota, joka on syttynyt uuden ammatin äärellä. On ihanaa huomata kuinka eettinen sekä kestävä työ ja ammatti valmentamisesta lopulta tuli; en vaihtaisi päivääkään pois uraltani ja olen ylpeä voidessani sanoa, että vielä 11-vuoden jälkeenkin uskon valmennuksen voimaan ja näen sen vahvuudet joka päivä.
 
 
 Olen törmännyt parivuotisen valmentajaurani aikana selkeimmin tarinan vaikutukseen ihmisen elämässä muutaman eri valmennettavani kautta. Vanhemmat ja ympäristö, jotka ovat osanneet suhtautua nepsy-nuoreen ja hänen haasteisiinsa realistisesti ja ymmärtävästi, ovat edesauttaneet nuoren hyvää suhtautumista itseensä. Tällainen asiakas osaa olla itselleen armollinen ja ymmärtäväinen, sekä osaa myös melko realistisesti arvioida omia kykyjään, taitojaan, mahdollisuuksiaan ja potentiaaliaan. Kannustava ympäristö näkyy joissain nuorissa uskalluksena unelmoida ja luoda tavoitteita, jotka eivät ensi silmäyksellä vaikuta ulkopuolisesta mahdolliselta. Kokemukseni kartuttua olen kuitenkin oppinut luottamaan asiakkaan omiin unelmiin ja siihen, että hyvän pohjan omaava henkilö kestää myös kokeilla ja epäonnistua.
