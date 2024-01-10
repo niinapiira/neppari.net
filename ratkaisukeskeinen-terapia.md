@@ -18,7 +18,7 @@ Tässä terapimuodossa rakennetaan yhdessä ratkaisuja elämän haasteisiin niin
 
 Ratkaisukeskeisessä terapiassa jokainen nähdään oman elämänsä asiantuntijana ja siksi terapiassa pyritään yhdessä löytämään ne voimavarat ja keinot sekä vahvuudet, jotka elämässä ovat auttaneet aiemmin ja toimivat nyt. 
 
-Ratkaisukeskeisessä terapiassa pääpaino on nykyisyyden ja tulevaisuuden käsittelyssä sekä asiakkaan toivoman muutoksen käynnistämisessä. Menneisyyttä ja historiaa hyödynnetään kokemusvarastona kaikesta siitä mikä on toiminut aiemmin ja mitä vahvuuksia ja merkityksiä ne tuovat itsestä esiin. 
+Ratkaisukeskeisessä terapiassa pääpaino on nykyisyyden ja tulevaisuuden käsittelyssä sekä toivotun muutoksen käynnistämisessä. Menneisyyttä ja historiaa hyödynnetään kokemusvarastona kaikesta siitä mikä on toiminut aiemmin ja mitä vahvuuksia ja merkityksiä ne tuovat itsestä esiin. 
 
 Tämä matalan kynnyksen terapiamuoto soveltuu hyvin monenlaisiin tilanteisiin ja ongelmiin, koska se on käytännöllistä. Terapiassa hyödynnetään jokaisen inhimilliset resurssit kuten mm. järki, logiikka, älykkyys, arkipsykologia, nokkeluus, kokeilevuus, huumori, elämänviisaus ja ihmistuntemus. Hyvin pienellä energiamäärällä ja ajankäytöllä saadaan jo tuloksia aikaiseksi. 
 
