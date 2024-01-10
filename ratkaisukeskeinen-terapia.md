@@ -10,7 +10,7 @@ Ilman lähetettä tai diagnooseja terapiaan!
 
 Ratkaisukeskeinen terapia voi olla lyhytterapiaa tai pidempiaikainen terapia, johon on mahdollista päästä heti, jonottamatta. Näin ongelmiin voidaan tarttua välittömästi niiden ilmettyä eivätkä ne pääse kasvamaan liian suuriksi.
 
-> Suoritan juuri ratkaisukeskeisen lyhytterapeutin opintoja ja voin ottaa vastaan harjoitteluasiakkaita. Jos olet kiinnostunut ratkaisukeskeisestä lyhytterapiasta ota yhteyttä [sähköpostilla](/ota-yhteytta). Koska olen tehnyt ratkaisukeskeistä valmennusta jo 10-vuotta ja minulla on vankka ratkaisukeskeinen osaaminen, on terapia(harjoittelu) minulla maksullista. Hinta on kuitenkin matala, jotta jokaisella olisi mahdollisuus kustantaa terapia itselleen. Kysy lisää tietoja [sähköpostilla](/ota-yhteytta).
+> Suoritan juuri ratkaisukeskeisen lyhytterapeutin opintoja ja voin ottaa vastaan harjoitteluasiakkaita. Jos olet kiinnostunut ratkaisukeskeisestä lyhytterapiasta ota yhteyttä [sähköpostilla](/ota-yhteytta). Koska olen tehnyt ratkaisukeskeistä valmennusta jo 10-vuotta ja minulla on vankka ratkaisukeskeinen osaaminen, on terapia(harjoittelu) minulla maksullista. Hinta on kuitenkin matala opintojen loppuun 2/24 saakka. Kysy lisää tietoja [sähköpostilla](/ota-yhteytta).
 
 Tässä terapimuodossa rakennetaan yhdessä ratkaisuja elämän haasteisiin niin, että jokainen voi alkaa kulkea kohti unelmiaan ja toiveitaan ja vahvistaa omannäköistä hyvää elämää. Yhdessä tutkitaan tilanteita joissa ongelmaa ei ole tai se on lievempi. Ongelmat muotoillaan tavoitteiksi ja etsitään keinoja päästä alkuun ja edistyä muutoksessa.
 
