@@ -22,7 +22,7 @@ Ratkaisukeskeisessä terapiassa pääpaino on nykyisyyden ja tulevaisuuden käsi
 
 Tämä matalan kynnyksen terapiamuoto soveltuu hyvin monenlaisiin tilanteisiin ja ongelmiin, koska se on käytännöllistä. Terapiassa hyödynnetään jokaisen inhimilliset resurssit kuten mm. järki, logiikka, älykkyys, arkipsykologia, nokkeluus, kokeilevuus, huumori, elämänviisaus ja ihmistuntemus. Hyvin pienellä energiamäärällä ja ajankäytöllä saadaan jo tuloksia aikaiseksi. 
 
-Ratkaisukeskeinen terapia on myös hyvin turvallinen tapa työskennellä, koska tällä ei voida saada kenenkään ajatuksia solmuun. Ratkaisukeskeisyydessä ongelma on ongelma, ei ihminen. Luovuutta, leikkisyyttä ja huumoria hyödynnetään asiakkaan mukaan yksilöllisesti.
+Ratkaisukeskeinen terapia on myös hyvin turvallinen tapa työskennellä, koska tällä ei voida saada kenenkään ajatuksia solmuun. Ratkaisukeskeisyydessä ongelma on ongelma, ei ihminen. Luovuutta, leikkisyyttä ja huumoria hyödynnetään jokaisen mukaan yksilöllisesti.
 
 Terapiatapaamisia voidaan sopia yksi kerrallaan ja terapian voi lopettaa heti kun sitä ei enää tarvitse. Terapiasta ei tehdä kirjauksia Kanta-arkistoon.
 
