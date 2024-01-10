@@ -16,7 +16,7 @@ Ratkaisukeskeisyys merkitsee keskittymistä unelmiin, tavoitteisiin, voimavaroih
 
 Tässä terapimuodossa rakennetaan yhdessä ratkaisuja elämän haasteisiin niin, että jokainen voi alkaa kulkea kohti unelmiaan ja toiveitaan ja vahvistaa omannäköistä hyvää elämää. Yhdessä tutkitaan tilanteita joissa ongelmaa ei ole tai se on lievempi. Ongelmat muotoillaan tavoitteiksi ja etsitään keinoja päästä alkuun ja edistyä muutoksessa.
 
-Ratkaisukeskeisessä terapiassa asiakas nähdään oman elämänsä asiantuntijana ja siksi terapiassa pyritään yhdessä löytämään ne voimavarat ja keinot sekä vahvuudet, jotka asiakkaan elämässä ovat häntä auttaneet aiemmin ja toimivat nyt. 
+Ratkaisukeskeisessä terapiassa jokainen nähdään oman elämänsä asiantuntijana ja siksi terapiassa pyritään yhdessä löytämään ne voimavarat ja keinot sekä vahvuudet, jotka elämässä ovat auttaneet aiemmin ja toimivat nyt. 
 
 Ratkaisukeskeisessä terapiassa pääpaino on nykyisyyden ja tulevaisuuden käsittelyssä sekä asiakkaan toivoman muutoksen käynnistämisessä. Menneisyyttä ja historiaa hyödynnetään kokemusvarastona kaikesta siitä mikä on toiminut aiemmin ja mitä vahvuuksia ja merkityksiä ne tuovat itsestä esiin. 
 
