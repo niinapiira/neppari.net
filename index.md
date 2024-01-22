@@ -36,9 +36,7 @@ ___
 
 ## Miten Nepparin apua saa?
 
-Nepparissa on taas tilaa uusille asiakkaille, joten voit olla suoraan yhteydessä minuun tai puhua avun tarpeesta lääkärin, sosiaalityöntekijän tai muun ammattilaisen kanssa.
-
-Nepparin hinnat on pidetty matalina, jotta jokaisella on varaa maksaa palvelusta myös itse. Nepparin palveluihin voi kysyä myös maksusitoumusta esimerkiksi lääkäriltä, te-toimistosta tai sosiaalitoimesta. Kunnan palvelu- ja kuntoutusohjaaja voi neuvoa myös sinua.
+Nepparissa on taas tilaa uusille asiakkaille, joten voit olla suoraan yhteydessä minuun tai puhua avun tarpeesta lääkärin, sosiaalityöntekijän tai muun ammattilaisen kanssa. Kunnan palvelu- ja kuntoutusohjaaja voi neuvoa myös sinua.
 
 Laita [sähköpostia](/ota-yhteytta), niin kerron lisää! =)
 
