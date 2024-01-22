@@ -36,7 +36,9 @@ ___
 
 ## Miten Nepparin apua saa?
 
-Nepparissa on taas tilaa uusille asiakkaille, joten voit olla suoraan yhteydessä minuun tai puhua avun tarpeesta lääkärin, sosiaalityöntekijän tai muun ammattilaisen kanssa. Kunnan palvelu- ja kuntoutusohjaaja voi neuvoa myös sinua.
+Nepparissa on taas tilaa uusille asiakkaille, joten voit olla suoraan yhteydessä minuun tai puhua avun ja kuntoutuksen tarpeesta lääkärin, sosiaalityöntekijän tai muun ammattilaisen kanssa. Kunnan palvelu- ja kuntoutusohjaaja voi neuvoa myös sinua.
+
+Nepparin palvelut kustannetaan alkuun itse, ja jos koet, että yhteistyömme on hedelmällistä, voimme hakea alun jälkeen kunnalta maksusitoumusta. Maksusitoumukset ovat harkinnanvaraisia, joten varmuutta niiden saamiseen ei ole.
 
 Laita [sähköpostia](/ota-yhteytta), niin kerron lisää! =)
 
@@ -95,40 +97,19 @@ Lue lisää ryhmästä [blogistani!](https://www.neppari.net/blogi/ammatillisest
 
 ___
 
-##  Kevään 2023 Nepparin nepsy-kurssi vanhemmille, joilla on kouluikäisiä neurokirjon lapsia tai nuoria!  
+##  Nepparin nepsy-kurssi vanhemmille, joilla on kouluikäisiä neurokirjon lapsia tai nuoria!  
 
-Valitettavasti suuren suosion saanut matalan kynnyksen nepsy-kurssi on jouduttu perumaan tältä keväältä, mutta toivon mukaan syksyllä kurssi jatkuu jälleen. Kysy lisää kurssista [sähköpostilla](/ota-yhteytta) .
+Suosittu vanhempainkurssi!
+
+Olen viimeisen 2-vuoden aikana vetänyt kolme vanhempainkurssia, jotka on suunnattu matalan kynnyksen avuksi pirkanmaalaisille nepsyperheille, joilla on kouluikäisiä nepsylapsia tai -nuoria. Nämä ovat olleet todella kysyttyjä ja tykättyjä.
+
+Kartoitan kiinnostusta kurssin järjestämiseen joten laita viestiä [sähköpostilla](/ota-yhteytta).
 
 Tältä kurssilta saat tietoa neuropsykiatrisista peruspulmista, keinoja niiden helpottamiseksi sekä vertaistukea ja vinkkejä erilaisiin tukimuotoihin. Kurssin vetäjä, ratkaisukeskeinen nepsy-valmentaja, käy läpi yleisimpiä pulmia neurokirjolla sekä tarjoaa näkemyksiä ja keinoja haasteiden helpottamiseen. Ryhmän kesken jaetaan myös vertaistukea sekä omia kokemuksia ja viimeinen kurssikerta varataan kurssilaisten toiveiden pohjalta sovituille teemoille. Ryhmä on suunnattu vanhemmille, joilla on kouluikäisiä nepsy-lapsia ja -nuoria.
 
-Ryhmä kokoontuu yleensä joka 2. viikko 6 tapaamiskertaa aina klo 17:30-20:00. Paikkana toimii Ahjolan tilat Pispalassa osoitteessa Erämiehenkatu 10. Osoitteessa Päivölänkatu 1 sekä Haulikadulta löytyy ilmaisia parkkipaikkoja yleensä.
-
-___
-
-## Suunnitteilla: Etäkurssi nepsylasten ja -nuorten vanhemmille
-
-Suosittu vanhempainkurssi on tulossa taas!
-
-Olen viimeisen 1,5-vuoden aikana vetänyt kolme vanhempainkurssia, jotka on suunnattu matalan kynnyksen avuksi pirkanmaalaisille nepsyperheille, joilla on kouluikäisiä nepsylapsia tai -nuoria. Nämä ovat olleet todella kysyttyjä.
-
-Suunnittelen nyt **etä**kurssia samasta aiheesta, ja kartoitan kiinnostusta tämän muotoisen kurssin järjestämiseen.
-
-Kurssilla saa…
-
-- Tietoa neuropsykiatrisista peruspulmista (esim. ADHD, ADD, Asperger, autisminkirjo, Tourette, jne.)
-- Keinoja niiden helpottamiseksi
-- Vinkkejä erilaisiin tukimuotoihin
-- Sekä ennen kaikkea vertaistukea!
-
 Kurssin tiedot:
-
-- Kuusi etätapaamista
-- Joka toinen viikko, jokin sovittu arki-ilta n.klo 17:30-20.
-
---> Aikataulu tarkennetaan osallistujien kanssa
-
-
-Hintakaan ei päätä huimaa: Koko kurssi maksaa yhteensä vain 100 euroa per osallistuva perhe.
+- Kuusi tapaamiskertaa
+- Joka toinen viikko, jokin sovittu aikataulu osallistujien kanssa
 
 > Kiinnostuksen kurssiin voi ilmoittaa [sähköpostilla](/ota-yhteytta) .
 
