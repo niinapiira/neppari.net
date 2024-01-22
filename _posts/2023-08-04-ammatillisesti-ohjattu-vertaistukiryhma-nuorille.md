@@ -9,7 +9,7 @@ page-title: Ammatillisesti ohjattu vertaistukiryhmä nepsy-nuorille
 
 Ryhmän ensimmäisenä toimintakautena 2022-23 tutustuimme alkuun rauhassa toisiimme, kävimme läpi nuorten toiveita ryhmän sisällöstä ja suunnittelimme keväälle valmiiksi ohjelmaa; kuuntelimme nuorten lempi musiikkia, maalailimme ja piirtelimme, kokeilimme rentoutusta, opettelimme koreaa, keskustelimme nuorille tärkeistä aiheista, pelailimme lautapelejä, kävimme kissakahvilassa, teimme käsitöitä, kävimme keilaamassa, järjestimme keskustelupaneelin aikuisten neurokirjon kokemusasiantuntijoiden kanssa, kokkailimme ja ennen kaikkea nautimme yhdessä olosta.
 
-Syksyllä 2023 haaveissa on kokeilla mm. luovaa kirjoittamista yhdessä, kokkailla tai leipoa ja ehkä pelailla. Lisää ideoita otetaan vastaan ensimmäisessä tapaamisessa lauantaina 19.8. ja ohjelma eli tapaamisten sisältö lyödään silloin lukkoon. 
+Syksyllä 2023 haaveissa on kokeilla mm. luovaa kirjoittamista yhdessä, kokkailla tai leipoa ja ehkä pelailla.  
 
 Olemme yhdessä nuorten kanssa suunnitelleet tapaamisten sisällön ja ajankohtien lisäksi ryhmälle säännöt sekä tarjolla olevat välipalat. 
 
