@@ -1,9 +1,7 @@
 ---
 "page-title": Virheilmoitukset palvelusta
 "page-type": normal
-"show-in-navigation": false
 published: true
-"link-title": ""
 polaroid: ""
 ---
 

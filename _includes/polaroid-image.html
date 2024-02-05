@@ -1,28 +1,19 @@
-{% assign polaroid_slug = page.name | replace:'.md','.jpg' %}
-{% if page.polaroid and page.polaroid != empty %}
-  {% assign polaroid_slug = page.polaroid | append:'.jpg' %}
-{% endif %}
-{% assign polaroid_image_path = polaroid_slug | prepend:'/public/polaroid/' %}
-{% assign polaroid_image_path2 = polaroid_image_path | replace:'.jpg','.wide.jpg' %}
-
-{% for static_file in site.static_files %}
-
-  {% assign random = forloop.index0 | modulo:6 %}
-
-  {% if static_file.path == polaroid_image_path %}
-    {% assign polaroid_image_to_show = polaroid_image_path %}
-    {% assign number_class = random | prepend:'polaroid-' %}
-    {% assign header_class = "accommondate-polaroid" %}
-  {% endif %}
-  {% if static_file.path == polaroid_image_path2 %}
-    {% assign polaroid_image_to_show = polaroid_image_path2 %}
-    {% assign extra_class = "extra-wide" %}
-    {% assign number_class = random | prepend:'polaroid-' %}
-    {% assign header_class = "accommondate-wide-polaroid" %}
-  {% endif %}
-
-{% endfor %}
-
-{% if polaroid_image_to_show %}
-  <img src="{{ polaroid_image_to_show }}" class="polaroid {{ number_class }} {{ extra_class }}" />
+{% assign polaroid_slug = page.fileSlug | replace:'.md','.jpg' %} {% if polaroid
+and polaroid != empty %} {% assign polaroid_slug = polaroid | append:'.jpg' %}
+{% endif %} {% assign polaroid_image_path = polaroid_slug |
+prepend:'/public/polaroid/' %} {% assign polaroid_image_path2 =
+polaroid_image_path | replace:'.jpg','.wide.jpg' %} {% for static_file in
+site.static_files %} {% assign random = forloop.index0 | modulo:6 %} {% if
+static_file.path == polaroid_image_path %} {% assign polaroid_image_to_show =
+polaroid_image_path %} {% assign number_class = random | prepend:'polaroid-' %}
+{% assign header_class = "accommondate-polaroid" %} {% endif %} {% if
+static_file.path == polaroid_image_path2 %} {% assign polaroid_image_to_show =
+polaroid_image_path2 %} {% assign extra_class = "extra-wide" %} {% assign
+number_class = random | prepend:'polaroid-' %} {% assign header_class =
+"accommondate-wide-polaroid" %} {% endif %} {% endfor %} {% if
+polaroid_image_to_show %}
+<img
+    src="{{ polaroid_image_to_show }}"
+    class="polaroid {{ number_class }} {{ extra_class }}"
+/>
 {% endif %}

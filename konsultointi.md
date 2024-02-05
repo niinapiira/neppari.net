@@ -1,12 +1,13 @@
 ---
 page-title: Konsultointi
 page-type: normal
-navigation-order: 8
-show-in-navigation: true
 published: true
 polaroid: etavalmennus
+eleventyNavigation:
+  key: Konsultointi
+  order: 8
 ---
-Konsultoinnissa saat nepsy-asiantuntijan tietotaidon käyttöösi sekä valmentavaa ja osaavaa tukea/neuvontaa omaan työhön ja asiakkaiden kanssa toimimiseen sekä omaan työhyvinvointiin ja oman ammatillisuuden kehittämiseen. 
+Konsultoinnissa saat nepsy-asiantuntijan tietotaidon käyttöösi sekä valmentavaa ja osaavaa tukea/neuvontaa omaan työhön ja asiakkaiden kanssa toimimiseen sekä omaan työhyvinvointiin ja oman ammatillisuuden kehittämiseen.
 
 Konsultointia voi hyödyntää lyhyenä tukena asiakaskeisseihin sekä pidemmästi ammatillisuuttaan kehittävänä prosessina. Valmentaja toimii ratkaisukeskeisenä nepsy-asiantuntijana, luottamuksellisena keskustelukumppanina, ratkaisukeskeisten kysymysten esittäjänä ja reflektoijana.
 

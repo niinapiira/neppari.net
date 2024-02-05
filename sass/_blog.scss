@@ -97,7 +97,7 @@ p.first {
 		border: $avatar-border-width solid $accent-color;
 		width: $image-container-width;
 		height: $image-container-width;
-		border-radius: $image-container-width / 2;
+		border-radius: calc($image-container-width / 2);
 	}
 
 	.image {

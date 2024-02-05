@@ -1,11 +1,11 @@
 ---
 page-title: Neuropsykiatrinen valmentaja Niina&nbsp;Piira
 page-type: cv
-link-title: Valmentaja Niina Piira
-show-in-navigation: true
 published: true
-navigation-order: 2
 polaroid: niina-katsoo-riksua
+eleventyNavigation:
+  key: Valmentaja Niina Piira
+  order: 2
 ---
 
 
@@ -13,7 +13,7 @@ polaroid: niina-katsoo-riksua
 
 Minä olen Niina Piira, ratkaisukeskeinen neuropsykiatrinen valmentaja, laillistettu sosiaalialan ammattilainen ja ratkaisukeskeisen terapian opiskelija. Olen myös yhden lapsen äiti sekä mieheni puoliso.
 
-Olen koulutuksiltani ratkaisukeskeinen neuropsykiatrinen valmentaja, sosionomi AMK, yrittäjä sekä nuorison- ja vapaa-ajanohjaaja. Työkokemusta minulla on laajasti 20-vuotiselta sosiaalialan uralta. 
+Olen koulutuksiltani ratkaisukeskeinen neuropsykiatrinen valmentaja, sosionomi AMK, yrittäjä sekä nuorison- ja vapaa-ajanohjaaja. Työkokemusta minulla on laajasti 20-vuotiselta sosiaalialan uralta.
 
 Olen työskennellyt nepsy-henkilöiden kanssa 15-vuotta mm. koulunuorisotyössä, nuorisotyössä, koulun iltapäivätoiminnassa, leirityössä, Keskuspuiston ammatiopistossa, lastensuojeluyksiköissä, ennaltaehkäisevän lastensuojelun tukihenkilötoiminnassa, Setlementti Tampereen Omavoima-työmuodossa sekä valmennusyrityksessäni yksilö- ja ryhmävalmentajana, perhevalmentajana, vanhempainkurssien ohjaajana, kouluttajana sekä konsulttina.
 

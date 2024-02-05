@@ -1,9 +1,10 @@
 ---
 page-title: Tukea valmentajille
 page-type: normal
-navigation-order: 2
-show-in-navigation: true
 published: true
+eleventyNavigation:
+  key: Sinulle
+  order: 2
 ---
 
 

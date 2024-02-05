@@ -29,7 +29,7 @@ body-class-name: post
   </h1>
 
   <span class="post-date">
-    {% include post-date.html block=site.posts.first %}
+    {% include 'post-date.html' block=site.posts.first %}
   </span>
 
   <p>
@@ -42,6 +42,6 @@ body-class-name: post
 
 </div>
 
-{% include previous-posts.html %}
+{% include 'previous-posts.html' %}
 
-{% include writer.html %}
+{% include 'writer.html' %}

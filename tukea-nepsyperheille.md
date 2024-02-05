@@ -1,10 +1,11 @@
 ---
 page-title: Tukea nepsyperheille
 page-type: normal
-navigation-order: 4
-show-in-navigation: true
 published: true
 polaroid: kaksi-pehmonallea
+eleventyNavigation:
+  key: Tukea nepsyperheille
+  order: 4
 ---
 
 Nepparin valmentaja tukee myös vanhempia ja kokonaisia perheitä neurokirjon lasten ja nuorten asioissa. Jos kaipaat vanhempana tukea jaksamiseen, keinoja neurokirjon lapsen/nuoren kanssa toimiseen tai vahvistusta vanhemmuuteesi, on Vanhempien valmennus sinua varten. Jos kaipaatte koko perhe tukea esim. uuteen tilanteeseen lapsen saatua nepsy-diagnoosi tai perheessä myöhemmin ilmenneiden nepsy-haasteiden kanssa, on Perhevalmennus teitä varten. Lue tarkemmin molemmista palvelumuodoista alla:
@@ -44,13 +45,13 @@ DFG perustuu tutkittuun tietoon siitä mitä neurokirjon perheissä tarvitaan:
 
 Dialoginen perheohjaus toimii koko perhettä vahvistavana terapeuttisena perheinterventiona ja näin lisää perheiden myönteistä kokemusta saadusta sosiaalisesta tuesta. Dialoginen perheohjaus lisää kaikkien perheenjäsenten mahdollisuutta keskustella huolista kuulluksi tulemisen lisäksi.  Vanhemmat ovat oleet hyvin tyytyväisiä ja ovat kokeneet DFG-intervention voimaannuttavana ja tarpeellisena.
 
-DFG yhdistää tiedollisen psykoedukaation neurokirjosta, konkreettiset vinkit ja ideat arjen toimivuuden ja sujuvuuden parantamiseksi sekä emotionaalisen tuen kuulluksi tulemisen kautta kokonaisena perheenä ja jokainen yksilönä. 
+DFG yhdistää tiedollisen psykoedukaation neurokirjosta, konkreettiset vinkit ja ideat arjen toimivuuden ja sujuvuuden parantamiseksi sekä emotionaalisen tuen kuulluksi tulemisen kautta kokonaisena perheenä ja jokainen yksilönä.
 
 Lisätietoa interventiosta ja sen kehittäjästä:
 - Diana Cavonius-Rintahakan [väitöskirja perheohjauksesta](https://trepo.tuni.fi/handle/10024/140266)
 - [Samaisen väitöstilaisuuden kuvaus](https://www.tuni.fi/fi/ajankohtaista/diana-cavonius-rintahaka-dialoginen-perheohjaus-auttaa-neuropsykiatrisesti), joka sisältää paljon tiivistetysti tietoa perheohjauksesta
 - [Dianan haastattelu aiheesta](https://www.parempaalastensuojelua.fi/fi/uutinen/tieteessa-diana-cavonius-rintahaka) Parempaa lastensuojelua -mediassa
-- Dianan tutkimustietoa [Autismin kirjon Käypä hoito suosituksessa](https://www.kaypahoito.fi/nix03142) 
+- Dianan tutkimustietoa [Autismin kirjon Käypä hoito suosituksessa](https://www.kaypahoito.fi/nix03142)
 
 > Jos haluat kuulla lisää tai varata aikaa, niin ota yhteyttä [sähköpostilla](/ota-yhteytta).
 

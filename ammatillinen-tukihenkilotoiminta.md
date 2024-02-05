@@ -1,11 +1,12 @@
 ---
 page-title: Ammatillinen tukihenkilötoiminta
 page-type: normal
-navigation-order: 10
-show-in-navigation: true
 published: false
 link-title: Tukihenkilötoiminta
 polaroid: niina-ja-riksu-ikkunalaudalla
+eleventyNavigation:
+  key: Ammatillinen tukihenkilötoiminta
+  order: 10
 ---
 
 
@@ -25,7 +26,7 @@ Tukihenkilötoiminnassa valmentaja toimii tukena ollen läsnä, toimimalla malli
 
 Ammatillisen tukihenkilötoiminnan kautta tarjoutuu mahdollisuus saada uusia kokemuksia ja onnistumisen iloa erilaisten toimintojen kautta.
 
-Ammatillisessa tukihenkilötoiminnassa voidaan toimia tuettavan kotona, harrastuksissa, työssä tai vapaa-ajanviettopaikoissa. Yhdessä voidaan esimerkiksi kokkailla, harrastaa, keskustella tai vaikka hoitaa asioita. 
+Ammatillisessa tukihenkilötoiminnassa voidaan toimia tuettavan kotona, harrastuksissa, työssä tai vapaa-ajanviettopaikoissa. Yhdessä voidaan esimerkiksi kokkailla, harrastaa, keskustella tai vaikka hoitaa asioita.
 
 Tukihenkilötoiminnassa voidaan myös harjoitella uusia taitoja.
 

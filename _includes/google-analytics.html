@@ -1,20 +1,19 @@
-{% comment %}
-    UA-61294226-1 = Google Analytics
-    AW-881328558 = Google Ads
-{% endcomment %}
-
-{% if jekyll.environment == "production" %}
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-61294226-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-61294226-1');
-        gtag('config', 'AW-881328558');
-        {% if page.google-ads-conversion-event %}
-            gtag('event', 'conversion', {'send_to': '{{ page.google-ads-conversion-event }}'});
-        {% endif %}
-    </script>
+{% comment %} UA-61294226-1 = Google Analytics AW-881328558 = Google Ads {%
+endcomment %} {% if jekyll.environment == "production" %}
+<script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=UA-61294226-1"
+></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-61294226-1');
+    gtag('config', 'AW-881328558');
+    {% if google-ads-conversion-event %}
+        gtag('event', 'conversion', {'send_to': '{{ google-ads-conversion-event }}'});
+    {% endif %}
+</script>
 {% else %}
-    <!-- Google Tag Manager is disabled in this build, because jekyll.environment == {{ jekyll.environment }} -->
+<!-- Google Tag Manager is disabled in this build, because jekyll.environment == {{ jekyll.environment }} -->
 {% endif %}

@@ -9,11 +9,11 @@
   <!-- For Google Webmaster Tools -->
   <meta name="google-site-verification" content="qOSeFlPhgdaRFpjqGsDITaEoSDXdaCKtxUq2YaDa_IY" />
 
-  <title>{% include title.html %}</title>
+  <title>{% include 'title.html' %}</title>
 
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ site.siteurl }}/css/styles.css">
-  {% if page.page-type == "form" %}
+  <link rel="stylesheet" href="/css/styles.css">
+  {% if page-type == "form" %}
     <link rel="stylesheet" href="{{ site.siteurl }}/css/forms.css">
   {% endif %}
 
@@ -26,5 +26,5 @@
   <!-- RSS -->
   <!-- <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml"> -->
 
-  {% include open-graph-meta.html %}
+  {% include 'open-graph-meta.html' %}
 </head>

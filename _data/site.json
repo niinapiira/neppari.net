@@ -1,0 +1,89 @@
+{
+  "pre-title": "Valmennuskeskus",
+  "title": "Neppari",
+  "long-title": "Valmennuskeskus Neppari",
+  "tagline": "Neuropsykiatrista valmennusta Tampereella ja Pirkanmaalla",
+  "description": "Neppari on neuropsykiatrisen valmennuksen paikka, jossa tarjotaan tukea henkilöille joilla on esimerkiksi ADHD, ADD, Asperger, Tourette tai lievä autismi.",
+  "tagline-short": "Neuropsykiatrista valmennusta Pirkanmaalla",
+  "siteurl": "https://www.neppari.net",
+  "ry-text": "Niina Piira on Neuropsykiatriset valmentajat ry:n rekisteröity jäsen sekä hallituksen jäsen.",
+  "ry-link": "Katso valmennuksen yleisesite yhdistyksen sivuilta klikkaamalla tästä.",
+  "absence-notification": false,
+  "permalink": "/blogi/:title/",
+  "plugins": ["jekyll-sitemap"],
+  "blog": {
+    "title": "Nepparin napsahduksia",
+    "tagline": "Valmentajan välähdyksiä voimaantumisesta",
+    "baseurl": "/blogi/",
+    "description": "Blogissani käsittelen rakentavasti ja ratkaisukeskeisesti yksilön hyvinvointia, ihmisyyttä sekä sosiaalialaa niiden tukipilarina. Vaikka maailma on jo aika hieno paikka elää, on aina varaa parantaa.\n"
+  },
+  "writer": {
+    "name": "Niina Piira",
+    "title-1": "Neuropsykiatrinen ratkaisukeskeinen valmentaja",
+    "title-2": "Sosionomi (AMK)",
+    "fb-profile": "https://www.facebook.com/niina.piira.98",
+    "bio": "Olen sosiaalialan ammattilainen, joka on yrittänyt tehdä maailmasta paremman jo 20 vuoden ajan. En pelkää haasteita enkä haastavia tilanteita. Vapaa-ajalla minut löytää yleensä koiran, perheeni tai ystävien seurasta.\n"
+  },
+  "defaults": [
+    {
+      "scope": {
+        "path": "",
+        "type": "pages"
+      },
+      "values": {
+        "layout": "page"
+      }
+    },
+    {
+      "scope": {
+        "path": "blogi.md"
+      },
+      "values": {
+        "layout": "blog-frontpage"
+      }
+    },
+    {
+      "scope": {
+        "path": "",
+        "type": "posts"
+      },
+      "values": {
+        "layout": "post"
+      }
+    }
+  ],
+  "contact": {
+    "name": "Niina Piira",
+    "address": {
+      "sidebar-version": "Tampere, Pirkanmaa",
+      "guide-version": "Tampere, Pirkanmaa",
+      "street-address": "33710, Tampere",
+      "city": "Tampere",
+      "post-number": "33710",
+      "region": "Pirkanmaa",
+      "country": "Finland"
+    },
+    "location": {
+      "latitude": "61.495848",
+      "longitude": "23.790657"
+    },
+    "phone": {
+      "finnish": "040 934 9954",
+      "international": "+358409349954"
+    },
+    "email": {
+      "normal": "niina@neppari.net"
+    },
+    "cv-page": "/niina",
+    "page": "/ota-yhteytta",
+    "fb-profile": "https://www.facebook.com/valmennuskeskus.neppari",
+    "twitter-profile": "https://twitter.com/NiinaPiira"
+  },
+  "version": "2.1.0",
+  "github": {
+    "repo": "https://github.com/poole/hyde"
+  },
+  "sass": {
+    "sass_dir": "css"
+  }
+}

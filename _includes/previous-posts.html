@@ -1,19 +1,15 @@
 {% if site.posts.size > 1 %}
-  <h3 class="previous-posts-header related-posts-header">Aiemmat kirjoitukset</h3>
-  <ul class="previous-posts related-posts">
-    {% for post in site.posts %}
-      {% if post != site.posts.first %}
-        <li>
-          <h3>
+<h3 class="previous-posts-header related-posts-header">Aiemmat kirjoitukset</h3>
+<ul class="previous-posts related-posts">
+    {% for post in site.posts %} {% if post != site.posts.first %}
+    <li>
+        <h3>
             <a href="{{ post.url }}">
-              {{ post.page-title }}
-              <small>
-              {% include post-date.html block=post %}
-              </small>
+                {{ post.page-title }}
+                <small> {% include 'post-date.html' block=post %} </small>
             </a>
-          </h3>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
+        </h3>
+    </li>
+    {% endif %} {% endfor %}
+</ul>
 {% endif %}

@@ -1,4 +1,4 @@
 # Startup command:
 # bundle exec jekyll serve --config _config.yml,_config_local.yml
 
-siteurl:          http://localhost:4000
+siteurl: http://localhost:8000

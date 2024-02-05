@@ -3,23 +3,56 @@
   https://simplesharingbuttons.com/
 -->
 
-{% capture share-title %}{% include title.html %}{% endcapture %}
-{% assign share-title = share-title | url_encode %}
-{% assign share-url = site.siteurl | append:page.url | url_encode %}
-{% assign email-body = "Tämä oli oikein mielenkiintoinen blogipostaus" | url_encode %}
+{% capture share-title %}{% include 'title.html' %}{% endcapture %} {% assign
+share-title = share-title | url_encode %} {% assign share-url = site.siteurl |
+append:page.url | url_encode %} {% assign email-body = "Tämä oli oikein
+mielenkiintoinen blogipostaus" | url_encode %}
 
 <div class="share-buttons">
+    Jaa tämä sivu:
 
-	Jaa tämä sivu:
+    <a
+        href="https://www.facebook.com/sharer/sharer.php?u={{ share-url }}"
+        title="Jaa Facebookissa"
+        target="_blank"
+        ><img
+            src="/public/simple-sharing-buttons/Facebook.png"
+            class="share-button"
+    /></a>
 
-	<a href="https://www.facebook.com/sharer/sharer.php?u={{ share-url }}" title="Jaa Facebookissa" target="_blank"><img src="/public/simple-sharing-buttons/Facebook.png" class="share-button"></a>
+    <a
+        href="https://twitter.com/intent/tweet?source={{ share-url }}&text={{ share-title }}:%20{{ share-url }}&via=NiinaPiira"
+        target="_blank"
+        title="Twiittaa Twitterissä"
+        ><img
+            src="/public/simple-sharing-buttons/Twitter.png"
+            class="share-button"
+    /></a>
 
-	<a href="https://twitter.com/intent/tweet?source={{ share-url }}&text={{ share-title }}:%20{{ share-url }}&via=NiinaPiira" target="_blank" title="Twiittaa Twitterissä"><img src="/public/simple-sharing-buttons/Twitter.png" class="share-button"></a>
+    <a
+        href="https://plus.google.com/share?url={{ share-url }}"
+        target="_blank"
+        title="Jaa Google+:ssa"
+        ><img
+            src="/public/simple-sharing-buttons/Google+.png"
+            class="share-button"
+    /></a>
 
-	<a href="https://plus.google.com/share?url={{ share-url }}" target="_blank" title="Jaa Google+:ssa"><img src="/public/simple-sharing-buttons/Google+.png" class="share-button"></a>
+    <a
+        href="http://pinterest.com/pin/create/button/?url={{ share-url }}&description={{ share-title }}"
+        target="_blank"
+        title="Pinnaa Pinterestissä"
+        ><img
+            src="/public/simple-sharing-buttons/Pinterest.png"
+            class="share-button"
+    /></a>
 
-	<a href="http://pinterest.com/pin/create/button/?url={{ share-url }}&description={{ share-title }}" target="_blank" title="Pinnaa Pinterestissä"><img src="/public/simple-sharing-buttons/Pinterest.png" class="share-button"></a>
-
-	<a href="mailto:?subject={{ share-title }}&body={{ email-body }}:%20{{ share-url }}" target="_blank" title="Lähetä tämä sivu sähköpostilla"><img src="/public/simple-sharing-buttons/Email.png" class="share-button"></a>
-
+    <a
+        href="mailto:?subject={{ share-title }}&body={{ email-body }}:%20{{ share-url }}"
+        target="_blank"
+        title="Lähetä tämä sivu sähköpostilla"
+        ><img
+            src="/public/simple-sharing-buttons/Email.png"
+            class="share-button"
+    /></a>
 </div>

@@ -1,8 +1,6 @@
 ---
 page-title: Pieni AD(H)D-infopaketti
 page-type: normal
-navigation-order: 99
-show-in-navigation: false
 published: true
 ---
 
@@ -60,7 +58,7 @@ ___
 
 ## Tutkimuksia ja tukitoimia?
 
-Voit hakeutua tutkimuksiin oman terveyskeskuksen, oppilashuollon tai ylioppilaiden terveydenhoitosäätiön kautta, jossa arvioidaan tutkimuksen ja hoidon tarve. 
+Voit hakeutua tutkimuksiin oman terveyskeskuksen, oppilashuollon tai ylioppilaiden terveydenhoitosäätiön kautta, jossa arvioidaan tutkimuksen ja hoidon tarve.
 
 Aikuisilla diagnoosin tekee ensisijaisesti psykiatrian erikoislääkäri tai opiskelu- ja terveydenhuollon lääkäri, joka tarvittaessa konsultoi adhd:hen perehtynyttä lääkäriä. Myös jotkut neurologian erikoislääkärit ovat perehtyneet adhd-diagnostiikkaan. Myös yksityisellä puolella tehdään adhd-diagnostiikkaa, mutta siellä hyvää diagnostista käytäntöä noudatetaan aika kirjavasti.
 
@@ -95,7 +93,7 @@ Koska kaikilla ihmisillä AD(H)D-piirteet eivät aiheuta vakavia vaikeuksia elä
 
 Ammattiapu ei ole aina tarpeen, vaan hyvät ihmissuhteet, avoimuus, vertaistuki sekä armollisuus ja realismi itseään kohtaan voivat riittää siihen, että hyväksyy itsensä ja rajansa ja pystyy luovimaan elämässään haasteidensa kanssa. Tilanteen ymmärrys myös koulussa ja työssä on tärkeää, jotta siellä osataan huomioida erityistarpeet. Tärkeintä on muistaa, että jokainen meistä on yksilö, eikä kaikkien tarvitse kulkea samanlaista elämänpolkua.
 
-Jos piirteet ovat kuitenkin niin vahvoja tai häiritseviä, että ne vaikeuttavat huomattavasti opintoja, työelämää, ystävyyssuhteita, parisuhdetta, perhe-elämää, vanhemmuutta, jaksamista tai vaikka taloudenhoitoa, voi olla hyvä keskustella asiasta ammattilaisen kanssa ja hakeutua esimerkiksi [neuropsykiatriseen valmennukseen](/valmennus). 
+Jos piirteet ovat kuitenkin niin vahvoja tai häiritseviä, että ne vaikeuttavat huomattavasti opintoja, työelämää, ystävyyssuhteita, parisuhdetta, perhe-elämää, vanhemmuutta, jaksamista tai vaikka taloudenhoitoa, voi olla hyvä keskustella asiasta ammattilaisen kanssa ja hakeutua esimerkiksi [neuropsykiatriseen valmennukseen](/valmennus).
 
 > Hyvänä ohjenuorana tuen tarpeesta voi pitää ajatusta siitä, että elämä on kaikille haastavaa, mutta pelkkää seuraavaan päivään selviytymistä sen ei pitäisi olla!
 
@@ -143,6 +141,6 @@ Jos asut muualla kuin Pirkanmaalla, ota yhteyttä [ADHD-liittoon](http://www.adh
 
 
 
-_Lähteinä käytetty mm. 
-Käypä hoito - sivustoa sekä 
+_Lähteinä käytetty mm.
+Käypä hoito - sivustoa sekä
 Verraton-lehden 3/2020 artikkelia "Hyvin tehty adhd-diagnoosi on kaikkien etu", Mika Määttä, psykiatrian erikoislääkäri_

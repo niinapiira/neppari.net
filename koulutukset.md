@@ -1,10 +1,11 @@
 ---
 page-title: Koulutukset
 page-type: normal
-navigation-order: 9
-show-in-navigation: true
 published: true
 polaroid: konsultointi-ja-koulutus
+eleventyNavigation:
+  key: Koulutukset
+  order: 9
 ---
 
 
@@ -47,7 +48,7 @@ Tämän hetkisiä nepsy-koulutuspakettejani ovat mm.:
 
 Paketteja voi tilata joko erikseen tai kokoamalla niistä sopivan kokonaisuuden. Hinta sovitaan erikseen ja se koostuu mm. koulutuksen kestosta, matkakustannuksista, materiaaleista sekä mahdollisesta arvonlisäverosta.
 
-> Nepparin tilat eivät sovi suuriin ryhmätapaamisiin, joten niihiin varataan erikseen sopiva tila. 
+> Nepparin tilat eivät sovi suuriin ryhmätapaamisiin, joten niihiin varataan erikseen sopiva tila.
 
 > Jos tarvitset tämän tyyppistä nepsy-koulutusta, kysy ihmeessä minulta lisätietoja ja hinta-arviota [sähköpostilla](/ota-yhteytta).
 

@@ -1,10 +1,11 @@
 ---
 page-title: Nepsy-valmennus
 page-type: normal
-navigation-order: 3
-show-in-navigation: true
 published: true
 polaroid: valmennus
+eleventyNavigation:
+  key: Nepsy-valmennus
+  order: 3
 ---
 
 
@@ -29,7 +30,7 @@ Nepsy-valmennus pitää sisällään mm. tukikeskusteluita, harjoituksia, kotite
 
 Valmennus voidaan toteuttaa Nepparin toimitiloissa, julkisissa paikoissa kuten kahviloissa, sekä valmennettavan kotona, koulussa, työpaikalla tai harrastuspaikoissa. Valmentaja voi jalkautua myös asiointiavuksi esimerkiksi virastoihin tai kauppoihin sekä tueksi vaikka lääkärin vastaanotolle. Nepparin neuropsykiatrista valmennusta voi saada myös etänä. Kts. lisää alempana.
 
-Nepsy-valmennus on hyvin kokonaisvaltainen tukimuoto, joka kattaa koko elämän kirjon. Valmennuksessa huomioidaan aina henkilön muutkin tukiverkostot, kuten perhe, sosiaalityö, asumisen ja työllistymisen tuki, lääkäri, yms. 
+Nepsy-valmennus on hyvin kokonaisvaltainen tukimuoto, joka kattaa koko elämän kirjon. Valmennuksessa huomioidaan aina henkilön muutkin tukiverkostot, kuten perhe, sosiaalityö, asumisen ja työllistymisen tuki, lääkäri, yms.
 
 Valmennus täydentää hyvin muita tukipalveluita kuten asumisen tukea, ammatillista kuntoutusta tai vaikkapa terapioita.
 
@@ -85,7 +86,7 @@ Tukihenkilötoiminnassa valmentaja toimii tukena ollen läsnä, toimimalla malli
 
 Ammatillisen tukihenkilötoiminnan kautta tarjoutuu mahdollisuus saada uusia kokemuksia ja onnistumisen iloa erilaisten toimintojen kautta.
 
-Ammatillisessa tukihenkilötoiminnassa voidaan toimia tuettavan kotona, harrastuksissa, työssä tai vapaa-ajanviettopaikoissa. Yhdessä voidaan esimerkiksi kokkailla, harrastaa, keskustella tai vaikka hoitaa asioita. 
+Ammatillisessa tukihenkilötoiminnassa voidaan toimia tuettavan kotona, harrastuksissa, työssä tai vapaa-ajanviettopaikoissa. Yhdessä voidaan esimerkiksi kokkailla, harrastaa, keskustella tai vaikka hoitaa asioita.
 
 Tukihenkilötoiminnassa voidaan myös harjoitella uusia taitoja.
 

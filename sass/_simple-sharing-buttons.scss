@@ -8,6 +8,6 @@ $share-img-height: 32px;
 .share-button {
 	display: inline-block;
 	margin: 0;
-	margin-left: $share-img-height / 10;
+	margin-left: calc($share-img-height / 10);
 	margin-bottom: calc((#{$share-img-height} - 1em) / -2)
 }

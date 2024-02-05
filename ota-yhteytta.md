@@ -2,11 +2,11 @@
 forms: true
 "page-title": Ota yhteyttä
 "page-type": form
-"navigation-order": 90
-"show-in-navigation": true
 published: true
-"link-title": ""
 polaroid: ""
+eleventyNavigation:
+  key: Ota yhteyttä
+  order: 90
 ---
 
 
@@ -136,6 +136,3 @@ Johtuen viime aikojen kasvaneesta yhteydenottojen määrästä, vastaan uusiin y
         </a></li>
     </ul>
 </div>
-
-
-

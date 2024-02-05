@@ -1,51 +1,55 @@
 <div class="sidebar">
-
-  <div class="container sidebar-sticky-top">
-    <div class="sidebar-about">
-      <p class="pre-title">
-        {{ site.pre-title }}
-      </p>
-      <h1>
-        <a href="{{ site.siteurl }}">
-          {{ site.title }}
-        </a>
-      </h1>
-      <p class="tagline">
-        {{ site.tagline-short }}
-      </p>
-      <p class="faded">
-        <!--
+    <div class="sidebar-sticky-top container">
+        <div class="sidebar-about">
+            <p class="pre-title">{{ site.pre-title }}</p>
+            <h1>
+                <a href="{{ site.siteurl }}"> {{ site.title }} </a>
+            </h1>
+            <p class="tagline">{{ site.tagline-short }}</p>
+            <p class="faded">
+                <!--
           <i class="icon-smile"></i> <a href="{{ site.contact.cv-page }}">{{ site.contact.name }}</a><br/>
         -->
-        <i class="icon-address"></i> <a href="/reittiohjeet">{{ site.contact.address.sidebar-version }}</a><br/>
-        <i class="icon-phone"></i>
-          <span class="non-clickable-phone-number">{{ site.contact.phone.finnish }}</span>
-          <a href="tel:{{ site.contact.phone.international }}" class="clickable-phone-number" style="display: none">
-            {{ site.contact.phone.finnish }}</a><br/>
-        <i class="icon-email"></i> <a href="{{ site.contact.page }}">{{ site.contact.email.normal }}</a><br/>
-        <i class="icon-facebook"></i> <a href="{{ site.contact.fb-profile }}" target="_new">Facebookissa</a>
-      </p>
+                <i class="icon-address"></i>
+                <a href="/reittiohjeet"
+                    >{{ site.contact.address.sidebar-version }}</a
+                ><br />
+                <i class="icon-phone"></i>
+                <span class="non-clickable-phone-number"
+                    >{{ site.contact.phone.finnish }}</span
+                >
+                <a
+                    href="tel:{{ site.contact.phone.international }}"
+                    class="clickable-phone-number"
+                    style="display: none"
+                >
+                    {{ site.contact.phone.finnish }}</a
+                ><br />
+                <i class="icon-email"></i>
+                <a href="{{ site.contact.page }}"
+                    >{{ site.contact.email.normal }}</a
+                ><br />
+                <i class="icon-facebook"></i>
+                <a href="{{ site.contact.fb-profile }}" target="_new"
+                    >Facebookissa</a
+                >
+            </p>
+        </div>
     </div>
-  </div>
 
-  <div class="container sidebar-sticky">
-    <nav class="sidebar-nav">
-      {% assign pages_list = (site.pages | sort: 'navigation-order') %}
-      {% for node in pages_list %}
-        {% if node.show-in-navigation == true %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">
-            {% if node.is-new == true %}
-              <span class="new">Uutta:</span>
-            {% endif %}
-            {% if node.link-title and node.link-title != empty %}
-              {{ node.link-title }}
-            {% else %}
-              {{ node.page-title }}
-            {% endif %}
-          </a>
-        {% endif %}
-      {% endfor %}
-    </nav>
-  </div>
-
+    <div class="sidebar-sticky container">
+        <nav class="sidebar-nav">
+            {% assign pages_list = collections.all | eleventyNavigation %} {%
+            for node in pages_list %}
+            <a
+                class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}"
+                href="{{ node.url }}"
+            >
+                {% if node.is-new == true %}
+                <span class="new">Uutta:</span>
+                {% endif %} {{ node.title }}
+            </a>
+            {% endfor %}
+        </nav>
+    </div>
 </div>
