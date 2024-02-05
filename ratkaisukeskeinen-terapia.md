@@ -2,7 +2,7 @@
 page-title: Ratkaisukeskeinen terapia
 page-type: normal
 published: true
-polaroid: niina-ja-riksu-ikkunalaudalla
+polaroid: niina-ja-riksu-ikkunalaudalla.wide
 eleventyNavigation:
   key: Ratkaisukeskeinen terapia
   order: 5

@@ -2,6 +2,7 @@
 page-title: Tukea valmentajille
 page-type: normal
 published: true
+polaroid: sinulle.wide
 eleventyNavigation:
   key: Sinulle
   order: 2

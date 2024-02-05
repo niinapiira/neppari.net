@@ -1,19 +1,12 @@
-{% assign polaroid_slug = page.fileSlug | replace:'.md','.jpg' %} {% if polaroid
-and polaroid != empty %} {% assign polaroid_slug = polaroid | append:'.jpg' %}
-{% endif %} {% assign polaroid_image_path = polaroid_slug |
-prepend:'/public/polaroid/' %} {% assign polaroid_image_path2 =
-polaroid_image_path | replace:'.jpg','.wide.jpg' %} {% for static_file in
-site.static_files %} {% assign random = forloop.index0 | modulo:6 %} {% if
-static_file.path == polaroid_image_path %} {% assign polaroid_image_to_show =
-polaroid_image_path %} {% assign number_class = random | prepend:'polaroid-' %}
-{% assign header_class = "accommondate-polaroid" %} {% endif %} {% if
-static_file.path == polaroid_image_path2 %} {% assign polaroid_image_to_show =
-polaroid_image_path2 %} {% assign extra_class = "extra-wide" %} {% assign
-number_class = random | prepend:'polaroid-' %} {% assign header_class =
-"accommondate-wide-polaroid" %} {% endif %} {% endfor %} {% if
-polaroid_image_to_show %}
+{% if polaroid and polaroid != empty %}
+{% assign polaroid_image_path = polaroid | append:'.jpg' | prepend:'/public/polaroid/' %}
+{% assign random = "now" | date: "%N" | modulo: 6 %}
+{% assign number_class = random | prepend:'polaroid-' %}
+{% if polaroid_image_path contains "wide" %}
+    {% assign extra_class = "extra-wide" %}
+{% endif %}
 <img
-    src="{{ polaroid_image_to_show }}"
+    src="{{ polaroid_image_path }}"
     class="polaroid {{ number_class }} {{ extra_class }}"
 />
 {% endif %}

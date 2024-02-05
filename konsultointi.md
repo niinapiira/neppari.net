@@ -2,7 +2,7 @@
 page-title: Konsultointi
 page-type: normal
 published: true
-polaroid: etavalmennus
+polaroid: etavalmennus.wide
 eleventyNavigation:
   key: Konsultointi
   order: 8

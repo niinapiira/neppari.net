@@ -1,24 +1,26 @@
-{% capture address %}
-{{ site.contact.address.street-address }},
- {{ site.contact.address.post-number }} {{ site.contact.address.city }},
- {{ site.contact.address.country }}
-{% endcapture %}
-{% assign address = address | strip_newlines | cgi_escape %}
+{% capture address %} {{ site.contact.address.street-address }}, {{
+site.contact.address.post-number }} {{ site.contact.address.city }}, {{
+site.contact.address.country }} {% endcapture %} {% assign address = address |
+strip_newlines %}
 
 <ul>
-	<li class="android-navigation">
-		<a href="intent://geo:0,0?mode=w&q={{ address }}#Intent;scheme=google.navigation;package=com.google.android.apps.maps;end">
-			Navigoi perille Google Maps -sovelluksen avulla
-		</a>
-	</li>
-	<li class="ios-navigation">
-		<a href="https://maps.apple.com/?dirflg=w&t=m&daddr={{ address }}">
-			Navigoi perille Apple Maps -sovelluksen avulla
-		</a>
-	</li>
-	<li class="web-navigation">
-		<a href="https://maps.google.com?saddr=Current+Location&dirflg=w&daddr={{ address }}">
-			Navigoi perille Google Maps -webbisivun avulla
-		</a>
-	</li>
+    <li class="android-navigation">
+        <a
+            href="intent://geo:0,0?mode=w&q={{ address }}#Intent;scheme=google.navigation;package=com.google.android.apps.maps;end"
+        >
+            Navigoi perille Google Maps -sovelluksen avulla
+        </a>
+    </li>
+    <li class="ios-navigation">
+        <a href="https://maps.apple.com/?dirflg=w&t=m&daddr={{ address }}">
+            Navigoi perille Apple Maps -sovelluksen avulla
+        </a>
+    </li>
+    <li class="web-navigation">
+        <a
+            href="https://maps.google.com?saddr=Current+Location&dirflg=w&daddr={{ address }}"
+        >
+            Navigoi perille Google Maps -webbisivun avulla
+        </a>
+    </li>
 </ul>
