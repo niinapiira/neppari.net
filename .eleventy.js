@@ -28,6 +28,17 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("js");
   eleventyConfig.addPassthroughCopy("public");
   eleventyConfig.addPassthroughCopy("tiedostot");
+  eleventyConfig.addPassthroughCopy("uploaded-images");
+
+  // Collections
+  eleventyConfig.addCollection("posts", function (collectionAPI) {
+    const arr = collectionAPI
+      .getFilteredByGlob("./blogi/*.md")
+      .sort(function (a, b) {
+        return b.date - a.date;
+      });
+    return arr;
+  });
 
   return {
     dir: {

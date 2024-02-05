@@ -1,5 +1,10 @@
-{% assign m = include.block.date | date: "%-m" %}
-{{ include.block.date | date: "%-d" }}.
+{% assign paivays = page.date %}
+{% if first_post and first_post != empty %}
+  {% assign paivays = first_post.date %}
+{% endif %}
+
+{% assign m = paivays | date: "%-m" %}
+{{ paivays | date: "%-d" }}.
 {% case m %}
   {% when '1' %}tammikuuta
   {% when '2' %}helmikuuta
@@ -14,4 +19,4 @@
   {% when '11' %}marraskuuta
   {% when '12' %}joulukuuta
 {% endcase %}
-{{ include.block.date | date: "%Y" }}
+{{ paivays | date: "%Y" }}

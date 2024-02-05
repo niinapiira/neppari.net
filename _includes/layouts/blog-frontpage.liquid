@@ -4,6 +4,8 @@ is-part-of-blog: true
 sidebar: false
 headerbar: true
 body-class-name: post
+eleventyImport:
+  collections: ["post"]
 ---
 
 <img src="{{ site.siteurl }}/public/blog-frontpage.jpg"
@@ -23,13 +25,14 @@ body-class-name: post
 
 <h3>Uusin napsahdus Nepparin blogissa:</h3>
 <div class="post">
+    {% assign first_post = collections.posts | first %}
 
   <h1 class="post-title">
-    <a href="{{ site.posts.first.url }}">{{ site.posts.first.page-title }}</a>
+    <a href="{{ first_post.url }}">{{ first_post.data.page-title }}</a>
   </h1>
 
   <span class="post-date">
-    {% include 'post-date.html' block=site.posts.first %}
+    {% include 'post-date.html' block=first_post %}
   </span>
 
   <p>
