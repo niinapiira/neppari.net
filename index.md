@@ -67,7 +67,7 @@ ___
 Neppari toteuttaa yhteistyössä Ahjolan kanssa maksuttoman neurokirjon nuorten vertaisryhmän. 
 
 Vertaisryhmän kokoontuminen on kerran kuukaudessa lauantaisin klo 14-17.
-Syksyn ja alkutalven tapaamispäivät ovat lauantaisin 19.8., 16.9., (21.10. siirtyy-->) 28.10., 18.11. ja 16.12. klo 14-17. 🙂 
+Alkukevään tapaamispäivät ovat lauantaisin 20.1., 17.2. ja 16.3. 🙂 
 
 Tapaamispaikkana toimii Ahjolan tyttöjen ja poikien tupa osoitteessa Pispalan Valtatie 45.
 
