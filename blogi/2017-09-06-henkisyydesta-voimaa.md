@@ -1,5 +1,6 @@
 ---
 published: false
+page-title: Henkisyydestä voimaa
 ---
 Moni nykyajan ihminen pohtii länsimaisen, maallistuneen elämän tiimellyksessäkin henkisiä asioita. Moni kaipaa hektisen ja pinnallisen elämän vastapainoksi rauhoittumista, itsensä kohtaamista ja kuuntelua, yhteyden löytämistä luontoon sekä vastauksia kysymyksiin elämän tarkoituksesta tai ihmisyyden syvimmästä olemuksesta. Joillekin henkisyyttä tarjoaa uskonto ja uskonnollinen yhteisö, joillekin oma sisäinen maailma ja kokemus henkisyydestä. Usko ja henkisyys ovat tärkeitä puolia ihmisyydessämme ja hienoja asioita ottaa elämässään huomioon.
 
