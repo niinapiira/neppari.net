@@ -4,6 +4,7 @@
   "description": "Neppari.net website",
   "main": "index.js",
   "dependencies": {
+    "eleventy-plugin-related": "^1.0.6",
     "hds-core": "^2.9.0",
     "hds-design-tokens": "^2.9.0"
   },

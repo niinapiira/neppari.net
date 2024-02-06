@@ -4,6 +4,9 @@ is-part-of-blog: true
 sidebar: false
 headerbar: true
 body-class-name: post
+eleventyComputed:
+    post:
+        title: "{{ page-title }}"
 ---
 
 <div class="post">
@@ -15,4 +18,29 @@ body-class-name: post
     <p class="first">' }} {% include 'simple-sharing-buttons.html' %}</p>
 </div>
 
-{% include 'writer.html' %} {% include 'related-posts.html' %}
+{% include 'writer.html' %} {% assign related_posts = post | add_content:
+content | relatedPosts: collections['posts'] %}
+
+<h3 class="related-posts-header">Lisää luettavaa</h3>
+<ul class="related-posts">
+    {% for related_post in related_posts %}
+    <li>
+        <h3>
+            <a href="{{ related_post.url }}">
+                {{ related_post.title }}
+                <small> {{ related_post.date | nice_fi_date }} </small>
+            </a>
+        </h3>
+    </li>
+    {% endfor %}
+    <li>
+        <h3><a href="{{ site.blog.baseurl }}"> Blogin etusivulle </a></h3>
+    </li>
+    <li>
+        <h3>
+            <a href="{{ site.siteurl }}">
+                Valmennuskeskus Nepparin kotisivuille
+            </a>
+        </h3>
+    </li>
+</ul>
