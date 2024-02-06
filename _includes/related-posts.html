@@ -5,7 +5,7 @@
         <h3>
             <a href="{{ post.url }}">
                 {{ post.page-title }}
-                <small> {% include 'post-date.html' block=post %} </small>
+                <small> {{ post.date | nice_fi_date }} </small>
             </a>
         </h3>
     </li>

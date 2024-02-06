@@ -1,5 +1,20 @@
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
+const months = [
+  "tammikuuta",
+  "helmikuuta",
+  "maaliskuuta",
+  "huhtikuuta",
+  "toukokuuta",
+  "kesäkuuta",
+  "heinäkuuta",
+  "elokuuta",
+  "syyskuuta",
+  "lokakuuta",
+  "marraskuuta",
+  "joulukuuta",
+];
+
 module.exports = function (eleventyConfig) {
   // Plugins
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
@@ -9,14 +24,18 @@ module.exports = function (eleventyConfig) {
     return JSON.stringify(data, null, "<br>");
   });
 
+  eleventyConfig.addFilter("nice_fi_date", (d) => {
+    return `${d.getDate()}. ${months[d.getMonth()]} ${d.getFullYear()}`;
+  });
+
   // Layouts
   eleventyConfig.addLayoutAlias(
     "blog-frontpage",
-    "layouts/blog-frontpage.liquid",
+    "layouts/blog-frontpage.html",
   );
-  eleventyConfig.addLayoutAlias("default", "layouts/default.liquid");
-  eleventyConfig.addLayoutAlias("page", "layouts/page.liquid");
-  eleventyConfig.addLayoutAlias("post", "layouts/post.liquid");
+  eleventyConfig.addLayoutAlias("default", "layouts/default.html");
+  eleventyConfig.addLayoutAlias("page", "layouts/page.html");
+  eleventyConfig.addLayoutAlias("post", "layouts/post.html");
 
   // SASS watching
   eleventyConfig.setBrowserSyncConfig({
