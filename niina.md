@@ -22,6 +22,7 @@ Olen opiskellut myös mm. seuraavia aiheita:
 - Tunnetaidot ja sosiaalisen toimintakyvyn kuntoutusta (mm. Art, Friends, Sotoku)
 - NLP
 - Positiivinen psykologia
+- Motivoiva haastattelu
 - Avekki, haastava käytöstä sekä puhejudo
 - Toimiva ja voimauttava vuorovaikutusta
 - Mindfulness ja meditaatio sekä jooga
