@@ -24,15 +24,16 @@ Olen opiskellut myös mm. seuraavia aiheita:
 - Positiivinen psykologia
 - Motivoiva haastattelu
 - Avekki, haastava käytöstä sekä puhejudo
-- Toimiva ja voimauttava vuorovaikutusta
+- Toimiva ja voimauttava vuorovaikutus
 - Mindfulness ja meditaatio sekä jooga
 - Psykologia ja eri psykoterapiasuuntaukset sekä menetelmiä niistä
-- Aivotutkimus (neurologiaa) sekä neuropsykologia
-- Mielenterveystieto
+- Aivotutkimus (neurologia) sekä neuropsykologia
+- Mielenterveystieto, psykiatria
 - Hahmottamisen häiriöt sekä erilainen oppiminen
 - DFG eli dialoginen perheohjaus -interventiomalli neurokirjon lasten perheille
 - Strategia vanhempainohjausmalli ADHD-lasten vanhemmille
 - Hevari ryhmänohjausmalli henkilökeskeiseen voimavaravalmennukseen
+- Neurodiversiteettiä kunnioittava kuntoutus neurokirjolla
 
 Kokemukseni on kertynyt erityisesti nuorten ja aikuisten nepsy-henkilöiden kanssa työskentelystä, mutta autan erittäin mielelläni nykyään myös lapsiperheitä, pariskuntia ja esimerkiksi työtiimejä.
 
