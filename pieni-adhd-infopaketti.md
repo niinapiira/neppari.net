@@ -17,9 +17,11 @@ ___
 
 AD(H)D-piirteet voivat ilmetä hyvin monella tavalla ja jokainen AD(H)D-piirteitä omaava henkilö eroaa toisistaan aivan kuten jokainen meistä.
 
-AD(H)D ei aiheuta ainoastaan ongelmia, vaan aivojen toiminnan erilaisuus saa aikaan myös vahvuuksia, joillaisia ilman AD(H)D:ta ei välttämättä olisi. Esimerkiksi monet yrittäjät ja kilpaurheilijat ovat hyötyneet ADHD-piirteiden tuomista vahvuuksista.
+AD(H)D:n arvellaan olevan ihmiskunnalle niin hyödyllinen aivorakenne, että se on siksi kulkeutunut evoluutiossa geeneissämme vahvasti. AD(H)D on siis ennen kaikkea vahvuus oikeassa ympäristössä ja oikein kohdattuna. Nyky-yhteiskuntamme on vain muodostunut erittäin vaativaksi aivoillemme, joten herkimmät yksilöt reagoivat ensimmäisinä ja vahvimmin. Neurokirjon ihmiset ovat erittäin herkkiä havaitsemaan ja aistimaan asioita, joten neurokirjolla olevat kärsivät myös usein eniten nykyisestä aivoergonomiaa haastavasta elämäntyylistämme.
 
-Tässä joitain piirteitä, jotka voivat viitata siihen, että henkilöllä voisi olla AD(H)D:
+AD(H)D ei siis aiheuta ainoastaan ongelmia, vaan aivojen toiminnan erilaisuus saa aikaan myös vahvuuksia, joillaisia ilman AD(H)D:ta ei välttämättä olisi. Esimerkiksi monet yrittäjät ja kilpaurheilijat ovat hyötyneet ADHD-piirteiden tuomista vahvuuksista.
+
+Tässä joitain viitteitä, jotka voivat kertoa siitä, että henkilöllä voisi olla AD(H)D:
 
 * vaikeus keskittyä ja toisaalta välillä niin vahva keskittyminen, että ajantaju katoaa
 * vaikeus seurata keskustelua, ohjeita ja tehtäviä
@@ -37,7 +39,7 @@ ___
 ## Voiko sinullakin olla AD(H)D?
 
 On tärkeää ymmärtää, että AD(H)D:ta on huomattu olevan montaa eri "lajia".
-Tämä johtuu siitä, että ADHD ei ole varsinainen sairaus, joka olisi aina selkeästi rajattavissa, vaan se ilmenee jokaisella yksilöllisesti. Yksilöllisyyteen vaikuttaa mm. henkilön elinympäristöt, ihmissuhteet, persoonallisuus sekä kognitiiviset kyvyt.
+Tämä johtuu siitä, että ADHD ei ole varsinainen sairaus, joka olisi selkeästi rajattavissa, vaan se on yksilöllinen aivorakenne sekä taipumus toimia tietyin tavoin. Yksilöllisyyteen vaikuttaa aivorakenteiden lisäksi mm. henkilön elinympäristöt, ihmissuhteet, persoonallisuus, kognitiiviset kyvyt, ikä ja elintavat.
 
 Yksilöllisistä eroavaisuuksista johtuen jokainen kokee ja törmää aivojen aiheuttamiin haasteisiin eri tavoin. Oleellista siis ei ole se, onko itsellä kaikki piirteet tai vastaavatko kuvaukset täysin itseä, vaan se:
 
@@ -60,7 +62,7 @@ ___
 
 ## Tutkimuksia ja tukitoimia?
 
-Voit hakeutua tutkimuksiin oman terveyskeskuksen, oppilashuollon tai ylioppilaiden terveydenhoitosäätiön kautta, jossa arvioidaan tutkimuksen ja hoidon tarve. 
+Voit hakeutua tutkimuksiin oman terveyskeskuksen, työterveyden, oppilashuollon tai ylioppilaiden terveydenhoitosäätiön kautta, jossa arvioidaan tutkimuksen ja hoidon tarve. 
 
 Aikuisilla diagnoosin tekee ensisijaisesti psykiatrian erikoislääkäri tai opiskelu- ja terveydenhuollon lääkäri, joka tarvittaessa konsultoi adhd:hen perehtynyttä lääkäriä. Myös jotkut neurologian erikoislääkärit ovat perehtyneet adhd-diagnostiikkaan. Myös yksityisellä puolella tehdään adhd-diagnostiikkaa, mutta siellä hyvää diagnostista käytäntöä noudatetaan aika kirjavasti.
 
@@ -110,6 +112,8 @@ Valmennuksen toimivuus perustuu mm. siihen, että siinä huomioidaan sinun eläm
 Valmentaja on ammattilainen muutoksen ja motivaation ohjaamisessa. Päätät siis itse valmennuksessa, mihin pystyt ja mihin ryhdyt. Valmentaja valmentaa sinua järjestämään itse elämäsi niin, että se sujuu.
 
 Valmentaja toimii tukenasi auttaen sinua pääsemään tavoitteisiisi ja auttaen sinua ymmärtämään aivojesi toimintaa. Näin saat oman toimintasi ja elämäsi mahdollisimman hyvin hallintaasi.
+
+> Kaiken tuen ja kuntoutuksen suurin tavoite ja lähtökohta on kuitenkin aina se, että sinä olet arvokas ja tärkeä juuri sellaisena kuin olet, eikä sinun tarvitse muuttua ihmisenä toisenlaiseksi. Saat kehittyä ja vahvistaa taitojasi niiltä osin, kuin itse toivot ja haluat, ei siksi, että ulkopuoliset tahot tai normit niin toivoisivat. Usein ympäristö onkin se, joka kaipaa muutosta, jotta sinä pystyt elämään sinun näköistä elämääsi. Neurodiversiteetti eli erilaisuuden kirjo on arvokas piirre ihmisyydessä, emmekä me kehity ja selviydy ihmiskuntana ilman sitä. Sinä olet siis täydellinen omana itsenäsi! Jos kaipaat tukea (niin kuin jokainen meistä tarvitsee laumaeläimenä), niin se ei kerro heikkoudesta tai virheellisyydestä, vaan siitä, että kaikilla meillä on lahjakkuutemme sekä kirouksemme. <3
 
 ___
 
