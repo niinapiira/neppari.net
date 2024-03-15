@@ -115,7 +115,7 @@ ___
 
 ## Miten valmennukseen on varaa?
 
-Jos olet 16-29-vuotias diagnosoitu neurokirjon nuori, voit saada Kelan ilmaista nepsy-valmennusta.
+Jos olet 16-29-vuotias diagnosoitu neurokirjon nuori, voit saada Kelan ilmaista OmaVäylä nepsy-valmennusta.
 
 Muuhun neuropsykiatriseen valmennukseen ei voi vielä tällä hetkellä saada KELA:lta varsinaista tukea, mutta voit käyttää Kelasta saamaasi eläkettä, hoitotukea ja kuntoutustukea valmennuksen kustannuksiin. Joihinkin näistä tuista voi myös hakea korotusta sillä perusteella, että käy itse kustantamana valmennuksessa ja siitä koituu kuluja.
 
@@ -125,21 +125,21 @@ ___
 
 ## Näin pääset käytännössä valmennukseen:
 
-Ota yhteyttä johonkin lähelläsi toimivaan neuropsykiatriseen valmentajaan ja keskustele tilanteestasi. Sinun kannattaa valita itsellesi sopivan valmentajan hänen pohjakoulutuksensa mukaan, jotta hänen perusosaamisensa vastaa sinun suurimpaan problematiikkaan. Nepparin valmentajalla on hyvin laaja osaaminen, joten voin auttaa sinua kaikenlaisten haasteiden kanssa.
+Ota yhteyttä johonkin lähelläsi toimivaan neuropsykiatriseen valmentajaan ja keskustele tilanteestasi. Sinun kannattaa valita itsellesi sopivan valmentajan hänen pohjakoulutuksensa mukaan, jotta hänen perusosaamisensa vastaa sinun suurimpaan problematiikkaan. Nepparin valmentajana minulla on hyvin laaja osaaminen sosiaalialan korkealla pohjakoulutuksella, joten voin auttaa sinua kaikenlaisten haasteiden kanssa. Huomioin valmennuksissani myös traumat sekä muut psyykkiset kuormat, sillä olen koulutukseltani myös ratkaisukeskeinen lyhytterapeutti.
 
-Voit myös puhua asiasta sosiaalityöntekijäsi, lääkärisi tai muun ammattilaisen kanssa.
+Voit myös puhua asiasta sosiaalityöntekijäsi, lääkärisi, kunnan kuntoutus- ja palveluohjaajan tai muun ammattilaisen kanssa.
 
-[Nepparin](/) valmennukseen pääsevät kaikki pirkanmaalaiset ja miksi ei kauempaakin kulkevat. Diagnoosia ei tarvita, vaan pelkkä tuen tarve riittää.
+[Nepparin](/) valmennukseen pääsevät kaikki halukkaat, sillä palvelen etänä myös kauempana asuvia. Diagnoosia ei tarvita, vaan pelkkä tuen tarve riittää. Ratkaisukeskeisessä valmennuksessa voidaan edetä aikuisten kanssa myös yksi tapaaminen kerrallaan, eikä sinun tarvitse sitoutua taloudellisesti tietynlaiseen prosessiin.
 
-Voit varata ajan valmennukseen joko [sähköpostitse](/ota-yhteytta), laittamalla [facebookin messengerviestin](https://www.facebook.com/valmennuskeskus.neppari/) tai tekstaamalla minulle numeroon 040-9349954. =)
+Voit varata ajan valmennukseen joko [sähköpostitse](/ota-yhteytta) tai tekstaamalla minulle numeroon 040-9349954. =)
 
 ___
 
 ## Vaikeaa? Ota yhteyttä – autan mielelläni!
 
-Jos olet pirkanmaalainen, voit laittaa minulle esimerkiksi [sähköpostia](/ota-yhteytta) ja kysyä tarkentavia kysymyksiä tuen mahdollisuuksista Tampereen seudulla. =)
+Jos kaipaat valmennusta, voit laittaa minulle esimerkiksi [sähköpostia](/ota-yhteytta) ja kysyä tarkentavia kysymyksiä. =) Muita valmentajia löydät [täältä](https://www.neuropsykiatrisetvalmentajat.fi/valmentajat/)
 
-Jos asut muualla kuin Pirkanmaalla, ota yhteyttä [ADHD-liittoon](http://www.adhd-liitto.fi/yhteystiedot/puhelinneuvonta) niin he neuvovat sinua eteenpäin. =)
+Jos haluat kartoittaa erilaisia tuen muotoja ja mahdollisuuksia, ota yhteyttä [ADHD-liittoon](http://www.adhd-liitto.fi/yhteystiedot/puhelinneuvonta) niin he neuvovat sinua eteenpäin. =)
 
 
 
