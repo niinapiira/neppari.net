@@ -67,21 +67,18 @@ ___
 Neppari toteuttaa yhteistyössä Ahjolan kanssa maksuttoman neurokirjon nuorten vertaisryhmän. 
 
 Vertaisryhmän kokoontuminen on kerran kuukaudessa lauantaisin klo 14-17.
-Alkukevään 2024 tapaamispäivät ovat lauantaisin 20.1., 17.2. ja 16.3. 🙂 
-Loput tapaamiskerrat tarkentuvat kunhan ryhmän rahoitus selviää helmikuussa.
+Kevään ja kesän 2024 tapaamispäivät ovat lauantaisin 20.1., 17.2., 16.3., 13.4., 18.5., 15.6. ja 13.7. 🙂 
 
 Tapaamispaikkana toimii Ahjolan tyttöjen ja poikien tupa osoitteessa Pispalan Valtatie 45.
 
 Jokaisen tapaamisen kesto on 3h/ tapaaminen, mutta paikalla saa olla sen ajan minkä haluaa.
 
-Ryhmä on avoin kaikille 13-18-v nuorille, jotka kokevat kuuluvansa neurokirjoon. Ilmoittaudu kuitenkin ennen ensimmäistä kertaasi.
+Ryhmä on avoin kaikille 13-18-v nuorille, jotka kokevat kuuluvansa neurokirjoon. Ilmoittaudu kuitenkin ennen ensimmäistä kertaasi, niin voin esitellä paikat ja itseni ennen ryhmän alkua.
 
 Ryhmä on maksuton.
 
 Ryhmätoiminta yhdistää vertaistuen ja toiminnallisuuden. 
 Nuoret suunnittelevat ohjaajan avulla yhteistä tekemistä kokoontumiskerroille (esim. harrastuskokeilut, kokkaus, käsityöt). 
-
-Ryhmän ohjaajaa on pyynnöstäsi mahdollista tavata rauhassa ennen toiminnan alkua.
 
 > Kysy lisää ja ilmoittaudu: [sähköpostilla](/ota-yhteytta) tai viestillä puh.0409349954.
 
