@@ -83,7 +83,11 @@ Nuoret suunnittelevat ohjaajan avulla yhteistä tekemistä kokoontumiskerroille 
 
 > Kysy lisää ja ilmoittaudu: [sähköpostilla](/ota-yhteytta) tai viestillä puh.0409349954.
 
-> Lue lisää ryhmästä [blogistani!](https://www.neppari.net/blogi/ammatillisesti-ohjattu-vertaistukiryhma-nuorille/) 
+> Lue lisää ryhmästä [blogistani!](https://www.neppari.net/blogi/ammatillisesti-ohjattu-vertaistukiryhma-nuorille/)
+
+[![Syksyn nepsy-ryhmän mainoskuva](/tiedostot/nepsy-ryhman-mainos-syksy-2024.png#group-ad)](/tiedostot/nepsy-ryhman-mainos-syksy-2024.pdf)
+
+Klikkaamalla kuvaa voit ladata mainoksen PDF-version.
 
 _”Ryhmä on tarkoitettu 13-18-vuotiaille nepsy-nuorille, jotta he saavat kokea vertaisuutta ja normaaliutta sekä toteuttaa itseään ja tutustua muihin nuoriin ja itseä kiinnostaviin asioihin neurokirjolle sopivalla tavalla._ 
 

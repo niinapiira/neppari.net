@@ -29,3 +29,8 @@ $a-n-horizontal-padding: ($a-n-horizontal-margin * -1) - $a-n-border-width;
 .mandatory {
 	color: $faded-accent-color;
 }
+
+img[src$='#group-ad'] {
+	max-width: 70%;
+	margin: auto;
+}
