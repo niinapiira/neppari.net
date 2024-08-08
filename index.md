@@ -89,7 +89,7 @@ Nuoret suunnittelevat ohjaajan avulla yhteistä tekemistä kokoontumiskerroille 
 
 Klikkaamalla kuvaa voit ladata mainoksen PDF-version.
 
-Lue lisää ryhmästä [blogistani!](https://www.neppari.net/blogi/ammatillisesti-ohjattu-vertaistukiryhma-nuorille/) 
+> Lue lisää ryhmästä [blogistani!](https://www.neppari.net/blogi/ammatillisesti-ohjattu-vertaistukiryhma-nuorille/) 
 
 ___
 
