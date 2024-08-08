@@ -38,7 +38,7 @@ ___
 
 Nepparissa on taas tilaa uusille asiakkaille, joten voit olla suoraan yhteydessä minuun tai puhua avun ja kuntoutuksen tarpeesta lääkärin, sosiaalityöntekijän tai muun ammattilaisen kanssa. Kunnan palvelu- ja kuntoutusohjaaja voi neuvoa myös sinua.
 
-Nepparin palvelut kustannetaan alkuun itse, ja jos koet, että yhteistyömme on hedelmällistä, voimme hakea alun jälkeen kunnalta maksusitoumusta. Maksusitoumukset ovat harkinnanvaraisia, joten varmuutta niiden saamiseen ei ole.
+Nepparin palvelut kustannetaan usein alkuun itse, ja jos koet, että yhteistyömme on hedelmällistä, voimme hakea alun jälkeen kunnalta maksusitoumusta. Maksusitoumukset ovat harkinnanvaraisia, joten varmuutta niiden saamiseen ei ole.
 
 Laita [sähköpostia](/ota-yhteytta), niin kerron lisää! =)
 
