@@ -30,7 +30,9 @@ Valmennusta on mahdollista saada myös etänä.
 
 ## Perhevalmennus
 
-Perhevalmennuksessa koko perhe on mukana prosessissa jollain tapaa, ensimmäisellä tapaamisella mukana on kuitenkin vain vanhemmat ja yhdessä sovitaan milloin, miten ja millä kokoonpanoilla tavataan (esim. jokaista lasta vuorollaan yksin tai vanhemmat/vanhempien kanssa, jotkut lapset yhdessä, koko perhe yhdessä...). Suositus on 6x90min tapaamista, mutta pituutta voidaan muokata perheen tarpeiden mukaan. Perhevalmennuksessa hyödynnetään sekä neuropsykiatrista valmennusta että ratkaisukeskeistä- ja perheterapiaa. Nepparin perhevalmennus perustuu pitkään kokemukseen sekä Dialogiseen perheohjaukseen DFG, joka on kehitetty tutkitun tiedon pohjalta.
+Perhevalmennuksessa koko perhe on mukana prosessissa jollain tapaa, ensimmäisellä tapaamisella mukana on kuitenkin vain vanhemmat ja yhdessä sovitaan milloin, miten ja millä kokoonpanoilla tavataan (esim. jokaista lasta vuorollaan yksin tai vanhemmat/vanhempien kanssa, jotkut lapset yhdessä, koko perhe yhdessä...).
+
+Perhevalmennuksessa hyödynnetään sekä neuropsykiatrista valmennusta että ratkaisukeskeistä- ja perheterapiaa. Nepparin perhevalmennus perustuu pitkään kokemukseen sekä Dialogiseen perheohjaukseen DFG, joka on kehitetty tutkitun tiedon pohjalta.
 
 Dialoginen perheohjaus auttaa neuropsykiatrisesti oireilevien lasten perheitä kokonaisvaltaisesti.DFG perheohjaus tuo neuropsykiatrisesti oireilevien lasten perheille tukea vanhemmuuteen, sisaruuteen ja parisuhteeseen sekä auttaa vanhempia selviytymään arjessa aiempaa paremmin neuropsykiatrisesti oireilevan lapsensa kanssa.
 
