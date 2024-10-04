@@ -19,6 +19,7 @@ Olen työskennellyt nepsy-henkilöiden kanssa 20-vuotta mm. koulunuorisotyössä
 
 Olen opiskellut myös mm. seuraavia aiheita:
 - Ratkaisukeskeinen terapia (opinnot loppuvaiheessa)
+- Mentalisaatioteoriaa
 - Tunnetaidot ja sosiaalisen toimintakyvyn kuntoutusta (mm. Art, Friends, Sotoku)
 - NLP
 - Positiivinen psykologia
@@ -32,6 +33,8 @@ Olen opiskellut myös mm. seuraavia aiheita:
 - Hahmottamisen häiriöt sekä erilainen oppiminen
 - DFG eli dialoginen perheohjaus -interventiomalli neurokirjon lasten perheille
 - Strategia vanhempainohjausmalli ADHD-lasten vanhemmille
+- Perhekoulu POP menetelmä
+- Muksuoppi
 - Hevari ryhmänohjausmalli henkilökeskeiseen voimavaravalmennukseen
 - Neurodiversiteettiä kunnioittava kuntoutus neurokirjolla
 
