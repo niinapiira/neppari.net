@@ -38,7 +38,7 @@ Olen opiskellut myös mm. seuraavia aiheita:
 - Hevari ryhmänohjausmalli henkilökeskeiseen voimavaravalmennukseen
 - Neurodiversiteettiä kunnioittava kuntoutus neurokirjolla
 
-Kokemukseni on kertynyt erityisesti nuorten ja aikuisten nepsy-henkilöiden kanssa työskentelystä, mutta autan erittäin mielelläni nykyään myös lapsiperheitä, pariskuntia ja esimerkiksi työtiimejä.
+Kokemukseni on kertynyt erityisesti nuorten ja aikuisten nepsy-henkilöiden kanssa työskentelystä, mutta olen opiskellut ja työskennellyt viime vuosina myös paljon lapsiperheiden ja pariskuntien kanssa.
 
 Minun tapani työskennellä on hyvin joustavaa ja asiakkaan erityistarpeita huomioivaa. Hyödynnän ihmistyössäni empaattisuuttani ja intuitiotani päästäkseni mahdollisimman hyvin asiakkaan kokemusmaailmaan sisään.
 
