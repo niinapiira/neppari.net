@@ -8,7 +8,7 @@ polaroid: niina-ja-riksu-ikkunalaudalla
 ---
 Ilman lähetettä tai diagnooseja terapiaan!
 
-Ratkaisukeskeinen terapia voi olla lyhytterapiaa tai pidempiaikainen terapia, johon on mahdollista päästä heti, jonottamatta. Näin ongelmiin voidaan tarttua välittömästi niiden ilmettyä eivätkä ne pääse kasvamaan liian suuriksi.
+> Ratkaisukeskeinen terapia voi olla lyhytterapiaa tai pidempiaikainen terapia, johon on mahdollista päästä heti, jonottamatta. Näin ongelmiin voidaan tarttua välittömästi niiden ilmettyä eivätkä ne pääse kasvamaan liian suuriksi.
 
 Ratkaisukeskeisyys merkitsee keskittymistä unelmiin, tavoitteisiin, voimavaroihin, edistykseen ja ratkaisuideoihin. Meidän ei kuitenkaan tarvitse välttää ongelmista keskustelemista, sillä ongelmat nähdään viittoina, jotka osoittavat kohti tavoitteita ja auttavat meitä pohtimaan sitä, mitä haluaa muuttaa tai saavuttaa. Jokainen ongelma pitää siis sisällään muutostoiveen, jota työstämme.
 
