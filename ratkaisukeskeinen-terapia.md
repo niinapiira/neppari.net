@@ -26,4 +26,14 @@ Ratkaisukeskeinen terapia on myös hyvin turvallinen tapa työskennellä, koska 
 
 Jos olet kiinnostunut ratkaisukeskeisestä lyhytterapiasta ota yhteyttä [sähköpostilla](/ota-yhteytta). 
 
-## Katso asiakaspalautteita etusivun alaosasta.
+## Asiakaspalautteita ratkaisukeskeisestä terapiasta:
+
+> "Koen hyötyväni terapiasta ja keinoista mitä se antaa itseni ymmärtämiseen, auttamiseen ja hyväksymiseen. Eikä vähiten ymmärtävän ja innokkaan terapeutin ansiosta."
+
+> "Paljon on tullut oivalluksia ja näkökulmia. Se on antanut toivoa siitä, että vaihtoehtoja ja ratkaisuja on olemassa. Suuri kiitos oivaltavalle terapeutille, joka on nähnyt minut ja ohjannut taitavasti oikeiden asioiden äärelle."
+
+> "Hyödyin terapiasta Todella paljon! Sain siitä todella paljon ja vahvistusta. Tulin täysin kuulluksi ja nähdyksi omana itsenäni, myös haasteittei osalta."
+
+> "Niina kohtasi minut ammattitaidolla, uteliaisuudella ja halulla auttaa ja ymmärtää. Harvoin kohtaa näin resonoivaa keskustelua."
+
+> "Niina osoitti ilmiömäistä ja upeaa kykyä toimiessaan terapeuttina, ammattitaitoista, laaja-alaisesti näkevää, terapeuttista lähestymistään, vastaanottavaisuutta ja ohjaavuutta!"
