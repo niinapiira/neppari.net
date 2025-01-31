@@ -36,7 +36,7 @@ ___
 
 ## Miten Nepparin apua saa?
 
-Nepparissa on taas tilaa uusille asiakkaille, joten voit olla suoraan yhteydessä minuun tai puhua avun ja kuntoutuksen tarpeesta lääkärin, sosiaalityöntekijän tai muun ammattilaisen kanssa. Kunnan palvelu- ja kuntoutusohjaaja voi neuvoa myös sinua.
+Nepparin asiakaspaikat ovat juuri nyt täynnä, mutta tilanne muuttuu usein nopeastikin, joten voit olla suoraan yhteydessä minuun tai puhua avun ja kuntoutuksen tarpeesta lääkärin, sosiaalityöntekijän tai muun ammattilaisen kanssa. Kunnan palvelu- ja kuntoutusohjaaja voi neuvoa myös sinua.
 
 Nepparin palvelut kustannetaan usein alkuun itse, ja jos koet, että yhteistyömme on hedelmällistä, voimme hakea alun jälkeen kunnalta maksusitoumusta. Maksusitoumukset ovat harkinnanvaraisia, joten varmuutta niiden saamiseen ei ole.
 
