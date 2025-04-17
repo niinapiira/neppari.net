@@ -7,67 +7,57 @@ published: true
 polaroid: "niina-katsoo-riksua"
 ---
 
-Nepparin toimisto sijaitsee Tampereen alueella. Tällä hetkellä olen päättänyt, etten julkaise tarkkaa postiosoitetta verkkosivuillani.
 
-Sovin kuitenkin aina asiakkaan kanssa yksilöllisesti, missä ja miten valmennus on helpointa ja parasta järjestää. Näin korona-aikana olen mm. tavannut asiakkaita usein kävelylenkkien yhteydessä, jolloin seuraan liittyy haluttaessa myös ihana Riksu-koira :)
-
-Jos tapaamisjärjestelyissä jokin mietityttää, voit kysyä minulta lisätietoja [sähköpostilla](/ota-yhteytta).
-
-<!--
-
-Nepparin toimisto sijaitsee Tampereella Kalevassa, hyvien liikenneyhteyksien päässä.
+Nepparin toimisto sijaitsee Tampereella keskustassa, lähellä pääkirjasto Metsoa, hyvien liikenneyhteyksien päässä.
 
 
 ## Oletko lähellä Nepparia, mutta et löydä perille?
 
 {% include navigation.html %}
 
+## Saapuminen paikallisliikenteellä
 
-## Saapuminen paikallisbussilla
+Nepparin luokse pääsee seuraavilla busseilla ja raitiovaunuilla; loppumatka kannattaa navigoida yllä olevien linkkien avulla!
 
-Nepparin luokse pääsee seuraavilla busseilla; loppumatka kannattaa navigoida yllä olevien linkkien avulla!
-
-{% include reittiopas.html text="Hae kätevin reitti perille Repa Reittioppaan avulla" %}
+[Hae kätevin reitti perille Repa Reittioppaan avulla]({{ site.contact.reittiopas }})
 
 <table>
 	<tr>
-		<th>Bussin numero</th>
+		<th>Bussin tai ratikan numero</th>
 		<th>Pysäkki</th>
 	</tr>
 	<tr>
-		<td>9, 13, 40</td>
-		<td>Tarkonpuisto</td>
+		<td>1</td>
+		<td>Tuulensuu A ja B</td>
 	</tr>
 	<tr>
-		<td>3, 17, 25, 47</td>
-		<td>Sampola tai Kalevan kirkko</td>
+		<td>2, 14, 28, 103</td>
+		<td>Hämeenpuisto</td>
 	</tr>
 	<tr>
-		<td>1, 8, 14, 20, 27, 28, 29, 90</td>
-		<td>Itsenäisyydenkatu 16</td>
+		<td>4, 7, 8A, 8B, 10, 20, 30, 70, 72A, 72B, 80, 80Y, 82</td>
+		<td>Metso ja Aleksanterin kirkko</td>
 	</tr>
 </table>
 
 ## Saapuminen autolla
 
-Nepparilla ei ole omaa parkkipaikkaa, mutta lähikaduilla (Oravanpolku, Nyyrikintie ja Kaskitie) on ilmaisia kadunvarsipaikkoja. Ne ovat virka-aikoihin aika suosittuja, mutta kyllä niillä aina tilaa on.
+Nepparilla ei ole omaa parkkipaikkaa. Auto on helpointa jättää pääkirjasto Metson parkkipaikoille, mistä on lyhyt kävelymatka.
 
 ## Saapuminen linja-autolla
 
-Tampereen linja-autoasema on Nepparilta 1,5 km päässä. Perille pääseminen on silti helppoa, sillä asemalta lähtee rinteeseen ylöspäin Kalevantie, joka vie melkein perille asti. Kävele sitä suoraan, ja noin kilometrin päästä, vasemmalla avautuvan urheilu-/luistelukentän jälkeen, käänny vasemmalle Salhojankadulle, ja heti sen jälkeen oikealle Oravanpolulle. Olet perillä.
+Tampereen linja-autoasema on Nepparilta 1,5 km päässä. Reitti ei valitettavasti ole kaikkein selvin, joten suosittelemme käyttämään tällä sivulla ylempänä olevia navigointilinkkejä perille pääsyn varmistamiseksi!
+
+Reitti: Kävele asemalta Koskikeskuksen ohi, kunnes tulet Hämeensillalle. Se on iso vanha kivisilta, joka kulkee Tammerkosken yli. Käänny vasemmalle, ylitä koski, ja kävele noin kilometrin verran, kunnes tulet isoon vasemmalle ja oikealle jatkuvaan puistoon. Se on Hämeenpuisto. Älä ylitä puistoa. Käänny tässä kohtaa oikealle, ja kävele kaksi korttelia pohjoiseen päin. Hämeenpuiston kulmauksessa on ravintola Tuulensuu. Nepparin toimisto on tuon rakennuksen sisäpihan toisella puolella.
 
 ## Saapuminen junalla
 
 Tampereen rautatieasema on Nepparilta 1 km päässä. Reitti ei valitettavasti ole kaikkein selvin, joten suosittelemme käyttämään tällä sivulla ylempänä olevia navigointilinkkejä perille pääsyn varmistamiseksi!
 
-Reitti: Rautatieasemalta suunnataan Itsenäisyydenkadulle, joka kävellään toiseen päähän asti, jossa on iso risteys ja massiivisen kokoinen Kalevan kirkko. Tästä risteyksestä käännytään oikealle Kalevan puistotielle. Noin 100 m päästä käännytään vasemmalle Salhojankadulle, ja taas noin 100 m päästä uudestaan vasemmalle Oravanpolulle.
+Reitti: Rautatieasemalta suunnataan Hämeenkadulle, joka on Tampereen pääkatu. Kävele noin kahden kilometrin verran, kunnes tulet isoon vasemmalle ja oikealle jatkuvaan puistoon. Se on Hämeenpuisto. Älä ylitä puistoa. Käänny tässä kohtaa oikealle, ja kävele kaksi korttelia pohjoiseen päin. Hämeenpuiston kulmauksessa on ravintola Tuulensuu. Nepparin toimisto on tuon rakennuksen sisäpihan toisella puolella.
+
 
 ## Osoite ja kartta
 
-{{ site.contact.address.street-address }},
-{{ site.contact.address.post-number }}
-{{ site.contact.address.city }}
-
-{% include kartta.html %}
-
--->
+{{ site.contact.address.guide-version }}
+{{ site.contact.google-maps-embed }}

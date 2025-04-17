@@ -1,6 +1,0 @@
-{% capture address %}
-{{ site.contact.address.street-address }}, {{ site.contact.address.city }}
-{% endcapture %}
-{% assign address = address | strip_newlines | escape %}
-
-[{{ include.text }}](http://reittiopas.tampere.fi/#to(address*{{ site.contact.address.guide-version }}))

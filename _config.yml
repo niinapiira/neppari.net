@@ -57,16 +57,19 @@ defaults:
 contact:
   name:              'Niina Piira'
   address:
-    sidebar-version: 'Tampere, Pirkanmaa'
-    guide-version:   'Tampere, Pirkanmaa'
-    street-address:  '33710, Tampere'
+    sidebar-version: 'Puutarhakatu 16 B, 5.krs, TRE'
+    guide-version:   'Puutarhakatu 16 B, 5. kerros, Tampere'
+    street-address:  'Puutarhakatu 16'
     city:            'Tampere'
-    post-number:     '33710'
+    post-number:     '33210'
     region:          'Pirkanmaa'
     country:         'Finland'
   location:
-    latitude:        '61.495848'
-    longitude:       '23.790657'
+    latitude:        '61.499045'
+    longitude:       '23.753037'
+  google-maps-route: 'https://maps.app.goo.gl/co71AXnN3C8ccYE27'
+  google-maps-embed: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d842.7539745833675!2d23.752650635629777!3d61.49870330840465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x468ed8af3c10ab4d%3A0x715adae124858cc3!2sPuutarhakatu%2016%2C%2033210%20Tampere!5e1!3m2!1sen!2sfi!4v1744900270625!5m2!1sen!2sfi" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+  reittiopas:        'https://reittiopas.tampere.fi/-/Puutarhakatu%2016%2C%20Tampere%3A%3A61.499045%2C23.753037'
   phone:
     finnish:         '040 934 9954'
     international:   '+358409349954'
