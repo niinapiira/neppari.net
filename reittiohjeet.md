@@ -10,6 +10,9 @@ polaroid: "niina-katsoo-riksua"
 
 Nepparin toimisto sijaitsee Tampereella keskustassa, lähellä pääkirjasto Metsoa, hyvien liikenneyhteyksien päässä.
 
+## Osoite
+
+{{ site.contact.address.guide-version }}
 
 ## Oletko lähellä Nepparia, mutta et löydä perille?
 

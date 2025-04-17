@@ -8,7 +8,7 @@ tagline-short:    'Neuropsykiatrista valmennusta Pirkanmaalla'
 siteurl:          https://www.neppari.net
 ry-text:          Niina Piira on Neuropsykiatriset valmentajat ry:n rekisteröity jäsen sekä hallituksen jäsen 2016–2022.
 ry-link:          Katso valmennuksen yleisesite yhdistyksen sivuilta klikkaamalla tästä.
-absence-notification:   false
+important-notification:   <b>Neppari on muuttanut! Uusi osoite on Puutarhakatu 16 B, 5. kerros, Tampere</b>
 permalink:        /blogi/:title/
 
 plugins:

@@ -4,10 +4,10 @@ sidebar: true
 headerbar: false
 ---
 
-{% if site.absence-notification %}
+{% if site.important-notification %}
   {% if page.page-type == "front-page" or page.page-type == "form" %}
-  	<div class="absence-notification">
-  		{{ site.absence-notification }}
+  	<div class="important-notification">
+  		{{ site.important-notification }}
   	</div>
   {% endif %}
 {% endif %}
@@ -27,10 +27,10 @@ headerbar: false
 
 </div>
 
-{% if site.absence-notification %}
+{% if site.important-notification %}
   {% if page.page-type != "front-page" and page.page-type != "form" %}
-  	<div class="absence-notification">
-  		{{ site.absence-notification }}
+  	<div class="important-notification">
+  		{{ site.important-notification }}
   	</div>
   {% endif %}
 {% endif %}
