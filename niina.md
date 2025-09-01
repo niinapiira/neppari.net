@@ -11,15 +11,15 @@ polaroid: niina-katsoo-riksua
 
 ## Valmentaja
 
-Minä olen Niina Piira, ratkaisukeskeinen neuropsykiatrinen valmentaja, laillistettu sosiaalialan ammattilainen ja ratkaisukeskeisen terapian opiskelija. Olen myös yhden lapsen äiti sekä mieheni puoliso.
+Minä olen Niina Piira, ratkaisukeskeinen neuropsykiatrinen valmentaja sekä terapeutti, ja laillistettu sosiaalialan ammattilainen. Olen myös yhden lapsen äiti sekä mieheni puoliso.
 
-Olen koulutuksiltani ratkaisukeskeinen neuropsykiatrinen valmentaja sekä lyhytterapeutti, sosionomi AMK, yrittäjä sekä nuorison- ja vapaa-ajanohjaaja. Työkokemusta minulla on laajasti 25-vuotiselta sosiaalialan uralta. 
+Olen koulutuksiltani ratkaisukeskeinen neuropsykiatrinen valmentaja sekä lyhytterapeutti, sosionomi AMK, yrittäjä sekä nuorison- ja vapaa-ajanohjaaja. Työkokemusta minulla on laajasti 25-vuotiselta sosiaalialan uralta. Tällä hetkellä työskentelen yritystyön ohella myös lastensuojelussa.
 
 Olen työskennellyt nepsy-henkilöiden kanssa 20-vuotta mm. koulunuorisotyössä, nuorisotyössä, koulun iltapäivätoiminnassa, leirityössä, Keskuspuiston ammatiopistossa (nykyinen Live), lastensuojeluyksiköissä, ennaltaehkäisevän lastensuojelun tukihenkilötoiminnassa, Setlementti Tampereen Omavoima-työmuodossa sekä valmennusyrityksessäni yksilö- ja ryhmävalmentajana, perhevalmentajana, vanhempainkurssien ohjaajana, kouluttajana sekä konsulttina.
 
 Olen opiskellut myös mm. seuraavia aiheita:
-- Ratkaisukeskeinen terapia (opinnot loppuvaiheessa)
-- Mentalisaatioteoriaa
+- Ratkaisukeskeinen terapia
+- Mentalisaatioteoria
 - Tunnetaidot ja sosiaalisen toimintakyvyn kuntoutusta (mm. Art, Friends, Sotoku)
 - NLP
 - Positiivinen psykologia
