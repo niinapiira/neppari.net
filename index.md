@@ -86,7 +86,7 @@ Nuoret suunnittelevat ohjaajan avulla yhteistä tekemistä kokoontumiskerroille 
 
 > Lue lisää ryhmästä [blogistani!](https://www.neppari.net/blogi/ammatillisesti-ohjattu-vertaistukiryhma-nuorille/)
 
-[![Syksyn nepsy-ryhmän mainoskuva](/tiedostot/nepsy-ryhman-mainos-kevat-2025.jpeg#group-ad)](/tiedostot/nepsy-ryhman-mainos-syksy-2024.pdf)
+[![Kevään 2026 nepsy-ryhmän mainoskuva](/tiedostot/nepsy-ryhman-mainos-kevat-2026.jpeg#group-ad)](/tiedostot/nepsy-ryhman-mainos-kevat-2026.pdf)
 
 Klikkaamalla kuvaa voit ladata mainoksen PDF-version.
 
