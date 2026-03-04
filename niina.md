@@ -24,7 +24,7 @@ Olen opiskellut myös mm. seuraavia aiheita:
 - NLP
 - Positiivinen psykologia
 - Motivoiva haastattelu
-- Avekki, haastava käytöstä sekä puhejudo
+- Avekki, haastava käytös sekä puhejudo
 - Toimiva ja voimauttava vuorovaikutus
 - Mindfulness ja meditaatio sekä jooga
 - Psykologia ja eri psykoterapiasuuntaukset sekä menetelmiä niistä
