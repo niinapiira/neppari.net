@@ -1,3 +1,6 @@
+@use "sass:color";
+@use "variables" as *;
+
 .page-title {
 	z-index: 50;
 	position: relative;
@@ -7,15 +10,16 @@
 .other-things {
 	margin-top: 4rem;
 	color: silver;
-	@extend .small;
-	@extend .fainted;
+	font-size: 0.8em;
+	a { color: $accent-color }
+	a:hover { color: color.adjust($accent-color, $lightness: -18%) }
 }
 
 $a-n-border-width: 0.5rem;
 $a-n-horizontal-margin: -1.5rem;
 $a-n-horizontal-padding: ($a-n-horizontal-margin * -1) - $a-n-border-width;
 .important-notification {
-	border: $a-n-border-width solid lighten($faded-accent-color, 8%);
+	border: $a-n-border-width solid color.adjust($faded-accent-color, $lightness: 8%);
 	padding: $a-n-horizontal-padding;
 	margin: 0 0 3rem 0;
 	position: relative;

@@ -1,6 +1,5 @@
-$accent-color: #F2CB52;
-$faded-accent-color: darken($accent-color, 28%);
-$text-color-on-accent: white;
+@use "sass:color";
+@use "variables" as *;
 
 .sidebar {
 	background-color: $accent-color;
@@ -12,12 +11,12 @@ $text-color-on-accent: white;
 }
 .content a,
 .related-posts li a:hover {
-  color: darken($accent-color, 18%);
+  color: color.adjust($accent-color, $lightness: -18%);
 }
 
 .fainted {
 	a { color: $accent-color }
-	a:hover { color: darken($accent-color, 18%) }
+	a:hover { color: color.adjust($accent-color, $lightness: -18%) }
 }
 
 .sidebar-about {
@@ -29,7 +28,7 @@ $text-color-on-accent: white;
 		margin: -0.35em 0 0.5rem 0.5rem;
 	}
 	.tagline {
-		@extend .small;
+		font-size: 0.8em;
 		margin: 0 0 1rem 0;
 	}
 }

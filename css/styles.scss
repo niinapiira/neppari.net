@@ -1,18 +1,17 @@
 ---
 ---
 
-$desktop-threshold: "(min-width: 48em) and (min-height: 530px)";
-
-@import "poole";
-@import "syntax";
-@import "hyde";
-@import "fonts";
-@import "icon-fonts";
-@import "typography";
-@import "theme";
-@import "blog";
-@import "images";
-@import "content";
-@import "navigation";
-@import "simple-sharing-buttons";
-@import "sidebar-adjustements";
+@use "variables";
+@use "poole";
+@use "syntax";
+@use "hyde";
+@use "fonts";
+@use "icon-fonts";
+@use "typography";
+@use "theme";
+@use "blog";
+@use "images";
+@use "content";
+@use "navigation";
+@use "simple-sharing-buttons";
+@use "sidebar-adjustements";

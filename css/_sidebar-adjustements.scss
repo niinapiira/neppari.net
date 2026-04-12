@@ -1,5 +1,7 @@
+@use "variables" as *;
+
 /*
-  $desktop-threshold in styles.scss is also related to these!
+  $desktop-threshold in _variables.scss is also related to these!
 */
 
 @media #{$desktop-threshold} {

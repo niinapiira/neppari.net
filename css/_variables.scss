@@ -1,0 +1,6 @@
+@use "sass:color";
+
+$desktop-threshold: "(min-width: 48em) and (min-height: 530px)";
+$accent-color: #F2CB52;
+$faded-accent-color: color.adjust($accent-color, $lightness: -28%);
+$text-color-on-accent: white;
