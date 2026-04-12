@@ -10,7 +10,7 @@ Static website for "Valmennuskeskus Neppari", a neuropsychiatric coaching and tr
 
 **Run locally with Docker (recommended):**
 ```bash
-docker build -t neppari . && docker run -it --rm --volume="$PWD":/usr/src/app -p 4000:4000 -p 35729:35729 --name neppari-run neppari
+docker build -t neppari . && docker rm -f neppari-run 2>/dev/null; docker run -it --rm --volume="$PWD":/usr/src/app -p 4000:4000 -p 35729:35729 --name neppari-run neppari
 ```
 
 **Run locally without Docker:**
@@ -24,8 +24,23 @@ Site is available at http://localhost:4000.
 
 **Regenerate Gemfile.lock after dependency changes:**
 ```bash
-docker run --rm -v "$PWD":/usr/src/app -w /usr/src/app ruby:2.7 bundle install
+docker run --rm -v "$PWD":/usr/src/app -w /usr/src/app ruby:3.3 bundle install
 ```
+
+## Ruby and Bundler Version Management
+
+When upgrading Ruby or Bundler, update all of these locations:
+
+| File | Field | Current value |
+|------|-------|---------------|
+| `netlify.toml` | `RUBY_VERSION` env var | `3.3.6` |
+| `Gemfile.lock` | `BUNDLED WITH` | `2.5.23` |
+| `Dockerfile` | `FROM` image | `ruby:3.3` |
+| `CLAUDE.md` | Gemfile.lock regen command | `ruby:3.3` |
+| `README.md` | Gemfile.lock regen command | `ruby:3.3` |
+| `.github/workflows/dependency-diff.yml` | `ruby-version` | `3.3` |
+
+Note: `netlify.toml` uses the full patch version (`3.3.6`); everywhere else uses the minor version (`3.3`).
 
 There is no test or lint setup.
 
