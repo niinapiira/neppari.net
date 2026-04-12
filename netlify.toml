@@ -1,6 +1,7 @@
 [build.environment]
   JEKYLL_ENV="development"
   RUBY_VERSION="3.3.6"
+  MISE_RUBY_COMPILE="false"
 
 [context.production.environment]
   JEKYLL_ENV="production"
