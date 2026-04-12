@@ -1,0 +1,71 @@
+name: Dependency build diff
+
+on:
+  pull_request:
+    paths:
+      - Gemfile
+      - Gemfile.lock
+
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '2.7'
+          bundler-cache: false
+
+      - name: Run build comparison
+        id: compare
+        run: |
+          chmod +x scripts/compare-builds.sh
+          {
+            echo 'result<<EOF_BUILD_DIFF'
+            ./scripts/compare-builds.sh "${{ github.event.pull_request.base.sha }}" "${{ github.sha }}"
+            echo 'EOF_BUILD_DIFF'
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Post PR comment
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const result = `${{ steps.compare.outputs.result }}`;
+            const body = [
+              '## Jekyll build diff',
+              '',
+              '```',
+              result,
+              '```',
+            ].join('\n');
+
+            const { data: comments } = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+            });
+
+            const existing = comments.find(c => c.body.startsWith('## Jekyll build diff'));
+
+            if (existing) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: existing.id,
+                body,
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body,
+              });
+            }
