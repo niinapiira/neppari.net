@@ -1,3 +1,6 @@
+@use "sass:math";
+@use "variables" as *;
+
 $avatar-width: 160px;
 $avatar-border-width: 8px;
 
@@ -22,7 +25,8 @@ $avatar-border-width: 8px;
 }
 
 .back-to-neppari {
-	@extend .header;
+	font-family: "Miso Regular", "Helvetica Neue", "Arial Light", "Arial", sans-serif;
+	line-height: 1.1em;
 	margin-top: 0;
 	padding: 0.2em 1em;
 
@@ -54,8 +58,10 @@ $avatar-border-width: 8px;
 	}
 
 	.tagline {
-		@extend .header;
-		@extend .h3;
+		font-family: "Miso Regular", "Helvetica Neue", "Arial Light", "Arial", sans-serif;
+		line-height: 1.1em;
+		margin-top: 1.5rem;
+		font-size: 1.25rem;
 	}
 }
 
@@ -97,7 +103,7 @@ p.first {
 		border: $avatar-border-width solid $accent-color;
 		width: $image-container-width;
 		height: $image-container-width;
-		border-radius: $image-container-width / 2;
+		border-radius: math.div($image-container-width, 2);
 	}
 
 	.image {
@@ -113,7 +119,7 @@ p.first {
 		padding-top: 2 * $avatar-border-width;
 		min-height: $image-container-width;
 
-		.name { @extend .h3; margin-top: 0; }
+		.name { margin-top: 0; font-size: 1.25rem; }
 		.title { font-size: 0.9em; margin-bottom: 0.5em; }
 		.bio { font-size: 0.8em; font-style: italic; }
 	}
