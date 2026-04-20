@@ -17,7 +17,6 @@ polaroid: niina-edesta
 
 
 
-
 *Painiskeletko sinä taikka läheisesi tai asiakkaasi AD(H)D:n, lievän autisminkirjon, Touretten, oppimisvaikeuksien tai aivovamman kanssa?*
 
 *Koetko että tarvitset tukea ja helpotusta jokapäiväiseen elämään tai työhön?*
