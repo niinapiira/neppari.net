@@ -1,5 +1,5 @@
 ---
-page-title: Ratkaisukeskeinen terapia
+page-title: Nepsy-terapia
 page-type: normal
 navigation-order: 5
 show-in-navigation: true
@@ -36,4 +36,4 @@ Jos olet kiinnostunut ratkaisukeskeisestä nepsy-terapiasta ota yhteyttä [sähk
 
 > "Niina kohtasi minut ammattitaidolla, uteliaisuudella ja halulla auttaa ja ymmärtää. Harvoin kohtaa näin resonoivaa keskustelua."
 
-> "Niina osoitti ilmiömäistä ja upeaa kykyä toimiessaan terapeuttina, ammattitaitoista, laaja-alaisesti näkevää, terapeuttista lähestymistään, vastaanottavaisuutta ja ohjaavuutta!" 
+> "Niina osoitti ilmiömäistä ja upeaa kykyä toimiessaan terapeuttina, ammattitaitoista, laaja-alaisesti näkevää, terapeuttista lähestymistään, vastaanottavaisuutta ja ohjaavuutta!"

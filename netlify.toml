@@ -39,3 +39,8 @@
   from = "/perheohjaus-dfg"
   to = "/tukea-nepsyperheille"
   status = 301
+
+[[redirects]]
+  from = "/ratkaisukeskeinen-terapia"
+  to = "/nepsy-terapia"
+  status = 301
