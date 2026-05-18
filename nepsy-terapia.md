@@ -28,6 +28,8 @@ Jos olet kiinnostunut ratkaisukeskeisestä nepsy-terapiasta ota yhteyttä [sähk
 
 ## Asiakaspalautteita ratkaisukeskeisestä terapiasta:
 
+> "Kaikista psykologeista ja terapeuteista tämä on paras tapaaminen missä olen käynyt!"
+
 > "Koen hyötyväni terapiasta ja keinoista mitä se antaa itseni ymmärtämiseen, auttamiseen ja hyväksymiseen. Eikä vähiten ymmärtävän ja innokkaan terapeutin ansiosta."
 
 > "Paljon on tullut oivalluksia ja näkökulmia. Se on antanut toivoa siitä, että vaihtoehtoja ja ratkaisuja on olemassa. Suuri kiitos oivaltavalle terapeutille, joka on nähnyt minut ja ohjannut taitavasti oikeiden asioiden äärelle."
