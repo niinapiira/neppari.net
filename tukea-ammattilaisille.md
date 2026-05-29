@@ -1,5 +1,5 @@
 ---
-page-title: Tukea valmentajille
+page-title: Tukea ammattilaisille
 page-type: normal
 navigation-order: 2
 show-in-navigation: true

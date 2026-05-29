@@ -44,3 +44,8 @@
   from = "/ratkaisukeskeinen-terapia"
   to = "/nepsy-terapia"
   status = 301
+
+[[redirects]]
+  from = "/sinulle"
+  to = "/tukea-ammattilaisille"
+  status = 301
